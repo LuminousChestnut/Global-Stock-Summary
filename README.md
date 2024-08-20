@@ -1,5 +1,5 @@
 # Global Stock Summary
-Chestnut _spydered_ the summary information of global finance market (include** 178 **markets). 
+Chestnut _spydered_ the summary information of global finance market (include **85** markets). 
 
 **The first row information is in "firstrow.txt"**
 Rank, Stock Code, Company Name, Exchange Name, Sector, Industry, Market Cap, P/E Ratio, PEG Ratio, Last Trade Price, Day Change(%).
