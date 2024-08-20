@@ -1,0 +1,677 @@
+1,SAPG,SAP,Xetra,Technology,Software & IT Services,€228.08B,89.3x,-1.83,€195.98,2%
+2,LIN,Linde PLC,Xetra,Basic Materials,Chemicals,€197.69B,34.3x,2.28,€414.60,1.3%
+3,SIEGn,Siemens AG,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€127B,15.8x,-1.64,€162.70,2.1%
+4,DTEGn,Deutsche Telekom AG,Xetra,Technology,Telecommunications Services,€123B,25x,-0.33,€25,0.2%
+5,ALVG,Allianz,Xetra,Financials,Insurance,€102.17B,11.4x,1.27,€263.50,1.7%
+6,BPEz,BP,Frankfurt,Energy,Oil & Gas,€83.57B,13x,-0.21,€5.08,1.6%
+7,MRCG,Merck,Xetra,Healthcare,Pharmaceuticals,€73.80B,28.1x,-1.86,€169.75,1.5%
+8,MUVGn,Munich Re Group,Xetra,Financials,Insurance,€60.26B,10.3x,0.32,€452.80,1.7%
+9,MBGn,Mercedes Benz Group,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,€57.52B,4.9x,-0.29,€59.59,2.3%
+10,SHLG,Siemens Healthineers,Xetra,Healthcare,Healthcare Equipment & Supplies,€57.42B,26.4x,1.76,€51.36,0.7%
+11,SHL1y,Siemens Healthineers ADR,Frankfurt,Healthcare,Healthcare Equipment & Supplies,€57.42B,29.9x,1.76,€25.20,0.8%
+12,BMWG_p,BMW Pref,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,€51.30B,4.9x,-1,€75.80,2%
+13,BMWG,BMW ST,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,€51.30B,4.9x,-1,€81.48,1.8%
+14,VOWG,Volkswagen ST,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,€50.53B,3.4x,0.14,€101.10,2.6%
+15,VOWG_p,Volkswagen VZO,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,€48.18B,3.3x,0.14,€94.68,2.2%
+16,IFXGn,Infineon,Xetra,Technology,Semiconductors & Semiconductor Equipment,€41.11B,19.5x,-0.59,€31.66,4.2%
+17,ADSGN,Adidas,Xetra,Consumer Cyclicals,Textiles & Apparel,€38.98B,163.1x,0.65,€218.40,0.5%
+18,BASFN,BASF,Xetra,Basic Materials,Chemicals,€37.63B,-958x,-9.7,€42.13,2.2%
+19,DB1Gn,Deutsche Boerse,Xetra,Financials,Investment Banking & Investment Services,€35.31B,19.6x,2.03,€192.35,1.9%
+20,EONGn,E.ON SE,Xetra,Utilities,Multiline Utilities,€31.35B,26.7x,1.05,€11.99,-0.3%
+21,HNKG,Henkel ST,Xetra,Basic Materials,Chemicals,€29.58B,16.6x,3.39,€70.55,-0.5%
+22,HNKG_p,Henkel VZO,Xetra,Basic Materials,Chemicals,€29.58B,16.6x,3.39,€78.10,-0.6%
+23,HNRGn,Hannover Rueckversicherung SE,Xetra,Financials,Insurance,€29.27B,14.4x,0.11,€242.60,2.6%
+24,VANAy,Advantest DRC,Frankfurt,Technology,Semiconductors & Semiconductor Equipment,€28.15B,59.7x,-2.23,€37.40,-1.6%
+25,BEIG,Beiersdorf AG,Xetra,Consumer Non-Cyclicals,Personal & Household Products & Services,€27.92B,38.3x,-3.13,€124.65,0.5%
+26,DBKGn,Deutsche Bank AG,Xetra,Financials,Banking Services,€26.91B,8.2x,-0.27,€13.81,3.2%
+27,DTGGe,Daimler Truck Holding,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€26.66B,,0.38,€33.95,1.2%
+28,HLAG,Hapag Lloyd AG,Xetra,Industrials,Freight & Logistics Services,€26.54B,34.9x,-0.22,€150.80,-1.1%
+29,BAYGN,Bayer,Xetra,Healthcare,Pharmaceuticals,€25.74B,-20.3x,0.11,€26.28,1.7%
+30,RHMG,Rheinmetall AG,Xetra,Industrials,Aerospace & Defense,€24.45B,46.2x,5.02,€563.20,0.9%
+31,RWEG,RWE AG ST,Xetra,Utilities,Multiline Utilities,€22.95B,6.6x,-0.64,€30.80,1.2%
+32,HEIG,Heidelberg Materials,Xetra,Basic Materials,Construction Materials,€20.44B,9.3x,3.53,€90.24,1.3%
+33,ENR1n,Siemens Energy AG,Xetra,Energy,Renewable Energy,€19.43B,36.7x,0.28,€25.20,1.4%
+34,TLXGn,Talanx AG,Xetra,Financials,Insurance,€18.97B,10.2x,0.1,€73.55,3.2%
+35,EBKG,Enbw Energie Baden Wuerttemberg,Xetra,Utilities,Electrical Utilities & IPPs,€17.98B,50.3x,,€67.20,3.7%
+36,FREG,Fresenius SE,Xetra,Healthcare,Healthcare Providers & Services,€17.83B,-16x,-0.12,€31.63,-0.1%
+37,SY1G,Symrise AG,Xetra,Basic Materials,Chemicals,€15.71B,40x,0.61,€112.45,0.5%
+38,CBKG,Commerzbank,Xetra,Financials,Banking Services,€15.07B,7.2x,0.18,€12.69,3.1%
+39,690D,Qingdao Haier,Xetra,Consumer Cyclicals,Household Goods,€14.52B,6.6x,0.79,€1.59,0.6%
+40,MTXGn,MTU Aero,Xetra,Industrials,Aerospace & Defense,€14.38B,-199.3x,1.67,€267.40,0.8%
+41,8TRA,Traton,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€13.50B,5.2x,0.1,€27.75,2.8%
+42,SATG_p,Sartorius AG VZO,Xetra,Healthcare,Healthcare Equipment & Supplies,€13.16B,168.7x,,€239,1.5%
+43,SRT4y,Sartorius DRC,Frankfurt,Healthcare,Healthcare Equipment & Supplies,€13.16B,168.7x,,€35.40,-2.7%
+44,SATG,Sartorius AG,Frankfurt,Healthcare,Healthcare Equipment & Supplies,€13.16B,168.7x,,€190.60,0.9%
+45,PSHG_p,Porsche,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,€11.96B,,,€39.78,1.8%
+46,CONG,Continental AG,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,€11.95B,14.6x,0.54,€59.50,1.7%
+47,KBX,Knorr-Bremse,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€11.64B,19.4x,1.04,€71.95,0.9%
+48,6657q,LG Electronics DRC,Frankfurt,Technology,"Computers, Phones & Household Electronics",€10.94B,,0.07,€14.30,1.4%
+49,NEKG,Nemetschek AG,Xetra,Technology,Software & IT Services,€10.37B,58.7x,2.32,€89.65,0.7%
+50,1COV,Covestro,Xetra,Basic Materials,Chemicals,€10.07B,-31x,-0.5,€53.70,0.9%
+51,FMEG,Fresenius Medical Care,Xetra,Healthcare,Healthcare Providers & Services,€9.98B,18.8x,-1.69,€34.01,-0.5%
+52,HLE,Hella KGaA Hueck & Co,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,€9.66B,29.5x,0.54,€87.10,0.4%
+53,QIA,Qiagen,Xetra,Healthcare,Biotechnology & Medical Research,€9.39B,141.4x,-1.77,€42.20,1%
+54,BNRGn,Brenntag AG,Xetra,Basic Materials,Chemicals,€9.17B,15.5x,-0.64,€63.46,0.4%
+55,EVKn,Evonik,Xetra,Basic Materials,Chemicals,€8.72B,-96.3x,-1.35,€18.75,2.2%
+56,DWNG,Deutsche Wohnen,Xetra,Real Estate,Real Estate Operations,€8.19B,-5.3x,-0.16,€20.40,0.5%
+57,HOTG,Hochtief AG,Xetra,Industrials,Construction & Engineering,€7.93B,11.4x,0.3,€105.40,0.6%
+58,EVDG,CTS Eventim AG,Xetra,Technology,Software & IT Services,€7.59B,25.3x,0.89,€79.05,1.2%
+59,O5G,Cpi Property,Xetra,Real Estate,Real Estate Operations,€7.01B,-7.7x,,€0.82,0%
+60,G1AG,GEA Group AG,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€6.88B,17.3x,-3.06,€40.86,0.5%
+61,DWSG,DWS Group,Xetra,Financials,Investment Banking & Investment Services,€6.81B,11.8x,1.38,€34.12,1.5%
+62,LHAG,Lufthansa,Xetra,Industrials,Passenger Transportation Services,€6.68B,6.7x,-0.16,€5.58,0.6%
+63,LFL0y,LATAM Airlines DRC,Frankfurt,Industrials,Passenger Transportation Services,€6.58B,12.2x,-0.13,€21.40,-2.7%
+64,LEGn,LEG Immobilien AG,Xetra,Real Estate,Real Estate Operations,€6.26B,-9.9x,,€83.96,-0.4%
+65,DHER,Delivery Hero,Xetra,Technology,Software & IT Services,€6.14B,-2.5x,-0.11,€21.55,-0.5%
+66,ZALG,Zalando SE,Xetra,Technology,Software & IT Services,€5.88B,39.3x,0.43,€22.95,2.4%
+67,AFXG,Carl Zeiss AG,Xetra,Healthcare,Healthcare Equipment & Supplies,€5.71B,28x,-0.83,€63.70,2.5%
+68,PUMG,Puma SE,Xetra,Consumer Cyclicals,Textiles & Apparel,€5.55B,21.2x,-1.07,€37.14,1.1%
+69,G24n,Scout24 AG,Xetra,Technology,Software & IT Services,€5.05B,29.5x,2.45,€69.05,0.2%
+70,BC8G,Bechtle AG,Xetra,Technology,Software & IT Services,€4.97B,19.1x,3.97,€39.60,0.8%
+71,EURA,Eurazeo,Frankfurt,Financials,Investment Banking & Investment Services,€4.96B,-63.6x,0.61,€68.70,0.4%
+72,1SXP,SCHOTT Pharma,Xetra,Healthcare,Healthcare Equipment & Supplies,€4.86B,36.9x,,€32,-0.9%
+73,FPEn,Fuchs Petrolub AG,Xetra,Basic Materials,Chemicals,€4.64B,14.2x,1.3,€32.20,1.3%
+74,FPE3_p,Fuchs Petrolub AG VZO Pref,Xetra,Basic Materials,Chemicals,€4.64B,17.5x,1.3,€39.68,1.9%
+75,KGX,Kion Group AG,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€4.60B,13.5x,0.53,€35.10,1.4%
+76,RRTL,RTL,Xetra,Consumer Cyclicals,Media & Publishing,€4.38B,10.9x,-0.4,€28.20,1.3%
+77,WCHG,Wacker Chemie,Xetra,Basic Materials,Chemicals,€4.28B,34.2x,-0.4,€85.12,1.4%
+78,FRAG,Fraport AG,Xetra,Industrials,Transport Infrastructure,€4.16B,9x,0.12,€44.98,0.5%
+79,HAGG,Hensoldt,Xetra,Industrials,Aerospace & Defense,€4.07B,74.8x,-1.94,€35.90,1.8%
+80,KRNG,Krones AG,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€3.78B,15.9x,2.73,€119.20,0.7%
+81,IOSn,IONOS SE,Frankfurt,Technology,Software & IT Services,€3.50B,25.3x,0.43,€26.95,6.5%
+82,GILG,DMG Mori Seiki,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€3.47B,40.4x,-0.58,€44.10,0.2%
+83,FIEG,Fielmann AG,Xetra,Consumer Cyclicals,Specialty Retailers,€3.44B,26.3x,1.31,€41,1.6%
+84,SAXG,Stroeer,Xetra,Consumer Cyclicals,Media & Publishing,€3.27B,30.3x,-5.14,€58.70,0.9%
+85,NDXG,Nordex SE,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€3.24B,-196.1x,-2,€13.77,-0.8%
+86,UTDI,United Internet AG,Xetra,Technology,Telecommunications Services,€3.13B,120.7x,-1.37,€18.07,0.1%
+87,SHA_p,Schaeffler Pref,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,€3.07B,10.2x,,€4.68,1.5%
+88,FNTGn,Freenet AG,Xetra,Technology,Telecommunications Services,€3.07B,13.7x,0.05,€25.52,0.1%
+89,SIXG,Sixt SE,Xetra,Industrials,Passenger Transportation Services,€2.92B,12.1x,-0.38,€61.90,0.4%
+90,SIXG_p,Sixt AG VZO,Xetra,Industrials,Passenger Transportation Services,€2.92B,12.1x,,€52.10,1%
+91,JUNG_p,Jungheinrich AG,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€2.87B,10.2x,,€28.20,0.1%
+92,TUI1n,Tui,Xetra,Consumer Cyclicals,Hotels & Entertainment Services,€2.86B,5.3x,0.02,€5.66,1%
+93,NAFG,Aurubis AG,Xetra,Basic Materials,Metals & Mining,€2.86B,7.6x,0.08,€65.35,1.6%
+94,RDC,Redcare Pharmacy NV,Xetra,Consumer Non-Cyclicals,Food & Drug Retailing,€2.80B,-292.5x,-3.73,€137.80,1.9%
+95,ECVG,Encavis,Xetra,Utilities,Electrical Utilities & IPPs,€2.75B,79.9x,-1.51,€17.02,0.1%
+96,BOSSn,Hugo Boss AG,Xetra,Consumer Cyclicals,Textiles & Apparel,€2.63B,11.7x,-1.96,€38.02,3.2%
+97,R3NK,RENK,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,€2.56B,81.6x,,€25.15,0.1%
+98,LECG,Lechwerke,Frankfurt,Utilities,Electrical Utilities & IPPs,€2.55B,18.6x,0.03,€72,1.4%
+99,TEGG,Tag Immobilien,Xetra,Real Estate,Real Estate Operations,€2.54B,-22.8x,0.01,€14.40,-0.5%
+100,T2GG,Tradegate Wertpapierhandelsbank,Frankfurt,Financials,Investment Banking & Investment Services,€2.51B,79.2x,-2.13,€103,0%
+101,T3PA,European Energy Exchange,Xetra,Financials,Investment Banking & Investment Services,€2.49B,,,€70.82,-0.5%
+102,SZUG,Suedzucker,Xetra,Consumer Non-Cyclicals,Food & Tobacco,€2.46B,5.3x,-4.29,€12,0.8%
+103,SYAB,Synlab AG,Xetra,Healthcare,Healthcare Providers & Services,€2.43B,27.6x,0.08,€11.06,0%
+104,1U1,11 AG,Xetra,Technology,Telecommunications Services,€2.30B,8.4x,-0.48,€13.02,0%
+105,BIONn,BB Biotech,Xetra,Healthcare,Biotechnology & Medical Research,€2.30B,9.4x,0.03,€41.85,1.7%
+106,NCH2,thyssenkrupp nucera,Xetra,Industrials,Construction & Engineering,€2.29B,210.5x,-2.92,€9.78,4.3%
+107,AT1,Aroundtown,Frankfurt,Real Estate,Real Estate Operations,€2.29B,-1.2x,0.01,€2.09,3%
+108,3N4,China Nonferrous Mining,Stuttgart,Basic Materials,Metals & Mining,€2.28B,8.7x,2.23,€0.58,2.6%
+109,WAFGn,Siltronic AG,Xetra,Technology,Semiconductors & Semiconductor Equipment,€2.25B,20.2x,-0.3,€75.25,2.6%
+110,AOFG,Atoss AG,Xetra,Technology,Software & IT Services,€2.20B,53.8x,0.93,€138.60,1.9%
+111,AIXGn,Aixtron,Xetra,Technology,Semiconductors & Semiconductor Equipment,€2.15B,17.3x,1.81,€19.09,4.7%
+112,KWSG,KWS SAAT AG,Xetra,Consumer Non-Cyclicals,Food & Tobacco,€2.14B,17.5x,-0.5,€65.40,0%
+113,MVVGn,MVV Energie AG,Xetra,Utilities,Electrical Utilities & IPPs,€2.11B,8.5x,-0.13,€32,4.6%
+114,DEQGn,Deutsche Euroshop AG,Xetra,Real Estate,Real Estate Operations,€2.07B,-64.4x,0.28,€27.40,4.2%
+115,SDFGn,K+S AG,Xetra,Basic Materials,Chemicals,€2.06B,455x,0.58,€11.34,0.2%
+116,VTSCn,Vitesco Technologies,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,€2.05B,82x,0.6,€52.30,2.1%
+117,LXSG,Lanxess AG,Xetra,Basic Materials,Chemicals,€2.02B,-2.4x,0.01,€23.35,2%
+118,GYC,Grand City,Xetra,Real Estate,Real Estate Operations,€2.01B,-4x,0.01,€11.67,-0.7%
+119,WWGG,Gelsenwasser,Frankfurt,Utilities,Natural Gas Utilities,€1.99B,15x,0.22,€580,1.8%
+120,MNVG,Mainova,Frankfurt,Utilities,Multiline Utilities,€1.98B,12.2x,0.1,€348,-2.3%
+121,AG1G,Auto1,Frankfurt,Technology,Software & IT Services,€1.95B,,,€9.34,5.3%
+122,TKAG,Thyssenkrupp AG,Xetra,Basic Materials,Metals & Mining,€1.93B,-0.8x,0,€3.11,0.7%
+123,TMV,TeamViewer,Xetra,Technology,Software & IT Services,€1.92B,19.5x,1.4,€12.39,-0%
+124,DMPG,Dermapharm,Xetra,Healthcare,Pharmaceuticals,€1.91B,33.8x,-0.54,€35.60,0%
+125,NVP8,Berli Jucker F,Stuttgart,Consumer Cyclicals,Diversified Retail,€1.90B,18.4x,-0.97,€0.47,-3.7%
+126,GBFG,Bilfinger SE,Xetra,Industrials,Construction & Engineering,€1.86B,8.5x,0.02,€49.65,2.1%
+127,BIOG,Biotest AG ST,Xetra,Healthcare,Pharmaceuticals,€1.65B,7.9x,0.01,€41.80,0%
+128,BIOG_p,Biotest AG VZ,Xetra,Healthcare,Pharmaceuticals,€1.65B,7.9x,0.01,€25.60,-0.4%
+129,VBO,CGN Mining,Stuttgart,Energy,Uranium,€1.64B,28.5x,-3.34,€0.22,0%
+130,JENGn,Jenoptik,Xetra,Technology,Semiconductors & Semiconductor Equipment,€1.63B,20.3x,,€28.54,3.1%
+131,HYQGn,Hypoport AG,Xetra,Technology,Financial Technology (Fintech) & Infrastructure,€1.63B,72.8x,0.34,€244.60,1.7%
+132,B4B3_p,Metro Wholesale Pref,Xetra,Consumer Non-Cyclicals,Food & Drug Retailing,€1.61B,-41.9x,0.33,€5.40,9.8%
+133,B4B,Metro Wholesale,Xetra,Consumer Non-Cyclicals,Food & Drug Retailing,€1.61B,-41.9x,0.33,€4.45,2.1%
+134,HBMG,Hornbach-Baumarkt,Hamburg,Consumer Cyclicals,Specialty Retailers,€1.61B,21.6x,-0.69,€50.50,0%
+135,NA9n,Nagarro SE,Xetra,Technology,Software & IT Services,€1.50B,18.9x,-0.63,€75.15,2%
+136,PV,Pfeiffer,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€1.50B,24.2x,-1.82,€152,0%
+137,FTKn,flatexDEGIRO AG,Xetra,Financials,Investment Banking & Investment Services,€1.40B,19.4x,-0.57,€12.71,2.6%
+138,CECG,Ceconomy,Xetra,Consumer Cyclicals,Specialty Retailers,€1.37B,10.1x,4.88,€2.84,11.8%
+139,DUEG,Duerr AG,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€1.35B,14.8x,-0.4,€19.67,2.2%
+140,PSMGn,Prosiebensat,Xetra,Consumer Cyclicals,Media & Publishing,€1.32B,-49.2x,0.13,€5.84,0.1%
+141,ELGG,Elmos AG,Xetra,Technology,Semiconductors & Semiconductor Equipment,€1.31B,12.4x,0.54,€77.20,2.3%
+142,QHD,Qinhuangdao Port,Frankfurt,Industrials,Transport Infrastructure,€1.30B,6.5x,0.71,€0.23,0.9%
+143,HHFv,Hamburger Hafen Xetra,Xetra,Industrials,Transport Infrastructure,€1.26B,89.3x,-0.9,€15.50,-0.6%
+144,HBH,Hornbach,Xetra,Consumer Cyclicals,Specialty Retailers,€1.22B,7.9x,0.33,€75.90,1.6%
+145,GLJn,Grenke,Xetra,Financials,Banking Services,€1.19B,14.3x,4.33,€26.35,1.4%
+146,WUWGn,Wuestenrot Wuerttembergische,Xetra,Financials,Insurance,€1.14B,9x,-0.19,€12.22,0.3%
+147,HFGG,HelloFresh,Xetra,Consumer Non-Cyclicals,Food & Drug Retailing,€1.13B,-12.1x,0.11,€6.91,9.1%
+148,KSBG,KSB,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€1.12B,7.4x,,€640,0%
+149,KSBG_p,KSB Pref,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€1.12B,7.4x,,€614,1%
+150,SMHNn,Suess Microtec,Xetra,Technology,Semiconductors & Semiconductor Equipment,€1.11B,14.1x,0.18,€58.20,2.8%
+151,VBKG,Verbio Vereinigte,Xetra,Energy,Renewable Energy,€1.09B,56.3x,-0.58,€17.12,4.4%
+152,PNEGn,PNE Wind AG,Xetra,Energy,Renewable Energy,€1.07B,-130.6x,0.17,€14.04,-1%
+153,STM1,Stabilus,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€1.05B,13.8x,-0.41,€42.80,3.3%
+154,BFSA,Befesa,Xetra,Industrials,Professional & Commercial Services,€1.04B,18.1x,-0.75,€26.24,0.9%
+155,EVTG,Evotec AG,Xetra,Healthcare,Biotechnology & Medical Research,€1.03B,-6x,-0.49,€5.75,-3.1%
+156,KTN,Kontron,Xetra,Technology,Software & IT Services,€1.03B,13.7x,-0.19,€16.99,1.2%
+157,COKG,Cancom SE,Xetra,Technology,Software & IT Services,€1.01B,26.7x,1.45,€28.62,1.3%
+158,MBHG_p,Maschinenfabrik Berthold Hermle,Frankfurt,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€1.01B,12.1x,,€200,-1%
+159,ADVG,Adtran Networks SE,Xetra,Technology,Communications & Networking,€998.41M,-42.5x,0.38,€19.18,0.1%
+160,MUMG,Mensch und Maschine Software,Xetra,Technology,Software & IT Services,€997.48M,32.4x,4.4,€58.90,-0.8%
+161,NB2,Northern Data,Frankfurt,Technology,Integrated Hardware & Software,€986.95M,-4x,-0.11,€23.40,11.2%
+162,WACGn,Wacker Neuson,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€976.70M,8.5x,-0.38,€14.34,2.4%
+163,BYWGnx,Baywa Vink AG,Xetra,Consumer Non-Cyclicals,Food & Tobacco,€975.51M,-5.5x,0.01,€14.60,7.8%
+164,BYWG,Baywa AG,Frankfurt,Consumer Non-Cyclicals,Food & Tobacco,€975.51M,-5.5x,0.01,€27,3.8%
+165,2498q,Htc Corp Gdr,Frankfurt,Technology,"Computers, Phones & Household Electronics",€965.11M,-9.3x,11.57,€4.20,-4.5%
+166,IMX,Imax,Frankfurt,Consumer Cyclicals,Media & Publishing,€954.86M,49.7x,0.13,€17.70,-1.7%
+167,NXUG,Nexus,Xetra,Technology,Software & IT Services,€930.56M,36.2x,2.88,€53.60,1.5%
+168,SPBH,Sedlmayr Grund und Immobilien KgaA,Frankfurt,Real Estate,Real Estate Operations,€903.18M,70.7x,,"€1,230",-3.2%
+169,FYB,Formycon,Xetra,Healthcare,Biotechnology & Medical Research,€902.43M,13.1x,0.14,€51.20,2.9%
+170,EUZG,Eckert&Ziegler AG,Xetra,Technology,Office Equipment,€902.19M,26.8x,,€43.22,1.8%
+171,BEFG,Berliner Effektengesellschaft,Frankfurt,Financials,Investment Banking & Investment Services,€888.70M,68.3x,-1.36,€67.50,-0.7%
+172,VOSG,Vossloh AG,Xetra,Basic Materials,Metals & Mining,€851.86M,16x,4.02,€48.50,1.4%
+173,OHBG,OHB SE,Xetra,Industrials,Aerospace & Defense,€836.74M,12.7x,0.14,€43.70,0.7%
+174,DRWG,Draegerwerk AG,Xetra,Healthcare,Healthcare Equipment & Supplies,€831.07M,7.1x,0.04,€44,0.5%
+175,DRWG_p,Draegerwerk VZO,Xetra,Healthcare,Healthcare Equipment & Supplies,€831.07M,7.1x,0.04,€46,0.5%
+176,SFQ,SAF Holland,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,€823.45M,8.9x,0.23,€18.24,1.4%
+177,COP1n,CompuGroup AG,Xetra,Technology,Software & IT Services,€819.48M,25.5x,-0.38,€15.73,4.6%
+178,CBRO,Close Brothers,Frankfurt,Financials,Banking Services,€819.43M,5x,0.06,€5.50,1.9%
+179,SZGG,Salzgitter AG,Xetra,Basic Materials,Metals & Mining,€817.26M,39.4x,-0.12,€15.32,1.5%
+180,FDD,Pilkington Deutschland,Hamburg,Consumer Cyclicals,Homebuilding & Construction Supplies,€813.12M,-47.1x,,€300,3.4%
+181,RHKG,Rhoen-Klinikum,Xetra,Healthcare,Healthcare Providers & Services,€803.26M,17.3x,0.21,€12,0%
+182,S92G,SMA Solar AG,Xetra,Technology,Semiconductors & Semiconductor Equipment,€784.22M,4.7x,-2.11,€22.66,1.6%
+183,EKTG,Energiekontor,Xetra,Utilities,Electrical Utilities & IPPs,€782.58M,10.6x,0.11,€56.70,-1.4%
+184,TGHN,Logwin,Xetra,Industrials,Freight & Logistics Services,€765.87M,10.8x,-5.02,€266,0%
+185,MUBG,Muehlbauer,Xetra,Financials,Investment Holding Companies,€752.17M,23.7x,,€53,0%
+186,STOG_p,Sto KGaA,Xetra,Consumer Cyclicals,Homebuilding & Construction Supplies,€750.56M,9.2x,-2.05,€118.40,1.4%
+187,TNIE,Tonies SE,Xetra,Consumer Cyclicals,Leisure Products,€739.63M,-67.5x,-0.93,€6.48,-0.6%
+188,ENGLG,Digital Invest eV,Xetra,Financials,Investment Banking & Investment Services,€739.63M,4.1x,,€1.55,0%
+189,SGCG,SGL Carbon SE,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€737.91M,9.2x,0.48,€6.06,2.5%
+190,SSHG,Suedwestdeutschelzwerke,Frankfurt,Consumer Non-Cyclicals,Food & Tobacco,€704M,21.7x,0.11,€67,11.7%
+191,YSNG,Secunet AG,Xetra,Technology,Software & IT Services,€703.88M,25.5x,-3.74,€109.40,2.1%
+192,KORI,Clariane SE,Frankfurt,Healthcare,Healthcare Providers & Services,€697.63M,-2x,0.01,€1.96,-0.1%
+193,TTKG,Takkt AG,Xetra,Technology,Office Equipment,€696.82M,127.9x,-1.38,€10.76,1.3%
+194,PHHGn,Paul Hartmann,Frankfurt,Healthcare,Healthcare Equipment & Supplies,€692.59M,11.6x,-1.13,€194,-0.5%
+195,CWCG,Cewe Color,Xetra,Industrials,Professional & Commercial Services,€676.94M,11.6x,0.85,€98.40,0%
+196,PBBG,Deutsche Pfandbriefbank AG,Xetra,Financials,Banking Services,€657.58M,19.4x,-0.17,€4.89,2.8%
+197,MUXG,Mutares SE & Co KgaA,Xetra,Financials,Investment Banking & Investment Services,€654.38M,-18.2x,,€30.65,0.3%
+198,DEZG,Deutz AG,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€639.69M,8x,-0.28,€4.63,2.2%
+199,NLVGn,Nuernberger Beteiligungs,Xetra,Financials,Insurance,€639.06M,15.1x,-0.39,€54.50,-4.4%
+200,MLPG,MLP AG,Xetra,Financials,Investment Banking & Investment Services,€638.37M,10.6x,4.21,€5.87,1.9%
+201,AOXG,Alstria,Xetra,Real Estate,Residential & Commercial REITs,€628.54M,-1x,0,€3.50,-0.6%
+202,PATGn,Patrizia Immobilien,Xetra,Real Estate,Real Estate Operations,€624.95M,-161.8x,2.2,€7.23,3.7%
+203,SISG,First Sensor AG,Xetra,Technology,Electronic Equipment & Parts,€622.47M,228.9x,-10.17,€60.40,0.3%
+204,ATSV,At&S Austria,Frankfurt,Technology,Semiconductors & Semiconductor Equipment,€608M,-7.1x,0.01,€15.65,-0.5%
+205,MDNG,Medion AG,Xetra,Technology,"Computers, Phones & Household Electronics",€598.73M,35.1x,0.22,€13.40,0%
+206,JST,Jost Werke,Frankfurt,Consumer Cyclicals,Automobiles & Auto Parts,€593.02M,14.2x,-0.53,€39.80,3.4%
+207,MBBG,MBB Industries AG,Frankfurt,Industrials,Professional & Commercial Services,€584.22M,31.5x,0.45,€102.20,-2.3%
+208,HG1G,Homag Group,Frankfurt,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€580.46M,11.4x,,€37.20,0.5%
+209,INHG,Indus AG,Xetra,Consumer Non-Cyclicals,Consumer Goods Conglomerates,€575.56M,8.6x,0.03,€21.45,1.7%
+210,E5S1,Atalaya Mining,Frankfurt,Basic Materials,Metals & Mining,€557.41M,15.9x,1.41,€3.96,0.5%
+211,GFTG,GFT Technologies AG,Xetra,Technology,Software & IT Services,€556.79M,11.4x,2.55,€21.15,1.9%
+212,YOUG,ABOUT YOU Holding AG,Xetra,Consumer Cyclicals,Diversified Retail,€548.61M,-6.2x,-0.11,€3.15,1.3%
+213,HABAn,Hamborner AG,Xetra,Real Estate,Residential & Commercial REITs,€532.80M,58.4x,0.54,€6.53,-0.5%
+214,WBAHk,Wild Bunch,Frankfurt,Consumer Cyclicals,Media & Publishing,€526.74M,-5.9x,,€21.40,-2.7%
+215,SBSG,STRATEC Biomedical,Xetra,Healthcare,Healthcare Equipment & Supplies,€526.35M,36x,,€43.25,3%
+216,ACT1,AlzChem Group,Frankfurt,Basic Materials,Chemicals,€521.03M,11.3x,0.17,€51.20,-1.9%
+217,AMDG,Amadeus Fire AG,Xetra,Industrials,Professional & Commercial Services,€518.77M,14.1x,-1.86,€95.60,0.4%
+218,M8G,Verve SE,Frankfurt,Technology,Software & IT Services,€512.48M,9.4x,0.04,€2.75,0.9%
+219,KCOGn,Kloeckner SE,Xetra,Basic Materials,Metals & Mining,€504.73M,-2x,0.02,€5.05,1.4%
+220,PCZ,ProCredit Holding,Xetra,Financials,Banking Services,€497.10M,4.6x,0.03,€8.46,3.7%
+221,CHG1,CHAPTERS,Frankfurt,Technology,Software & IT Services,€492.66M,-112x,-3.05,€25.20,2.4%
+222,6LH,LH Financial Group,Munich,Financials,Banking Services,€487.22M,10.6x,-0.68,€0.02,0%
+223,DBANn,Deutsche Beteiligungs AG,Xetra,Financials,Investment Banking & Investment Services,€474.57M,28.1x,-0.33,€25.85,0.8%
+224,NOEJ,Norma AG,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€471.56M,16.5x,-3.97,€14.80,-0.1%
+225,WSU,WashTec AG,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€471.06M,16.2x,4.36,€35,-1.1%
+226,ADNGk,Adesso,Xetra,Technology,Software & IT Services,€465.55M,-620.7x,2.33,€70.70,0.7%
+227,DYN,Dynagreen Environmental,Frankfurt,Industrials,Professional & Commercial Services,€459.84M,6x,-1.22,€0.33,1.9%
+228,VIBG_p,Villeroy&Boch AG,Xetra,Consumer Cyclicals,Homebuilding & Construction Supplies,€438.97M,11.4x,,€16.90,2.1%
+229,ETGG,Envitec,Xetra,Utilities,Electrical Utilities & IPPs,€429.16M,7.3x,0.27,€29.50,0.7%
+230,AB9,ABO Wind,Hamburg,Energy,Renewable Energy,€420.47M,15.5x,1.54,€45.60,-1.5%
+231,B8AG,Bavaria Industries Group,Xetra,Financials,Investment Holding Companies,€415.76M,,0.09,€89,
+232,SHFG,SNP Schneider,Xetra,Technology,Software & IT Services,€410.77M,34x,0.12,€56.40,0.7%
+233,EUKG_p,Eurokai GmbH KGaA,Frankfurt,Financials,Investment Holding Companies,€409.43M,13.1x,-0.16,€29.60,-1.3%
+234,EUKG,Eurokai GmbH,Hamburg,Financials,Investment Holding Companies,€409.43M,13.1x,-0.16,€30.40,0%
+235,VH2,Friedrich Vorwerk Group SE,Xetra,Energy,Oil & Gas Related Equipment and Services,€409M,32.8x,-1.38,€21.30,4.2%
+236,BVB,Borussia Dortmund,Frankfurt,Consumer Cyclicals,Hotels & Entertainment Services,€406.19M,12.3x,0.04,€3.68,0%
+237,ILM1k,Medios AG,Xetra,Healthcare,Pharmaceuticals,€406.12M,23.9x,,€16.10,1.3%
+238,INS2,Instone Real Estate,Xetra,Real Estate,Real Estate Operations,€405.50M,19.7x,-0.43,€9.36,-0.3%
+239,HNDG,Frosta,Frankfurt,Consumer Non-Cyclicals,Food & Tobacco,€405.35M,11.9x,,€59.50,1.7%
+240,ST5G,Steico,Xetra,Basic Materials,Paper & Forest Products,€403.49M,23.9x,,€28.50,2.7%
+241,EIN_p,Einhell VZO,Frankfurt,Consumer Cyclicals,Household Goods,€401.67M,12.5x,,€56.70,2%
+242,SIM0,Simona,Frankfurt,Basic Materials,Chemicals,€396M,12.7x,1.38,€66,0%
+243,2PR4,Pruksa F,Stuttgart,Real Estate,Real Estate Operations,€393.93M,17.1x,-0.25,€0.18,-3.1%
+244,FQT,Frequentis,Xetra,Technology,Communications & Networking,€383.26M,22.1x,-9.78,€29.10,0.7%
+245,IXXG,Init Innovation,Xetra,Technology,Software & IT Services,€378.85M,20.4x,0.58,€38.50,-1.5%
+246,NWOn,New Work,Xetra,Technology,Software & IT Services,€370.95M,31x,-0.45,€66.10,0.2%
+247,2GBG,2G energy,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€360.59M,20x,2.1,€20.25,-1%
+248,D6HG,Datagroup,Xetra,Technology,Software & IT Services,€359.50M,13.9x,1.88,€43.15,-0.6%
+249,F3CG,SFC Energy AG,Xetra,Energy,Renewable Energy,€349.01M,14.4x,0.03,€20.15,1.5%
+250,KTAG,Knaus Tabbert,Frankfurt,Consumer Cyclicals,Leisure Products,€336.74M,6.3x,,€32.20,-0.5%
+251,TPEG,PVA Tepla AG,Xetra,Technology,Semiconductors & Semiconductor Equipment,€325.16M,12.9x,0.43,€14.82,2.6%
+252,ELSn,Elaris,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,€325.08M,,,€26.80,0%
+253,4QVB,Siamgas Petrochemicals,Stuttgart,Energy,Oil & Gas,€324.37M,4.2x,0.01,€0.15,-2.5%
+254,PSAGn,PSI AG,Xetra,Technology,Software & IT Services,€314.41M,966.7x,4.35,€20.40,0.5%
+255,S9I,Stemmer Imaging,Xetra,Technology,Electronic Equipment & Parts,€313.30M,23.4x,-0.77,€48.30,0.4%
+256,HDDG,Heidelberger Druckmaschinen,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€307.38M,-23.5x,0.2,€1.01,1.8%
+257,BSLG,Basler AG,Xetra,Technology,Office Equipment,€306.51M,-19.7x,0.07,€10.12,1%
+258,DWBG,Dinkelacker,Stuttgart,Real Estate,Real Estate Operations,€305.69M,27.4x,,"€1,010",-3.8%
+259,JDC,JDC Group,Xetra,Financials,Investment Banking & Investment Services,€300.64M,66.6x,0.08,€22.30,1.4%
+260,WCMk,WCM Beteiligungs und Grundbesitz,Xetra,Real Estate,Real Estate Operations,€285.92M,-11.9x,0.05,€1.90,-2.1%
+261,ZILGn,Elringklinger AG,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,€276.88M,5.1x,0.01,€4.43,3.9%
+262,M12,M1 Kliniken,Xetra,Healthcare,Healthcare Providers & Services,€265.57M,26.5x,0.2,€14.50,2.1%
+263,O4BG,OVB Holding AG,Frankfurt,Financials,Investment Banking & Investment Services,€263.65M,14.3x,0.8,€18.50,-0.5%
+264,ADE,Bitcoin Group,Xetra,Financials,Investment Banking & Investment Services,€263M,135.9x,0.73,€52.70,1.7%
+265,55M,China MeiDong Auto,Stuttgart,Consumer Cyclicals,Specialty Retailers,€262.52M,14.8x,-0.21,€0.19,0%
+266,BIJG,Bijou Brigitte,Frankfurt,Consumer Cyclicals,Specialty Retailers,€255.60M,10.6x,-0.35,€33.20,0.2%
+267,PSGG,Pharmasgp,Xetra,Healthcare,Pharmaceuticals,€251.79M,13.4x,0.37,€21.20,0.9%
+268,ED4,EDAG Engineering Group,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,€251.25M,9.1x,-2.38,€10,0%
+269,MXHNn,Max Automation,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€246.63M,-84.2x,0.55,€5.98,0%
+270,BDTG,Bertrandt AG,Xetra,Industrials,Professional & Commercial Services,€242.54M,14.2x,-0.38,€23.90,-0.4%
+271,IVUG,IVU Traffic,Xetra,Technology,Software & IT Services,€242.32M,21.1x,1.47,€14.10,0%
+272,VIH1n,VIB Vermoegen,Xetra,Real Estate,Real Estate Operations,€242.29M,1.9x,0.02,€7.32,-0.3%
+273,A1OS,All For One Steeb AG,Xetra,Technology,Software & IT Services,€241.93M,16.7x,0.27,€49.50,0.4%
+274,UZU,Uzin Utz,Xetra,Industrials,Construction & Engineering,€241.12M,10.7x,,€47.60,-2.1%
+275,HVBG,uestra Hannoversche Verkehrsb,Frankfurt,Industrials,Passenger Transportation Services,€236.28M,-6.1x,,€8.95,0%
+276,HAWG,Hawesko AG,Xetra,Technology,Software & IT Services,€234.47M,43.1x,-0.49,€26.10,1.2%
+277,BKHTn,Brockhaus Technologies,Xetra,Financials,Investment Holding Companies,€231M,-73.3x,0.66,€28.70,-0.4%
+278,SURG,Surteco SE,Xetra,Consumer Cyclicals,Household Goods,€224.83M,40.5x,0.08,€14.50,0.7%
+279,EUXG,Euwax,Frankfurt,Financials,Investment Banking & Investment Services,€221.45M,35.1x,,€43,2.4%
+280,HTGG,HomeToGo SE,Xetra,Technology,Software & IT Services,€221.22M,-9.6x,,€1.86,-0.5%
+281,VVVGn_p,OeKOWORLD Pref,Xetra,Financials,Investment Banking & Investment Services,€216.16M,4x,-0.91,€30.60,-1.3%
+282,CEAG,Friwo,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€215.57M,-17.6x,0.04,€25.20,-1.6%
+283,LNSX,Allane SE,Frankfurt,Financials,Banking Services,€214.36M,94.9x,-1.24,€10.40,0%
+284,LPKG,LPKF,Xetra,Technology,Electronic Equipment & Parts,€204.62M,88.1x,0.64,€8.45,0.4%
+285,BLMG,Baader Bank,Xetra,Financials,Investment Banking & Investment Services,€204.46M,16.2x,,€4.19,3.2%
+286,AEIGn,Allgeier,Xetra,Technology,Software & IT Services,€202.56M,15.5x,-0.37,€17.70,6.6%
+287,NVM,Novem,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,€193.64M,8.1x,-0.2,€4.36,-3.1%
+288,H2A,H2APEX SCA,Frankfurt,Utilities,Electrical Utilities & IPPs,€190.89M,-7.6x,,€5.25,0%
+289,DR0G,Deutsche Rohstoff,Xetra,Basic Materials,Metals & Mining,€190.88M,2.9x,,€38.40,1.3%
+290,HRPKk,7C Solarparken,Xetra,Utilities,Electrical Utilities & IPPs,€190.56M,18.5x,-0.31,€2.30,1.3%
+291,HXCKk,Ernst Russ,Frankfurt,Financials,Investment Banking & Investment Services,€177.21M,3x,0.17,€5.26,-0.7%
+292,LUS1n,Lang und Schwarz Wertpapierhandel,Xetra,Financials,Investment Banking & Investment Services,€175.55M,22.7x,-1.7,€18.55,1.1%
+293,IVL1L,Invalda Invl,Stuttgart,Financials,Investment Banking & Investment Services,€175.01M,3.5x,0.03,€13.60,0%
+294,FAAS,Fabasoft AG,Frankfurt,Technology,Software & IT Services,€171.16M,19.9x,,€15.70,3.6%
+295,AGRG_p,AGROB Immobilien Pref,Frankfurt,Real Estate,Real Estate Operations,€168.15M,"1,450x",,€42.80,0%
+296,TPGG,Platform,Xetra,Technology,Software & IT Services,€167.75M,4.5x,0.02,€8.42,-0.2%
+297,OELG,ADM Hamburg,Frankfurt,Consumer Non-Cyclicals,Food & Tobacco,€167.73M,"2,840x",25.82,€224,0.9%
+298,LEIG,Leifheit AG,Xetra,Consumer Non-Cyclicals,Personal & Household Products & Services,€167.41M,31.4x,0.31,€17.60,-0.6%
+299,EISG,Eisen Huettenwerke,Frankfurt,Financials,Investment Banking & Investment Services,€167.20M,15.3x,0.62,€9.50,1.6%
+300,DREGa,Deutsche Real Estate,Frankfurt,Real Estate,Real Estate Operations,€164.66M,-3.8x,0.02,€8,0%
+301,WEW,Westwing Group,Xetra,Consumer Cyclicals,Diversified Retail,€162.53M,-10.6x,-0.35,€8.08,1.8%
+302,VAR1,Varta,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€161.27M,-0.5x,0,€3.80,3.5%
+303,UEQV,UBS ETFs Plc - CMCI Commodity Carry SF UCITS ETF (,Xetra,Financials,Investment Banking & Investment Services,€157.17M,,,€124.24,0%
+304,SKBG,Koenig&Bauer AG,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€154.51M,-4.3x,0.01,€9.36,2.6%
+305,BRNKn,BRANICKS,Xetra,Real Estate,Real Estate Operations,€151.92M,-2x,0,€1.80,2.4%
+306,M7UG,Nynomic,Xetra,Technology,Office Equipment,€151.45M,15.7x,0.94,€23.10,-1.7%
+307,APG1L,Apranga APB,Munich,Consumer Cyclicals,Specialty Retailers,€150.67M,8.7x,1.84,€2.75,0%
+308,GSC1n,Gesco AG,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€149.97M,17.3x,-0.19,€13.95,0%
+309,FEWG,Funkwerk AG,Frankfurt,Technology,Communications & Networking,€148.30M,8.6x,-0.78,€18.40,-0.3%
+310,ABOG,clearvise,Dusseldorf,Utilities,Electrical Utilities & IPPs,€146.94M,20.8x,,€1.89,-1.6%
+311,CRZK,CR Capital,Xetra,Real Estate,Real Estate Operations,€144.41M,2.1x,-0.07,€6.14,0.7%
+312,2HR,H&R,Xetra,Basic Materials,Chemicals,€141.44M,11.3x,-0.17,€3.76,1.6%
+313,SJJG,Serviceware,Xetra,Technology,Software & IT Services,€138.60M,-74.2x,-1.28,€13.20,2.3%
+314,MPCKk,MPC Capital,Frankfurt,Financials,Investment Banking & Investment Services,€137.47M,9.1x,0.11,€3.90,-1.5%
+315,KULG,Kulmbacher Brauerei,Munich,Consumer Non-Cyclicals,Beverages,€136.42M,23x,1.32,€40.40,-0.5%
+316,PUS,Pulsion,Munich,Healthcare,Healthcare Equipment & Supplies,€136.04M,27x,-0.9,€16.50,0%
+317,RLVG,Rheinland Holding,Dusseldorf,Financials,Insurance,€132.86M,14.4x,-0.72,€34.60,0%
+318,GRG1L,Grigeo AB,Munich,Consumer Non-Cyclicals,Personal & Household Products & Services,€132.71M,6.4x,0.2,€1.05,0%
+319,MSGL,MSG Life,Hamburg,Technology,Software & IT Services,€131.83M,14.1x,,€3.08,0%
+320,WUG,Westag&Getalit ST,Frankfurt,Consumer Cyclicals,Homebuilding & Construction Supplies,€130.76M,48x,0.07,€28.80,0%
+321,WUG3_p,Westag&Getalit VZO,Frankfurt,Consumer Cyclicals,Homebuilding & Construction Supplies,€130.76M,48x,,€26,0%
+322,BSSG,Beta Systems Software,Frankfurt,Technology,Software & IT Services,€129.72M,59.8x,-0.93,€28.20,0%
+323,DEF,Defama Deutsche Fachmarkt,Xetra,Real Estate,Real Estate Operations,€125.76M,31x,-1.22,€26.20,-0.8%
+324,SPTG,Sparta,Frankfurt,Financials,Investment Banking & Investment Services,€125.32M,-6.2x,-0.13,€26,0%
+325,SWAG,Schloss Wachenheim,Xetra,Consumer Non-Cyclicals,Beverages,€122.76M,14x,-0.75,€15.50,0%
+326,E4I,Multitude SE,Xetra,Financials,Banking Services,€122.34M,10.3x,0.22,€5.75,5.3%
+327,0131,Cheuk Nang,Stuttgart,Real Estate,Real Estate Operations,€119.44M,2.9x,0,€0.18,-0.5%
+328,LOUn,DEAG Deutsche Entertainment AG,Hamburg,Consumer Cyclicals,Hotels & Entertainment Services,€118.73M,-43.1x,0.28,€5.45,-0.9%
+329,HPHA,Heidelberg Pharma AG,Xetra,Healthcare,Biotechnology & Medical Research,€116.05M,-8.9x,-0.16,€2.49,1.6%
+330,RSU1L,Rokiskio Suris,Munich,Consumer Non-Cyclicals,Food & Tobacco,€115.52M,7.2x,0.41,€3.16,3.3%
+331,MBKG,Merkur Bank KGaA,Xetra,Financials,Banking Services,€115.13M,10.6x,,€14.80,0%
+332,TTRGn,Technotrans AG,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€113.29M,14.9x,-0.58,€16.20,-3%
+333,BST1,Bastei Lueb,Xetra,Consumer Cyclicals,Media & Publishing,€112.86M,11.5x,0.13,€8.55,0.6%
+334,MEDG,MediClin AG,Frankfurt,Healthcare,Healthcare Providers & Services,€111.15M,-7.4x,0.04,€2.34,-3.3%
+335,LIK,Limes Schlosskliniken,Xetra,Healthcare,Healthcare Providers & Services,€110.83M,33x,-1.73,€378,0%
+336,RSL2,R. Stahl AG,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€110.77M,397.7x,-4.28,€17.50,-2.2%
+337,GMMG,Grammer AG,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,€109.57M,-204.2x,-0.17,€7.35,-2.6%
+338,DMRE,Demire Deutsche Mittelstand RE,Xetra,Real Estate,Real Estate Operations,€107.62M,2.9x,0.01,€1,47.1%
+339,H2OG,Enapter,Frankfurt,Energy,Renewable Energy,€106.60M,-14.9x,-0.3,€3.92,0.5%
+340,CSHG,Cenit AG,Xetra,Technology,Software & IT Services,€102.92M,34x,-0.57,€12.20,-2.4%
+341,NFN,NFON,Xetra,Technology,Telecommunications Services,€101.85M,-384.4x,,€6.15,0%
+342,HNLG,Dr. Hoenle AG,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€101.54M,-18.9x,-0.24,€16.75,-1.2%
+343,MUTG_p,Mineralbrunnen Ueberkingen T Pref,Frankfurt,Consumer Non-Cyclicals,Beverages,€101.24M,16.6x,,€12.80,0%
+344,MUTG,Mineralbrunnen Ueberkingen T,Frankfurt,Consumer Non-Cyclicals,Beverages,€101.24M,16.6x,15.45,€13.30,0%
+345,QBYn,q.beyond,Xetra,Technology,Software & IT Services,€100.41M,-8.8x,-0.13,€0.82,0.2%
+346,DKG,Deutsche Konsum REIT,Xetra,Real Estate,Real Estate Operations,€100.19M,-0.5x,0,€2.85,-1%
+347,SB1G,Smartbroker Holding,Xetra,Technology,Software & IT Services,€99.34M,-15.5x,-0.4,€5.92,1%
+348,HLGZ,Highlight Communications,Xetra,Consumer Cyclicals,Media & Publishing,€99.30M,-9x,0.03,€1.81,2.8%
+349,HP3An,Ringmetall SE,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€96.22M,16.5x,-0.26,€3.31,3.1%
+350,NF4,Netfonds,Xetra,Financials,Investment Banking & Investment Services,€94.04M,-155x,0.9,€40.60,1%
+351,MZXG,Masterflex,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€93.49M,10.9x,0.67,€9.72,-3.8%
+352,LQAG,Laiqon,Frankfurt,Financials,Investment Banking & Investment Services,€93.30M,-6.9x,1.34,€4.90,7.2%
+353,WOLFG,Meta Wolf,Frankfurt,Basic Materials,Construction Materials,€92.18M,-34.3x,0.03,€3.70,-1.1%
+354,DFV,DFV Deutsche,Xetra,Financials,Insurance,€91.90M,22.1x,2.88,€6.30,0%
+355,V3SG,Vectron Systems,Xetra,Technology,Office Equipment,€89.43M,-114.4x,-1.33,€11.10,0%
+356,HEET,Heeton,Stuttgart,Real Estate,Real Estate Operations,€89.40M,-33.9x,0.17,€0.16,-0.6%
+357,PWO,PWO AG,Frankfurt,Consumer Cyclicals,Automobiles & Auto Parts,€89.38M,6.2x,0.22,€28.60,0%
+358,C7D,Chanjet Info Tech,Frankfurt,Technology,Software & IT Services,€89.26M,43.2x,0.56,€0.27,2.2%
+359,93M1k,MPH Health Care AG,Xetra,Healthcare,Pharmaceuticals,€89.05M,3x,1.96,€21,2.9%
+360,CTNGk,Centrotherm,Frankfurt,Energy,Renewable Energy,€87.82M,4.7x,,€4.15,0%
+361,ALBG,Allgaeuer Brauhaus,Munich,Consumer Non-Cyclicals,Beverages,€87M,-133x,0.53,"€1,000",0%
+362,IC8Gn,InCity Immobilien,Xetra,Real Estate,Real Estate Operations,€86.82M,-14.4x,0.11,€1.01,0%
+363,EDLG,edel,Xetra,Consumer Cyclicals,Media & Publishing,€86.37M,7.1x,0.31,€4.06,2.5%
+364,MRXG,Mister Spex SE,Xetra,Consumer Cyclicals,Specialty Retailers,€85.53M,-1.9x,0.09,€2.45,-2.4%
+365,M0YNn,Mynaric,Xetra,Technology,Communications & Networking,€85.30M,-0.9x,0.07,€13.80,-0.4%
+366,MTPG,Muenchener Tierpark Hellabrunn,Munich,Consumer Cyclicals,Hotels & Entertainment Services,€84M,-95.7x,,€280,0%
+367,DG6,DG Gruppe,Hamburg,Financials,Banking Services,€83.88M,,,€530,1.9%
+368,DAMG,Data Modul AG,Xetra,Technology,Electronic Equipment & Parts,€83.22M,7.6x,,€23.40,-0.9%
+369,A7An,Heliad,Xetra,Financials,Investment Banking & Investment Services,€82M,-5.2x,0.01,€9.75,0%
+370,BBIG,BBI Buergerliches Brauhaus Immob,Frankfurt,Real Estate,Real Estate Operations,€80.60M,1x,0,€15.50,0%
+371,ITDf,Italian Thai Development F,Munich,Industrials,Construction & Engineering,€79.60M,-4x,-0.04,€0.02,0%
+372,B0R,Bathurst Resources,Frankfurt,Energy,Coal,€78.46M,2.7x,-0.1,€0.41,0%
+373,IURG,Kap,Frankfurt,Financials,Investment Holding Companies,€78.45M,-214.9x,-2.77,€10.10,1.5%
+374,V3VGn,Vita 34 AG,Frankfurt,Healthcare,Healthcare Providers & Services,€76.70M,293.3x,3.27,€4.40,0%
+375,B7EG,Blue Cap,Xetra,Financials,Investment Banking & Investment Services,€76.33M,-4.2x,0.02,€17,0.6%
+376,VLP1L,Vilkyskiu Pienine AB,Munich,Consumer Non-Cyclicals,Food & Tobacco,€74.29M,3.8x,0.08,€5.80,0%
+377,OVZ1,Zensun Enterprises,Stuttgart,Real Estate,Real Estate Operations,€74.18M,-0.2x,,€0.04,0%
+378,Z29,029 SE,Dusseldorf,Financials,Investment Holding Companies,€73M,-11.7x,0.02,€13.10,0%
+379,SILC,Silicom,Frankfurt,Technology,Communications & Networking,€72.22M,-2.2x,0.01,€12,9.1%
+380,0536,Tradelink Electronic Commerce,Stuttgart,Technology,Software & IT Services,€71.52M,6.1x,0.07,€0.09,0%
+381,CCAG,Corestate,Frankfurt,Real Estate,Real Estate Operations,€69.29M,-0x,,€0.42,0%
+382,ECKG,Ludwig Beck,Frankfurt,Consumer Cyclicals,Specialty Retailers,€67.99M,-252.1x,2.34,€18.40,0%
+383,NWXG,Nordwest Handel,Frankfurt,Basic Materials,Metals & Mining,€67.31M,5.4x,-0.81,€20.60,-1.9%
+384,UM9,Latvijas Balzams,Munich,Consumer Non-Cyclicals,Beverages,€66.72M,10.7x,0.26,€8.90,0%
+385,MSHGn,Wasgau Produktions Handels,Frankfurt,Consumer Non-Cyclicals,Food & Drug Retailing,€65.34M,15.2x,-1,€9.90,0%
+386,HIGHG,Cantourage SE,Xetra,,,€64.22M,"1,651.5x",,€5.10,-1%
+387,PZSG,Scherzer,Xetra,Financials,Investment Banking & Investment Services,€64.07M,-76.4x,18.59,€2.14,0%
+388,FHWG,Fernheizwerk Neukoelln,Frankfurt,Utilities,Water & Related Utilities,€63.48M,11.8x,0.01,€27.60,-7.4%
+389,APPHG,Apontis Pharma AG,Xetra,Healthcare,Pharmaceuticals,€63.14M,-9x,,€7.60,0.3%
+390,3IT,audius SE,Frankfurt,Technology,Software & IT Services,€62.99M,18.3x,,€12.80,1.6%
+391,SMBG,Schwaelbchen Molkerei Jakob Berz,Frankfurt,Consumer Non-Cyclicals,Food & Tobacco,€61.02M,8.6x,0.01,€47,0%
+392,GTYG,Gateway Real Estate,Stuttgart,Real Estate,Real Estate Operations,€60.89M,65.2x,-0.85,€0.33,0%
+393,KGRG,Lewaging,Frankfurt,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€60.83M,9.2x,0.09,€12.80,1.6%
+394,BIKE,Bike24 Holding AG,Xetra,Consumer Cyclicals,Specialty Retailers,€60.73M,-0.8x,,€1.45,5.1%
+395,UUUG,3U Holding AG,Xetra,Consumer Cyclicals,Specialty Retailers,€60.38M,36.7x,,€1.80,1.8%
+396,TSSG,InnoTec TSS,Frankfurt,Consumer Cyclicals,Homebuilding & Construction Supplies,€59.81M,9.6x,-0.23,€6.25,1.6%
+397,2INVn,2Invest,Xetra,Financials,Investment Holding Companies,€59.21M,37.6x,0.35,€10.30,-1.9%
+398,PZV1L,Pieno Zvaigzdes AB,Munich,Consumer Non-Cyclicals,Food & Tobacco,€59.13M,4.6x,0,€1.31,0%
+399,EXLn,Exasol,Xetra,Industrials,Professional & Commercial Services,€59.02M,-8.1x,-0.14,€2.37,6.8%
+400,FEVG,Fortec,Frankfurt,Technology,Semiconductors & Semiconductor Equipment,€58.83M,10.9x,-0.38,€18.10,-1.6%
+401,WS0,Li FT Power,Frankfurt,Basic Materials,Metals & Mining,€58.19M,246.5x,1.06,€1.34,-4.8%
+402,OBS,Orbis,Xetra,Technology,Software & IT Services,€57.76M,21.3x,1.47,€6.10,0.8%
+403,LKB,Cgre,Frankfurt,Financials,Investment Holding Companies,€57.60M,215.7x,,€9.45,-1.6%
+404,ALXA,Alexanderwerk,Frankfurt,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€56.16M,7x,0.1,€15.60,0%
+405,YOCG,Yoc AG,Xetra,Technology,Software & IT Services,€55.62M,19.5x,,€16,-1.8%
+406,C3RY,Cherry AG,Xetra,Technology,"Computers, Phones & Household Electronics",€54.96M,-0.4x,0,€2.37,0%
+407,CVK,Diok One,Dusseldorf,Real Estate,Real Estate Operations,€54.58M,,,€3.70,0%
+408,SHVA,Shareholder Value Beteiligungen AG,Xetra,Financials,Investment Banking & Investment Services,€54.55M,-5.5x,0.22,€78.50,0%
+409,SBXn,SynBiotic SE,Xetra,Healthcare,Pharmaceuticals,€51.77M,-0.6x,,€6.18,-13.4%
+410,MTVG,Albis Leasing,Xetra,Financials,Banking Services,€51.72M,11.5x,0.04,€2.44,-2.4%
+411,GFG,Global Fashion Group,Xetra,Consumer Cyclicals,Diversified Retail,€51.30M,-0.4x,-0.02,€0.26,12.6%
+412,TP21,Tethys Petroleum,Frankfurt,Energy,Oil & Gas,€50.77M,9x,-0.62,€0.44,-5.6%
+413,WAH,Wolftank Adisa Holding AG,Xetra,Industrials,Professional & Commercial Services,€49.12M,-18.9x,,€10,7.5%
+414,CPXG,Capsensixx,Xetra,Financials,Investment Banking & Investment Services,€47.84M,15.7x,1.3,€16,0%
+415,E4CG,Ecotel AG,Frankfurt,Technology,Telecommunications Services,€47.21M,37.3x,-0.32,€13.45,1.9%
+416,MSAG,MS Industrie,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,€46.45M,10.5x,0.04,€1.55,0%
+417,CYR,Cyan,Xetra,Technology,Software & IT Services,€46.44M,-2.1x,0.84,€2.30,0.9%
+418,BEZ,Berentzen,Xetra,Consumer Non-Cyclicals,Beverages,€46.22M,53.5x,-0.95,€4.92,-2.8%
+419,M5ZG,Manz AG,Xetra,Technology,Semiconductors & Semiconductor Equipment,€46.13M,-2.3x,0.02,€5.40,0.7%
+420,M3VGn,MeVis,Xetra,Healthcare,Healthcare Equipment & Supplies,€45.86M,8x,-1.12,€25.20,0%
+421,FVIG,Fair Value AG,Frankfurt,Real Estate,Residential & Commercial REITs,€45.45M,-6x,0.38,€3.24,0%
+422,CDZ0,MHP Hotel,Xetra,Consumer Cyclicals,Hotels & Entertainment Services,€45.33M,-7x,,€1.14,0.9%
+423,BLHG,Bremer Lagerhaus Gesellschaft,Frankfurt,Industrials,Freight & Logistics Services,€45.31M,23.1x,0.22,€11.80,0%
+424,MLLG,Mueller Die Lila Logistik,Xetra,Industrials,Freight & Logistics Services,€44.55M,24.9x,-0.41,€5.60,0%
+425,SYTG,Softing AG,Xetra,Technology,Electronic Equipment & Parts,€40.93M,-6x,0.01,€4.54,0%
+426,4DSG,Daldrup Soehne,Xetra,Energy,Oil & Gas Related Equipment and Services,€40.71M,45.6x,10.61,€6.80,-2.3%
+427,VSCk,4Sc AG,Frankfurt,Healthcare,Biotechnology & Medical Research,€40.46M,-5.4x,,€4,-0.2%
+428,IBU,IBU tec advanced,Xetra,Basic Materials,Chemicals,€40.19M,-16.3x,0.06,€8.22,-0.7%
+429,APME,AD Pepper Media,Xetra,Consumer Cyclicals,Media & Publishing,€40.17M,-82.2x,-3.27,€1.83,-3.2%
+430,CLIQn,Cliq Digital,Xetra,Technology,Software & IT Services,€39.71M,2.5x,,€6.47,4.3%
+431,S4AAn,SMT Scharf AG,Xetra,Basic Materials,Metals & Mining,€39.67M,8.2x,-0.19,€7.25,3.6%
+432,CEKG,Ceotronics Audio Video Data,Frankfurt,Technology,Communications & Networking,€39.26M,-307.5x,3.47,€4.92,-1.6%
+433,SYZG,Syzygy AG,Xetra,Industrials,Professional & Commercial Services,€39.15M,19.1x,0.16,€2.90,-2.7%
+434,3SQ1,AHT Syngas Tech,Frankfurt,Industrials,Construction & Engineering,€39.08M,54x,0.21,€16.70,-2.9%
+435,SZHB,South China,Stuttgart,Consumer Cyclicals,Leisure Products,€38.95M,-12.9x,0.13,€0.003,0%
+436,EMHn,Pferdewetten de,Xetra,Consumer Cyclicals,Hotels & Entertainment Services,€38.92M,-4.9x,0.05,€6.95,3%
+437,EDD3_p,edding,Frankfurt,Industrials,Professional & Commercial Services,€38.85M,-9.1x,,€36.20,0%
+438,ANWGn,Doccheck,Xetra,Healthcare,Healthcare Providers & Services,€38.81M,6.5x,-0.27,€7.65,0%
+439,DIEG,Dieriging,Xetra,Consumer Cyclicals,Textiles & Apparel,€38.57M,15.9x,-0.78,€9.40,1.1%
+440,BNNn,Brain,Xetra,Industrials,Professional & Commercial Services,€38.23M,-4.8x,0.6,€1.75,1.7%
+441,HACGn,KPS,Xetra,Technology,Software & IT Services,€37.86M,-6.5x,0.03,€0.90,5.4%
+442,3D6,Avemio,Xetra,Consumer Cyclicals,Media & Publishing,€37.56M,-6.9x,,€9.60,-2%
+443,FPHG,Francotyp-Postalia,Xetra,Technology,Software & IT Services,€36.25M,2.9x,0.01,€2.32,-3.3%
+444,NBHG,Hoftex Group,Munich,Consumer Cyclicals,Textiles & Apparel,€36.21M,-9.5x,0.08,€6.65,0%
+445,RTVGn,Youramily Entertainment,Frankfurt,Consumer Cyclicals,Media & Publishing,€35.81M,-20x,0.07,€2.34,-2.5%
+446,ADCG,Adcapital,Frankfurt,Financials,Investment Banking & Investment Services,€35.67M,-14.4x,-0.18,€2.54,-0.8%
+447,MAKG,Maternus Kliniken,Xetra,Healthcare,Healthcare Providers & Services,€34.18M,-2.4x,1.87,€1.63,0%
+448,IFS1,Infasing Aktiengesellschaft,Frankfurt,Consumer Cyclicals,Media & Publishing,€33.84M,-537.1x,5.43,€3.76,0%
+449,V6CG,Viscom AG,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€33.76M,-37.6x,0.31,€3.80,0%
+450,PALG,Pantaflix,Xetra,Consumer Cyclicals,Media & Publishing,€33.24M,-9.2x,-0.14,€1.30,0%
+451,MDG1k,Medigene,Xetra,Healthcare,Biotechnology & Medical Research,€32.58M,-1.7x,0.02,€1.11,-4.7%
+452,DARG,Datron,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€31.09M,10.7x,,€7.80,-0.6%
+453,AYDGn,Artnet AG,Frankfurt,Consumer Cyclicals,Media & Publishing,€30.95M,179.9x,,€5.50,1.9%
+454,SF3,STS Group,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,€30.44M,-27.6x,,€4.72,-0.8%
+455,VG8G,Varengold Bank,Xetra,Financials,Investment Banking & Investment Services,€29.93M,3.4x,,€2.98,-0.7%
+456,DLXG,Delignit,Xetra,Basic Materials,Paper & Forest Products,€27.86M,8.6x,0.58,€2.68,3.1%
+457,JTH0,Gesundheitswelt Chiemgau,Munich,Healthcare,Healthcare Providers & Services,€26.33M,7.5x,-2.13,€13.50,0%
+458,ARTG,bet at homem,Xetra,Consumer Cyclicals,Hotels & Entertainment Services,€26.32M,-13.8x,0.13,€3.75,0.5%
+459,HAU2,China Water Industry Group,Stuttgart,Utilities,Electrical Utilities & IPPs,€25.86M,-0.9x,0.01,€0.009,-5%
+460,MWB0n,mwb Fairtrade Wertpapierhandels,Xetra,Financials,Investment Banking & Investment Services,€25.73M,-54.9x,0.41,€3.46,0%
+461,ISH1k,Intershop,Xetra,Technology,Software & IT Services,€25.66M,-9.9x,-0.32,€1.76,0%
+462,ADJ,Adler,Xetra,Real Estate,Real Estate Operations,€25.38M,-0x,-0,€0.18,-4.2%
+463,HYIG,Hyrican Informationssysteme,Frankfurt,Technology,"Computers, Phones & Household Electronics",€25.22M,-53.1x,-0.82,€5.20,0%
+464,M3BK,Pyramid,Xetra,Financials,Investment Banking & Investment Services,€25.02M,-5x,-0.3,€1.13,0%
+465,NHB0n,Nebelhornbahn,Munich,Industrials,Passenger Transportation Services,€24.34M,41.6x,,€18.10,0%
+466,IPOKk,Heidelberger Beteiligungs,Frankfurt,Financials,Investment Banking & Investment Services,€24.01M,-14.6x,0.16,€89.50,0%
+467,EBSG,Elbstein,Hamburg,Financials,Investment Banking & Investment Services,€24M,-0.7x,,€0.80,0%
+468,SMWN,SM Wirtschaftsberatungs,Xetra,Real Estate,Real Estate Operations,€23.88M,-39.2x,0.08,€6,0%
+469,HGEA,hGears AG,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,€23.82M,-1.5x,0,€2.28,-0.4%
+470,BBRG,Buergerliches Brauhaus Ravensburg Lindau,Stuttgart,Real Estate,Real Estate Operations,€23.48M,-218.4x,,"€1,720",0%
+471,CY1k,SBF,Frankfurt,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€22.91M,-6.8x,0.02,€2.36,5.4%
+472,ACWNn,AS Creation Tapeten,Frankfurt,Consumer Cyclicals,Household Goods,€22.88M,-12.2x,-0.22,€8.30,-1.2%
+473,NN6G,NanoRepro,Frankfurt,Healthcare,Healthcare Equipment & Supplies,€22.44M,-4.8x,0.18,€1.76,-0.6%
+474,TGTG,11 88 0 Solutions,Xetra,Industrials,Professional & Commercial Services,€22.17M,-10.2x,-0.26,€0.85,0%
+475,JT9,QMD International Holdings,Munich,Real Estate,Real Estate Operations,€22M,11.1x,,€2,0%
+476,0114,Herald,Stuttgart,Consumer Cyclicals,Leisure Products,€21.76M,-12.9x,0.15,€0.04,0%
+477,LKMG,Landshuter Kunstmuehle,Munich,Consumer Non-Cyclicals,Food & Tobacco,€21.60M,36.7x,,€270,0%
+478,WIGGk,Sporttotal,Xetra,Consumer Cyclicals,Media & Publishing,€21.25M,-2.2x,-0.24,€0.60,0%
+479,R1B,Rubean,Munich,Technology,Software & IT Services,€21.24M,-10.2x,1.35,€5.95,0%
+480,GMEG,Geratherm,Xetra,Healthcare,Healthcare Equipment & Supplies,€21.19M,19.2x,1.99,€3.94,4.8%
+481,T3T1k,Seven Principles AG,Frankfurt,Technology,Software & IT Services,€20.74M,17.9x,-0.36,€5.50,0%
+482,IR1,Immovaria Real Estate,Munich,Real Estate,Real Estate Operations,€20.72M,230.8x,1.55,€3,0%
+483,LSXG,LS Telcom AG,Xetra,Technology,Communications & Networking,€20.51M,-11x,0.04,€3.54,0%
+484,WFTG,Weng Fine Art,Frankfurt,Technology,Software & IT Services,€20.25M,23.1x,,€3.82,0%
+485,AMAk,Altech Advanced,Frankfurt,Basic Materials,Paper & Forest Products,€20.06M,-13.6x,-0.4,€2.66,0%
+486,VFFG,Vereinigte Filzfabriken,Munich,Consumer Cyclicals,Textiles & Apparel,€19.22M,"3,210,526.3x",,€600,0%
+487,RCMN,Rcm Beteiligungs,Xetra,Real Estate,Real Estate Operations,€18.98M,-8.6x,-0.4,€1.47,3.5%
+488,H9WG,HWA,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,€18.85M,-36.6x,0.36,€2.60,-0.8%
+489,DFTKn,DF Deutsche Forfait AG,Frankfurt,Financials,Banking Services,€18.78M,11.3x,-0.17,€1.58,0%
+490,VEZ,Veganz,Xetra,Consumer Non-Cyclicals,Food & Tobacco,€18.65M,-2.2x,-0.13,€14.90,0%
+491,BOGn,Stock3,Xetra,Technology,Software & IT Services,€18.14M,2.4x,,€16.20,0%
+492,P4OG,Plan Optik,Xetra,Technology,Semiconductors & Semiconductor Equipment,€17.64M,10.5x,0.68,€3.90,-3.5%
+493,UCA1,UCA,Frankfurt,Financials,Investment Banking & Investment Services,€17.58M,12.7x,0.65,€26.40,-6.4%
+494,AMI1,Medondo Holding AG,Frankfurt,Technology,Software & IT Services,€17M,-5.2x,,€0.99,9.4%
+495,KA8Gn,Klassik Radio,Xetra,Consumer Cyclicals,Media & Publishing,€16.89M,26.5x,1.51,€3.50,0%
+496,R4Q,RPCG,Frankfurt,Basic Materials,Chemicals,€16.60M,21.3x,-0.32,€0.01,0%
+497,SWEGn,Schweizer Electronic,Xetra,Technology,Semiconductors & Semiconductor Equipment,€16.59M,0.5x,0,€4.40,-3.5%
+498,ECF1,Mountain Alliance,Xetra,Technology,Software & IT Services,€16.53M,-6.3x,,€2.40,4.3%
+499,NUVG,Noratis,Xetra,Real Estate,Real Estate Operations,€15.98M,-3.5x,0.01,€2.10,0%
+500,CFCG,aconnic,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€15.75M,-12.1x,,€0.97,2.6%
+501,SSSG,Schulte Schlagbaum,Dusseldorf,Industrials,Professional & Commercial Services,€15.54M,-6.7x,0.03,€280,-9.7%
+502,WDL1k,Nakiki Se,Frankfurt,Consumer Cyclicals,Diversified Retail,€15.44M,-0.1x,,€2.70,0%
+503,B8Fk,Biofrontera AG,Xetra,Healthcare,Pharmaceuticals,€15.07M,18.8x,0.37,€2.48,0%
+504,IS7,Intica Systems AG,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€14.86M,-9.4x,,€3.52,0%
+505,S6P,Spvgg Unterhaching,Xetra,Consumer Cyclicals,Hotels & Entertainment Services,€13.95M,-2.1x,,€3.52,1.2%
+506,PLEKk,Plenum,Frankfurt,Industrials,Professional & Commercial Services,€13.92M,24.9x,-1.44,€8.20,-3%
+507,ULCG,United Labels,Frankfurt,Consumer Cyclicals,Diversified Retail,€13.65M,23.2x,0.07,€1.97,-1%
+508,EBEn,aifinyo AG,Xetra,Financials,Banking Services,€13.49M,12.7x,,€3.33,0%
+509,123F,123fahrschule SE,Xetra,Technology,Software & IT Services,€13.46M,-2.5x,-0.08,€2.70,-4.3%
+510,TTOG,TTL Beteiligungs,Frankfurt,Real Estate,Real Estate Operations,€13.28M,-0.9x,0,€0.54,-6.1%
+511,TUFG,Libero football finance,Frankfurt,Industrials,Professional & Commercial Services,€13.20M,-151.6x,,€0.43,30.3%
+512,DGRG,Deutsche Grundstuecksauktionen,Xetra,Real Estate,Real Estate Operations,€13.04M,-7x,,€8.15,-1.2%
+513,TURG,Turbon,Frankfurt,Technology,Office Equipment,€12.95M,-52.3x,0.53,€3.66,-7.1%
+514,AAQ1k,Aap Implantate AG,Xetra,Healthcare,Healthcare Equipment & Supplies,€12.63M,-3.9x,,€1.15,0%
+515,SLSAn,Solutiance,Xetra,Technology,Software & IT Services,€12.59M,,,€2.36,0.9%
+516,SZ50n,Luebke Kelber,Dusseldorf,Real Estate,Real Estate Operations,€12.52M,-28.2x,,€11.50,0%
+517,FRSG,Foris Beteiligungs,Xetra,Financials,Banking Services,€12.51M,5.6x,0.01,€2.70,0.7%
+518,ELBG,Elumeo SE,Xetra,Consumer Cyclicals,Textiles & Apparel,€12.15M,-9.7x,-0.06,€2.14,-3.6%
+519,G4B,Good Brands,Hamburg,Financials,Investment Banking & Investment Services,€12.11M,,,€13.50,0%
+520,DTDGk,B+S Banksysteme,Xetra,Technology,Financial Technology (Fintech) & Infrastructure,€11.86M,15x,0.02,€1.91,0%
+521,C1VG,mVISE,Xetra,Technology,Software & IT Services,€11.70M,-1.6x,,€0.55,0%
+522,PGNG,Paragon AG,Xetra,Consumer Cyclicals,Automobiles & Auto Parts,€11.50M,-4.5x,-0.03,€2.62,-2.2%
+523,SNGGk,Singulus Tech,Xetra,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€11.34M,-1.2x,0,€1.22,-0.4%
+524,SPME,Splendid Medien,Xetra,Consumer Cyclicals,Media & Publishing,€11.26M,5.1x,-0.1,€1.15,0%
+525,LDF,Linus Digital Finance,Xetra,Financials,Investment Banking & Investment Services,€11.17M,-2.1x,-0.03,€1.76,2.9%
+526,GTK,Tonkens Agrar,Xetra,Consumer Non-Cyclicals,Food & Tobacco,€10.95M,10.7x,-0.31,€6.60,0%
+527,ABXG,Advanced Blockchain,Dusseldorf,Technology,Software & IT Services,€10.80M,6.1x,,€3,-2.6%
+528,RGBG,Regenbogen,Frankfurt,Consumer Cyclicals,Hotels & Entertainment Services,€10.63M,9.8x,-0.56,€4.62,0%
+529,PKBG,Park Bellheimer,Frankfurt,Consumer Non-Cyclicals,Beverages,€10.20M,5x,0.3,€2.04,0%
+530,HBD1,Philomaxcap,Frankfurt,Technology,Financial Technology (Fintech) & Infrastructure,€10.20M,-30x,,€0.60,0%
+531,GAIn,SGT German Private Equity,Xetra,Financials,Investment Banking & Investment Services,€9.87M,-0.6x,0,€1.03,9%
+532,TH51,Teleservice Holding,Munich,Technology,Telecommunications Services,€9.84M,,,€7,0%
+533,NC5Ak,NorCom Information Technology,Xetra,Technology,Software & IT Services,€9.80M,-21.2x,-0.32,€4.76,-4.4%
+534,HNYG,Hengyang Petrochemical,Stuttgart,Energy,Oil & Gas Related Equipment and Services,€9.77M,-16.5x,0.05,€0.05,0%
+535,2GI,GIEAG Immobilien,Munich,Real Estate,Real Estate Operations,€9.63M,-8.5x,,€2.50,8.7%
+536,AMMn,Grounds Real Estate,Xetra,Real Estate,Real Estate Operations,€9.53M,-1.4x,0,€0.54,0%
+537,DCIGk,DCI Databaseormmerce Industry,Frankfurt,Technology,Software & IT Services,€9.49M,24.9x,,€6.50,4.8%
+538,CE0,Celestial Asia Securities,Stuttgart,Consumer Cyclicals,Specialty Retailers,€9.48M,-0.6x,0,€0.09,-7.6%
+539,PXSL,Provexis,Frankfurt,Consumer Non-Cyclicals,Food & Tobacco,€9.05M,-29x,0.19,€0.004,0%
+540,EFFG,Deutsche Effecten und Wechsel,Xetra,Financials,Investment Holding Companies,€8.88M,-5.5x,-0.08,€0.53,0%
+541,ERWE,ERWE Immobilien,Frankfurt,Real Estate,Real Estate Operations,€8.84M,-0.4x,,€0.36,-15.8%
+542,B9BG,BHB Brauholding Bayern Mitte,Frankfurt,Consumer Non-Cyclicals,Beverages,€8.31M,26.2x,,€2.46,-8.2%
+543,SCIG,Sci,Hamburg,Financials,Investment Banking & Investment Services,€8.14M,19.8x,0.1,€18.40,0%
+544,SYL,Styland,Stuttgart,Financials,Investment Banking & Investment Services,€7.82M,-0.9x,0.14,€0.01,0%
+545,TR9G,Otrs,Frankfurt,Technology,Software & IT Services,€7.82M,-7.3x,0.02,€4.08,0%
+546,B9VG,Wurmtal Beteiligungen,Hamburg,Financials,Investment Holding Companies,€7.82M,,,€5.65,6.6%
+547,MUSGn,Murphy & Spitz Green Capital,Dusseldorf,Financials,Investment Banking & Investment Services,€7.77M,766.7x,,€2.30,0%
+548,3GOKk,Global Oil & Gas,Munich,Energy,Oil & Gas,€7.70M,-38.6x,,€7,0%
+549,PGAG,Pearl Gold,Frankfurt,Basic Materials,Metals & Mining,€7.50M,2.2x,,€0.30,-6.3%
+550,MA10,Binect,Xetra,Technology,Software & IT Services,€7.27M,75.3x,-1.94,€2.26,0%
+551,MBQGn,Mobotix AG,Xetra,Technology,"Computers, Phones & Household Electronics",€7.18M,-1.3x,,€0.55,-6.8%
+552,A4Y,Accentro Real Estate,Frankfurt,Real Estate,Real Estate Operations,€7.07M,-0.1x,0,€0.22,-22.1%
+553,SY5N,Stern Immobilien,Munich,Real Estate,Real Estate Operations,€7.03M,-3.3x,,€4,0%
+554,L1A,Arbitrage Investment,Hamburg,Financials,Investment Banking & Investment Services,€7.01M,-2.9x,,€3.24,4.5%
+555,RMOG,RM Rheiner Manage,Dusseldorf,Financials,Investment Banking & Investment Services,€6.95M,-19.6x,0.11,€31.60,0%
+556,UOM,Latvijas Juras Medicinas Centrs,Munich,Healthcare,Healthcare Providers & Services,€6.88M,-17.3x,0.04,€8.60,0%
+557,VRL,Net Digital,Xetra,Technology,Software & IT Services,€6.85M,,,€3.20,0%
+558,DLBG,DLB Anlageservice,Stuttgart,Financials,Investment Banking & Investment Services,€6.80M,30x,-0.4,€13.60,0%
+559,14Dn,Tokentus Investment,Xetra,Technology,Financial Technology (Fintech) & Infrastructure,€6.79M,-3.3x,,€0.81,0%
+560,BMMG,Brueder Mannesmann,Frankfurt,Consumer Cyclicals,Household Goods,€6.77M,-7.8x,0.04,€1.55,19.2%
+561,EBGKk,Aleia Holding,Hamburg,Industrials,Construction & Engineering,€6.68M,-72x,0.11,€0.36,5.9%
+562,CPUGk,CPU Softwarehouse,Frankfurt,Technology,Software & IT Services,€6.53M,145x,,€1.45,-0.7%
+563,ABEV,Ab Effectenbeteiligungen,Stuttgart,Financials,Investment Banking & Investment Services,€6.45M,14.5x,,€9.10,-9%
+564,ITMG,Intertainment,Xetra,Consumer Cyclicals,Media & Publishing,€6.42M,-19.7x,0.19,€0.39,0%
+565,5NB,Novetum,Dusseldorf,Financials,Banking Services,€6.25M,-692.9x,,€25,0%
+566,RTCG,Realtech AG,Xetra,Technology,Software & IT Services,€6.03M,24.9x,0.21,€1.12,4.7%
+567,1SKG,Sektkellerei J Oppmann,Munich,Consumer Non-Cyclicals,Beverages,€5.98M,134.7x,,€166,0%
+568,GRFG,Greiffenberger,Frankfurt,Basic Materials,Metals & Mining,€5.91M,-3x,0.02,€1.01,0%
+569,M14K,Securize IT Solutions,Munich,Technology,Software & IT Services,€5.87M,-1.9x,0.01,€0.56,0%
+570,A6TG,artec technologies,Xetra,Technology,Software & IT Services,€5.64M,-33x,,€1.98,-3.9%
+571,JJ8,Asep Medical Holdings,Frankfurt,Healthcare,Biotechnology & Medical Research,€5.57M,-1.3x,0.06,€0.07,1.7%
+572,TLIK,Arzneiwerk VIDA,Frankfurt,Technology,Telecommunications Services,€5.55M,-2.1x,-0.03,€0.89,-0.6%
+573,0036,Far East Intl,Stuttgart,Real Estate,Real Estate Operations,€5.45M,-0.6x,0.15,€0.005,0%
+574,KVOG,Oberstdorfer Bergbahn,Munich,Consumer Cyclicals,Hotels & Entertainment Services,€4.80M,87.6x,,€160,0%
+575,ARNG,Arn Georg,Dusseldorf,Real Estate,Real Estate Operations,€4.80M,,,€19.50,2.6%
+576,R2TA,Red Rock,Frankfurt,Basic Materials,Metals & Mining,€4.79M,-0.9x,-0.05,€0.001,0%
+577,PITG,Pittler Maschinenfabrik,Frankfurt,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€4.76M,6.7x,-0.1,€1.94,0%
+578,CT40n,fox emobility AG,Dusseldorf,Consumer Cyclicals,Automobiles & Auto Parts,€4.73M,-3x,,€0.06,-6.2%
+579,DM8,Vortex Metals,Frankfurt,Basic Materials,Metals & Mining,€4.48M,-3.3x,-0.07,€0.04,6.3%
+580,MFCG,Cash Medien,Hamburg,Industrials,Professional & Commercial Services,€4.43M,-35x,0.07,€1.75,0%
+581,EIFG,MedNation,Frankfurt,Healthcare,Healthcare Providers & Services,€4.31M,1.9x,0.01,€1.43,2.1%
+582,CV3,Carpevigo Holding,Munich,Utilities,Electrical Utilities & IPPs,€3.91M,,,€0.71,0%
+583,E8XG,elexxion,Xetra,Healthcare,Healthcare Equipment & Supplies,€3.58M,-2.5x,,€0.41,-9%
+584,X90,Probiotix Health,Frankfurt,Healthcare,Pharmaceuticals,€3.56M,-5.7x,0.03,€0.03,53.5%
+585,PDAG,XTRA:PDA,Xetra,Technology,Software & IT Services,€3.51M,9.4x,0.26,€2.45,-7.9%
+586,A8NG,Aovo Touristik,Munich,Consumer Cyclicals,Hotels & Entertainment Services,€3.50M,-4.5x,0.03,€2.50,0%
+587,U1DA,Finchain Capital,Frankfurt,Financials,Investment Banking & Investment Services,€3.45M,1.3x,,€2.50,0%
+588,ML2G,Ming Le Sports,Frankfurt,Consumer Cyclicals,Textiles & Apparel,€3.39M,36.7x,0.3,€1.10,0%
+589,FF24,Fast Finance 24,Xetra,Financials,Banking Services,€3.36M,0.7x,,€0.07,0%
+590,W2I,Siguldas Ciltslietu Maksligas,Munich,Consumer Non-Cyclicals,Food & Tobacco,€3.25M,114.9x,-1.32,€7.70,0%
+591,SE3G,Smart Equity,Hamburg,Technology,Financial Technology (Fintech) & Infrastructure,€3.19M,,,€11.60,0%
+592,ICPG,Panamax,Frankfurt,Financials,Investment Holding Companies,€3.17M,212.5x,1.8,€1.70,0%
+593,HETAn,KHD Humboldt Wedag Vermoegensverwaltungs,Frankfurt,Industrials,Construction & Engineering,€3.10M,34x,0.19,€7.30,0%
+594,HSRN,Helveticstar,Hamburg,Financials,Investment Banking & Investment Services,€3.07M,,,€11.80,0%
+595,INWk,GBS Software AG,Xetra,Technology,Software & IT Services,€3.02M,18.2x,0.14,€3.02,0%
+596,AEE1,More Impact,Dusseldorf,Consumer Non-Cyclicals,Food & Tobacco,€3M,366.7x,,€0.75,-12.3%
+597,UTR1L,Utenos Trikotazas AB,Munich,Consumer Cyclicals,Textiles & Apparel,€2.95M,-0.8x,0,€0.31,0%
+598,ZEFG,Zhongde Waste Technology,Frankfurt,Energy,Renewable Energy,€2.95M,0.6x,,€0.22,-6%
+599,COR2,Coreo,Xetra,Real Estate,Real Estate Operations,€2.93M,-0.3x,0,€0.13,0%
+600,TJH7,Titan NV,Frankfurt,Technology,Software & IT Services,€2.87M,0.1x,-0,€1.40,0%
+601,T7RAk,CGift,Hamburg,Financials,Investment Banking & Investment Services,€2.85M,-6.1x,,€2,25%
+602,QS6A,Q Soft Verwaltungs,Stuttgart,Technology,Software & IT Services,€2.63M,20.9x,,€2.52,0%
+603,NABG,Nabag,Hamburg,Financials,Investment Banking & Investment Services,€2.04M,"1,020x",-16.81,€1.02,0%
+604,KUB1G,Konsortium,Munich,Financials,Investment Banking & Investment Services,€1.93M,,,€1,0%
+605,JZ6,Deutsche Eigenheim Union,Xetra,Real Estate,Real Estate Operations,€1.87M,1.5x,,€0.10,-4%
+606,VEHG,Valora Effekten Handel,Frankfurt,Financials,Investment Banking & Investment Services,€1.82M,-9.9x,,€1.05,0%
+607,TPD1T,Trigon Property,Stuttgart,Real Estate,Real Estate Operations,€1.76M,-55.9x,-2.76,€0.39,-3.5%
+608,MH90,Sheng Yuan,Stuttgart,Financials,Investment Banking & Investment Services,€1.76M,-0.4x,0.04,€0.002,0%
+609,RTML,Camerit AG,Frankfurt,Financials,Investment Banking & Investment Services,€1.70M,-14.1x,-0.62,€17,0%
+610,E2NG,Endor,Munich,Technology,"Computers, Phones & Household Electronics",€1.66M,-0.1x,,€0.10,-6.5%
+611,RKBG,Webacing,Frankfurt,Financials,Investment Holding Companies,€1.61M,-65.2x,-0.66,€2.02,1%
+612,G7F2,Track Group,Stuttgart,Technology,Communications & Networking,€1.58M,-0.4x,-0.02,€0.13,0%
+613,XBJA,WisdomTree Long CHF Short EUR,Frankfurt,Financials,Investment Banking & Investment Services,€1.58M,,,€61.28,-0.8%
+614,SPBG,Spobag,Frankfurt,Financials,Investment Banking & Investment Services,€1.50M,-21x,,€3,0%
+615,APQG,Aquamondi,Dusseldorf,Financials,Investment Holding Companies,€1.50M,107.1x,0.12,€1.50,0%
+616,G6PGn,Going Public Media,Xetra,Industrials,Professional & Commercial Services,€1.47M,74.1x,0.57,€1.63,0%
+617,UMDk,UMT United Mobility,Xetra,Technology,Software & IT Services,€1.43M,-0.1x,0,€0.27,0%
+618,8HC,Cogia,Dusseldorf,Technology,Software & IT Services,€1.40M,,,€0.36,-10%
+619,LUMG,AIS,Frankfurt,Industrials,Professional & Commercial Services,€1.33M,20x,0,€0.005,0%
+620,DBIG,Deutsche Biotech,Dusseldorf,Healthcare,Biotechnology & Medical Research,€1.33M,-5.6x,,€1.40,0%
+621,T5O,bioXXmed,Xetra,Healthcare,Biotechnology & Medical Research,€1.23M,-0.1x,0,€2.40,8.1%
+622,D2BAk,CD Deutsche Eigenheim,Hamburg,Consumer Cyclicals,Homebuilding & Construction Supplies,€1.21M,-0.1x,,€1.15,-4.2%
+623,VVAGk,Vivanco Gruppe,Frankfurt,Technology,"Computers, Phones & Household Electronics",€1.10M,0.5x,,€0.20,0%
+624,H5EG,Helma Eigenheimbau,Frankfurt,Real Estate,Real Estate Operations,€1.04M,-0x,,€0.25,-1.9%
+625,00XK,WisdomTree Broad Commodities - EUR Daily Hedged,Xetra,Financials,Investment Banking & Investment Services,€1.03M,,,€5.46,0.5%
+626,A62,Advantag,Dusseldorf,Real Estate,Real Estate Operations,€887.45K,-0.7x,,€0.03,1.6%
+627,NSAK,OTI Greentech,Dusseldorf,Industrials,Professional & Commercial Services,€872.09K,-0.6x,,€0.08,0.6%
+628,SPNG,Neuhof Textil Holding,Munich,Consumer Cyclicals,Textiles & Apparel,€840K,,,€140,0%
+629,I8CKk,independent capital,Hamburg,Financials,Investment Banking & Investment Services,€788.32K,0.8x,,€0.70,0%
+630,PH6,Philion,Frankfurt,Technology,Telecommunications Services,€752K,-0.3x,,€0.38,0%
+631,G7I,Oberon Uranium,Frankfurt,Energy,Uranium,€746.05K,,,€0.02,0%
+632,UW3,Rigas kugu buvetava,Stuttgart,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€700.33K,-0.7x,0.01,€0.06,5.3%
+633,27N0k,Cannovum,Xetra,Healthcare,Pharmaceuticals,€693K,,,€1.42,-9%
+634,AO9G,Backbone Technology,Munich,Financials,Investment Holding Companies,€660.33K,,,€3,0%
+635,HPIG,HPI AG,Munich,Technology,Electronic Equipment & Parts,€646.77K,-0.8x,,€0.08,0%
+636,QCEG,Global PVQ,Hamburg,Energy,Renewable Energy,€617.20K,-0x,,€0.004,0%
+637,GIVG,Verianos Real Estate,Xetra,Real Estate,Real Estate Operations,€563.75K,-0.9x,,€0.04,0%
+638,QBIG,Q2M Managementberatung,Hamburg,Healthcare,Biotechnology & Medical Research,€553.51K,,,€1,0%
+639,TAV,Trade & Value,Hamburg,Financials,Investment Banking & Investment Services,€505.66K,-3.5x,,€1.42,0%
+640,MDQk,MediNavi,Hamburg,Consumer Cyclicals,Media & Publishing,€379.68K,,,€4,0%
+641,BI7G,Beteiligungen im Baltikum,Munich,Financials,Investment Banking & Investment Services,€351K,,,€0.40,0%
+642,HHHAk,Homes Holiday,Xetra,Real Estate,Real Estate Operations,€312.25K,-1.3x,,€0.12,0%
+643,TIS0k,tiscon,Frankfurt,Consumer Cyclicals,Specialty Retailers,€262.50K,-0.3x,,€1.05,0%
+644,CNWk,CoDon AG,Frankfurt,Healthcare,Pharmaceuticals,€253.87K,-0x,,€0.010,0%
+645,QOUG,Ripag,Hamburg,Financials,Investment Banking & Investment Services,€207.11K,,,€0.10,0%
+646,TCUG,TC Unterhaltungselektronik,Frankfurt,Technology,"Computers, Phones & Household Electronics",€203.09K,-17.7x,-0.19,€0.16,0%
+647,AUVN,autowerkstatt,Hamburg,Consumer Non-Cyclicals,Personal & Household Products & Services,€180K,2.7x,,€0.03,0%
+648,PA8,Paion,Frankfurt,Healthcare,Biotechnology & Medical Research,€172.64K,-0x,,€0.02,-4.1%
+649,AAHG,Ahlers,Frankfurt,Consumer Cyclicals,Textiles & Apparel,€109.45K,-0x,,€0.008,0%
+650,ILK1,PlanetHome Investment,Stuttgart,Financials,Investment Banking & Investment Services,€103.67K,-0x,,€0.10,0%
+651,BGZG,Smart Grids,Hamburg,Industrials,Construction & Engineering,€84K,,,€0.03,0%
+652,CSQG,Creditshelf,Frankfurt,Financials,Banking Services,€69.80K,-1.3x,0,€0.05,0%
+653,NXRG,NEXR Technologies SE,Frankfurt,Technology,Software & IT Services,€46.37K,-0x,,€0.010,6.7%
+654,0GM,graceNT,Dusseldorf,Healthcare,Healthcare Equipment & Supplies,€27.02K,0.8x,,€0.06,0%
+655,NMIG,Aladdin Blockchain,Dusseldorf,Healthcare,Healthcare Providers & Services,€22.92K,-300x,,€0.002,0%
+656,9AUAn,New Meat Company AG,Dusseldorf,Financials,Investment Holding Companies,€2K,,,€0.008,0%
+657,GSDE,BNP Paribas Easy Energy & Metals Enhanced Roll UCI,Xetra,Financials,Investment Banking & Investment Services,,,,€13.80,1.4%
+658,EMEH,BNP Paribas Easy Energy & Metals Enhanced Roll UCI,Xetra,Financials,Investment Banking & Investment Services,,,,€10.73,0.5%
+659,H68,Rigsave,Xetra,Technology,Financial Technology (Fintech) & Infrastructure,,,,€10,5.3%
+660,00XQ,WisdomTree Precious Metals - EUR Daily Hedged,Xetra,Financials,Investment Banking & Investment Services,,,,€7.70,1%
+661,EXAG,WisdomTree Enhanced Commodity ex-Agriculture UCITS,Xetra,Financials,Investment Banking & Investment Services,,,,€10.48,0.8%
+662,UBF7,UBS (Irl) Fund Solutions plc – CMCI Commodity Carr,Xetra,Financials,Investment Banking & Investment Services,,,,€133.36,0.2%
+663,EHEN,WisdomTree Energy - EUR Daily Hedged,Xetra,Financials,Investment Banking & Investment Services,,,,€2.78,-0.3%
+664,JY0n,ParTec,Xetra,,,,-31.2x,0.11,€62.50,-2.3%
+665,DOU1,Douglas,Xetra,,,,63.9x,0.64,€18.69,3.2%
+666,UEQ3,UBS ETFs plc - CMCI Composite SF UCITS ETF (GBP) A,Xetra,Financials,Investment Banking & Investment Services,,,,€151.79,0.4%
+667,UBF6,UBS (Irl) Fund Solutions plc – CMCI Commodity Carr,Xetra,Financials,Investment Banking & Investment Services,,,,€129.16,0.2%
+668,XCMC,Xtrackers Bloomberg Commodity Swap UCITS 1C - USD,Xetra,Financials,Investment Banking & Investment Services,,,,€9.62,1%
+669,7V0,Darwin,Xetra,,,,,,€26,-0.8%
+670,00XJ,WisdomTree Agriculture - EUR Daily Hedged,Xetra,Financials,Investment Banking & Investment Services,,,,€5.62,0.2%
+671,BCFE,UBS ETFs plc - Bloomberg Commodity CMCI SF UCITS E,Xetra,Financials,Investment Banking & Investment Services,,,,€13.03,0.4%
+672,UIQ1,UBS ETFs plc - CMCI Ex-Agriculture SF UCITs ETF (h,Xetra,Financials,Investment Banking & Investment Services,,,,€161.76,1.2%
+673,75Sn,Sdm SE,Xetra,Industrials,Professional & Commercial Services,,23.9x,,€1.64,-0.6%
+674,BCFU,UBS ETFs plc - Bloomberg Commodity CMCI SF UCITS E,Xetra,Financials,Investment Banking & Investment Services,,,,€14,0.1%
+675,CA1,Circus SE,Xetra,Consumer Cyclicals,Hotels & Entertainment Services,,,,€21,6.6%
+676,5CH6,WisdomTree Short USD Long EUR 5x Daily,Xetra,Financials,Investment Banking & Investment Services,,,,€3.31,-1.7%
+677,NAKG,NAK Stoffe,Hamburg,Consumer Cyclicals,Textiles & Apparel,,,,€0.08,0%

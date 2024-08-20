@@ -1,0 +1,218 @@
+1,COMI,Commercial Int Bank,Egypt,Financials,Banking Services,EGP 258.36B,6.8x,0.08,EGP 84.95,1.1%
+2,SWDY,El Sewedy Electric,Egypt,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",EGP 128.67B,13.1x,0.28,EGP 60.57,1.5%
+3,TMGH,T M G Holding,Egypt,Real Estate,Real Estate Operations,EGP 119.09B,25.2x,0.24,EGP 57.67,-0.7%
+4,MFPC,Misr Fertilizers,Egypt,Basic Materials,Chemicals,EGP 99.49B,16.7x,-0.84,EGP 47.85,-2.2%
+5,ALCN,Alexandria Containers&goods,Egypt,Industrials,Transport Infrastructure,EGP 75.08B,14.2x,0.38,EGP 50.21,3.5%
+6,ABUK,Abu Qir Fertilizers and Chemical Industries,Egypt,Basic Materials,Chemicals,EGP 74.30B,6.2x,-1.2,EGP 58.55,1.1%
+7,EAST,Eastern Tobacco,Egypt,Consumer Non-Cyclicals,Food & Tobacco,EGP 66.72B,10.9x,0.34,EGP 22.24,0.5%
+8,QNBE,Qatar Natl Bank,Egypt,Financials,Banking Services,EGP 60.34B,3.2x,0.07,EGP 28,0.1%
+9,EFIH,E-finance,Egypt,Industrials,Professional & Commercial Services,EGP 57.38B,46.3x,1.11,EGP 23.49,-5.9%
+10,ETEL,Telecom Egypt,Egypt,Technology,Telecommunications Services,EGP 56.42B,5.8x,-1.17,EGP 33.40,-1.8%
+11,ESRS,Ezz Steel,Egypt,Basic Materials,Metals & Mining,EGP 48.60B,19.8x,0.59,EGP 91.50,-0.4%
+12,EGAL,Egypt Aluminum,Egypt,Basic Materials,Metals & Mining,EGP 46.45B,9.3x,1.56,EGP 112.72,0.9%
+13,GPPL,Golden Pyramids Plaza,Egypt,Consumer Cyclicals,Hotels & Entertainment Services,EGP 40.96B,29.4x,-1.01,EGP 70.92,0%
+14,EKHO,Egyptian Kuwaiti Hld,Egypt,Basic Materials,Chemicals,EGP 40.19B,5.2x,-0.26,EGP 35.84,-0.7%
+15,EKHOA,Egypt Kuwait Holding,Egypt,Basic Materials,Chemicals,EGP 40.03B,5.2x,-0.26,EGP 30.20,-1.6%
+16,IRON,Egyptian Iron&Steel,Egypt,Basic Materials,Metals & Mining,EGP 32.61B,17.6x,,EGP 33.80,-1.6%
+17,EMFD,Emaar Misr for Development SAE,Egypt,Real Estate,Real Estate Operations,EGP 29.89B,3x,0.07,EGP 6.61,1.9%
+18,FAITA,Faisal Islamic Bank - USD,Egypt,Financials,Banking Services,EGP 29.58B,3.4x,0.07,EGP 48.85,-0.3%
+19,ORAS,Orascom Construction Ltd,Egypt,Industrials,Construction & Engineering,EGP 28.55B,3.5x,0.12,EGP 256.99,-4.3%
+20,HRHO,EFG Hermes Holdings,Egypt,Financials,Investment Banking & Investment Services,EGP 28.36B,8.3x,0.17,EGP 19.46,-0.2%
+21,CIEB,Credit Agricole Egypt,Egypt,Financials,Banking Services,EGP 27.25B,3.9x,0.05,EGP 21.70,5.4%
+22,HDBK,Housing&Develop Bank,Egypt,Financials,Banking Services,EGP 24.52B,3.1x,0.02,EGP 46.64,3%
+23,IRAX,EL Ezz Aldekhela Steel,Egypt,Basic Materials,Metals & Mining,EGP 24.39B,8.6x,,"EGP 1,251",0%
+24,JUFO,Juhayna Food,Egypt,Consumer Non-Cyclicals,Food & Tobacco,EGP 24.10B,13x,0.56,EGP 25.50,0.7%
+25,ADIB,Abu Dhabi Islamic Bank,Egypt,Financials,Banking Services,EGP 24.01B,4.7x,0.13,EGP 40.30,2.3%
+26,FWRY,Fawry Banking and Payment,Egypt,Industrials,Professional & Commercial Services,EGP 22.11B,24.9x,0.22,EGP 6.82,5.1%
+27,SKPC,Sidi Kerir,Egypt,Basic Materials,Chemicals,EGP 21.99B,10.5x,0.21,EGP 29.08,4.8%
+28,TAQA,TAQA Arabia,Egypt,Energy,Oil & Gas,EGP 20.10B,38.1x,4.35,EGP 14.83,-0.2%
+29,EFID,Edita Food,Egypt,Consumer Non-Cyclicals,Food & Tobacco,EGP 19.22B,12.2x,0.29,EGP 27.46,-4.2%
+30,FAIT,Faisal Islamic Bank of Egypt,Egypt,Financials,Banking Services,EGP 18.37B,0x,0.07,EGP 30.34,1.4%
+31,EGCH,Kima,Egypt,Basic Materials,Chemicals,EGP 16.97B,68.9x,-1.25,EGP 8.54,-0.5%
+32,ORWE,Oriental Weavers,Egypt,Consumer Cyclicals,Household Goods,EGP 16.63B,8.8x,0.12,EGP 24.83,2.7%
+33,OCDI,SODIC,Egypt,Real Estate,Real Estate Operations,EGP 16.63B,10.1x,0.04,EGP 46.49,-0.9%
+34,EXPA,EDBE,Egypt,Financials,Banking Services,EGP 16.47B,4.2x,0.04,EGP 22.20,1.7%
+35,BTFH,Beltone Financial Hld,Egypt,Financials,Investment Banking & Investment Services,EGP 16.06B,17.2x,0.13,EGP 2.94,1.7%
+36,GBCO,GB AUTO,Egypt,Consumer Cyclicals,Automobiles & Auto Parts,EGP 14.61B,6.2x,-0.08,EGP 13.50,-0.9%
+37,ORHD,Orascom Hotels,Egypt,Consumer Cyclicals,Hotels & Entertainment Services,EGP 14.12B,5.4x,-0.84,EGP 12.45,0.4%
+38,PHDC,Palm Hills Develop,Egypt,Real Estate,Real Estate Operations,EGP 13.71B,6x,0.06,EGP 4.66,5.4%
+39,EGSA,Egyptian Satellite,Egypt,Consumer Cyclicals,Media & Publishing,EGP 12.63B,6.9x,0.83,EGP 338.30,1.5%
+40,HELI,Misr El Gadida for Housing Dev,Egypt,Consumer Cyclicals,Homebuilding & Construction Supplies,EGP 12.34B,1.5x,0,EGP 9.30,0.7%
+41,AMOC,Alexandria Mineral Oils,Egypt,Energy,Oil & Gas,EGP 12.14B,8.7x,1.51,EGP 9.39,2.1%
+42,INEG,Integrated Diagnostics Holding Co,Egypt,Healthcare,Healthcare Providers & Services,EGP 10.56B,14x,0.17,EGP 19.95,5%
+43,IDHC,Integrated Diagnostics Holding Co,Egypt,Healthcare,Healthcare Providers & Services,EGP 10.56B,14x,0.17,EGP 19.95,5%
+44,CLHO,Cleopatra Hospital,Egypt,Healthcare,Healthcare Providers & Services,EGP 10.05B,24.6x,0.4,EGP 6.91,-1.9%
+45,ELEC,Electro Cable,Egypt,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",EGP 9.94B,6.3x,0.04,EGP 2.99,-0.3%
+46,RAYA,Raya Holding,Egypt,Consumer Cyclicals,Specialty Retailers,EGP 9.76B,15.5x,,EGP 2.30,0%
+47,MTIE,MM Group,Egypt,Consumer Cyclicals,Specialty Retailers,EGP 9.67B,15.2x,0.2,EGP 6.46,0.5%
+48,MHOT,Misr Hotels,Egypt,Consumer Cyclicals,Hotels & Entertainment Services,EGP 9.46B,7.6x,0.11,EGP 23.90,-4.5%
+49,MOIL,Maridive & oil Svcs,Egypt,Energy,Oil & Gas Related Equipment and Services,EGP 8.84B,3.1x,0.02,EGP 18.81,2.7%
+50,SUGR,Delta Sugar,Egypt,Consumer Non-Cyclicals,Food & Tobacco,EGP 8.38B,6.9x,0.2,EGP 58.99,0.3%
+51,CIRA,Cairo Invest RE,Egypt,Academic & Educational Services,Miscellaneous Educational Service Providers,EGP 8.16B,50.9x,-1.18,EGP 13.81,2.3%
+52,MASR,Madinet Nasr for Housing and Development,Egypt,Real Estate,Real Estate Operations,EGP 8.13B,3x,0.01,EGP 3.81,1.1%
+53,SAUD,Al Baraka Bank,Egypt,Financials,Banking Services,EGP 7.72B,3.8x,0.13,EGP 10.65,-0.7%
+54,EFIC,Egyptian Financial&Industrial,Egypt,Basic Materials,Chemicals,EGP 7.65B,9.6x,0.5,EGP 105.10,-0.4%
+55,SCTS,Suez Canal,Egypt,Academic & Educational Services,Professional & Business Education,EGP 7.46B,8x,0.41,EGP 82.11,7.2%
+56,ADRI,Arab Develop,Egypt,Real Estate,Real Estate Operations,EGP 7.36B,161.7x,0.27,EGP 0.97,6.4%
+57,CANA,Suez Canal Bank,Egypt,Financials,Banking Services,EGP 7.32B,3.1x,0.02,EGP 14.50,2%
+58,EGBE,Egyptian Gulf Bank,Egypt,Financials,Banking Services,EGP 6.51B,4.6x,0.07,EGP 12.77,-1.9%
+59,GDWA,Gadwa for Industrial Development,Egypt,Financials,Investment Banking & Investment Services,EGP 6.49B,4.5x,0.02,EGP 6,-2.4%
+60,SPHT,El Shams Pyramids,Egypt,Consumer Cyclicals,Hotels & Entertainment Services,EGP 6.17B,150x,-7.18,EGP 125.59,0%
+61,EGTS,Egyptian Tourism Resorts,Egypt,Real Estate,Real Estate Operations,EGP 6.04B,-12.5x,0.02,EGP 5.83,0.7%
+62,TALM,Taaleem Management Services,Egypt,Academic & Educational Services,Miscellaneous Educational Service Providers,EGP 5.75B,11x,0.12,EGP 7.85,-0.4%
+63,PHAR,EIPICO,Egypt,Healthcare,Pharmaceuticals,EGP 5.63B,4.6x,0.18,EGP 37.82,0.7%
+64,CSAG,Canal Shipping Agencies,Egypt,Industrials,Freight & Logistics Services,EGP 5.55B,8.9x,0.15,EGP 18.45,0.7%
+65,BINV,B Investments,Egypt,Financials,Investment Banking & Investment Services,EGP 5.09B,3.5x,-0.7,EGP 23.26,3.2%
+66,CNFN,Contact Financial Holding,Egypt,Financials,Banking Services,EGP 4.82B,8.3x,0.37,EGP 4.03,0.7%
+67,CICH,CI Capital,Egypt,Financials,Banking Services,EGP 4.78B,2.9x,0.04,EGP 4.77,3%
+68,ISMQ,Iron Steel for Mines Quarries,Egypt,Basic Materials,Metals & Mining,EGP 4.53B,23.3x,2.55,EGP 4.59,-1.1%
+69,ATQA,Misr National Steel,Egypt,Basic Materials,Metals & Mining,EGP 4.26B,6.4x,0.05,EGP 3.56,0%
+70,POUL,Cairo Poultry,Egypt,Consumer Non-Cyclicals,Food & Tobacco,EGP 4.11B,19.1x,-0.4,EGP 8.59,-0.2%
+71,CCAP,Qalaa Holdings,Egypt,Financials,Investment Banking & Investment Services,EGP 4.10B,0.6x,0.04,EGP 2.25,-1.3%
+72,OLFI,Obour Land,Egypt,Consumer Non-Cyclicals,Food & Tobacco,EGP 4.05B,6.9x,0.18,EGP 10.19,-1.4%
+73,EGAS,Egypt Gas,Egypt,Utilities,Natural Gas Utilities,EGP 3.88B,17.9x,-0.56,EGP 26.67,4.6%
+74,ARCC,Arabian Cement Co SAE,Egypt,Basic Materials,Construction Materials,EGP 3.57B,5.2x,0.51,EGP 9.42,3.1%
+75,RMDA,Tenth of Ramadan,Egypt,Healthcare,Pharmaceuticals,EGP 3.53B,16.6x,-2.7,EGP 2.36,1.3%
+76,ZMID,Zahraa Maadi,Egypt,Real Estate,Real Estate Operations,EGP 3.51B,12.7x,0.45,EGP 6.65,1.5%
+77,SAIB,SAIB,Egypt,Financials,Banking Services,EGP 3.44B,2.3x,0.05,EGP 103.92,0%
+78,MPRC,Egyptian Media Production City,Egypt,Consumer Cyclicals,Media & Publishing,EGP 3.39B,5.8x,0.08,EGP 18,1.4%
+79,DOMT,Arabian Food Industries Co,Egypt,Consumer Non-Cyclicals,Food & Tobacco,EGP 3.24B,8.8x,0.12,EGP 11.47,-0.4%
+80,ENGC,Industrial Engineering,Egypt,Basic Materials,Metals & Mining,EGP 3.08B,9.4x,0.03,EGP 21.19,4.4%
+81,PRDC,Pioneer Properties for Urban Development,Egypt,Industrials,Construction & Engineering,EGP 3B,2.2x,0,EGP 2.92,2.1%
+82,MICH,Misr Chemical Industries,Egypt,Basic Materials,Chemicals,EGP 2.97B,7.9x,-1.4,EGP 27,0%
+83,ARAB,Arab Developers Holding,Egypt,Real Estate,Real Estate Operations,EGP 2.93B,63.3x,0.1,EGP 0.38,0%
+84,ISPH,Ibnsina Pharma,Egypt,Consumer Non-Cyclicals,Food & Drug Retailing,EGP 2.93B,15x,0.49,EGP 2.91,2.8%
+85,GSSC,General Silos&Storage,Egypt,Industrials,Freight & Logistics Services,EGP 2.85B,30.2x,0.75,EGP 163,-1%
+86,NAHO,Naeem Holding,Egypt,Financials,Investment Banking & Investment Services,EGP 2.78B,21.4x,,EGP 7.36,-1.3%
+87,PHTV,Pyramisa Hotels,Egypt,Consumer Cyclicals,Hotels & Entertainment Services,EGP 2.75B,9.1x,0.03,EGP 148.50,3.8%
+88,ACRO,Acrow Misr,Egypt,Industrials,Construction & Engineering,EGP 2.64B,4.8x,0.03,EGP 47.80,-0.8%
+89,MFSC,Egypt Free Shops,Egypt,Consumer Cyclicals,Specialty Retailers,EGP 2.61B,9.1x,,EGP 27.79,9%
+90,MOIN,Mohandes Insurance,Egypt,Financials,Insurance,EGP 2.49B,9.1x,0.24,EGP 17.80,4%
+91,SCEM,Sinai Cement,Egypt,Basic Materials,Construction Materials,EGP 2.42B,10.2x,0.03,EGP 18.19,20%
+92,DSCW,Dice Sport&Casual Wear,Egypt,Consumer Cyclicals,Textiles & Apparel,EGP 2.40B,6.3x,0.03,EGP 1.38,4.5%
+93,BIOC,Glaxo Smith Kline,Egypt,Healthcare,Pharmaceuticals,EGP 2.36B,62.4x,0.47,EGP 28.60,3.3%
+94,MBSC,Misr Beni Suef Cement,Egypt,Basic Materials,Construction Materials,EGP 2.32B,8.1x,0.02,EGP 38,2.4%
+95,OIH,Orascom Invest,Egypt,Technology,Telecommunications Services,EGP 2.10B,9.8x,-0.36,EGP 0.40,-0.5%
+96,LCSW,Lecico Egypt,Egypt,Consumer Cyclicals,Homebuilding & Construction Supplies,EGP 2.08B,2.4x,0,EGP 26,-1.9%
+97,MCQE,Misr Cement,Egypt,Basic Materials,Construction Materials,EGP 2.06B,35x,-0.75,EGP 21.80,10.2%
+98,CFGH,Al Arafa Inv,Egypt,Consumer Cyclicals,Textiles & Apparel,EGP 2.05B,3.3x,-0.12,EGP 4.42,0%
+99,MIPH,Minapharm Pharma,Egypt,Healthcare,Pharmaceuticals,EGP 2B,-18.9x,0.18,EGP 181,0.4%
+100,ASCM,ASEC Co for Mining,Egypt,Basic Materials,Construction Materials,EGP 1.99B,1.1x,0,EGP 39.99,6.4%
+101,IFAP,Int Agricultural Products,Egypt,Consumer Non-Cyclicals,Food & Tobacco,EGP 1.92B,8.6x,-0.42,EGP 12,0.2%
+102,WCDF,Middle&West Delta Flour Mills,Egypt,Consumer Non-Cyclicals,Food & Tobacco,EGP 1.91B,5x,0.08,EGP 255.02,-0.2%
+103,ACGC,Arab Cotton Ginning,Egypt,Consumer Cyclicals,Textiles & Apparel,EGP 1.86B,3.6x,0.02,EGP 7.09,0%
+104,SPIN,SPINALEX,Egypt,Consumer Cyclicals,Textiles & Apparel,EGP 1.80B,31x,-0.88,EGP 5.79,5.1%
+105,DEIN,Delta Insurance,Egypt,Financials,Insurance,EGP 1.71B,4.3x,0.02,EGP 17.07,20%
+106,UNIT,United Housing&Develop,Egypt,Consumer Cyclicals,Homebuilding & Construction Supplies,EGP 1.50B,12.1x,0.19,EGP 5.73,-1.4%
+107,OFH,Orascom Financial Holding,Egypt,Financials,Investment Banking & Investment Services,EGP 1.48B,187.6x,1.44,EGP 0.32,1.6%
+108,NINH,Nozha Int Hospital,Egypt,Healthcare,Healthcare Providers & Services,EGP 1.41B,14.3x,0.22,EGP 6.42,-1.2%
+109,ACAP,A Capital Holding,Egypt,Real Estate,Real Estate Operations,EGP 1.41B,26.2x,,EGP 1.59,1.3%
+110,ELSH,El Shams,Egypt,Real Estate,Real Estate Operations,EGP 1.34B,9.1x,-0.5,EGP 5.91,0.2%
+111,ELKA,El Kahera Housing,Egypt,Real Estate,Real Estate Operations,EGP 1.34B,1x,0,EGP 1.52,1.3%
+112,KZPC,Kafr El Zayat Pesticides,Egypt,Basic Materials,Chemicals,EGP 1.30B,7.1x,-0.21,EGP 7.24,0.3%
+113,AJWA,AJWA Food Industries,Egypt,Consumer Non-Cyclicals,Food & Tobacco,EGP 1.28B,21.5x,0.66,EGP 63.50,-0.5%
+114,RACC,Raya Contact Center,Egypt,Industrials,Professional & Commercial Services,EGP 1.25B,4.2x,0.04,EGP 6.49,3.8%
+115,UEFM,Upper Egypt Flour Mills,Egypt,Consumer Non-Cyclicals,Food & Tobacco,EGP 1.22B,4.7x,0.11,EGP 175,3.5%
+116,OCPH,October Pharma,Egypt,Healthcare,Pharmaceuticals,EGP 1.20B,6.3x,0.2,EGP 91.11,-8.9%
+117,EHDR,Egyptians Housing Develop,Egypt,Real Estate,Real Estate Operations,EGP 1.19B,12.9x,,EGP 0.35,-0.3%
+118,DAPH,DAPH,Egypt,Industrials,Construction & Engineering,EGP 1.19B,-83.2x,0.73,EGP 51.69,0.8%
+119,KABO,El Nasr Clothing & Textiles,Egypt,Consumer Cyclicals,Textiles & Apparel,EGP 1.16B,9.2x,0.01,EGP 2.50,2%
+120,NDRL,National Drilling,Egypt,Energy,Oil & Gas Related Equipment and Services,EGP 1.15B,2x,0.02,EGP 230.99,0%
+121,ECAP,Al Ezz,Egypt,Consumer Cyclicals,Homebuilding & Construction Supplies,EGP 1.15B,5.7x,-3.94,EGP 21.51,-0.4%
+122,KRDI,Al Khair River for Development Agricultural Invest,Egypt,Industrials,Professional & Commercial Services,EGP 1.14B,28.6x,,EGP 0.56,-0.5%
+123,SVCE,South Valley Cement,Egypt,Basic Materials,Construction Materials,EGP 1.12B,-5.5x,-0.98,EGP 2.38,7.7%
+124,AXPH,Alexandria Pharma,Egypt,Healthcare,Pharmaceuticals,EGP 1.11B,5.3x,,EGP 222.51,1.5%
+125,CPCI,Kahira Pharmaceuticals and Chemical Industries,Egypt,Healthcare,Pharmaceuticals,EGP 1.09B,4.6x,0.02,EGP 73.03,-0.3%
+126,EDFM,East Delta Flour Mills,Egypt,Consumer Non-Cyclicals,Food & Tobacco,EGP 1.06B,6.5x,,EGP 177,1.2%
+127,GTEX,GTEX for Commercial Industrial,Egypt,Consumer Cyclicals,Specialty Retailers,EGP 1.04B,,,EGP 1.96,-2.2%
+128,ADPC,ARAB DAIRY,Egypt,Consumer Non-Cyclicals,Food & Tobacco,EGP 1.03B,5.3x,0.04,EGP 2.06,-1.9%
+129,AMIA,Arab Moltaka Invest,Egypt,Consumer Non-Cyclicals,Food & Tobacco,EGP 1.03B,7.7x,0.03,EGP 2.03,0.5%
+130,RTVC,RTVC,Egypt,Real Estate,Real Estate Operations,EGP 987.19M,-1x,0,EGP 4,5%
+131,ACAMD,Arab Co Asset Management,Egypt,Financials,Investment Banking & Investment Services,EGP 966.58M,-104.3x,0.67,EGP 0.74,-1.1%
+132,MCRO,Macro Pharmaceutical,Egypt,Healthcare,Pharmaceuticals,EGP 917.78M,,0.01,EGP 1.64,0.6%
+133,MEPA,Medical Packaging,Egypt,Basic Materials,Containers & Packaging,EGP 844.95M,6.3x,0,EGP 1.28,0.8%
+134,AIH,Arabia Invest,Egypt,Financials,Investment Holding Companies,EGP 822.69M,9.3x,0.09,EGP 0.53,1%
+135,ICLE,IncoLEASE,Egypt,Financials,Banking Services,EGP 820M,4.8x,0.58,EGP 41,0%
+136,AMES,Alexandria Medical Center,Egypt,Healthcare,Healthcare Providers & Services,EGP 811.03M,271.3x,1.64,EGP 6.51,-6.6%
+137,SDTI,Sharm Dreams Co.,Egypt,Consumer Cyclicals,Hotels & Entertainment Services,EGP 806.44M,-195.1x,1.5,EGP 15.15,0.7%
+138,ODIN,ODIN Investments SAE,Egypt,Financials,Investment Banking & Investment Services,EGP 805M,5.1x,0.02,EGP 1.61,0%
+139,ISMA,Ismailia Misr Poultry,Egypt,Consumer Non-Cyclicals,Food & Tobacco,EGP 797.03M,-22x,-1.42,EGP 8.95,1.5%
+140,INFI,Ismailia Food Industries,Egypt,Consumer Non-Cyclicals,Food & Tobacco,EGP 788.98M,16.9x,0.06,EGP 62.60,-5%
+141,MEGM,Middle East Glass,Egypt,Basic Materials,Containers & Packaging,EGP 785.36M,0.9x,,EGP 12.54,0%
+142,APSW,Arab Polvara Spinning Weaving,Egypt,Consumer Cyclicals,Textiles & Apparel,EGP 785.09M,-54x,-3.7,EGP 8.38,-4%
+143,AMER,Amer Group Holding,Egypt,Real Estate,Real Estate Operations,EGP 776.40M,24.7x,0.3,EGP 0.86,0.2%
+144,MAAL,Marseilia Egyptian Gulf Real Estate Investment,Egypt,Real Estate,Real Estate Operations,EGP 768.30M,16.8x,,EGP 3.60,-2.7%
+145,CEFM,Middle Egypt Flour Mills,Egypt,Consumer Non-Cyclicals,Food & Tobacco,EGP 753.52M,5.9x,0.65,EGP 51.18,-8.3%
+146,RAKT,General,Egypt,Basic Materials,Paper & Forest Products,EGP 723.90M,-1.9x,0.01,EGP 24.13,-5%
+147,NHPS,NHPS,Egypt,Consumer Cyclicals,Homebuilding & Construction Supplies,EGP 688M,10.9x,0.4,EGP 43,0.5%
+148,NCCW,Nasr Co. for Civil Works,Egypt,Industrials,Construction & Engineering,EGP 674.59M,45x,0.27,EGP 4.20,-0.9%
+149,COSG,Cairo Oils & Soap,Egypt,Consumer Non-Cyclicals,Food & Tobacco,EGP 667.68M,14.3x,0.07,EGP 0.21,0%
+150,NIPH,Nile Pharma,Egypt,Healthcare,Pharmaceuticals,EGP 663.29M,4.1x,,EGP 65.51,-3.6%
+151,ATLC,AT Lease,Egypt,Financials,Banking Services,EGP 643.75M,4.5x,-0.24,EGP 3.68,0.3%
+152,AFMC,Alexandria Flour Mills,Egypt,Consumer Non-Cyclicals,Food & Tobacco,EGP 632.84M,11.5x,0.44,EGP 19,-0.3%
+153,ETRS,Egyptian Transport & Commercial Services,Egypt,Industrials,Freight & Logistics Services,EGP 630.49M,3.9x,0.02,EGP 4.05,2.5%
+154,PRCL,Ceramic&Porcelain,Egypt,Consumer Cyclicals,Homebuilding & Construction Supplies,EGP 623.03M,-4.7x,0.01,EGP 12.40,-0.2%
+155,MPCO,Mansourah Poultry,Egypt,Consumer Non-Cyclicals,Food & Tobacco,EGP 604.16M,5.4x,0.01,EGP 1.23,-3.9%
+156,IDRE,Ismailia Develop&RE,Egypt,Real Estate,Real Estate Operations,EGP 582.41M,188.4x,-6.05,EGP 15.81,-1.6%
+157,ROTO,Rowad Tourism,Egypt,Consumer Cyclicals,Hotels & Entertainment Services,EGP 571.81M,-59.2x,-4.09,EGP 33.49,-3.6%
+158,GGCC,Giza General Contracting,Egypt,Industrials,Construction & Engineering,EGP 568.43M,10.9x,-0.67,EGP 0.39,-1%
+159,SPMD,Speed Medical,Egypt,Healthcare,Healthcare Providers & Services,EGP 562.34M,-6.7x,-0.11,EGP 0.34,0.9%
+160,UEGC,El Saeed Contracting & RE Inv,Egypt,Industrials,Construction & Engineering,EGP 551.18M,4.6x,,EGP 0.76,1.3%
+161,ALUM,Arab Aluminum,Egypt,Basic Materials,Metals & Mining,EGP 551.07M,121.1x,-1.55,EGP 13.11,0.8%
+162,CERA,Ceramica Remas,Egypt,Consumer Cyclicals,Homebuilding & Construction Supplies,EGP 541.94M,16x,4.37,EGP 0.75,-0.8%
+163,REAC,Reacap Financial Invest,Egypt,Financials,Investment Banking & Investment Services,EGP 520.44M,19.8x,,EGP 4.53,-3.4%
+164,WKOL,Wadi Kom Ombo Land,Egypt,Industrials,Construction & Engineering,EGP 515.48M,3.5x,0.01,EGP 93,0.5%
+165,SNFC,Sharkia National Food,Egypt,Consumer Non-Cyclicals,Food & Tobacco,EGP 508.17M,-55.3x,0.08,EGP 3.10,3.3%
+166,ADCI,Arab Pharma,Egypt,Healthcare,Pharmaceuticals,EGP 507M,6.5x,,EGP 84.50,3.1%
+167,AFDI,El Ahli Inv&Develop,Egypt,Financials,Investment Banking & Investment Services,EGP 504.36M,28.8x,0.11,EGP 28.02,0.8%
+168,SMFR,Samad Misr-EGYFERT,Egypt,Basic Materials,Chemicals,EGP 463.58M,11.1x,0.79,EGP 48.29,6.2%
+169,ZEOT,Extracted Oils,Egypt,Consumer Non-Cyclicals,Food & Tobacco,EGP 424M,16.5x,0,EGP 2.12,0.5%
+170,TANM,Tanmiya for Real Estate Investment,Egypt,Industrials,Construction & Engineering,EGP 390.43M,16.9x,,EGP 3.03,-5.9%
+171,MENA,Mena Touristic&RE,Egypt,Real Estate,Real Estate Operations,EGP 389.49M,-30.6x,-7.53,EGP 1.61,1.3%
+172,RUBX,Rubex Plastics,Egypt,Basic Materials,Chemicals,EGP 381.18M,"23,950x",,EGP 6.61,-0.2%
+173,MILS,North Cairo Mills,Egypt,Consumer Non-Cyclicals,Food & Tobacco,EGP 374.50M,5.1x,0.09,EGP 35,-5.9%
+174,GTWL,Golden Textiles&Clothes Wool,Egypt,Consumer Cyclicals,Textiles & Apparel,EGP 342.94M,5.8x,,EGP 24.04,0.3%
+175,AIFI,Atlas Land Reclamation,Egypt,Consumer Non-Cyclicals,Food & Tobacco,EGP 338.67M,-74.4x,0.09,EGP 0.52,-3%
+176,HCFI,Aspire Capital Holding for Financial Investments,Egypt,Financials,Investment Banking & Investment Services,EGP 336.48M,12x,0.05,EGP 0.32,-1.8%
+177,ASPI,Aspire Capital Holding for Financial Investments,Egypt,Financials,Investment Banking & Investment Services,EGP 336.48M,12x,0.05,EGP 0.32,-1.8%
+178,UNIP,Universal Co Packaging,Egypt,Basic Materials,Containers & Packaging,EGP 335.31M,7.2x,0.07,EGP 0.44,1.2%
+179,MOSC,Misr Oils & Soap,Egypt,Consumer Non-Cyclicals,Food & Tobacco,EGP 334.80M,160.3x,-15.62,EGP 55.80,-4.7%
+180,MOED,The Egyptian Modern Education,Egypt,Academic & Educational Services,Miscellaneous Educational Service Providers,EGP 331.65M,66.2x,-3.19,EGP 0.33,0.9%
+181,ICID,Int Co Invest&Development,Egypt,Real Estate,Real Estate Operations,EGP 320M,39.5x,-1.25,EGP 3.16,0.3%
+182,COPR,Copper for Commercial Investment RE Dev,Egypt,Real Estate,Real Estate Operations,EGP 319.53M,5.7x,0.33,EGP 0.61,0.2%
+183,KWIN,Cairo National Co for Investment and Securities,Egypt,Financials,Investment Banking & Investment Services,EGP 294M,21.4x,0.18,EGP 26.66,0.9%
+184,EIUD,EIUD,Egypt,Real Estate,Real Estate Operations,EGP 289.50M,38.6x,0.81,EGP 0.19,1%
+185,EEII,El Arabia Engineering,Egypt,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",EGP 282.09M,6.1x,0.05,EGP 1.27,-0.8%
+186,SEIG,Saudi Egyptian Inv&Fin,Egypt,Financials,Investment Banking & Investment Services,EGP 270M,7.9x,0.11,EGP 54,-2.2%
+187,AREH,Egyptian RE Group,Egypt,Real Estate,Real Estate Operations,EGP 267.20M,27.8x,2.65,EGP 0.67,-1%
+188,RREI,ALICO,Egypt,Real Estate,Real Estate Operations,EGP 263.65M,20.6x,,EGP 1.07,0%
+189,DTPP,Delta Printing&Packaging,Egypt,Basic Materials,Containers & Packaging,EGP 262.53M,6.9x,0.06,EGP 46.88,-1.5%
+190,AALR,AALR,Egypt,Industrials,Construction & Engineering,EGP 247.38M,-4.7x,0.01,EGP 38,-6.4%
+191,EGREF,Egyptians Real Estate Fund,Egypt,Real Estate,Residential & Commercial REITs,EGP 240.89M,,,EGP 10.71,-20%
+192,CAED,Cairo Educational Svcs,Egypt,Academic & Educational Services,Miscellaneous Educational Service Providers,EGP 240M,22.4x,-0.42,EGP 20,-3.4%
+193,SCFM,S.Cairo&Giza Mills&Bakeries,Egypt,Consumer Non-Cyclicals,Food & Tobacco,EGP 210.60M,3.7x,0.02,EGP 34.52,-2.9%
+194,PRMH,Prime Holding,Egypt,Financials,Investment Banking & Investment Services,EGP 210M,8.3x,0.03,EGP 0.60,-1.5%
+195,SIPC,Sabaa Intl Pharma and Chemical Industries,Egypt,Healthcare,Pharmaceuticals,EGP 195.50M,-253.3x,3.93,EGP 0.78,0.1%
+196,MPCI,Memphis Pharma,Egypt,Healthcare,Pharmaceuticals,EGP 189.56M,0.9x,0.01,EGP 33.45,-0.9%
+197,TRTO,TransOceans Tours,Egypt,Consumer Cyclicals,Hotels & Entertainment Services,EGP 187.66M,32.6x,0.08,EGP 1.88,0%
+198,EASB,EASB,Egypt,Financials,Investment Banking & Investment Services,EGP 185.40M,6.6x,0.14,EGP 2.06,-2.4%
+199,EALR,El Arabia Land Reclamation,Egypt,Industrials,Construction & Engineering,EGP 183.30M,10.9x,0.04,EGP 35.25,0.3%
+200,EPCO,Egypt for Poultry,Egypt,Consumer Non-Cyclicals,Food & Tobacco,EGP 168.58M,-14.1x,0,EGP 3.96,-1%
+201,UASG,United Arab Shipping,Egypt,Industrials,Transport Infrastructure,EGP 164M,-6.9x,,EGP 0.82,1.7%
+202,EDBM,EDBM,Egypt,Industrials,Construction & Engineering,EGP 159.40M,-23.6x,-3.47,EGP 0.28,1.1%
+203,CCRS,Gulf Canadian RE Inv Co,Egypt,Real Estate,Real Estate Operations,EGP 140.95M,62.8x,0.2,EGP 28.19,5%
+204,EBSC,Osool ESB Securities Broker,Egypt,Financials,Investment Banking & Investment Services,EGP 128M,18.8x,0.05,EGP 0.32,0%
+205,ARVA,Arab Valves Co,Egypt,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",EGP 125.15M,7.8x,0.04,EGP 1.67,0%
+206,NEDA,Northern Upper Egypt Develop,Egypt,Basic Materials,Chemicals,EGP 121.28M,-146.1x,1.09,EGP 1.91,-2.5%
+207,GIHD,GIHD,Egypt,Industrials,Construction & Engineering,EGP 117.17M,63.5x,5.23,EGP 21.19,1.7%
+208,ELNA,El Nasr Agricultural Crops,Egypt,Consumer Non-Cyclicals,Food & Tobacco,EGP 116.80M,-45.5x,-0.81,EGP 14.42,-4.3%
+209,ELWA,El Wadi Co.,Egypt,Consumer Cyclicals,Hotels & Entertainment Services,EGP 113.75M,69.4x,0.39,EGP 0.63,1.8%
+210,OBRI,El Obour RE Inv,Egypt,Real Estate,Real Estate Operations,EGP 112.65M,10.2x,0.09,EGP 6.39,0%
+211,MMAT,Marsa Marsa Alam Tourism,Egypt,Consumer Cyclicals,Hotels & Entertainment Services,EGP 110M,146.7x,-0.8,EGP 2.18,3.8%
+212,GOCO,Golden Coast Co,Egypt,Consumer Cyclicals,Hotels & Entertainment Services,EGP 91.42M,-40.6x,,EGP 0.53,4.9%
+213,EPPK,El Ahram Co.,Egypt,Basic Materials,Containers & Packaging,EGP 57.74M,-1.7x,0.01,EGP 6.94,5%
+214,GRCA,Grand Invest Capital,Egypt,Financials,Investment Banking & Investment Services,EGP 54.60M,-49.8x,,EGP 6.96,-3.5%
+215,IEEC,Industrial Engineer Enterprises,Egypt,Industrials,Construction & Engineering,EGP 42.19M,0.1x,0,EGP 0.29,1.8%
+216,ANFI,Alexandria National Co,Egypt,Financials,Investment Banking & Investment Services,EGP 39.19M,-67.6x,0.65,EGP 7.50,-3.8%
+217,GMCI,GMC Group,Egypt,Energy,Oil & Gas Related Equipment and Services,EGP 36.62M,-65.6x,0.44,EGP 0.88,0%
+218,EOSB,Al Orouba Securities Brokerage,Egypt,Financials,Investment Banking & Investment Services,EGP 32.45M,-7x,-0.26,EGP 1.10,-4.3%

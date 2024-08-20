@@ -1,0 +1,135 @@
+1,CHILE,Banco De Chile (SN),Santiago,Financials,Banking Services,CLP 11.57T,8.1x,1.36,CLP 114.49,1.1%
+2,ENELAM,ENEL Americas,Santiago,Utilities,Electrical Utilities & IPPs,CLP 10.19T,4.1x,0.01,CLP 94.99,-0%
+3,SQMA,Soquimich Pref A,Santiago,Basic Materials,Chemicals,CLP 9.5T,30.1x,-0.28,"CLP 31,433",-1.2%
+4,SQMB,Soquimich B,Santiago,Basic Materials,Chemicals,CLP 9.5T,30.1x,-0.28,"CLP 33,889",0.1%
+5,BSANTANDER,Santander Chile,Santiago,Financials,Banking Services,CLP 8.82T,15.5x,2.15,CLP 46.79,0.2%
+6,FALABELLA,Falabella,Santiago,Consumer Cyclicals,Diversified Retail,CLP 8.03T,45.7x,0.11,"CLP 3,200",1.1%
+7,COPEC,Empresas Copec,Santiago,Energy,Oil & Gas,CLP 8.03T,20.2x,-0.44,"CLP 6,175",0.4%
+8,LTM,Latam Airlines,Santiago,Industrials,Passenger Transportation Services,CLP 6.77T,12.2x,-0.12,CLP 11.20,-0.5%
+9,BCI,Banco de Credito e Inversiones,Santiago,Financials,Banking Services,CLP 6.28T,7.8x,-0.54,"CLP 28,750",0.5%
+10,QUINENCO,Quinenco,Santiago,Consumer Non-Cyclicals,Consumer Goods Conglomerates,CLP 5.35T,12.5x,-0.88,"CLP 3,220",0.6%
+11,CENCOSUD,Cencosud,Santiago,Consumer Non-Cyclicals,Food & Drug Retailing,CLP 5.04T,28.7x,-0.61,"CLP 1,795",-0.2%
+12,CMPC,Empresas CMPC,Santiago,Basic Materials,Paper & Forest Products,CLP 3.95T,9.2x,-0.19,"CLP 1,579",0.4%
+13,ENELCHILE,Enel Chile,Santiago,Utilities,Electrical Utilities & IPPs,CLP 3.53T,4.6x,-0.11,CLP 51,0.3%
+14,ANTARCHILE,Antar Chile,Santiago,Energy,Oil & Gas,CLP 3.22T,12.9x,-0.33,"CLP 7,100.80",-2.1%
+15,MALLPLAZA,Plaza,Santiago,Real Estate,Real Estate Operations,CLP 3.21T,8x,0.07,"CLP 1,530",1.4%
+16,VAPORES,Vapores,Santiago,Industrials,Freight & Logistics Services,CLP 3.04T,-6.6x,0.06,CLP 59.30,-0.8%
+17,SCOTIABKCL,Scotiabank Chile,Santiago,Financials,Banking Services,CLP 2.82T,6.3x,6.6,CLP 230,0%
+18,CENCOMALLS,Cencosud Shopping,Santiago,Real Estate,Real Estate Operations,CLP 2.61T,10.9x,0.99,"CLP 1,386",-1%
+19,ENELGXCH,Enel Generacion Chile,Santiago,Utilities,Electrical Utilities & IPPs,CLP 2.61T,4.1x,-1.22,CLP 318.37,-2%
+20,ANDINAB,Embotelladora Andina B,Santiago,Consumer Non-Cyclicals,Beverages,CLP 2.49T,10.1x,0.16,"CLP 2,985",2.9%
+21,ANDINAA,Embotelladora Andina,Santiago,Consumer Non-Cyclicals,Beverages,CLP 2.49T,12.9x,0.16,"CLP 2,269.30",-0.8%
+22,ITAUCL,Itau CorpBanca,Santiago,Financials,Banking Services,CLP 2.22T,6.6x,-0.37,"CLP 10,262",0.6%
+23,COLBUN,Colbun,Santiago,Utilities,Electrical Utilities & IPPs,CLP 2.11T,7.5x,-0.24,CLP 120.50,0.9%
+24,CCU,Cervecerias,Santiago,Consumer Non-Cyclicals,Beverages,CLP 1.99T,18.1x,-2.06,"CLP 5,379",1.5%
+25,ENAEX,Enaex,Santiago,Basic Materials,Chemicals,CLP 1.79T,11.1x,8.63,"CLP 14,578",0%
+26,MINERA,Minera,Santiago,Utilities,Electrical Utilities & IPPs,CLP 1.67T,5.7x,-0.19,"CLP 13,348",0%
+27,BICECORP,Bicecorp,Santiago,Financials,Banking Services,CLP 1.66T,7.5x,0.62,"CLP 19,500",-1.5%
+28,AGUASA,Aguas Andinas,Santiago,Utilities,Water & Related Utilities,CLP 1.62T,11.7x,0.3,CLP 271,-0.1%
+29,CALICHERAB,Sociedad de Inversiones Pampa Calichera Prf,Santiago,Financials,Banking Services,CLP 1.6T,2.9x,0.86,CLP 616.02,0%
+30,CALICHERAA,Pampa Calichera,Santiago,Financials,Banking Services,CLP 1.6T,2.9x,0.87,CLP 620.43,0%
+31,PEHUENCHE,Pehuenche,Santiago,Utilities,Electrical Utilities & IPPs,CLP 1.5T,9.2x,-0.36,"CLP 2,441.90",0%
+32,PARAUCO,Parq Arauco,Santiago,Real Estate,Real Estate Operations,CLP 1.32T,11.2x,0.22,"CLP 1,461",1.2%
+33,NORTEGRAN,Norte Grande,Santiago,Financials,Investment Holding Companies,CLP 1.24T,28.3x,-0.27,CLP 7.05,-1.9%
+34,SK,Sigdo Koppers,Santiago,Consumer Non-Cyclicals,Consumer Goods Conglomerates,CLP 1.14T,13.8x,-0.25,"CLP 1,065.30",-0.6%
+35,PROVIDA,A.F.P. Provida,Santiago,Financials,Investment Banking & Investment Services,CLP 1.02T,7.3x,0.8,"CLP 3,101.10",0.4%
+36,SECURITY,Grupo Security,Santiago,Financials,Banking Services,CLP 1.02T,5.2x,0.18,CLP 254.19,-1.6%
+37,SMSAAM,Sociedad Matriz,Santiago,Industrials,Transport Infrastructure,CLP 1T,2.1x,,CLP 103,1.5%
+38,ECL,Engie Energia Chile,Santiago,Utilities,Electrical Utilities & IPPs,CLP 947.98B,-3.4x,-0.32,CLP 900,2.3%
+39,OROBLANCO,Oro Blanco,Santiago,Basic Materials,Chemicals,CLP 944.36B,23.3x,-0.17,CLP 4.44,-0.6%
+40,HABITAT,A.F.P. Habitat,Santiago,Financials,Investment Banking & Investment Services,CLP 893B,6.1x,0.25,CLP 893,-2.8%
+41,CONCHATORO,Vina Concha To,Santiago,Consumer Non-Cyclicals,Beverages,CLP 885.33B,12.6x,0.58,"CLP 1,198",2.7%
+42,SMU,SMU,Santiago,Consumer Non-Cyclicals,Food & Drug Retailing,CLP 883.61B,12x,-0.58,CLP 153.32,0.5%
+43,ENTEL,Empresa Nacional de Telecomunicaciones,Santiago,Technology,Telecommunications Services,CLP 844.14B,9.4x,-0.34,"CLP 2,795",3.1%
+44,CAP,Cap,Santiago,Basic Materials,Metals & Mining,CLP 787.85B,-17.9x,0.12,"CLP 5,271.70",0.8%
+45,AFPCAPITAL,AFP Capital,Santiago,Financials,Investment Banking & Investment Services,CLP 780.94B,6.6x,0.37,CLP 250,0%
+46,PASUR,Constr Pasur,Santiago,Basic Materials,Paper & Forest Products,CLP 751.25B,6.3x,-0.12,"CLP 6,010",0%
+47,ILC,Inv La Constru,Santiago,Financials,Insurance,CLP 725B,3.6x,0.11,"CLP 7,250",-3.2%
+48,IAM,Inversiones Aguas Metropolitanas,Santiago,Utilities,Water & Related Utilities,CLP 708.52B,10.3x,0.26,CLP 708.52,0.8%
+49,BANVIDA,Banvida,Santiago,Financials,Investment Holding Companies,CLP 703.56B,5x,0.08,CLP 439.71,2.3%
+50,NTGCLGAS,Gas Natural Chile,Santiago,Utilities,Natural Gas Utilities,CLP 664.55B,3.6x,0,CLP 316.28,3.3%
+51,CGE,Compania General de Electricidad,Santiago,Utilities,Electrical Utilities & IPPs,CLP 654.81B,-71.4x,0.4,CLP 320,0%
+52,CUPRUM,Cuprum,Santiago,Financials,Investment Banking & Investment Services,CLP 629.32B,7.2x,0.57,CLP 49.28,0%
+53,EMBONORA,Embonor A,Santiago,Consumer Non-Cyclicals,Beverages,CLP 628.77B,9.1x,-0.53,"CLP 1,200",0%
+54,EMBONORB,Embonor B,Santiago,Consumer Non-Cyclicals,Beverages,CLP 628.77B,9.1x,-0.53,"CLP 1,259.10",-0.1%
+55,PUCOBRE,Sociedad Punta del Cobre,Santiago,Basic Materials,Metals & Mining,CLP 594.29B,13.9x,8.99,"CLP 4,767",0%
+56,ENELDXCH,Enel Distribucion Chile,Santiago,Utilities,Electrical Utilities & IPPs,CLP 563.86B,64x,-1.17,CLP 490,0%
+57,ESVALC,Esval Pref,Santiago,Utilities,Water & Related Utilities,CLP 553.6B,,0.24,CLP 0.04,0%
+58,POTASIOSA,Potasios de Chile,Santiago,Basic Materials,Chemicals,CLP 536.17B,30.8x,-0.31,CLP 240,0%
+59,POTASIOSB,Potasios Chile,Santiago,Basic Materials,Chemicals,CLP 536.17B,12.5x,-0.31,CLP 93.31,0%
+60,RIPLEY,Ripley Corp,Santiago,Consumer Cyclicals,Diversified Retail,CLP 535.43B,-15.7x,0.06,CLP 276.56,-0.2%
+61,FORUS,Forus,Santiago,Consumer Cyclicals,Specialty Retailers,CLP 504.01B,18x,-1,"CLP 1,950",-0.5%
+62,MOLYMET,Molymet,Santiago,Basic Materials,Metals & Mining,CLP 478.8B,65.3x,-0.7,"CLP 3,600",0%
+63,LIPIGAS,Empresas Lipigas,Santiago,Energy,Oil & Gas,CLP 408.87B,8.5x,0.35,"CLP 3,600",0%
+64,CAROZZI,Carozzi,Santiago,Consumer Non-Cyclicals,Food & Tobacco,CLP 391.48B,4.4x,0.14,"CLP 1,755",0%
+65,NITRATOS,Nitratos de Chile,Santiago,Financials,Investment Holding Companies,CLP 376.75B,31.1x,-0.26,CLP 2.50,0%
+66,ALMENDRAL,Almendral,Santiago,Technology,Telecommunications Services,CLP 351.34B,7.8x,-0.12,CLP 19.50,-1.9%
+67,SONDA,Sonda,Santiago,Technology,Software & IT Services,CLP 341.65B,11.9x,-0.41,CLP 392.22,-0%
+68,CTC,Telefonica Chile,Santiago,Technology,Telecommunications Services,CLP 326.32B,91.9x,0.74,CLP 250,0%
+69,BLUMAR,Blumar,Santiago,Consumer Non-Cyclicals,Food & Tobacco,CLP 323.66B,-107.1x,1.16,CLP 200.04,0%
+70,ELECMETAL,Elec Metalurgi,Santiago,Basic Materials,Metals & Mining,CLP 311.11B,5.8x,0.4,"CLP 7,103",0%
+71,SALFACORP,Salfacorp,Santiago,Industrials,Construction & Engineering,CLP 310.14B,6.7x,-1.36,CLP 564,2.5%
+72,BESALCO,Besalco Sa,Santiago,Industrials,Construction & Engineering,CLP 308.84B,7.3x,-0.66,CLP 536.02,0.2%
+73,BINT,Banco Internacional SA,Santiago,Financials,Banking Services,CLP 273.63B,4.9x,-1.21,CLP 65.01,6.5%
+74,MULTIX,Multiexport Fo,Santiago,Consumer Non-Cyclicals,Food & Tobacco,CLP 273.1B,-51.8x,0.39,CLP 193.60,-1.5%
+75,INVERCAP,Invercap,Santiago,Basic Materials,Metals & Mining,CLP 268.74B,-10.6x,0.06,"CLP 1,798.20",-1.8%
+76,NAVIERA,Grupo Empresas Navieras,Santiago,Industrials,Freight & Logistics Services,CLP 255.8B,6.6x,-0.68,CLP 37.02,0%
+77,WATTS,Watts SA,Santiago,Consumer Non-Cyclicals,Food & Tobacco,CLP 241.17B,10.4x,0.1,CLP 765.18,0.3%
+78,GASCO,Gasco,Santiago,Utilities,Natural Gas Utilities,CLP 207.19B,10.6x,0.87,"CLP 1,233.30",0%
+79,POLPAICO,Cemento Polpai,Santiago,Basic Materials,Construction Materials,CLP 205.2B,-59x,,"CLP 8,040",0%
+80,INDISA,Inst Diagnosti,Santiago,Healthcare,Healthcare Providers & Services,CLP 199.73B,57.7x,-2.25,"CLP 1,417.20",0%
+81,OXIQUIM,Oxiquim,Santiago,Basic Materials,Chemicals,CLP 194.12B,8.2x,-0.66,"CLP 7,800",0%
+82,TRICOT,Empresas Tricot,Santiago,Consumer Cyclicals,Specialty Retailers,CLP 192.88B,14.1x,0.26,CLP 449.91,4.6%
+83,VOLCAN,Compania Industr el Volcan SA,Santiago,Consumer Cyclicals,Homebuilding & Construction Supplies,CLP 187.5B,11.7x,-0.25,"CLP 2,500",0%
+84,CEMENTOS,Cementos Bio-B,Santiago,Basic Materials,Construction Materials,CLP 186.28B,6.4x,0.07,CLP 705,0%
+85,SALMOCAM,Salmones Camanchaca,Santiago,Consumer Non-Cyclicals,Food & Tobacco,CLP 179.05B,-32.2x,0.1,"CLP 2,413.20",-1.5%
+86,VSPT,Vina San Pedro,Santiago,Consumer Non-Cyclicals,Beverages,CLP 178.7B,10x,-3.96,CLP 4.47,0%
+87,VENTANAS,Puerto Ventana,Santiago,Industrials,Transport Infrastructure,CLP 174.42B,10.4x,-2.01,CLP 145,0%
+88,AAISA,Administradora Americana de Inversiones,Santiago,Financials,Investment Banking & Investment Services,CLP 174.22B,5.6x,0.17,CLP 174.22,0%
+89,ZOFRI,Zofri,Santiago,Real Estate,Real Estate Operations,CLP 173.35B,10.2x,5.9,CLP 785.93,0%
+90,CRISTALES,Cristales,Santiago,Basic Materials,Containers & Packaging,CLP 172.8B,-41.3x,0.22,"CLP 2,700",0%
+91,CAMANCHACA,Pes Camanchaca,Santiago,Consumer Non-Cyclicals,Food & Tobacco,CLP 158.22B,40.8x,-0.43,CLP 38.12,0%
+92,SANTARITA,SA Vina Santa Rita,Santiago,Consumer Non-Cyclicals,Beverages,CLP 155.19B,437.3x,-4.64,CLP 150,0%
+93,PAZ,Paz Corp,Santiago,Real Estate,Real Estate Operations,CLP 143.1B,8.6x,-0.33,CLP 505,0%
+94,MASISA,Masisa,Santiago,Basic Materials,Paper & Forest Products,CLP 135.78B,-2.4x,-0.06,CLP 18.15,0.4%
+95,LASCONDES,Las Condes,Santiago,Healthcare,Healthcare Providers & Services,CLP 105.54B,-50.8x,0.12,"CLP 12,600",-1.4%
+96,DUNCANFOX,Duncan Fox,Santiago,Consumer Non-Cyclicals,Food & Tobacco,CLP 105B,5x,0.28,"CLP 1,050",0%
+97,IANSA,Iansa,Santiago,Consumer Non-Cyclicals,Food & Tobacco,CLP 103.62B,9.3x,0.02,CLP 26.01,0%
+98,MELON,Melon,Santiago,Basic Materials,Construction Materials,CLP 100.6B,-31.6x,-0.42,CLP 0.36,0%
+99,EISA,Eche Izquierdo,Santiago,Industrials,Construction & Engineering,CLP 97.57B,6.3x,-11.44,CLP 162.81,-0.7%
+100,BETLANDOS,Betlan Dos,Santiago,Financials,Investment Holding Companies,CLP 81.89B,72.7x,-3.49,CLP 2,0%
+101,SOQUICOM,Soquicom,Santiago,Basic Materials,Chemicals,CLP 79.52B,10.3x,-0.32,CLP 292.23,0%
+102,SOCOVESA,Socovesa,Santiago,Consumer Cyclicals,Homebuilding & Construction Supplies,CLP 79.35B,-2.8x,0.01,CLP 64.83,-2.9%
+103,EDELMAG,Empresa Electrica de Magallanes,Santiago,Utilities,Electrical Utilities & IPPs,CLP 66.71B,6.5x,0.82,"CLP 5,100",0%
+104,GOLF,Deportes Club de Golf Santiago,Santiago,Consumer Cyclicals,Hotels & Entertainment Services,CLP 62.1B,,,"CLP 20,700,000",2.5%
+105,MANQUEHUE,Inmobiliaria Manquehue,Santiago,Real Estate,Real Estate Operations,CLP 58.32B,13.1x,-0.17,CLP 98.58,-0.4%
+106,INGEVEC,Ingevec,Santiago,Industrials,Construction & Engineering,CLP 56.16B,5.2x,0.71,CLP 52,1%
+107,ABC,Empresas la Polar,Santiago,Consumer Cyclicals,Diversified Retail,CLP 51.53B,-1x,-0.08,CLP 9.89,0.9%
+108,FROWARD,Portuaria Cabo,Santiago,Industrials,Transport Infrastructure,CLP 51.23B,24.2x,-0.41,CLP 452.43,0%
+109,ENLASA,Energia Latina,Santiago,Utilities,Electrical Utilities & IPPs,CLP 39.39B,6.5x,-0.15,CLP 900,0%
+110,MOLLER,Moller Y Perez,Santiago,Industrials,Construction & Engineering,CLP 39.09B,"-10,000x",,CLP 160,0%
+111,TRICAHUE,Inv Tricahue,Santiago,Financials,Investment Holding Companies,CLP 38.07B,8.4x,2.62,"CLP 1,140",0%
+112,HITES,Hites S.A.,Santiago,Consumer Cyclicals,Diversified Retail,CLP 37.26B,-1.2x,0,CLP 98.80,0%
+113,CAMPOS,Campos Chileno,Santiago,Consumer Non-Cyclicals,Food & Tobacco,CLP 36.46B,8.4x,0.01,CLP 39,0%
+114,CIC,Companias CIC,Santiago,Consumer Cyclicals,Household Goods,CLP 34.26B,44.2x,-10.91,CLP 29,0%
+115,INVIESPA,Inversiones Union Espanola,Santiago,Financials,Investment Holding Companies,CLP 33.68B,6.8x,-0.49,CLP 733,-45.6%
+116,CINTAC,Cintac,Santiago,Basic Materials,Metals & Mining,CLP 33.03B,-0.8x,-0.04,CLP 75.10,-2.4%
+117,COPEVAL,Compania Agropecuaria COPEVAL,Santiago,Consumer Non-Cyclicals,Food & Tobacco,CLP 30.54B,-3.9x,0.01,CLP 732.60,0%
+118,POLO,Club de Polo y Equitacion San Cristobal,Santiago,Consumer Cyclicals,Hotels & Entertainment Services,CLP 30.32B,-77.7x,,"CLP 3,000,000",0%
+119,FOSFOROS,Compania Chilena de Fosforos,Santiago,Basic Materials,Paper & Forest Products,CLP 29.52B,30.8x,-0.92,CLP 480,0%
+120,EDELPA,Envases Pacifi,Santiago,Basic Materials,Containers & Packaging,CLP 25.42B,6.3x,0.03,CLP 30,0%
+121,AZULAZUL,Azul Azul Sa,Santiago,Consumer Cyclicals,Hotels & Entertainment Services,CLP 25.02B,37.3x,0.55,CLP 560,0%
+122,ENJOY,Enjoy,Santiago,Consumer Cyclicals,Hotels & Entertainment Services,CLP 23.29B,-0.2x,0,CLP 0.44,0%
+123,SCHWAGER,Schwager,Santiago,Basic Materials,Metals & Mining,CLP 22.46B,10.3x,1.64,CLP 1,0%
+124,ISANPA,Inmobiliaria San Patricio,Santiago,Real Estate,Real Estate Operations,CLP 21.61B,2x,0.04,CLP 3.80,0%
+125,CRUZADOS,Cruzados,Santiago,Consumer Cyclicals,Hotels & Entertainment Services,CLP 19.96B,-17.8x,0.11,CLP 125,0%
+126,GASCOINV,Gasco Inversiones,Santiago,Financials,Investment Banking & Investment Services,CLP 19.32B,6.9x,-0.29,CLP 114.98,-11.6%
+127,EMILIANA,Vinedos Emiliana,Santiago,Consumer Non-Cyclicals,Beverages,CLP 19.09B,-37.4x,0.28,CLP 30,0%
+128,BOLSASTGO,Bolsa de Comercio de Santiago Bolsa de Valores,Santiago,Financials,Investment Banking & Investment Services,CLP 17.66B,19.6x,-0.21,CLP 368,5%
+129,VICONTO,Fruticola Viconto,Santiago,Consumer Non-Cyclicals,Food & Tobacco,CLP 13.02B,80.2x,0.7,CLP 18.08,0%
+130,COLOCOLO,Blanco Y Negro,Santiago,Consumer Cyclicals,Hotels & Entertainment Services,CLP 12.5B,6.3x,-3.83,CLP 125,0%
+131,COVADONGA,Inversiones Covadonga,Santiago,Financials,Investment Banking & Investment Services,CLP 8.09B,7.2x,-4.71,CLP 251.79,-22.5%
+132,HIPERMARC,Hipermarc,Santiago,Consumer Non-Cyclicals,Food & Drug Retailing,CLP 6.22B,-10.2x,0.09,CLP 4.93,0%
+133,INVERNOVA,Invernova,Santiago,Financials,Investment Holding Companies,CLP 5.72B,7x,-0.19,CLP 8,0%
+134,CLUBUNION,Union Inmobiliaria,Santiago,Real Estate,Real Estate Operations,CLP 3.24B,276.9x,,"CLP 360,500",0%
+135,MARINSA,Maritima De In,Santiago,Industrials,Freight & Logistics Services,CLP 248.56K,2.8x,0.08,CLP 88.30,-1.9%

@@ -1,0 +1,985 @@
+1,ATCOa,Atlas Copco A,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 891.11B,26.8x,2.18,SEK 182.30,0.5%
+2,INVEb,Investor B,Stockholm,Financials,Investment Holding Companies,SEK 821.92B,4.5x,0.16,SEK 293.90,1.4%
+3,ATCOb,Atlas Copco B,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 785.82B,30.4x,2.18,SEK 161,0.9%
+4,VOLVb,Volvo B,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 527.68B,9.5x,0.22,SEK 263.60,1.6%
+5,EQTAB,EQT AB,Stockholm,Financials,Investment Banking & Investment Services,SEK 376.02B,110x,0.31,SEK 325.60,2.4%
+6,ASSAb,ASSA ABLOY B,Stockholm,Consumer Cyclicals,Homebuilding & Construction Supplies,SEK 346.45B,23.5x,2.74,SEK 311.50,0.2%
+7,SEBa,SEB A,Stockholm,Financials,Banking Services,SEK 272.76B,7.3x,0.59,SEK 154.20,1.4%
+8,SAND,Sandvik AB,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 263.04B,20.4x,0.82,SEK 209.40,2.1%
+9,HMb,H&M B,Stockholm,Consumer Cyclicals,Specialty Retailers,SEK 256.88B,23.2x,0.1,SEK 159.60,1.1%
+10,SHBb,Svenska Handelsbanken B,Stockholm,Financials,Banking Services,SEK 254.24B,7.2x,0.65,SEK 128.30,-0.5%
+11,ERICb,LM Ericsson B,Stockholm,Technology,Communications & Networking,SEK 244.75B,-6.8x,0.02,SEK 73.36,2.2%
+12,SWEDa,Swedbank A,Stockholm,Financials,Banking Services,SEK 240.03B,6.9x,0.37,SEK 212,1.2%
+13,EPIRa,Epiroc A,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 235.28B,27.6x,-2.4,SEK 195.35,1.9%
+14,SAMPOsdb,Sampo plc DRC,Stockholm,Financials,Insurance,SEK 234.21B,14.9x,0.43,SEK 470,1.6%
+15,ERICa,Ericsson A,Stockholm,Technology,Communications & Networking,SEK 219.96B,-6.1x,0.02,SEK 73.60,2.5%
+16,EPIRb,Epiroc B,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 215.89B,25.3x,-2.4,SEK 178.60,1.8%
+17,EVOG,Evolution AB,Stockholm,Consumer Cyclicals,Hotels & Entertainment Services,SEK 215.66B,17.3x,1.08,"SEK 1,025.50",1.6%
+18,ESSITYa,Essity A,Stockholm,Consumer Non-Cyclicals,Personal & Household Products & Services,SEK 207.97B,10.9x,0.18,SEK 296.50,0.2%
+19,ESSITYb,Essity B,Stockholm,Consumer Non-Cyclicals,Personal & Household Products & Services,SEK 207.90B,10.9x,0.18,SEK 296.10,-0.3%
+20,SHBa,Svenska Handelsbanken A,Stockholm,Financials,Banking Services,SEK 204.93B,8.9x,0.65,SEK 103.45,0.2%
+21,ALFA,Alfa Laval AB,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 188.06B,28.1x,1.21,SEK 455.40,0.9%
+22,INDUc,Industrivarden C,Stockholm,Financials,Investment Holding Companies,SEK 151.42B,6.7x,-0.49,SEK 355.30,1.4%
+23,LIFCOb,Lifco publ AB,Stockholm,Consumer Non-Cyclicals,Consumer Goods Conglomerates,SEK 140.53B,43.5x,7.26,SEK 309.40,0.6%
+24,SAGAb,Sagax B,Stockholm,Real Estate,Real Estate Operations,SEK 125.47B,6.5x,0.23,SEK 270,0.8%
+25,SAGAa,Sagax AB,Stockholm,Real Estate,Real Estate Operations,SEK 124.54B,6.5x,0.23,SEK 270,1.9%
+26,TELIA,Telia Company,Stockholm,Technology,Telecommunications Services,SEK 122.21B,29.1x,2.79,SEK 31.09,-0.8%
+27,AKELd,Akelius Residential Property AB,Stockholm,Real Estate,Real Estate Operations,SEK 115.96B,-36.7x,-0.85,SEK 19,-0.8%
+28,INDT,Indutrade AB,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 111.99B,41.4x,-8.17,SEK 308.20,0.1%
+29,SOBIV,Swedish Orphan Biovitrum,Stockholm,Healthcare,Pharmaceuticals,SEK 104.74B,48x,-1.16,SEK 304.80,4.2%
+30,STEa,Stora Enso A,Stockholm,Basic Materials,Containers & Packaging,SEK 101.34B,-48.1x,0.37,SEK 129.50,0.8%
+31,STEr,Stora Enso R,Stockholm,Basic Materials,Containers & Packaging,SEK 100.94B,-48.1x,0.37,SEK 127.70,2.2%
+32,SCAb,SCA B,Stockholm,Basic Materials,Paper & Forest Products,SEK 96.50B,29.4x,-0.84,SEK 138.40,1.2%
+33,NIBEb,NIBE Industrier B,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 95.96B,36.2x,-0.73,SEK 47.40,1%
+34,BALDb,Fastighets AB Balder B,Stockholm,Real Estate,Real Estate Operations,SEK 93.62B,-16.4x,0.01,SEK 79.98,-0.8%
+35,SKFa,SKF A,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 87.06B,15.3x,-2.22,SEK 191.40,2.2%
+36,SKFb,SKF B,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 87.06B,15.3x,-2.22,SEK 191.10,1.5%
+37,BEIJb,Beijer Ref,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 86B,35.3x,1.37,SEK 169.40,0.1%
+38,VOLCARb,Volvo Car AB,Stockholm,Consumer Cyclicals,Automobiles & Auto Parts,SEK 84.81B,6.6x,0.11,SEK 28.64,0.6%
+39,ALIVsdb,Autoliv Inc. SDB,Stockholm,Consumer Cyclicals,Automobiles & Auto Parts,SEK 84.02B,13.2x,0.18,"SEK 1,043.80",2%
+40,BOL,Boliden,Stockholm,Basic Materials,Metals & Mining,SEK 83.38B,10.7x,-1.51,SEK 305,2%
+41,ADDTb,Addtech,Stockholm,Consumer Non-Cyclicals,Consumer Goods Conglomerates,SEK 83.25B,50.4x,4.09,SEK 323,-0.5%
+42,SKAb,Skanska B,Stockholm,Industrials,Construction & Engineering,SEK 82.32B,17.7x,-0.42,SEK 200.70,0.2%
+43,AAK,AAK,Stockholm,Consumer Non-Cyclicals,Food & Tobacco,SEK 80.41B,23.5x,0.54,SEK 309.40,0.8%
+44,TEL2a,Tele2 AB A,Stockholm,Technology,Telecommunications Services,SEK 76.80B,20.2x,-3.87,SEK 110,0%
+45,TEL2b,Tele2 AB,Stockholm,Technology,Telecommunications Services,SEK 76.39B,20.3x,-3.87,SEK 110.25,-1.2%
+46,SECUb,Securitas B,Stockholm,Industrials,Professional & Commercial Services,SEK 65.11B,42.9x,-0.63,SEK 113.70,0.3%
+47,HOLMa,Holmen,Stockholm,Basic Materials,Paper & Forest Products,SEK 63.47B,20.7x,-0.45,SEK 410,3.3%
+48,SWECb,SWECO B,Stockholm,Industrials,Construction & Engineering,SEK 58.36B,32.6x,26.86,SEK 162.20,-1.5%
+49,SWECa,SWECO A,Stockholm,Industrials,Construction & Engineering,SEK 58.10B,32.8x,26.86,SEK 161.50,-1.5%
+50,SAVE,Nordnet AB,Stockholm,Financials,Banking Services,SEK 54.25B,21.6x,0.68,SEK 222,2.8%
+51,SSABa,SSAB A,Stockholm,Basic Materials,Metals & Mining,SEK 49.39B,4.8x,0.03,SEK 50.78,0.8%
+52,SECTb,Sectra,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 46.82B,109.4x,7.55,SEK 242.80,-0.1%
+53,TIGOsdb,Millicom DRC,Stockholm,Technology,Telecommunications Services,SEK 46.23B,41.1x,0.03,SEK 268.80,1.4%
+54,CAMX,Camurus AB,Stockholm,Healthcare,Pharmaceuticals,SEK 40.96B,177.1x,-3.79,SEK 696.50,2.4%
+55,HPOLb,HEXPOL B,Stockholm,Basic Materials,Chemicals,SEK 38.58B,15.5x,-3.95,SEK 112,1.3%
+56,MTRS,Munters,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 38.44B,44.7x,3.93,SEK 211.20,2.7%
+57,AVANZ,Avanza Bank,Stockholm,Financials,Investment Banking & Investment Services,SEK 38.35B,18.5x,2.12,SEK 243.30,1.2%
+58,HEM,Hemnet Group AB,Stockholm,Technology,Software & IT Services,SEK 37.57B,94.7x,1.75,SEK 386.80,-1.2%
+59,MYCR,Mycronic publ AB,Stockholm,Technology,Semiconductors & Semiconductor Equipment,SEK 36.68B,24.6x,0.2,SEK 375.80,1.6%
+60,LAGRb,Lagercrantz B,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 35.79B,40.2x,3.05,SEK 173.50,1.9%
+61,FNOX,Fortnox,Stockholm,Technology,Software & IT Services,SEK 35.24B,54.2x,1.27,SEK 57.62,3.5%
+62,WALLb,Wallenstam B,Stockholm,Real Estate,Real Estate Operations,SEK 35.12B,274.1x,2.49,SEK 53.40,-0.6%
+63,PANDXb,Pandox AB,Stockholm,Real Estate,Real Estate Operations,SEK 35.08B,70.9x,-0.98,SEK 190,-0.6%
+64,WIHL,Wihlborgs Fastigheter,Stockholm,Real Estate,Real Estate Operations,SEK 33.23B,720x,-7.47,SEK 108.10,-1.1%
+65,THULE,Thule Group AB,Stockholm,Consumer Cyclicals,Automobiles & Auto Parts,SEK 30.73B,26.8x,1.23,SEK 289.80,0.9%
+66,VITR,Vitrolife,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 30.33B,-8x,0.01,SEK 222.60,0.7%
+67,ELUXa,Electrolux A,Stockholm,Consumer Cyclicals,Household Goods,SEK 29.70B,-4.7x,0.11,SEK 110,5.8%
+68,CATE,Catena AB,Stockholm,Real Estate,Real Estate Operations,SEK 29.63B,20.1x,0.02,SEK 541,-1.6%
+69,EMBRACb,Embracer Group,Stockholm,Technology,Software & IT Services,SEK 29.32B,-1.4x,0,SEK 21.70,-7.2%
+70,BURE,Bure Equity AB,Stockholm,Financials,Investment Holding Companies,SEK 28.83B,5.4x,0,SEK 388.40,1.6%
+71,ATRLJb,Atrium Ljungberg B,Stockholm,Real Estate,Real Estate Operations,SEK 28.82B,-112.6x,1.73,SEK 228,-0.7%
+72,KINDsdb,Kindred Group,Stockholm,Consumer Cyclicals,Hotels & Entertainment Services,SEK 27.37B,35.3x,-0.63,SEK 127,0.2%
+73,MCOVb,Medicover,Stockholm,Healthcare,Healthcare Providers & Services,SEK 27.03B,101.3x,0.32,SEK 180.80,0.6%
+74,BILL,BillerudKorsnas,Stockholm,Basic Materials,Containers & Packaging,SEK 26.86B,38.3x,-0.52,SEK 107.40,1.8%
+75,ELUXb,Electrolux B,Stockholm,Consumer Cyclicals,Household Goods,SEK 25.27B,-5.6x,0.11,SEK 93.10,5.1%
+76,NYFO,Nyfosa,Stockholm,Real Estate,Real Estate Operations,SEK 23.84B,-34.9x,-1.79,SEK 114.60,-0.6%
+77,SINCH,Sinch AB,Stockholm,Technology,Software & IT Services,SEK 22.48B,114.7x,1.1,SEK 26.68,2.5%
+78,DOMETIC,Dometic Group publ AB,Stockholm,Consumer Cyclicals,Automobiles & Auto Parts,SEK 22.19B,18.8x,-1.67,SEK 69.45,1.2%
+79,CALTX,Calliditas Therapeutics,Stockholm,Healthcare,Pharmaceuticals,SEK 21.33B,-46x,0.65,SEK 206.60,0.1%
+80,AFRY,Afry AB,Stockholm,Industrials,Professional & Commercial Services,SEK 21.05B,17.6x,-11.57,SEK 186,0.8%
+81,HMSN,HMS Networks,Stockholm,Technology,Communications & Networking,SEK 20.80B,46.2x,-1.74,SEK 415.20,2.8%
+82,YUBICO,Yubico AB,Stockholm,Technology,Integrated Hardware & Software,SEK 20.58B,"4,694.2x",-2.18,SEK 300.50,25.7%
+83,VITb,Vitec Software B,Stockholm,Technology,Software & IT Services,SEK 20.25B,54.4x,2.66,SEK 537,1.8%
+84,BONEX,Bonesupport,Stockholm,Healthcare,Pharmaceuticals,SEK 18.67B,64.2x,0.06,SEK 284.40,2.7%
+85,ALIFb,AddLife,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 18.50B,157x,-2.29,SEK 152,0.3%
+86,BETSb,Betsson,Stockholm,Consumer Cyclicals,Hotels & Entertainment Services,SEK 17.88B,8.8x,0.7,SEK 129.24,0.7%
+87,EPROb,Electrolux Prof,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 17.88B,26.5x,-1.8,SEK 64.70,4%
+88,VIMIAN,Vimian Group AB,Stockholm,Healthcare,Pharmaceuticals,SEK 17.84B,116.7x,1.08,SEK 41,20.1%
+89,ALLEI,Alleima AB,Stockholm,Basic Materials,Metals & Mining,SEK 17.49B,15.8x,-2.83,SEK 70.30,0.6%
+90,BRAV,Bravida Holding AB,Stockholm,Industrials,Construction & Engineering,SEK 17.16B,15.6x,-0.9,SEK 84.05,1.1%
+91,XVIVO,Xvivo Perfusion AB,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 16.47B,133.1x,0.41,SEK 525,3.4%
+92,OX2SE,OX2,Stockholm,Energy,Renewable Energy,SEK 16.13B,34.1x,-0.63,SEK 59.30,0.2%
+93,BIOT,Biotage AB,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 15.50B,61.8x,-27.37,SEK 192.80,2.1%
+94,BUFAB,Bufab Holding AB,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 15.43B,33.5x,-0.94,SEK 409.40,1.4%
+95,ENGCONb,Engcon AB,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 15.30B,106.4x,-1.71,SEK 102.20,1.4%
+96,SYSR,Systemair AB,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 15.29B,23.7x,-0.65,SEK 73.50,-0.7%
+97,PDXI,Paradox Interactive,Stockholm,Technology,Software & IT Services,SEK 15.21B,47.1x,-0.83,SEK 144.50,3.6%
+98,NP3,NP3 Fastigheter AB,Stockholm,Real Estate,Real Estate Operations,SEK 15.17B,57.3x,3.43,SEK 264,0.4%
+99,NP3pref,NP3 Fastigheter Pref,Stockholm,Real Estate,Real Estate Operations,SEK 15.17B,57.3x,3.43,SEK 29.45,-0.2%
+100,FPARa,FastPartner,Stockholm,Real Estate,Real Estate Operations,SEK 15.11B,-10.4x,0,SEK 76.10,-0.9%
+101,FPARd,FastPartner AB,Stockholm,Real Estate,Real Estate Operations,SEK 15.11B,-10.4x,0,SEK 71.10,1.1%
+102,BETCO,Better Collective,Stockholm,Technology,Software & IT Services,SEK 15.04B,44.1x,-0.92,SEK 240,1%
+103,NEWAb,New Wave Group B,Stockholm,Consumer Cyclicals,Textiles & Apparel,SEK 14.93B,14.6x,-0.79,SEK 112.70,4.5%
+104,SAGAd,Sagax D,Stockholm,Real Estate,Real Estate Operations,SEK 14.75B,55.1x,0.23,SEK 31.75,0.3%
+105,NOLAb,Nolato B,Stockholm,Basic Materials,Chemicals,SEK 14.60B,30.8x,-1.49,SEK 54.20,0.4%
+106,ARIONsdb,Arion banki hf DRC,Stockholm,Financials,Banking Services,SEK 14.39B,8.8x,-6.34,SEK 10.25,0%
+107,ANODb,AddNode B,Stockholm,Technology,Software & IT Services,SEK 14.12B,44.7x,-5.43,SEK 105.90,2.8%
+108,INSTAL,Instalco Intressenter,Stockholm,Industrials,Construction & Engineering,SEK 13.89B,24.2x,4.66,SEK 52.90,2.9%
+109,SHOTE,Scandic Hotels Group AB,Stockholm,Consumer Cyclicals,Hotels & Entertainment Services,SEK 13.60B,22.7x,-14.36,SEK 65.85,2.7%
+110,BIOAb,BioArctic,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 13.52B,-111.2x,0.83,SEK 153.20,1.3%
+111,NCAB,NCAB Group,Stockholm,Technology,Semiconductors & Semiconductor Equipment,SEK 13.48B,39.5x,-1.81,SEK 72.10,0.8%
+112,TROAX,Troax Group,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 13.26B,34.3x,-5.29,SEK 220,-2.6%
+113,GRANG,Granges,Stockholm,Basic Materials,Metals & Mining,SEK 13.15B,13.3x,0.43,SEK 123.70,1.7%
+114,STORb,Storskogen AB,Stockholm,Consumer Non-Cyclicals,Consumer Goods Conglomerates,SEK 12.96B,32x,-0.41,SEK 9.27,20.6%
+115,MIPS,MIPS,Stockholm,Consumer Cyclicals,Leisure Products,SEK 12.93B,157.4x,-91.88,SEK 488.80,0.9%
+116,SBBd,Samhallsbyggnadsbolaget I D,Stockholm,Real Estate,Real Estate Operations,SEK 12.86B,-0.6x,-0.23,SEK 7.78,0.5%
+117,AQ,AQ AB,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 12.57B,18.8x,0.97,SEK 138.38,1.4%
+118,BIOGb,BioGaia B,Stockholm,Healthcare,Pharmaceuticals,SEK 12.56B,31.3x,-9.7,SEK 124.80,-0.1%
+119,BEIAb,Beijer Alma,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 12.29B,22.8x,-0.6,SEK 204,1%
+120,DIOS,Dios Fastigheter,Stockholm,Real Estate,Real Estate Operations,SEK 12.13B,-54.2x,-1,SEK 85.25,-0.8%
+121,SKISb,SkiStar,Stockholm,Consumer Cyclicals,Hotels & Entertainment Services,SEK 12.04B,22.3x,0.62,SEK 153.20,1.6%
+122,SDIPpref,Sdiptech AB  Prf,Stockholm,,,SEK 11.99B,27.8x,-6.31,SEK 122.50,-0.4%
+123,SDIPb,Sdiptech,Stockholm,Consumer Non-Cyclicals,Consumer Goods Conglomerates,SEK 11.99B,27.8x,-6.31,SEK 315.20,1.1%
+124,ALIG,Alimak Hek Group AB,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 11.98B,24.5x,-0.57,SEK 113,0.4%
+125,PLAZb,Platzer Fastigheter Holding,Stockholm,Real Estate,Real Estate Operations,SEK 11.96B,-24.6x,1.13,SEK 99.40,-1.2%
+126,TRUEb,Truecaller AB,Stockholm,Technology,Software & IT Services,SEK 11.73B,24.1x,-3.25,SEK 35,3%
+127,BILIa,Bilia,Stockholm,Consumer Cyclicals,Specialty Retailers,SEK 11.65B,14.9x,-0.46,SEK 126.40,1.4%
+128,COREb,Corem Property,Stockholm,Real Estate,Real Estate Operations,SEK 11.61B,-2.1x,-0.17,SEK 9.78,-0.9%
+129,COREpref,Corem Property,Stockholm,Real Estate,Real Estate Operations,SEK 11.61B,-2.1x,-0.17,SEK 254.50,-0.2%
+130,COREd,Corem Property Group AB,Stockholm,Real Estate,Real Estate Operations,SEK 11.61B,-2.1x,-0.17,SEK 252,0.6%
+131,COREa,Corem Property,Stockholm,Real Estate,Real Estate Operations,SEK 11.60B,-2.1x,-0.17,SEK 9.90,-0.8%
+132,FAG,Fagerhult,Stockholm,Consumer Cyclicals,Homebuilding & Construction Supplies,SEK 11.36B,22x,-1.45,SEK 64.20,0.6%
+133,RATOa,Ratos A,Stockholm,Financials,Investment Banking & Investment Services,SEK 11.30B,8.8x,0.11,SEK 36.30,1.4%
+134,HTRO,Hexatronic Group AB,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 11.12B,21.1x,-0.48,SEK 54.22,2.4%
+135,ARJOb,Arjo,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 11.11B,21.6x,0.74,SEK 40.70,-0.1%
+136,IVSO,Invisio Communications AB,Stockholm,Industrials,Aerospace & Defense,SEK 10.68B,54.1x,1.34,SEK 237.50,0.4%
+137,RUSTA,Rusta AB,Stockholm,Consumer Cyclicals,Diversified Retail,SEK 10.58B,28.9x,0.45,SEK 71.40,2.2%
+138,VBGb,VBG GROUP B,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 10.55B,16.2x,0.32,SEK 421.50,0.7%
+139,CLASb,Clas Ohlson B,Stockholm,Consumer Cyclicals,Specialty Retailers,SEK 10.43B,20.5x,0.11,SEK 164.20,0.4%
+140,IMPsdba,Implantica AG,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 10.40B,-33x,4.24,SEK 39.20,6.7%
+141,SBBb,Samhallsbyggnadsbolaget,Stockholm,Real Estate,Real Estate Operations,SEK 10.22B,-0.7x,-0.23,SEK 6.18,-2.1%
+142,CREADa,Creades,Stockholm,Financials,Investment Holding Companies,SEK 10.04B,9.2x,0.07,SEK 73.95,1.5%
+143,INWI,Inwido,Stockholm,Consumer Cyclicals,Homebuilding & Construction Supplies,SEK 9.87B,18.2x,-0.61,SEK 169.90,1.4%
+144,CIBUS,​Cibus Nordic Real Estate,Stockholm,Real Estate,Real Estate Operations,SEK 9.53B,-27.3x,0.11,SEK 166.55,0.2%
+145,SVOLa,Svolder,Stockholm,Financials,Investment Holding Companies,SEK 9.42B,13x,0.02,SEK 98,6.5%
+146,MTGa,MTG A,Stockholm,Technology,Software & IT Services,SEK 9.27B,-157.7x,1.06,SEK 77,0%
+147,VOLOpref,Volati Pref,Stockholm,Consumer Non-Cyclicals,Consumer Goods Conglomerates,SEK 8.96B,40.7x,-0.95,SEK 616,0%
+148,VOLO,Volati,Stockholm,Consumer Non-Cyclicals,Consumer Goods Conglomerates,SEK 8.96B,40.7x,-0.95,SEK 112,3.1%
+149,SLPb,Swedish Logistic Property AB,Stockholm,Real Estate,Real Estate Operations,SEK 8.50B,16.5x,0.18,SEK 38.70,3.2%
+150,KARNO,Karnov Group,Stockholm,Industrials,Professional & Commercial Services,SEK 8.46B,871.8x,-12.11,SEK 78.90,0.6%
+151,FEOIb,Fenix Outdoor International AG,Stockholm,Consumer Cyclicals,Leisure Products,SEK 8.40B,36.4x,-0.6,SEK 630,-0.8%
+152,MMGRb,Momentum AB,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 8.35B,49.6x,3.82,SEK 168,-0.6%
+153,NORION,Norion Bank AB,Stockholm,Financials,Banking Services,SEK 8.19B,6.3x,3.92,SEK 40.25,0.9%
+154,BERGb,Bergman Beving AB,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 7.91B,39.8x,-61.53,SEK 295.50,-0.2%
+155,MEDCAP,MedCap,Stockholm,Financials,Investment Banking & Investment Services,SEK 7.85B,36.8x,0.85,SEK 532,2.7%
+156,BOOZT,Boozt,Stockholm,Consumer Cyclicals,Diversified Retail,SEK 7.47B,32.5x,1.25,SEK 115,2.3%
+157,LOGIa,Logistea AB,Stockholm,Real Estate,Real Estate Operations,SEK 7.39B,23.8x,0.67,SEK 15.80,0%
+158,LOGIb,Logistea AB,Stockholm,Real Estate,Real Estate Operations,SEK 7.39B,23.8x,0.67,SEK 16.06,0.2%
+159,SYNSAM,Synsam AB,Stockholm,Consumer Cyclicals,Specialty Retailers,SEK 7.38B,22x,0.49,SEK 50.10,0.2%
+160,ATTE,Attendo International publ AB,Stockholm,Healthcare,Healthcare Providers & Services,SEK 7.37B,19.1x,0.1,SEK 47,1.5%
+161,AOIC,Africa Oil Corp,Stockholm,Energy,Oil & Gas,SEK 7.27B,-19.1x,0.06,SEK 16.39,-0.7%
+162,NMAN,Nederman,Stockholm,Industrials,Professional & Commercial Services,SEK 7.22B,20.7x,-6.29,SEK 206.50,3.4%
+163,ALLIGOb,Alligo AB,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 7B,17x,-0.92,SEK 140.60,6.7%
+164,SUSW,Surgical Science Sweden,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 6.98B,33.5x,-5.07,SEK 137.10,5.5%
+165,AMBEA,Ambea,Stockholm,Healthcare,Healthcare Providers & Services,SEK 6.87B,14.3x,0.34,SEK 79.90,1.1%
+166,SECARE,Swedencare,Stockholm,Healthcare,Pharmaceuticals,SEK 6.62B,86.8x,2.08,SEK 41.66,0.6%
+167,HOFI,Hoist Finance AB,Stockholm,Financials,Banking Services,SEK 6.49B,7.9x,0.15,SEK 74.60,1.6%
+168,CLOEb,Cloetta B,Stockholm,Consumer Non-Cyclicals,Food & Tobacco,SEK 6.41B,13.1x,0.43,SEK 22.34,-0.4%
+169,SVOLb,Svolder,Stockholm,Financials,Investment Holding Companies,SEK 6.30B,19.5x,0.02,SEK 61.45,0.8%
+170,SPLTN,Spiltan Investment AB,NGM,Financials,Investment Holding Companies,SEK 6.16B,-3.1x,0.02,SEK 198.20,1.6%
+171,CEVI,CellaVision AB,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 6.03B,41.5x,0.81,SEK 252,-0.2%
+172,MEKO,Mekonomen,Stockholm,Consumer Cyclicals,Specialty Retailers,SEK 5.93B,15.2x,-2.44,SEK 106.40,1.3%
+173,ACADE,AcadeMedia,Stockholm,Academic & Educational Services,Miscellaneous Educational Service Providers,SEK 5.89B,10.4x,0.95,SEK 57.60,0.7%
+174,GOTLb,Rederi Gotland AB,Stockholm,Industrials,Freight & Logistics Services,SEK 5.80B,13.6x,0.16,"SEK 2,200",-0.9%
+175,GOTLa,Rederi Gotland,Stockholm,Industrials,Freight & Logistics Services,SEK 5.80B,10.3x,0.16,"SEK 2,360",0%
+176,EMILpref,Fastighetsbolaget Emilshus AB Prf,Stockholm,Real Estate,Real Estate Operations,SEK 5.68B,33.2x,0.37,SEK 29.30,-1.4%
+177,EMILb,Fastighetsbolaget Emilshus AB,Stockholm,Real Estate,Real Estate Operations,SEK 5.68B,33.2x,0.37,SEK 45.10,1.6%
+178,KFASTb,K-Fast,Stockholm,Real Estate,Real Estate Operations,SEK 5.68B,-27.6x,0.11,SEK 23.30,0.9%
+179,DYVOX,Tobii Dynavox AB,Stockholm,Technology,Integrated Hardware & Software,SEK 5.58B,48.8x,0.38,SEK 54,1.5%
+180,HEBAb,HEBA Fastighets,Stockholm,Real Estate,Real Estate Operations,SEK 5.55B,-15.9x,-0.26,SEK 33.50,2.4%
+181,BTSb,BTS Group B,Stockholm,Academic & Educational Services,Professional & Business Education,SEK 5.47B,22.1x,0.84,SEK 284,-4.1%
+182,CONIC,Concentric AB,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 5.44B,19.3x,-0.51,SEK 146.40,0.8%
+183,BAHNb,Bahnhof,Stockholm,Technology,Telecommunications Services,SEK 5.42B,24.6x,1.4,SEK 50.50,-0.4%
+184,SCST,Scandi Standard publ AB,Stockholm,Consumer Non-Cyclicals,Food & Tobacco,SEK 5.39B,19x,1.35,SEK 82.50,-0.4%
+185,ORES,Investment Oresund,Stockholm,Financials,Investment Holding Companies,SEK 5.39B,7x,0.01,SEK 120.60,0.8%
+186,TFBANK,TF Bank,Stockholm,Financials,Banking Services,SEK 5.35B,12.6x,0.61,SEK 249,-2.7%
+187,STEFb,Stendorren Fastigheter AB,Stockholm,Real Estate,Real Estate Operations,SEK 5.33B,-30.4x,-1.34,SEK 187.60,-0.2%
+188,ITAB,ITAB Shop Concept B,Stockholm,Industrials,Professional & Commercial Services,SEK 5.20B,14.1x,0.14,SEK 24.50,2.1%
+189,RVRC,RVRC Holding AB,Stockholm,Consumer Cyclicals,Specialty Retailers,SEK 5.09B,,0.74,SEK 47.06,2.7%
+190,LIC,Linc AB,Stockholm,Financials,Investment Banking & Investment Services,SEK 5.02B,3.7x,0.01,SEK 87.70,1.3%
+191,NORVA,Norva24 AB,Stockholm,Industrials,Professional & Commercial Services,SEK 4.94B,24.8x,0.57,SEK 30.25,11.6%
+192,DUST,Dustin Group AB,Stockholm,Technology,Integrated Hardware & Software,SEK 4.82B,20.9x,-0.43,SEK 10.62,2.9%
+193,NYAB,Nyab Oyj,Stockholm,Industrials,Construction & Engineering,SEK 4.80B,45.5x,-0.74,SEK 6.94,2.8%
+194,DUNI,Duni AB,Stockholm,Consumer Cyclicals,Household Goods,SEK 4.75B,12.9x,1.04,SEK 100.80,0.4%
+195,JOMA,John Mattson,Stockholm,Real Estate,Real Estate Operations,SEK 4.67B,-6.3x,-0.15,SEK 62,0.7%
+196,RAYb,RaySearch Labs B,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 4.64B,46.2x,0.12,SEK 136.40,3.8%
+197,GREENL,Green Landscaping,Stockholm,Industrials,Construction & Engineering,SEK 4.63B,22.9x,-6.31,SEK 82.80,1.9%
+198,RESURS,Resurs,Stockholm,Financials,Banking Services,SEK 4.54B,-45x,0.4,SEK 22.70,0%
+199,XANOb,XANO Industri,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 4.53B,46.3x,-0.88,SEK 75.90,5.1%
+200,LIMET,Lime Tech,Stockholm,Technology,Software & IT Services,SEK 4.49B,52.2x,3.92,SEK 338.50,-0.2%
+201,TRIANb,Fastighets Trianon,Stockholm,Real Estate,Real Estate Operations,SEK 4.45B,-15.3x,0.33,SEK 22.20,-0.9%
+202,HUMBLE,Humble Group,Stockholm,Consumer Non-Cyclicals,Consumer Goods Conglomerates,SEK 4.37B,-92.4x,0.46,SEK 9.73,0.4%
+203,NIVIb,Nivika Fastigheter AB,Stockholm,Real Estate,Real Estate Operations,SEK 4.32B,-139.6x,-1.94,SEK 45.60,1.1%
+204,STORYb,Storytel,Stockholm,Consumer Cyclicals,Media & Publishing,SEK 4.28B,-5.8x,0.02,SEK 55.75,-0.8%
+205,SFAST,Stenhus Fastigheter I Norden AB,Stockholm,Real Estate,Real Estate Operations,SEK 4.25B,-17.9x,-2.82,SEK 11.50,0.5%
+206,KNOW,Know IT AB,Stockholm,Technology,Software & IT Services,SEK 4.24B,22.9x,-0.79,SEK 155.40,2.1%
+207,PRISMA,Prisma Properties AB,Stockholm,,,SEK 4.17B,-20.4x,,SEK 25.55,0.8%
+208,COOR,COOR Service Management AB,Stockholm,Industrials,Professional & Commercial Services,SEK 4.09B,22.7x,-4.26,SEK 42.78,1.6%
+209,SEYE,Smart Eye,Stockholm,Technology,Software & IT Services,SEK 4.07B,-79.4x,-0.82,SEK 110,3.2%
+210,PACT,Proact IT Group,Stockholm,Technology,Software & IT Services,SEK 4.07B,17.6x,0.4,SEK 150.80,1.2%
+211,NOTE,NOTE AB,Stockholm,Technology,Semiconductors & Semiconductor Equipment,SEK 4.03B,14x,-2.69,SEK 139.40,1.8%
+212,VIVA,Viva Wine AB,Stockholm,Consumer Non-Cyclicals,Food & Drug Retailing,SEK 3.98B,31.8x,-0.69,SEK 43.60,-2.7%
+213,SFRG,Stillfront Group publ AB,Stockholm,Technology,Software & IT Services,SEK 3.97B,-34.3x,0.24,SEK 7.89,2.7%
+214,TRACb,Traction B,Stockholm,Financials,Investment Holding Companies,SEK 3.92B,9.2x,0.08,SEK 265,0.4%
+215,EAST9,Eastnine,Stockholm,Real Estate,Real Estate Operations,SEK 3.89B,-16.8x,0.08,SEK 43.55,0.2%
+216,VPLAYa,Viaplay AB,Stockholm,Consumer Cyclicals,Media & Publishing,SEK 3.86B,-0.6x,-0.01,SEK 1.56,-8.8%
+217,NWHD,Nordic Waterproofing Holding AB,Stockholm,Consumer Cyclicals,Homebuilding & Construction Supplies,SEK 3.84B,20.1x,-1.07,SEK 161,0.7%
+218,CS,CoinShares International,Stockholm,Financials,Investment Banking & Investment Services,SEK 3.80B,-0.2x,0,SEK 58.10,-0.2%
+219,VESTUM,Vestum AB,Stockholm,Industrials,Construction & Engineering,SEK 3.72B,-6.8x,-0.36,SEK 9.92,-7.1%
+220,NPAPER,Nordic Paper Holding AB,Stockholm,Basic Materials,Paper & Forest Products,SEK 3.61B,8.6x,-0.35,SEK 54.65,1.2%
+221,ABSO,Absolent Group AB,Stockholm,Industrials,Professional & Commercial Services,SEK 3.58B,24.5x,-4.14,SEK 316,-0.3%
+222,CTTS,CTT Systems AB,Stockholm,Industrials,Aerospace & Defense,SEK 3.55B,34.9x,1.62,SEK 282,1.1%
+223,KAMBI,Kambi Group PLC,Stockholm,Consumer Cyclicals,Hotels & Entertainment Services,SEK 3.54B,18.4x,-0.68,SEK 118.60,0.5%
+224,FLERIE,Flerie AB,Stockholm,Healthcare,Pharmaceuticals,SEK 3.50B,-421.2x,,SEK 44.80,-0.4%
+225,ELANb,Elanders B,Stockholm,Industrials,Freight & Logistics Services,SEK 3.43B,20.4x,-0.4,SEK 96.70,0.7%
+226,NEOBO,Neobo Fastigheter AB,Stockholm,Real Estate,Real Estate Operations,SEK 3.40B,-2.7x,-0.1,SEK 23.78,1.6%
+227,TEQ,Teqnion,Stockholm,Financials,Investment Holding Companies,SEK 3.35B,27.1x,,SEK 198,1.3%
+228,REJLb,Rejlers AB,Stockholm,Industrials,Professional & Commercial Services,SEK 3.29B,16.6x,-3.09,SEK 149.40,-0.3%
+229,HAYPP,Haypp AB,Stockholm,Consumer Non-Cyclicals,Food & Tobacco,SEK 3.21B,197.6x,9.32,SEK 111.50,3.7%
+230,KABEb,KABE B,Stockholm,Consumer Cyclicals,Automobiles & Auto Parts,SEK 3.20B,13.9x,-8.17,SEK 356,-1.7%
+231,MILDEF,MilDef Group AB,Stockholm,Industrials,Aerospace & Defense,SEK 3.16B,65.2x,-1.88,SEK 79.20,0%
+232,ADDVa,ADDvise Group AB A,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 3.08B,8.2x,0.31,SEK 15.50,0%
+233,EPEND,Ependion AB,Stockholm,Technology,Integrated Hardware & Software,SEK 3.06B,17.2x,-1.03,SEK 105,-1.3%
+234,BICO,BICO Group,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 2.93B,-1.5x,0.02,SEK 41.34,2.4%
+235,BONAVa,Bonava A,Stockholm,Real Estate,Real Estate Operations,SEK 2.89B,-1.9x,-0.03,SEK 9,0%
+236,ORRON,Orron Energy AB,Stockholm,Utilities,Electrical Utilities & IPPs,SEK 2.88B,54.4x,0.52,SEK 10.01,-1.2%
+237,PROB,Probi AB,Stockholm,Healthcare,Pharmaceuticals,SEK 2.88B,212.5x,-7.01,SEK 263,-2.2%
+238,BINV,BioInvent International,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 2.87B,-8.6x,0.01,SEK 43.75,5.4%
+239,VNV,VNV Global AB,Stockholm,Financials,Investment Holding Companies,SEK 2.86B,-2.2x,-0.08,SEK 22.12,1.3%
+240,ACAST,Acast AB,Stockholm,Technology,Software & IT Services,SEK 2.81B,-26.6x,-0.51,SEK 16.75,8.1%
+241,FG,Fasadgruppen Group AB,Stockholm,Industrials,Construction & Engineering,SEK 2.79B,19x,-0.46,SEK 53.50,-5%
+242,BONAVb,Bonava B,Stockholm,Real Estate,Real Estate Operations,SEK 2.72B,-2x,-0.03,SEK 8.46,0%
+243,KARNELb,Karnell AB,Stockholm,Financials,Investment Banking & Investment Services,SEK 2.70B,33.9x,,SEK 51.68,1.4%
+244,IDUNb,Idun Industrier AB,Stockholm,Financials,Investment Holding Companies,SEK 2.69B,92.1x,10.51,SEK 243,-2%
+245,KOBR,Kopparbergs Bryggeri,NGM,Consumer Non-Cyclicals,Beverages,SEK 2.68B,26.3x,-0.88,SEK 130,0%
+246,BHGF,BHG Group AB,Stockholm,Technology,Software & IT Services,SEK 2.68B,-1.6x,0.01,SEK 14.99,2%
+247,CATb,Catella AB B,Stockholm,Financials,Investment Banking & Investment Services,SEK 2.63B,194.6x,-2.05,SEK 29.80,2.9%
+248,HNSA,Hansa Biopharma,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 2.61B,-2.6x,-0.51,SEK 38.34,1.9%
+249,HANZA,Hanza AB,Stockholm,Technology,Electronic Equipment & Parts,SEK 2.59B,18.4x,-0.58,SEK 59.20,2%
+250,ZZb,Zinzino AB,Stockholm,Consumer Cyclicals,Specialty Retailers,SEK 2.54B,14.9x,0.15,SEK 74.80,0%
+251,CATa,Catella AB A,Stockholm,Financials,Investment Banking & Investment Services,SEK 2.53B,202.4x,-2.05,SEK 28.60,0%
+252,KLARAb,KlaraBo Sverige AB,Stockholm,Real Estate,Real Estate Operations,SEK 2.47B,-16.2x,-0.34,SEK 19.66,4%
+253,PRFO,Profoto Holding AB,Stockholm,Technology,"Computers, Phones & Household Electronics",SEK 2.44B,19.3x,-0.5,SEK 60.60,-0.7%
+254,BESQAB,Besqab AB,Stockholm,Real Estate,Real Estate Operations,SEK 2.43B,34.3x,0.4,SEK 24.20,0%
+255,EWRK,eWork Group,Stockholm,Technology,Software & IT Services,SEK 2.40B,18.9x,-1.27,SEK 138,0.3%
+256,ALMT,ALM Equity AB,Stockholm,Real Estate,Real Estate Operations,SEK 2.38B,-2.5x,-0.03,SEK 204,3%
+257,SVEDb,Svedbergs i Dalstorp B,Stockholm,Consumer Cyclicals,Homebuilding & Construction Supplies,SEK 2.38B,14.4x,-0.68,SEK 44.90,0%
+258,BACTIb,Bactiguard Holding AB,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 2.36B,-31.1x,-1.03,SEK 66.80,-0.9%
+259,SEDANA,Sedana Medical,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 2.33B,-55.5x,-1.94,SEK 23.45,3.3%
+260,NETIb,Net Insight B,Stockholm,Technology,Communications & Networking,SEK 2.29B,27.6x,0.49,SEK 6.58,0.5%
+261,BRINb,Brinova Fastigheter,Stockholm,Real Estate,Real Estate Operations,SEK 2.23B,-16.1x,27.2,SEK 22.80,-0.4%
+262,OVZON,Ovzon,Stockholm,Technology,Communications & Networking,SEK 2.23B,-16.5x,0.68,SEK 20,1.2%
+263,GPGR,Genova Property Group AB,Stockholm,Real Estate,Real Estate Operations,SEK 2.18B,-8.1x,0.01,SEK 47.30,-1.3%
+264,IARb,I.A.R Systems B,Stockholm,Technology,Software & IT Services,SEK 2.18B,-13.2x,0.03,SEK 164,1.9%
+265,EXS,Exsitec Holding AB,Stockholm,Technology,Software & IT Services,SEK 2.18B,28.5x,1.17,SEK 164.50,1.2%
+266,VISC,Gruvaktiebolaget Viscaria,Stockholm,Basic Materials,Metals & Mining,SEK 2.17B,-50.5x,5.32,SEK 20.05,3%
+267,CINT,Cint Group AB,Stockholm,Technology,Software & IT Services,SEK 2.17B,-0.4x,0.02,SEK 10.50,3%
+268,FMMb,FM Mattsson Mora,Stockholm,Consumer Cyclicals,Homebuilding & Construction Supplies,SEK 2.16B,17.6x,-0.54,SEK 51,0%
+269,BMAX,Byggmax Group,Stockholm,Consumer Cyclicals,Specialty Retailers,SEK 2.14B,719.6x,-7.56,SEK 36.80,3%
+270,CVTEC,Cavotec SA,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 2.10B,50.1x,0.41,SEK 19.65,0%
+271,ARISE,Arise Windpower,Stockholm,Utilities,Electrical Utilities & IPPs,SEK 2.05B,10.9x,-0.14,SEK 49.80,0%
+272,STLL,Stille AB,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 2.03B,33.5x,0.91,SEK 226,0.4%
+273,VEFAB,Vef AB,Stockholm,Financials,Investment Banking & Investment Services,SEK 2.01B,-4.9x,0.02,SEK 2,3.4%
+274,AGROUP,Arlandastad AB,Stockholm,Real Estate,Real Estate Operations,SEK 2.01B,-12.1x,-0.52,SEK 31.90,0.6%
+275,DENER,Dala Energi AB,Stockholm,Utilities,Electrical Utilities & IPPs,SEK 1.96B,26.2x,-2.53,SEK 78.20,-1%
+276,SCENS,Scandinavian Enviro Systems AB,Stockholm,Industrials,Professional & Commercial Services,SEK 1.94B,-52.8x,-0.78,SEK 2.42,1%
+277,PRICb,Pricer B,Stockholm,Technology,Communications & Networking,SEK 1.92B,36.5x,0.15,SEK 11.72,1.4%
+278,GENOb,Genovis AB,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 1.91B,62x,-2.33,SEK 29.15,0.2%
+279,VICOR,Vicore Pharma Holding AB,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 1.91B,-8.3x,-0.22,SEK 17.16,1.9%
+280,BRE2,Bredband2 i Skandinavien AB,Stockholm,Technology,Telecommunications Services,SEK 1.90B,19.2x,0.55,SEK 1.99,0.1%
+281,NYTTO,Svenska Nyttobostader AB,Stockholm,Real Estate,Real Estate Operations,SEK 1.87B,-3.1x,-0.06,SEK 14.40,0.7%
+282,DMYDb,Diamyd Medical,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 1.84B,-11.9x,31.62,SEK 18.46,1%
+283,AJAb,Byggmastare Anders J Ahlstrom Hold,Stockholm,Financials,Investment Banking & Investment Services,SEK 1.82B,-57.7x,0.25,SEK 250,0%
+284,WBGRb,Wastbygg Gruppen AB,Stockholm,Consumer Cyclicals,Homebuilding & Construction Supplies,SEK 1.77B,-4x,0,SEK 53.60,-2.2%
+285,PREVb,Prevas B,Stockholm,Technology,Software & IT Services,SEK 1.76B,15.7x,-1.47,SEK 136.20,1.6%
+286,DVYSR,Devyser Diagnostics AB,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 1.76B,-32.4x,-3.03,SEK 107.50,0.9%
+287,FLMNG,Fleming Properties,Spotlight,Industrials,Professional & Commercial Services,SEK 1.75B,,0.01,SEK 5.75,0%
+288,ENEA,Enea,Stockholm,Technology,Software & IT Services,SEK 1.72B,22.6x,0.18,SEK 84.30,3.4%
+289,XSPRAY,XSpray Pharma,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 1.71B,-7.3x,-0.76,SEK 50.50,4%
+290,PLEJD,Plejd,Spotlight,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 1.71B,43.6x,1.16,SEK 267,1.1%
+291,ANNEb,Annehem Fastigheter AB,Stockholm,Real Estate,Real Estate Operations,SEK 1.69B,-18x,-0.36,SEK 19.30,1.3%
+292,ARBONa,Arbona A,NGM,Financials,Investment Banking & Investment Services,SEK 1.68B,5.8x,0.03,SEK 3.24,0.6%
+293,LYKOa,Lyko,Stockholm,Consumer Cyclicals,Specialty Retailers,SEK 1.68B,113.6x,-1.78,SEK 109.20,0.5%
+294,CINIS,Cinis Fertilizer AB,Stockholm,Basic Materials,Chemicals,SEK 1.66B,-73.2x,0.78,SEK 23,0.4%
+295,EQL,EQL Pharma,Stockholm,Consumer Non-Cyclicals,Food & Drug Retailing,SEK 1.63B,61.9x,,SEK 56,-0.7%
+296,EGTX,Egetis Therapeutics AB,Stockholm,Healthcare,Pharmaceuticals,SEK 1.63B,-4.6x,0.36,SEK 5.60,-3.1%
+297,CRNOSb,Cereno Scientific,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 1.63B,-25.3x,1.23,SEK 5.80,-2.5%
+298,RROS,Rottneros AB,Stockholm,Basic Materials,Paper & Forest Products,SEK 1.63B,-148.3x,1.44,SEK 10.72,1.3%
+299,EOLUb,Eolus Vind publ AB,Stockholm,Industrials,Construction & Engineering,SEK 1.62B,2.9x,0.01,SEK 65.10,-0.9%
+300,HUMAN,Humana,Stockholm,Healthcare,Healthcare Providers & Services,SEK 1.61B,13.6x,-0.25,SEK 31.15,1.3%
+301,IBTb,Infant Bacterial Therapeutics,Stockholm,Healthcare,Pharmaceuticals,SEK 1.61B,-12x,0.18,SEK 120,3.4%
+302,MSONa,Midsona A,Stockholm,Consumer Non-Cyclicals,Food & Tobacco,SEK 1.60B,360.7x,3.65,SEK 11,0%
+303,NREST,Nordrest Holding AB,Stockholm,,,SEK 1.59B,14.3x,,SEK 128.60,0.5%
+304,SFAB,Solid FAB,Stockholm,Financials,Insurance,SEK 1.59B,9.5x,0.96,SEK 87.70,0.7%
+305,BULTEN,Bulten AB,Stockholm,Consumer Cyclicals,Automobiles & Auto Parts,SEK 1.56B,16.9x,-0.33,SEK 74,0%
+306,MBPH,Moberg Pharma,Stockholm,Healthcare,Pharmaceuticals,SEK 1.56B,-37.5x,-1.74,SEK 33.36,4.6%
+307,TRAINb,TRAIN ALLIANCE SWEDEN AB publ,Stockholm,Real Estate,Real Estate Operations,SEK 1.48B,41.6x,-0.59,SEK 18.60,-0.3%
+308,MSONb,Midsona B,Stockholm,Consumer Non-Cyclicals,Food & Tobacco,SEK 1.47B,392.9x,3.65,SEK 10.24,3.5%
+309,BORG,Bjorn Borg,Stockholm,Consumer Cyclicals,Textiles & Apparel,SEK 1.46B,20.1x,0.54,SEK 58.03,1%
+310,CRADb,C-Rad,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 1.46B,27.5x,0.17,SEK 43.25,-2.3%
+311,CTEK,Ctek AB,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 1.45B,-6.2x,0.01,SEK 20.45,-1.2%
+312,CINPHA,Cinclus Pharma Holding AB,Stockholm,,,SEK 1.44B,-4.1x,,SEK 31.35,1.5%
+313,SIVEH,Sivers IMA,Stockholm,Technology,Semiconductors & Semiconductor Equipment,SEK 1.44B,-9.2x,0.09,SEK 6.09,7.2%
+314,FPIP,FormPipe Software,Stockholm,Technology,Software & IT Services,SEK 1.43B,38.2x,0.33,SEK 26.40,0%
+315,247,24SevenOffice,Stockholm,Technology,Software & IT Services,SEK 1.41B,-12.1x,-0.27,SEK 20.80,1%
+316,FNOVAb,Fortinova Fastigheter AB,Stockholm,Real Estate,Real Estate Operations,SEK 1.39B,-8.7x,0,SEK 28.70,5.9%
+317,MAHAa,Maha Energy,Stockholm,Energy,Oil & Gas,SEK 1.36B,-5.2x,-0.1,SEK 7.60,-1.5%
+318,VSSABb,Viking Supply Ships,Stockholm,Industrials,Freight & Logistics Services,SEK 1.32B,152.2x,0.18,SEK 100,-0.5%
+319,INFRAC,Infracom,Spotlight,Technology,Telecommunications Services,SEK 1.32B,11.4x,0.36,SEK 26.90,2.3%
+320,LUMEN,LumenRadio AB,Stockholm,Technology,Communications & Networking,SEK 1.32B,44.6x,-1.19,SEK 103.80,-0.9%
+321,GARO,Garo,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 1.29B,518x,-5.34,SEK 25.80,2.4%
+322,PCELL,Powercell Sweden,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 1.25B,-24.7x,-1.23,SEK 23.92,1.1%
+323,FFLY,Firefly AB,Stockholm,Industrials,Professional & Commercial Services,SEK 1.25B,23.9x,0.43,SEK 208,5.6%
+324,EG7,Enad Global 7 AB,Stockholm,Technology,Software & IT Services,SEK 1.21B,28.5x,-0.45,SEK 13.65,-2.7%
+325,CDONAB,Cdon AB,Stockholm,Consumer Cyclicals,Specialty Retailers,SEK 1.20B,-14.3x,-0.27,SEK 112,0%
+326,FRACTL,Fractal Gaming Group AB,Stockholm,Technology,"Computers, Phones & Household Electronics",SEK 1.18B,14.2x,0.07,SEK 33.50,-17.5%
+327,SOFb,Softronic B,Stockholm,Technology,Software & IT Services,SEK 1.18B,14.4x,0.41,SEK 22.50,-0.4%
+328,ADDVb,ADDvise Group AB B,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 1.17B,21.6x,0.31,SEK 5.94,2.8%
+329,MANGS,Mangold AB,Stockholm,Financials,Investment Banking & Investment Services,SEK 1.15B,"-4,110x",-44.24,"SEK 2,460",0%
+330,SYNTH,SyntheticMR,Spotlight,Healthcare,Healthcare Equipment & Supplies,SEK 1.15B,40.2x,0.33,SEK 15.05,0.7%
+331,JETPAK,Jetpak,Stockholm,Industrials,Freight & Logistics Services,SEK 1.14B,39.8x,-0.59,SEK 93.50,-1.6%
+332,ELTEL,Eltel AB,Stockholm,Technology,Telecommunications Services,SEK 1.13B,-3.9x,-0.34,SEK 7.24,3.1%
+333,RUG,Rugvista Group AB,Stockholm,Consumer Cyclicals,Diversified Retail,SEK 1.12B,17.4x,2.33,SEK 51.20,-5.2%
+334,ARPL,Arla Plast AB,Stockholm,Basic Materials,Chemicals,SEK 1.11B,11.8x,0.12,SEK 53.20,0.4%
+335,AWRD,Awardit,Stockholm,Industrials,Professional & Commercial Services,SEK 1.09B,62.1x,0.02,SEK 125.50,2.4%
+336,SVIK,Studsvik,Stockholm,Industrials,Professional & Commercial Services,SEK 1.07B,20.4x,-1.86,SEK 130.60,-0.3%
+337,LOGIST,Logistri Fastighets,Spotlight,Real Estate,Real Estate Operations,SEK 1.06B,10.4x,0.12,SEK 145,0%
+338,SEZI,Senzime,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 1.06B,-7.1x,-0.21,SEK 8.89,0.7%
+339,VERTb,Vertiseit,Stockholm,Technology,Software & IT Services,SEK 1.05B,32.8x,0.17,SEK 45.60,-0.4%
+340,FNMA,Ferronordic Machines,Stockholm,Consumer Cyclicals,Automobiles & Auto Parts,SEK 1.03B,-23.2x,0.23,SEK 72,-0.4%
+341,ALCA,Alcadon Group,Stockholm,Technology,Communications & Networking,SEK 1.02B,17.9x,0.25,SEK 41.60,-0.9%
+342,TETY,Tethys Oil,Stockholm,Energy,Oil & Gas,SEK 982.59M,-4.5x,0.03,SEK 30.65,1.5%
+343,ATORX,Alligator Bioscience,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 980.90M,-3.7x,-0.07,SEK 1.30,3.2%
+344,PAX,Paxman,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 977.24M,40.5x,0.09,SEK 51.40,-3.8%
+345,INTEGb,Integrum,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 973.72M,219.5x,1.94,SEK 50.20,-1.2%
+346,WTWa,Wall To Wall AB,Stockholm,Industrials,Construction & Engineering,SEK 965.38M,50x,,SEK 70,-1.1%
+347,NETEL,Netel Holding AB,Stockholm,Industrials,Construction & Engineering,SEK 958.59M,17.7x,-0.65,SEK 20.40,3.2%
+348,CPEI,Coeli Private Equity AB,NGM,Financials,Investment Banking & Investment Services,SEK 945.05M,1.6x,,SEK 109,-0.9%
+349,NORBb,Nordisk Bergteknik AB,Stockholm,Industrials,Construction & Engineering,SEK 944.42M,-256.4x,-1.03,SEK 16.30,-1.2%
+350,INISSb,Inission,Stockholm,Technology,Electronic Equipment & Parts,SEK 941.65M,10.1x,0.3,SEK 47.70,-1%
+351,BALCO,Balco Group,Stockholm,Industrials,Construction & Engineering,SEK 926.62M,50.1x,-0.69,SEK 39.75,-3.1%
+352,EOID,Eyeonid,NGM,Technology,Software & IT Services,SEK 923.33M,-26.8x,-3.92,SEK 32.50,-1.5%
+353,ONEF,Oneflow AB,Stockholm,Technology,Software & IT Services,SEK 857.40M,-9.8x,0.47,SEK 35.10,3.2%
+354,CAREI,Careium AB,Stockholm,Industrials,Professional & Commercial Services,SEK 853.85M,18.5x,0.07,SEK 35.50,1.1%
+355,CHECK,Checkin.com Group AB,Stockholm,Technology,Software & IT Services,SEK 836.82M,292.3x,1.89,SEK 23.90,-14.6%
+356,PROFb,ProfilGruppen B,Stockholm,Basic Materials,Metals & Mining,SEK 828.66M,8.1x,0.11,SEK 112,-3.9%
+357,OSSD,OssDsign,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 828.15M,-7.1x,-0.43,SEK 8.60,1.4%
+358,W5,W5 Solutions AB,Stockholm,Technology,Software & IT Services,SEK 823.91M,-21.9x,0.09,SEK 53.80,-1.1%
+359,SINT,SinterCast AB,Stockholm,Consumer Cyclicals,Automobiles & Auto Parts,SEK 823.37M,19.5x,0.59,SEK 116.50,-2.5%
+360,SLEEP,Sleep Cycle AB,Stockholm,Technology,Software & IT Services,SEK 823.27M,15x,0.22,SEK 40,-1.5%
+361,HAKIa,HAKI Safety A,Stockholm,Consumer Non-Cyclicals,Consumer Goods Conglomerates,SEK 819.87M,23.3x,-0.54,SEK 30,0%
+362,EMBELL,Embellence Group AB,Stockholm,Consumer Cyclicals,Household Goods,SEK 819.79M,14.5x,0.35,SEK 35.50,-2.2%
+363,BYGGP,Bygg Partner i Dalarna,Stockholm,Industrials,Construction & Engineering,SEK 809.36M,25x,0.28,SEK 17.85,-0.3%
+364,STUDBO,Studentbostader I Sverige AB,Stockholm,Real Estate,Real Estate Operations,SEK 803.65M,-2.6x,-0.1,SEK 1.40,0%
+365,SGG,Sensys Traffic,Stockholm,Technology,Communications & Networking,SEK 801.36M,40.4x,0.02,SEK 69.50,-0.6%
+366,NILb,Nilorngruppen AB,Stockholm,Consumer Cyclicals,Textiles & Apparel,SEK 798.14M,14.6x,-2.81,SEK 70,0.3%
+367,IRLABa,IRLAB Therapeutics,Stockholm,Healthcare,Pharmaceuticals,SEK 796.18M,-6.7x,-0.26,SEK 15.40,0.7%
+368,NELLY,Nelly Group AB,Stockholm,Technology,Software & IT Services,SEK 794.27M,14.8x,0.09,SEK 26.50,-1.1%
+369,MSABb,Micro Systemations B,Stockholm,Technology,Office Equipment,SEK 794.14M,79x,-1.4,SEK 43.10,4.9%
+370,CAGGR,CAG,Stockholm,Technology,Software & IT Services,SEK 781.27M,15.4x,-4.93,SEK 109,0%
+371,NTEKb,NOVOTEK B,Stockholm,Technology,Software & IT Services,SEK 771.68M,21.9x,1.31,SEK 72.80,0%
+372,HAKIb,HAKI Safety AB,Stockholm,Consumer Non-Cyclicals,Consumer Goods Conglomerates,SEK 770.68M,24.8x,-0.54,SEK 28.20,0.4%
+373,G5EN,G5 Entertainment publ AB,Stockholm,Technology,Software & IT Services,SEK 751.82M,7.6x,-2.51,SEK 96.20,-0.8%
+374,K2Ab,K2A Knaust & Andersson Fastigheter,Stockholm,Real Estate,Real Estate Operations,SEK 748.75M,-1.5x,-0.12,SEK 8.78,0.7%
+375,K2Apref,K2A Knaust Andersson Fastigheter AB  Prf,Stockholm,,,SEK 748.75M,,-0.12,SEK 147,-1%
+376,MNTC,Mentice,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 746.61M,-92.2x,0.97,SEK 29.20,0%
+377,BOKUS,Bokusgruppen AB,Stockholm,Consumer Cyclicals,Specialty Retailers,SEK 746.19M,16.8x,0.03,SEK 46.30,0.2%
+378,PIERCE,Pierce Group AB,Stockholm,Consumer Cyclicals,Diversified Retail,SEK 746.12M,-13x,-2.5,SEK 9.40,0%
+379,INTE,Intellego Technologies AB,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 740.51M,9.2x,0,SEK 28,-0.4%
+380,BERNERb,Christian Berner Trade Tech AB,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 737.24M,16.6x,0.58,SEK 39.30,-0.2%
+381,PROMI,Promimic AB,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 727.64M,-66.6x,-1.99,SEK 38.10,-2.3%
+382,CX,CombinedX AB,Stockholm,Technology,Software & IT Services,SEK 715.15M,11.2x,0.4,SEK 38.80,-1.3%
+383,DOXA,Doxa AB,Stockholm,Financials,Investment Banking & Investment Services,SEK 713.47M,"-1,120x",-12.14,SEK 1.11,1.5%
+384,GOMX,GomSpace,Stockholm,Industrials,Aerospace & Defense,SEK 710.38M,-5.6x,-0.1,SEK 5.05,-2.7%
+385,GREAT,Greater Than,Stockholm,Technology,Software & IT Services,SEK 709.48M,-56.2x,-0.48,SEK 52,-5.4%
+386,4C,4C AB,Stockholm,Technology,Software & IT Services,SEK 699.13M,-11.4x,0.04,SEK 19.75,-0.7%
+387,MAVEN,Maven Wireless Sweden AB,Stockholm,Technology,Communications & Networking,SEK 698.15M,21.9x,0.14,SEK 13.05,-3%
+388,B3,B3 Consulting Group AB,Stockholm,Technology,Software & IT Services,SEK 697.05M,25.6x,-0.34,SEK 84,-1.2%
+389,TRANS,Transtema Group AB,Stockholm,Technology,Telecommunications Services,SEK 692.86M,6.3x,-0.36,SEK 16.62,0.2%
+390,SKOLON,Skolon AB,Stockholm,Academic & Educational Services,Miscellaneous Educational Service Providers,SEK 692.80M,89.1x,0.47,SEK 26.40,1.2%
+391,VPABb,Veteranpoolen,Spotlight,Industrials,Professional & Commercial Services,SEK 688.64M,17.4x,3.61,SEK 34.10,-0.9%
+392,ACRIb,Acrinova AB,Stockholm,Real Estate,Real Estate Operations,SEK 678.80M,210.6x,-0.79,SEK 9.12,-1.1%
+393,ACRIa,Acrinova AB,Stockholm,Real Estate,Real Estate Operations,SEK 678.80M,210.6x,-0.79,SEK 9.90,3.7%
+394,DEDIC,Dedicare B,Stockholm,Industrials,Professional & Commercial Services,SEK 677.99M,7.6x,-0.56,SEK 70.40,0.1%
+395,QUART,Quartiers Properties,Stockholm,Real Estate,Real Estate Operations,SEK 675.05M,-900x,-9.7,SEK 11.70,-2.1%
+396,QUARTpref,Quartiers Properties,Stockholm,Real Estate,Real Estate Operations,SEK 675.05M,-900x,-9.7,SEK 11.40,0%
+397,RAILG,Railcare,Stockholm,Industrials,Transport Infrastructure,SEK 673.06M,15.3x,1.4,SEK 27.90,-3.8%
+398,BEGR,BE Group AB,Stockholm,Basic Materials,Metals & Mining,SEK 672.53M,-8.5x,0.25,SEK 51.80,-1.2%
+399,CANTA,Cantargia AB,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 672.29M,-2.6x,-0.07,SEK 3.68,2.3%
+400,DURCb,Duroc B,Stockholm,Financials,Investment Holding Companies,SEK 664.95M,-26.7x,-0.31,SEK 17.05,0.6%
+401,KAPIAB,Kalleback Property Invest AB,Stockholm,Real Estate,Real Estate Operations,SEK 662.48M,62.8x,-0.78,SEK 181.50,0%
+402,NAXS,NAXS Nordic Access,Stockholm,Financials,Investment Banking & Investment Services,SEK 655.79M,-19.5x,0.14,SEK 59.20,0.3%
+403,FLATb,Flat Capital AB,Stockholm,Financials,Investment Holding Companies,SEK 654.55M,-6.7x,0.16,SEK 13.60,2%
+404,AGESb,AGES Industri AB,Stockholm,Basic Materials,Metals & Mining,SEK 645.01M,11.3x,0.42,SEK 90.60,-0.2%
+405,MOFAST,Mofast AB,Spotlight,Real Estate,Real Estate Operations,SEK 625.57M,,0,SEK 13.20,0%
+406,ADTR,Adtraction AB,Stockholm,Consumer Cyclicals,Media & Publishing,SEK 619.45M,511.4x,-6.69,SEK 36.90,-1.1%
+407,FREETR,Freetrailer Group AS,Spotlight,Consumer Cyclicals,Specialty Retailers,SEK 618.01M,45.1x,0.64,SEK 67.29,4.1%
+408,BIMOB,Bimobject,Stockholm,Technology,Software & IT Services,SEK 616.04M,-38.6x,-0.64,SEK 4.33,0.5%
+409,SALTb,SaltX Technology,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 613.86M,-8.9x,-0.86,SEK 3.85,0.4%
+410,SKMO,Skane mollan AB,Stockholm,Consumer Non-Cyclicals,Food & Tobacco,SEK 610.50M,41.6x,-1.48,SEK 55.50,-3.5%
+411,UPSALE,Upsales Tech,Stockholm,Technology,Software & IT Services,SEK 606.18M,25.2x,-1.32,SEK 36.20,0.6%
+412,ADVENI,Advenica,Stockholm,Technology,Communications & Networking,SEK 600.41M,758.3x,-10,SEK 13.65,1.5%
+413,IMPC,Impact Coatings publ AB,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 594.91M,-15.2x,-0.36,SEK 6.74,-3.2%
+414,CNCJOb,Concejo AB,Stockholm,Financials,Investment Banking & Investment Services,SEK 584.89M,23.6x,0.18,SEK 50,2%
+415,OPTER,Opter AB,Stockholm,Technology,Software & IT Services,SEK 583.20M,38.3x,0.93,SEK 98,0.8%
+416,HAMLETb,Hamlet Pharma AB,Spotlight,Healthcare,Biotechnology & Medical Research,SEK 577.10M,-15.9x,-4.29,SEK 3.44,-1.4%
+417,MINEST,Minesto AB,Stockholm,Utilities,Electrical Utilities & IPPs,SEK 571.67M,-14.3x,-0.27,SEK 2.97,-1%
+418,GENI,Generic Sweden publ AB,Stockholm,Industrials,Professional & Commercial Services,SEK 565.43M,24.6x,2.94,SEK 46,1.1%
+419,BRAIN,BrainCool,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 559.99M,-6.5x,-0.26,SEK 2.19,5.6%
+420,ISOFOL,Isofol Medical,Stockholm,Healthcare,Pharmaceuticals,SEK 554M,-18.1x,-0.26,SEK 3.43,9%
+421,KJELL,Kjell AB,Stockholm,Consumer Cyclicals,Specialty Retailers,SEK 552.94M,-245x,2.25,SEK 17.65,-0.6%
+422,QBIT,QuickBit,NGM,Technology,Financial Technology (Fintech) & Infrastructure,SEK 540.32M,-2.2x,0.02,SEK 3.86,0.8%
+423,READ,Readly International AB,Stockholm,Technology,Software & IT Services,SEK 538.25M,-29.4x,-0.35,SEK 14.80,4.2%
+424,FLUO,Fluoguide AS,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 537.58M,,1.13,SEK 38.45,-2.7%
+425,TOBII,Tobii AB,Stockholm,Technology,Electronic Equipment & Parts,SEK 534.66M,-1.1x,0.03,SEK 2.27,0.2%
+426,TITAb,Titania Holding AB,Stockholm,Real Estate,Real Estate Operations,SEK 527.67M,-119.4x,-1.33,SEK 7.64,3.5%
+427,GAPWb,Gapwaves AB,Stockholm,Technology,Communications & Networking,SEK 527.62M,-8.1x,0.05,SEK 16.94,0%
+428,QLIRO,Qliro AB,Stockholm,Financials,Banking Services,SEK 526.51M,60.2x,0.49,SEK 28.05,2%
+429,ORX,Orexo AB,Stockholm,Healthcare,Pharmaceuticals,SEK 524.46M,-5.4x,-0.11,SEK 15.20,-0.3%
+430,FLEXM,Flexion Mobile,Stockholm,Technology,Software & IT Services,SEK 524.09M,-23.8x,0.09,SEK 9.32,0.7%
+431,STZEa,Starbreeze AB A,Stockholm,Technology,Software & IT Services,SEK 516.87M,1.8x,0.01,SEK 0.35,11.3%
+432,DORO,DORO AB,Stockholm,Technology,"Computers, Phones & Household Electronics",SEK 514.46M,10.7x,0.37,SEK 21.30,1.4%
+433,SOLT,SolTech Energy Sweden AB,Stockholm,Energy,Renewable Energy,SEK 509.01M,-3.2x,-0.14,SEK 3.83,1.6%
+434,ACCON,Acconeer,Stockholm,Technology,Electronic Equipment & Parts,SEK 500.35M,-6.9x,-0.39,SEK 8,-1.2%
+435,SHTb,SHT Smart HighTech AB,Spotlight,Technology,Semiconductors & Semiconductor Equipment,SEK 500.05M,-13.8x,1.75,SEK 22.40,1.8%
+436,CATME,Catena Media,Stockholm,Technology,Software & IT Services,SEK 490.96M,-0.7x,0,SEK 6.35,2.7%
+437,ITECH,I-Tech,Stockholm,Basic Materials,Chemicals,SEK 488.25M,22.5x,0.84,SEK 41,-2.8%
+438,BOAT,Nimbus Group AB,Stockholm,Consumer Cyclicals,Leisure Products,SEK 486M,69.5x,-0.69,SEK 22.90,0.4%
+439,ONCO,Oncopeptides,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 480.94M,-0.9x,-0.1,SEK 2.23,5.2%
+440,PREC,Precise Biometrics,Stockholm,Technology,Electronic Equipment & Parts,SEK 477.43M,-19.8x,-0.41,SEK 6.12,7.4%
+441,SKOGa,Skogsfond Baltikum AB,NGM,Financials,Investment Banking & Investment Services,SEK 476.59M,8.7x,-0.22,"SEK 1,700",-1.2%
+442,NAVIGO,Navigo Invest AB,Stockholm,Financials,Investment Banking & Investment Services,SEK 468.61M,727.8x,-8.75,SEK 3.60,0.6%
+443,NAVIGOpref,Navigo Invest AB  Prf,Stockholm,,,SEK 468.61M,,-8.75,SEK 102.50,0%
+444,BOTX,Botnia Exploration,Stockholm,Basic Materials,Metals & Mining,SEK 457.02M,-61.2x,-2.8,SEK 11.40,3.2%
+445,SYDSV,Sydsvenska Hem,Spotlight,Real Estate,Real Estate Operations,SEK 455.59M,78.5x,0.52,SEK 96.50,0%
+446,BPCINS,BPC Instruments AB,Spotlight,Industrials,Professional & Commercial Services,SEK 448.48M,31.6x,0.23,SEK 42.30,-1.4%
+447,ACUVI,Acuvi AB,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 433.38M,-5.8x,-0.2,SEK 14.90,-5.7%
+448,MAGLE,Magle Chemoswed,Stockholm,Healthcare,Pharmaceuticals,SEK 432M,62.3x,-4.35,SEK 40,0%
+449,INIT,Initiator Pharma,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 428.60M,-15.5x,-0.35,SEK 8.10,-4.1%
+450,STZEb,Starbreeze AB B,Stockholm,Technology,Software & IT Services,SEK 428.26M,2.1x,0.01,SEK 0.29,0.1%
+451,ATHAN,Athanase Innovation AB,Stockholm,Real Estate,Real Estate Operations,SEK 425.66M,-27.7x,-0.35,SEK 18,-1.1%
+452,METAC,Metacon,Stockholm,Energy,Renewable Energy,SEK 420.02M,-2.4x,0.14,SEK 0.63,3.3%
+453,BINERO,Binero Group AB,Stockholm,Technology,Software & IT Services,SEK 419.48M,-8.3x,-1.22,SEK 3.58,0%
+454,SOLNA,Solnaberg Property,Stockholm,Real Estate,Real Estate Operations,SEK 413.60M,-68.8x,0.34,SEK 110,0.5%
+455,ELON,Elon AB,Stockholm,Technology,Software & IT Services,SEK 411.47M,-5.3x,0.13,SEK 24.90,4.2%
+456,NEXAM,Nexam Chemical Holding AB,Stockholm,Basic Materials,Chemicals,SEK 411.05M,-40.6x,-0.73,SEK 5.08,-2.7%
+457,KEBNIb,KebNi AB,Stockholm,Technology,Communications & Networking,SEK 407.82M,-14.8x,-0.22,SEK 1.49,-0.8%
+458,SANION,Saniona AB,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 407.13M,-3.1x,-0.21,SEK 3.58,-4.5%
+459,ANNX,Annexin Pharma,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 400.80M,-3.9x,-0.39,SEK 0.76,1.1%
+460,IMMUN,Mendus AB,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 400.31M,-2.4x,-0.05,SEK 7.95,1.9%
+461,QLINEA,Q linea,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 394.91M,-1.6x,-0.02,SEK 3.38,-0.3%
+462,AMH2b,Amhult 2,Spotlight,Real Estate,Real Estate Operations,SEK 393.73M,13.9x,0,SEK 57.50,2.7%
+463,KDEV,Karolinska Development B,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 391.26M,11.4x,0.09,SEK 1.45,1.1%
+464,POLYG,Polygiene,Stockholm,Basic Materials,Chemicals,SEK 383.53M,-1.2x,0,SEK 10.50,1%
+465,QAIR,Qleanair Holding AB,Stockholm,Industrials,Professional & Commercial Services,SEK 378.91M,17.3x,0.94,SEK 26.20,2.7%
+466,NEOb,Neovici Holding AB,Stockholm,,,SEK 375.90M,,,SEK 8.51,-4.7%
+467,ORTb,Ortoma,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 372.69M,-11.9x,0,SEK 10.05,-1.5%
+468,SYNACT,SynAct Pharma AB,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 368.78M,-1.2x,0.07,SEK 8.90,-0.3%
+469,INFREA,Infrea,Stockholm,Industrials,Construction & Engineering,SEK 361.30M,-49x,0.6,SEK 12.05,-0.4%
+470,MEABb,Malmbergs Elektriska B,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 360M,-84.6x,0.77,SEK 45,-0.9%
+471,ENRAD,Enrad,Spotlight,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 358.86M,"-2,960x",-31.34,SEK 14.80,0.7%
+472,CASEG,Case AB,Stockholm,Financials,Investment Banking & Investment Services,SEK 357.75M,-212.8x,-7.54,SEK 14.80,6.5%
+473,ACARIX,Acarix,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 350.34M,-2.6x,-0.1,SEK 0.36,0%
+474,LATFb,Latvian Forest,NGM,Financials,Investment Banking & Investment Services,SEK 349.57M,-47.4x,0.42,SEK 8.74,-4.8%
+475,AVEN,Avensia publ AB,Stockholm,Technology,Software & IT Services,SEK 348.96M,17.9x,0.1,SEK 9.40,4.7%
+476,OBAB,Online Brands Nordic AB,Stockholm,Consumer Cyclicals,Specialty Retailers,SEK 348.70M,-42.2x,,SEK 15.45,-2.2%
+477,ANGLR,Angler Gaming,Spotlight,Consumer Cyclicals,Hotels & Entertainment Services,SEK 344.93M,16.6x,0.09,SEK 4.63,0.4%
+478,GUARD,Guard Therapeutics,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 342.39M,-3.3x,-0.08,SEK 28.40,-0.7%
+479,MEDIVIR,Medivir B,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 342.11M,,-0.86,SEK 3.02,-0.3%
+480,ENZY,Enzymatica publ AB,Stockholm,Healthcare,Pharmaceuticals,SEK 341.56M,-5.9x,-0.53,SEK 1.97,-0.5%
+481,CURAS,Curasight AS,Spotlight,Healthcare,Biotechnology & Medical Research,SEK 340.22M,-8.1x,0.14,SEK 16.20,-1.4%
+482,PENGb,Projektengagemang,Stockholm,Industrials,Construction & Engineering,SEK 337.96M,70.5x,-1.61,SEK 14.05,1.1%
+483,CLAVI,Clavister Holding AB,Stockholm,Technology,Communications & Networking,SEK 336.92M,-1.7x,-0.09,SEK 1.51,4.5%
+484,SIBEK,SIBEK AB,Stockholm,Industrials,Transport Infrastructure,SEK 336.07M,17.6x,,SEK 33.10,0%
+485,BOUL,Boule Diagnostics,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 333.96M,15.8x,2.83,SEK 8.60,0%
+486,CRWEN,Crown Energy,NGM,Energy,Oil & Gas,SEK 331.73M,-30.2x,0.15,SEK 0.69,2.2%
+487,OGUNb,Ogunsen AB,Stockholm,Industrials,Professional & Commercial Services,SEK 330.46M,10.2x,-0.3,SEK 30.60,-1%
+488,CHEF,Cheffelo AB,Stockholm,Consumer Non-Cyclicals,Food & Tobacco,SEK 329.64M,17.1x,0.16,SEK 26.30,1.2%
+489,NIO,Nordic Iron Ore,Stockholm,Basic Materials,Metals & Mining,SEK 325.99M,-13.4x,1.56,SEK 4.80,-2%
+490,SFTR,GWS Production AB,Stockholm,Technology,Software & IT Services,SEK 324.92M,-110x,-1.29,SEK 8.30,6.4%
+491,DEVPb,DevPort,Stockholm,Technology,Software & IT Services,SEK 324.49M,9.5x,-1.11,SEK 32.10,-1.5%
+492,ORGC,Organoclick AB,Stockholm,Basic Materials,Chemicals,SEK 313M,-18.3x,-0.39,SEK 3.19,-5.9%
+493,ENRO,Eniro,Stockholm,Consumer Cyclicals,Media & Publishing,SEK 311.59M,13x,0.11,SEK 0.43,0.5%
+494,RAKE,Raketech,Stockholm,Technology,Software & IT Services,SEK 310.86M,-3.5x,-0.14,SEK 7.40,-3.3%
+495,PIONb,PION AB,Stockholm,Industrials,Professional & Commercial Services,SEK 307.36M,-19.3x,0.09,SEK 6.38,0%
+496,SMOL,Smoltek Nanotech,Spotlight,Technology,Semiconductors & Semiconductor Equipment,SEK 304.95M,,-0.02,SEK 0.48,-3.6%
+497,SERT,Serstech,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 303.85M,-35x,-0.86,SEK 1.47,1.4%
+498,REALFI,Realfiction,Stockholm,Consumer Cyclicals,Media & Publishing,SEK 302.58M,-23.5x,0.08,SEK 15.30,2.8%
+499,TRIONA,Triona AB,NGM,Technology,Software & IT Services,SEK 300.22M,41x,-1.22,SEK 53.50,7%
+500,ARCA,Arcario AB,Stockholm,Industrials,Professional & Commercial Services,SEK 294.72M,-8.1x,-0.11,SEK 0.02,1.6%
+501,AVTCHb,Avtech Sweden publ AB,Stockholm,Industrials,Aerospace & Defense,SEK 291.43M,27.5x,0.53,SEK 5.16,0.4%
+502,HOMEb,HomeMaid,Spotlight,Consumer Non-Cyclicals,Personal & Household Products & Services,SEK 284.30M,20.6x,-0.52,SEK 15,2.7%
+503,OPTIFR,Opticept Technologies,Stockholm,Consumer Non-Cyclicals,Food & Tobacco,SEK 280.66M,-3.2x,-0.07,SEK 6.65,-1.2%
+504,LIPUM,Lipum,Stockholm,Healthcare,Pharmaceuticals,SEK 280M,-2.3x,-0.25,SEK 13.30,0.8%
+505,DRIL,Drillcon AB,Stockholm,Basic Materials,Metals & Mining,SEK 279.20M,10.8x,0.02,SEK 6.26,-5.4%
+506,LCLEAN,Lifeclean International AB,Stockholm,Consumer Non-Cyclicals,Personal & Household Products & Services,SEK 277.54M,-6.8x,0.14,SEK 4.89,-2%
+507,REAL,Real Fastigheter,NGM,Real Estate,Real Estate Operations,SEK 274.96M,74.7x,-0.87,SEK 9.26,-1.5%
+508,ERMA,Enorama Pharma,Stockholm,Healthcare,Pharmaceuticals,SEK 274.20M,-5.4x,-0.08,SEK 6.70,3.1%
+509,GARPCOb,Garpco AB,NGM,,,SEK 274M,,,SEK 263,-0.4%
+510,FERRO,Ferroamp Elektronik,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 270.41M,-2x,3.33,SEK 7.95,0.8%
+511,ABLI,Abliva AB,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 269.88M,-2.2x,1.01,SEK 0.20,-2.2%
+512,ENVIRb,Envirologic,Spotlight,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 269.38M,25.6x,0.02,SEK 28.90,5.9%
+513,CFISH,Crunchfish,Stockholm,Technology,Software & IT Services,SEK 269.20M,-5x,0.08,SEK 6.80,-3%
+514,KANC,Kancera AB,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 266.61M,-3.1x,-0.17,SEK 2.16,-14.6%
+515,SEAF,Seafire,Stockholm,Financials,Investment Holding Companies,SEK 265.65M,-7.4x,0.02,SEK 6.64,7.1%
+516,TRANSb,Transferator B,Spotlight,Financials,Investment Holding Companies,SEK 262.65M,3.6x,0,SEK 2.73,3%
+517,PRCOb,Precio Fishbone AB,Stockholm,Technology,Software & IT Services,SEK 261.16M,1.4x,0.02,SEK 28.20,-0.7%
+518,MIDSU,Midsummer,Stockholm,Energy,Renewable Energy,SEK 257.95M,-0.7x,-0.04,SEK 1.23,0.2%
+519,IVACC,Intervacc,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 257.50M,-2.3x,1.25,SEK 3.42,1.8%
+520,TERRNTb,TerraNet,Stockholm,Technology,Software & IT Services,SEK 255.44M,-2x,0.18,SEK 0.24,-3.8%
+521,BONAS,Bonasudden Holding AB,Stockholm,Real Estate,Real Estate Operations,SEK 253.68M,-10.4x,0.32,SEK 151,0.7%
+522,BUSER,Bambuser,Stockholm,Technology,Software & IT Services,SEK 252.64M,-0.9x,0.04,SEK 1.20,4.2%
+523,MPOS,Micropos Medical,Spotlight,Healthcare,Healthcare Equipment & Supplies,SEK 250.30M,-12.7x,-4.42,SEK 1.98,0%
+524,CLBIO,Corline Biomedical AB,Stockholm,Healthcare,Pharmaceuticals,SEK 248.22M,-55.3x,0.28,SEK 11.55,0.9%
+525,FABLE,Fable Media AB,Spotlight,Consumer Cyclicals,Media & Publishing,SEK 246.29M,9.2x,-0.82,SEK 7.65,5.5%
+526,CEDER,Cedergrenska AB,Stockholm,Academic & Educational Services,Miscellaneous Educational Service Providers,SEK 245.90M,-72.2x,-0.97,SEK 21.20,0%
+527,XBRANE,Xbrane Biopharma,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 244.72M,-0x,-0.02,SEK 0.16,-4.2%
+528,MOBA,MOBA Network publ AB,Stockholm,Technology,Software & IT Services,SEK 240.44M,261.4x,-1.49,SEK 10.10,-4.7%
+529,WRV,Webrock Ventures AB,Stockholm,,,SEK 238.73M,-0.8x,,SEK 11.30,0%
+530,CF1prefp2,Coeli Fastighet I,NGM,Financials,Collective Investments,SEK 237.32M,83.8x,,SEK 232,5.5%
+531,TAGMb,TagMaster AB,Stockholm,Technology,Semiconductors & Semiconductor Equipment,SEK 237.29M,46.5x,-0.53,SEK 16.20,1.3%
+532,CDMIL,CodeMill AB,Stockholm,Technology,Software & IT Services,SEK 237.02M,73.7x,0.66,SEK 17.20,-1.2%
+533,INCOAX,InCoax Networks,Stockholm,Technology,Communications & Networking,SEK 235.78M,-17.7x,-0.47,SEK 2.18,-2.7%
+534,MAGIN,MAG Interactive,Stockholm,Technology,Software & IT Services,SEK 235.27M,118.4x,1.08,SEK 8.88,-1.1%
+535,NICA,Nanologica AB,Stockholm,Basic Materials,Chemicals,SEK 235.03M,-2.9x,0.11,SEK 5.38,1.1%
+536,SODER,Soder Sportfiske AB,Stockholm,Consumer Cyclicals,Specialty Retailers,SEK 234.53M,56.8x,3.1,SEK 27.80,0%
+537,TURA,Tura AB,Spotlight,,,SEK 234.34M,16.3x,-0.33,SEK 4.76,10.7%
+538,ACOUS,Acousort,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 233.72M,-12x,0.7,SEK 15.65,-3.4%
+539,BIOVICb,Biovica International,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 233.25M,-1.3x,-0.06,SEK 2.78,1.5%
+540,HILBb,Hilbert AB,Stockholm,Technology,Financial Technology (Fintech) & Infrastructure,SEK 233.25M,,,SEK 3.73,-2.1%
+541,HIGHCOb,High Coast Distillery AB,Stockholm,Consumer Non-Cyclicals,Beverages,SEK 230.85M,90.3x,,SEK 38.40,-4.9%
+542,AIXIAb,Aixia AB,Spotlight,Technology,Software & IT Services,SEK 223.79M,18.8x,0.02,SEK 143,0.7%
+543,OBDUprefb,Obducat Pref B,NGM,Technology,Semiconductors & Semiconductor Equipment,SEK 221.88M,-104.5x,-1.35,SEK 2.04,-5.6%
+544,FINGb,Fingerprint Cards B,Stockholm,Technology,Electronic Equipment & Parts,SEK 221.62M,-0.1x,-0.01,SEK 0.07,-5%
+545,TRANSa,Transferator A,Spotlight,Financials,Investment Holding Companies,SEK 221.28M,4.2x,0,SEK 2.30,-6.9%
+546,FREJA,Freja eID Group AB,Stockholm,Technology,Software & IT Services,SEK 219.84M,-6.2x,-0.39,SEK 9.70,2.1%
+547,CESSA,Cessatech AS,Spotlight,Healthcare,Pharmaceuticals,SEK 219.55M,-3.7x,-1.5,SEK 12.44,-1.2%
+548,SPEC,SpectraCure,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 219.03M,-10.4x,-0.66,SEK 2.26,2.5%
+549,LINKAB,Link Prop Investment publ AB,Stockholm,Real Estate,Real Estate Operations,SEK 217.56M,13.4x,0.22,SEK 148,2.1%
+550,NEOLA,Neola Medical AB,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 217.47M,-16.9x,-0.46,SEK 3.02,-2.6%
+551,LAMMb,Lammhults Design B,Stockholm,Industrials,Professional & Commercial Services,SEK 216.27M,-28.5x,0.06,SEK 25.60,0.4%
+552,LUMITO,Lumito AB,NGM,Healthcare,Biotechnology & Medical Research,SEK 215.46M,-8x,-0.48,SEK 0.92,-2.8%
+553,MOMENT,Moment Group AB,Stockholm,Consumer Cyclicals,Hotels & Entertainment Services,SEK 214.68M,6.2x,-0.37,SEK 8.48,-0.2%
+554,FREEM,Freemelt Holding AB,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 214.52M,-2x,,SEK 3.16,1.3%
+555,MEGRP,Mediacle,NGM,Technology,Software & IT Services,SEK 213.12M,60.1x,0.77,SEK 16.90,0%
+556,ARCOMA,Arcoma AB,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 212.95M,22.6x,0.02,SEK 16.20,-1.5%
+557,AQUAT,Aquaticus RE AB,Spotlight,Real Estate,Real Estate Operations,SEK 212.52M,-81.1x,0.62,SEK 69,2.2%
+558,KRONA,Krona Public Real Estate,Spotlight,,,SEK 211.65M,-2.2x,0.02,SEK 48.60,3%
+559,MODELb,Modelon AB,Stockholm,Technology,Software & IT Services,SEK 211.52M,-2.1x,-0.15,SEK 12.20,-4.7%
+560,BACKA,Backaheden Fastighets,Spotlight,,,SEK 210.26M,,,SEK 65.50,0.8%
+561,PTRK,Physitrack,Stockholm,Healthcare,Healthcare Providers & Services,SEK 209.76M,6.7x,0,SEK 12.90,0%
+562,NEPA,Nepa,Stockholm,Technology,Software & IT Services,SEK 204.44M,-19.5x,0.06,SEK 26,-1.9%
+563,SENZA,SenzaGen,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 203.58M,-8.2x,-0.88,SEK 7.20,2.9%
+564,XINT,Xintela,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 202.48M,-3.5x,-0.05,SEK 0.36,31.9%
+565,CANDLEb,Candles Scandinavia AB,Stockholm,Consumer Cyclicals,Leisure Products,SEK 201.57M,-18.5x,0.01,SEK 22.90,-1.7%
+566,HEXI,Hexicon AB,Stockholm,Energy,Renewable Energy,SEK 201.55M,-1.3x,-0.1,SEK 0.55,-1.3%
+567,AACM,AAC Clyde Space,Stockholm,Industrials,Aerospace & Defense,SEK 198.49M,-4.7x,-0.21,SEK 34.80,-10.8%
+568,TCCa,TCECUR Sweden AB,NGM,Technology,Communications & Networking,SEK 198.46M,26.5x,-0.4,SEK 20.50,-1%
+569,ESGRb,ES Energy Save Holding AB,Stockholm,,,SEK 194.62M,,0.04,SEK 28.95,-3.2%
+570,DICOT,Dicot,Spotlight,Healthcare,Pharmaceuticals,SEK 192.94M,-3.1x,,SEK 0.20,-14.6%
+571,HIFAb,Hifab Group AB,Stockholm,Industrials,Professional & Commercial Services,SEK 192.25M,10.3x,0.07,SEK 3.16,-3.7%
+572,TSEC,Tempest Security,Stockholm,Industrials,Professional & Commercial Services,SEK 190.80M,54.3x,-0.83,SEK 18.20,0.8%
+573,ASAIN,Artificial Solutions,Stockholm,Technology,Software & IT Services,SEK 190.30M,-2x,-0.03,SEK 0.53,-0.9%
+574,GIGAS,Gigasun AB,Stockholm,Utilities,Electrical Utilities & IPPs,SEK 185.89M,-2.6x,-0.14,SEK 3.33,2.5%
+575,WAYSH,Waystream Holding publ AB,Stockholm,Technology,Communications & Networking,SEK 185.20M,-27.1x,0.2,SEK 22.95,9%
+576,CELLI,Cell Impact publ AB,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 185.12M,-0.6x,-0.02,SEK 0.31,6.8%
+577,TRAD,TradeDoubler AB,Stockholm,Consumer Cyclicals,Media & Publishing,SEK 184.16M,8.4x,0.48,SEK 4.08,4.6%
+578,ROLLI,Rolling Optics Holding AB,Stockholm,Consumer Cyclicals,Media & Publishing,SEK 182.62M,-18.2x,-0.39,SEK 0.82,-0.6%
+579,VIMAB,VIMAB AB,Stockholm,Industrials,Professional & Commercial Services,SEK 176.43M,-17.2x,-0.21,SEK 7.80,-1.3%
+580,ACTI,Active Biotech,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 174.76M,-3.3x,-0.14,SEK 0.48,-3.2%
+581,BOLJ,Bong AB,Stockholm,Basic Materials,Paper & Forest Products,SEK 174.03M,-16.5x,0.14,SEK 0.82,-1%
+582,ORTIa,Ortivus A,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 173.69M,-3.8x,0.01,SEK 3.92,-2.5%
+583,CYB1,Cyber Security 1,Stockholm,Technology,Software & IT Services,SEK 173.62M,-4.7x,-0.68,SEK 0.16,-4.2%
+584,NANEXA,Nanexa,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 172.33M,-1.6x,-0.1,SEK 1.27,1.6%
+585,IRIST,Irisity,Stockholm,Technology,Communications & Networking,SEK 172.11M,-0.9x,-0.1,SEK 2.56,-29.3%
+586,PREU,Premium Snacks Nordic,Stockholm,Consumer Non-Cyclicals,Food & Tobacco,SEK 169.62M,37.2x,0.2,SEK 12.80,0.8%
+587,MASHUP,Mashup Ireland AB,Stockholm,Technology,Software & IT Services,SEK 169.39M,-1.2x,0.02,SEK 2.88,1.4%
+588,PHIG,Phase Holographic,Spotlight,Healthcare,Healthcare Equipment & Supplies,SEK 169.21M,-9.6x,-0.34,SEK 7.80,-2.5%
+589,LEVEL,Nordic LEVEL AB,Stockholm,Technology,Communications & Networking,SEK 169.12M,19.2x,0.19,SEK 0.88,0.6%
+590,SPEONE,Spectrumone publ AB,Stockholm,Technology,Software & IT Services,SEK 168.03M,3.2x,0.02,SEK 0.45,-1.1%
+591,WISE,Wise Group AB,Stockholm,Industrials,Professional & Commercial Services,SEK 167.03M,-7.5x,0.03,SEK 22.60,-0.9%
+592,UTG1,Unlimited Travel Group UTG publ AB,Stockholm,Consumer Cyclicals,Hotels & Entertainment Services,SEK 165.59M,11.5x,-0.84,SEK 14.15,-1.4%
+593,FAGA,Fantasma Games AB,Stockholm,Technology,Software & IT Services,SEK 162.89M,78.1x,,SEK 45.60,-0.4%
+594,VO2,Vo2 Cap Holding,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 162.68M,-48.5x,,SEK 2.86,2.5%
+595,KOPY,Kopy Goldfields publ AB,Stockholm,Basic Materials,Metals & Mining,SEK 162.58M,-5.7x,-0.07,SEK 0.18,0%
+596,GRANGX,GRANGEX AB,NGM,Basic Materials,Metals & Mining,SEK 162.31M,-2x,0.01,SEK 11.58,-3.2%
+597,MCLR,Medclair Invest,NGM,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 161.68M,-42.6x,-2.54,SEK 1.96,3.4%
+598,FLEXQ,FlexQube,Stockholm,Consumer Cyclicals,Homebuilding & Construction Supplies,SEK 160.85M,-2.2x,-0.15,SEK 12,17.1%
+599,ALZCUR,AlzeCure Pharma,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 160.70M,-3x,-0.12,SEK 1.87,-2.1%
+600,CSMED,CS Medica AS,Spotlight,Healthcare,Pharmaceuticals,SEK 160.21M,-4.6x,0.37,SEK 14.23,9.5%
+601,CLIMEb,Climeon,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 159.83M,-0.6x,0.02,SEK 0.64,0.8%
+602,ATIC,Actic Group,Stockholm,Consumer Cyclicals,Hotels & Entertainment Services,SEK 159.29M,-6x,-0.12,SEK 7,5.1%
+603,OBSE,Observit AB,Stockholm,,,SEK 152.44M,,,SEK 0.28,0.5%
+604,NOSA,Nosa Plugs AB publ,Stockholm,Technology,Software & IT Services,SEK 151.33M,-8.8x,,SEK 0.70,0%
+605,ALZ,Alzinova,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 150.52M,-8.6x,-0.38,SEK 3.38,9.7%
+606,OXEMA,Oxe Marine AB,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 150.42M,-1.5x,-0.05,SEK 0.45,-3.8%
+607,BIBB,BibbInstruments,Spotlight,Healthcare,Healthcare Equipment & Supplies,SEK 149.52M,-11.4x,-0.88,SEK 5.12,0%
+608,AURIM,Auriant Mining AB,Stockholm,Basic Materials,Metals & Mining,SEK 148.15M,15.9x,0.16,SEK 1.50,0%
+609,BEOsdb,Beowulf Mining,Spotlight,Basic Materials,Metals & Mining,SEK 146.64M,-2.6x,-0.16,SEK 2.83,-4.1%
+610,HAVb,Havsfrun Investment,Stockholm,Financials,Investment Banking & Investment Services,SEK 144.06M,-44.9x,0.76,SEK 11.85,0.4%
+611,AEROG,Svenska Aerogel,Stockholm,Basic Materials,Chemicals,SEK 141.54M,-1.9x,-0.08,SEK 0.15,2.7%
+612,ZIGN,Zignsec,Stockholm,Technology,Software & IT Services,SEK 139.27M,-0.3x,-0.04,SEK 0.69,2.1%
+613,VIVE,Vivesto AB,Stockholm,Healthcare,Pharmaceuticals,SEK 137.74M,-1.2x,-0.02,SEK 0.25,-2.9%
+614,LITIU,Litium,Stockholm,Technology,Software & IT Services,SEK 137.67M,"1,190x",12.21,SEK 8.30,-1.2%
+615,PRLD,Prolight Diagnostics,NGM,Healthcare,Biotechnology & Medical Research,SEK 137.38M,-0.6x,0,SEK 0.23,0.4%
+616,ICO,Iconovo,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 136.90M,-2.8x,-0.07,SEK 8.60,0.7%
+617,ACROUD,Acroud AB,Stockholm,Consumer Cyclicals,Hotels & Entertainment Services,SEK 136.02M,-0.4x,0.02,SEK 0.79,0%
+618,BRIOX,Briox,NGM,Technology,Software & IT Services,SEK 135.88M,-4.6x,1.01,SEK 2.04,-4.7%
+619,GJAB,Gullberg & Jansson,Spotlight,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 135.38M,-10.1x,0.04,SEK 18.75,9.6%
+620,SBOK,ScandBook Holding AB,Stockholm,Industrials,Professional & Commercial Services,SEK 135.14M,6.6x,-0.38,SEK 29.40,-0.7%
+621,NORDIG,Nord Insuretech Group AB,NGM,Technology,Software & IT Services,SEK 135.06M,-2.3x,0.01,SEK 0.56,-8.3%
+622,SPGR,Spotlight Group,Spotlight,Financials,Investment Banking & Investment Services,SEK 134.86M,-11.4x,-0.53,SEK 21.60,-3.6%
+623,ALPCOTb,Alpcot Holding AB,Stockholm,Technology,Financial Technology (Fintech) & Infrastructure,SEK 132.38M,-4.4x,0.08,SEK 0.74,-9.8%
+624,BRIGHT,BrightBid AB,Stockholm,Technology,Software & IT Services,SEK 131.53M,-1.2x,,SEK 3.65,-2.5%
+625,EPISb,Episurf Medical AB,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 130.30M,-0.7x,-0.21,SEK 0.20,0.4%
+626,PILA,Pila Pharma AB,Stockholm,Healthcare,Pharmaceuticals,SEK 130.21M,-9.1x,-0.22,SEK 5.14,7.1%
+627,NOTEK,Norditek AB,Stockholm,Industrials,Professional & Commercial Services,SEK 129.54M,31.8x,,SEK 10.20,-0.5%
+628,SUSG,Sustainion Group AB,Spotlight,Industrials,Professional & Commercial Services,SEK 129.52M,-151x,0.69,SEK 0.75,-4.4%
+629,YIELD,SaveLend Group AB,Stockholm,Technology,Financial Technology (Fintech) & Infrastructure,SEK 127.75M,-8.3x,-0.34,SEK 2.27,1.8%
+630,FASTAT,Fastator,Stockholm,Financials,Investment Banking & Investment Services,SEK 127.45M,-0.1x,0,SEK 1.69,7.2%
+631,NIUTEC,Niutech AB,NGM,Energy,Renewable Energy,SEK 126.34M,-8x,0.05,SEK 6.14,0%
+632,ACUC,AcuCort,Spotlight,Consumer Non-Cyclicals,Food & Drug Retailing,SEK 126.32M,-3.5x,-0.25,SEK 1.09,2.4%
+633,ADVTY,Adverty,NGM,Technology,Software & IT Services,SEK 125.18M,-40.8x,-0.46,SEK 3.93,-31.9%
+634,KAVE,Katalysen Ventures AB,Spotlight,Financials,Investment Banking & Investment Services,SEK 124.50M,-2.3x,0.06,SEK 15.50,-5.5%
+635,BIOEX,Bioextrax publ,Stockholm,Industrials,Professional & Commercial Services,SEK 123.35M,-5.2x,-0.23,SEK 3.58,13.3%
+636,EMB,Embark AB,Stockholm,Technology,Software & IT Services,SEK 123.26M,-1.1x,-0.07,SEK 0.46,7%
+637,GUGEO,Guideline Geo AB,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 123.22M,17.6x,-5.57,SEK 11.30,-1.3%
+638,PURE,Purefun AB,Stockholm,Technology,Software & IT Services,SEK 123.20M,13.2x,0.41,SEK 11.10,0.9%
+639,UNIBAP,Unibap,Stockholm,Technology,Electronic Equipment & Parts,SEK 122.84M,-10.8x,-0.2,SEK 3.10,4%
+640,RESPS,Respiratorius,Spotlight,Healthcare,Biotechnology & Medical Research,SEK 121.86M,-3x,,SEK 0.07,1.7%
+641,ISY,Image Systems,Stockholm,Technology,Software & IT Services,SEK 120.43M,-90x,,SEK 1.36,0.7%
+642,CLEME,Clemondo Group AB,Stockholm,Consumer Non-Cyclicals,Personal & Household Products & Services,SEK 119.08M,15.9x,0.4,SEK 0.87,0.5%
+643,AROC,AroCell,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 117.48M,-2x,-1.26,SEK 0.51,-2.9%
+644,THUNDR,Thunderful Group AB,Stockholm,Consumer Cyclicals,Leisure Products,SEK 117.10M,-0.1x,0,SEK 1.66,-0.5%
+645,WNT,Wntresearch,Spotlight,Healthcare,Biotechnology & Medical Research,SEK 116.92M,-1.6x,-0.06,SEK 13.50,3.1%
+646,NWND,New Nordic Healthbrands AB,Stockholm,Consumer Non-Cyclicals,Food & Tobacco,SEK 115.85M,-10x,0.01,SEK 18.70,3.9%
+647,LOVI,Lovisagruvan,Spotlight,Basic Materials,Metals & Mining,SEK 114.46M,-8.8x,0.05,SEK 19.35,-3%
+648,SDSY,Seamless Distribution,NGM,Technology,Software & IT Services,SEK 112.89M,-9.5x,-0.12,SEK 7.30,1.4%
+649,COEGIN,Coegin Pharma AB,NGM,Healthcare,Biotechnology & Medical Research,SEK 112.69M,-2.3x,-0.1,SEK 7.06,1.4%
+650,REDS,Redsense Medical,Spotlight,Healthcare,Healthcare Equipment & Supplies,SEK 111.83M,-12.9x,1.53,SEK 7.04,3.5%
+651,SOLIDX,SolidX AB,Spotlight,,,SEK 110.73M,187.7x,-2.15,SEK 3.79,23%
+652,PRESRV,Preservium Property AB,Spotlight,,,SEK 110.31M,-0.4x,0,SEK 24.60,3.4%
+653,ACELP,Ascelia Pharma,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 108.70M,-3.8x,-0.04,SEK 2.55,14.5%
+654,SE0010296582,Ether Tracker Euro XBT Provider,Stockholm,Financials,Investment Banking & Investment Services,SEK 108.51M,,,"SEK 2,529.45",0.2%
+655,SPAGO,Spago Nanomedical AB,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 107.94M,-1.2x,-0.06,SEK 0.31,-5.5%
+656,JOBS,Job Solution Sweden Holding AB,Stockholm,Industrials,Professional & Commercial Services,SEK 105.46M,28x,-0.5,SEK 21.20,-1.9%
+657,EVERY,Everysport Media,Spotlight,Consumer Cyclicals,Media & Publishing,SEK 105.11M,17.1x,0.15,SEK 16.80,-4.5%
+658,TOLE,Toleranzia AB,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 104.05M,-12.9x,-0.35,SEK 0.53,2.7%
+659,SCIB,Scibase AB,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 103.18M,-1x,-0.07,SEK 0.47,0.4%
+660,STWK,Stockwik Forvaltning,Stockholm,Industrials,Professional & Commercial Services,SEK 102.11M,-2.8x,0,SEK 16.18,1.4%
+661,FRILAN,Invoicery AB,Spotlight,Industrials,Professional & Commercial Services,SEK 101.66M,-39x,,SEK 3.20,-8.6%
+662,JLTM,JLT Mobile Computers publ AB,Stockholm,Technology,"Computers, Phones & Household Electronics",SEK 101.64M,50.6x,10.79,SEK 3.54,0%
+663,ALBERT,eEducation Albert AB,Stockholm,Academic & Educational Services,Miscellaneous Educational Service Providers,SEK 101.02M,-1.1x,-0.04,SEK 4.15,3.2%
+664,NFO,NFO Drives,Spotlight,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 100.43M,-24.5x,0,SEK 34.60,-0.6%
+665,BBROOM,New Bubbleroom Sweden AB,Stockholm,Technology,Software & IT Services,SEK 100.27M,-3x,-1.01,SEK 6.30,-2.3%
+666,JDT,JonDeTech Sensors,Stockholm,Technology,Semiconductors & Semiconductor Equipment,SEK 99.86M,-1.4x,-0.03,SEK 5.90,-8.5%
+667,DIGN,Dignitana AB,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 99.07M,-4.5x,-0.63,SEK 1.23,6%
+668,LXB,Luxbright AB,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 97.47M,-2.5x,-0.12,SEK 0.89,2.9%
+669,NXTCL,NextCell Pharma AB,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 97.21M,-1.5x,-0.45,SEK 1.35,1.5%
+670,SFL,Safello Group AB,Stockholm,Industrials,Professional & Commercial Services,SEK 96.93M,82.4x,0.67,SEK 4.72,-0.4%
+671,PREBON,Prebona AB,Spotlight,Basic Materials,Chemicals,SEK 96.52M,-12.4x,-3.17,SEK 3.18,-1.9%
+672,AERWb,Aerowash,Spotlight,Technology,Electronic Equipment & Parts,SEK 95.71M,-271x,-4.07,SEK 7.86,6.8%
+673,BOMILL,BoMill AB,Stockholm,Consumer Non-Cyclicals,Food & Tobacco,SEK 93.15M,-4.5x,-0.08,SEK 0.77,0%
+674,CAMb,Consensus Asset,Spotlight,Financials,Investment Banking & Investment Services,SEK 92.60M,-29.8x,,SEK 12.15,-6.5%
+675,CLEMO,Clean Motion,Stockholm,Technology,Electronic Equipment & Parts,SEK 92.44M,-10.4x,-0.18,SEK 1.37,64.1%
+676,PMED,Peptonic Medical,Spotlight,Healthcare,Biotechnology & Medical Research,SEK 92.30M,-0.2x,-0,SEK 0.006,-3.2%
+677,TELLUS,Tellusgruppen AB,Stockholm,Consumer Non-Cyclicals,Personal & Household Products & Services,SEK 92.02M,-3.1x,0.01,SEK 5.75,0%
+678,GAPX,Gasporox,Stockholm,Technology,Semiconductors & Semiconductor Equipment,SEK 91.19M,-46.1x,,SEK 10.60,-3.6%
+679,WPTGb,White Pearl Tech AB,Stockholm,Financials,Investment Banking & Investment Services,SEK 90.41M,3.5x,,SEK 3.91,-0.8%
+680,ANOT,Anoto,Stockholm,Technology,Office Equipment,SEK 90.27M,-1.2x,0.03,SEK 0.28,0%
+681,MEDHLP,Medhelp Care AB,Stockholm,Healthcare,Healthcare Providers & Services,SEK 90.09M,-8.4x,0.05,SEK 2.98,0.7%
+682,SILEON,Sileon AB,Stockholm,Technology,Software & IT Services,SEK 89.79M,-0.8x,0.11,SEK 0.59,8.3%
+683,SPRINT,Sprint Bioscience AB,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 89.09M,10.1x,0.09,SEK 1.29,4.5%
+684,PMDDS,PMD Device Solutions AB,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 88.81M,-236.7x,,SEK 4.26,0%
+685,NICO,Nicoccino Holding AB,Stockholm,Consumer Non-Cyclicals,Food & Tobacco,SEK 87.60M,-11.2x,-3.93,SEK 2.84,0%
+686,NEWBRY,Newbury Pharmaceuticals AB,Stockholm,Consumer Non-Cyclicals,Food & Drug Retailing,SEK 86.85M,-3x,0.28,SEK 3.58,0%
+687,STWA,SeaTwirl,Stockholm,Energy,Renewable Energy,SEK 86.76M,-4.6x,-0.13,SEK 14.50,-0.7%
+688,SAFETYb,mySafety AB,Stockholm,Technology,Software & IT Services,SEK 86.72M,5.6x,0.06,SEK 7.20,-0.5%
+689,BLUEL,Bluelake Mineral AB,NGM,Basic Materials,Metals & Mining,SEK 86.49M,-3.8x,0.04,SEK 0.94,2.4%
+690,BIOSGN,Biosergen AS,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 86.29M,-0.6x,-0.06,SEK 0.59,-2.3%
+691,LOYAL,Loyal Solutions AS,Stockholm,Technology,Software & IT Services,SEK 85.50M,-3.2x,-0.11,SEK 8.85,-1.7%
+692,NAIGb,Nordic Asia Investment 1987 AB,Stockholm,Financials,Investment Banking & Investment Services,SEK 84.97M,-1.7x,0,SEK 2.89,-1.4%
+693,ODI,Odi Pharma,Spotlight,Healthcare,Pharmaceuticals,SEK 84.47M,-70.8x,-0.63,SEK 5.30,-4.5%
+694,CIRCHE,CirChem AB,Stockholm,Basic Materials,Chemicals,SEK 84.46M,-6.8x,-0.09,SEK 2.60,-4.1%
+695,LOHILO,Lohilo Foods AB,Stockholm,Consumer Non-Cyclicals,Food & Tobacco,SEK 84.38M,-3.6x,-0.06,SEK 2.33,4%
+696,ECCb,Ecoclime Group,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 84.13M,-3.4x,,SEK 1.82,2.3%
+697,FOOTb,Footway B,Stockholm,Consumer Cyclicals,Specialty Retailers,SEK 84.09M,-0.3x,-0.02,SEK 0.56,-2.4%
+698,FOOTpref,Footway Group,Stockholm,Consumer Cyclicals,Specialty Retailers,SEK 84.09M,-0.3x,-0.02,SEK 32.60,0%
+699,TRNSF,Transfer AB,NGM,Technology,Software & IT Services,SEK 83.87M,4.1x,0.04,SEK 0.27,-2.2%
+700,DEXTECH,Dextech Medical,Spotlight,Healthcare,Biotechnology & Medical Research,SEK 83.19M,-18.2x,-0.92,SEK 4.50,-2.2%
+701,BAWAT,Bawat Water Technologies AB,Stockholm,Utilities,Water & Related Utilities,SEK 82.44M,-2.3x,,SEK 1.59,7.4%
+702,EXPRS2,ExpreS2ion Biotech,Stockholm,Healthcare,Pharmaceuticals,SEK 81.95M,-0.6x,-0.02,SEK 0.98,4%
+703,DISTIT,DistIT AB,Stockholm,Technology,"Computers, Phones & Household Electronics",SEK 81.15M,-0.2x,0,SEK 2.89,9.5%
+704,ABAS,ABAS Protect AB,Spotlight,Consumer Cyclicals,Homebuilding & Construction Supplies,SEK 80.54M,9.4x,5.43,SEK 11.40,0%
+705,HOTEL,First Hotels AB,Stockholm,Consumer Cyclicals,Hotels & Entertainment Services,SEK 80.14M,,,SEK 1.21,-0.8%
+706,AGTIRAb,Agtira AB,Stockholm,Consumer Non-Cyclicals,Food & Tobacco,SEK 80.03M,-2.2x,-0.11,SEK 2.66,-6.3%
+707,AXIC,aXichem publ AB,Stockholm,Basic Materials,Chemicals,SEK 79.51M,-1.4x,-0.31,SEK 1.35,-1.8%
+708,CLSRb,Clinical Laserthermia,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 78.73M,-0.4x,-0.01,SEK 5.50,-1%
+709,ZICC,Ziccum,Stockholm,Healthcare,Pharmaceuticals,SEK 78.24M,-3.9x,-0.15,SEK 4.71,-4.1%
+710,ORTIb,Ortivus B,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 77.98M,-8.4x,0.01,SEK 1.76,-4.9%
+711,ELIC,Elicera Therapeutics AB,Stockholm,Healthcare,Pharmaceuticals,SEK 77.91M,-1.4x,0.29,SEK 2.08,-6.3%
+712,DIAH,Diadrom Holding AB,Stockholm,Technology,Software & IT Services,SEK 77.19M,23.6x,-0.34,SEK 10.60,9.7%
+713,TOURN,Tourn International,Stockholm,Consumer Cyclicals,Media & Publishing,SEK 77.05M,-4x,4.21,SEK 7.90,-9.2%
+714,FIRSTb,First Venture Sweden Private AB,Stockholm,Financials,Investment Banking & Investment Services,SEK 76.55M,-3.2x,-0.04,SEK 1.98,-3.2%
+715,NITRO,Nitro Games,Stockholm,Technology,Software & IT Services,SEK 75.52M,-2x,-0.06,SEK 3.18,3.2%
+716,NODE,Nodebis Applications AB,NGM,Technology,Software & IT Services,SEK 74.24M,-29.2x,-0.49,SEK 11.10,4.7%
+717,TPGR,Time People Group AB,NGM,Technology,Software & IT Services,SEK 73.23M,-39.6x,0.23,SEK 10.10,0%
+718,BRILL,Brilliant Future AB,Stockholm,Technology,Software & IT Services,SEK 72.41M,-12.8x,-0.14,SEK 5.20,-0.9%
+719,NGSG,NGS Group,Stockholm,Industrials,Professional & Commercial Services,SEK 72.21M,-0.2x,0,SEK 2.91,-0.7%
+720,FINEP,Finepart Sweden,Spotlight,,,SEK 71.69M,-0.5x,0,SEK 0.41,-3.8%
+721,GTABb,Glycorex Transplantation,NGM,Healthcare,Healthcare Equipment & Supplies,SEK 71.64M,-2.4x,0.01,SEK 0.97,-11%
+722,SDOS,ScandiDos AB,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 71.61M,-4.9x,0.08,SEK 1.57,0%
+723,PCAT,Photocat AS,Stockholm,Consumer Non-Cyclicals,Personal & Household Products & Services,SEK 71.34M,-23.5x,-0.69,SEK 11.90,-0.8%
+724,AXOLOT,Axolot Solutions,Stockholm,Industrials,Professional & Commercial Services,SEK 69.83M,-3.2x,-0.22,SEK 0.39,2.7%
+725,ONCOZ,Oncozenge AB,Stockholm,Healthcare,Pharmaceuticals,SEK 68.41M,-4.9x,-0.22,SEK 6.10,4.5%
+726,COEN,Cortus Energy AB,Stockholm,Energy,Renewable Energy,SEK 68.07M,-0.2x,0.04,SEK 0.62,-2.4%
+727,GATE,Jumpgate AB,NGM,Technology,Software & IT Services,SEK 67.19M,-0.8x,-0.02,SEK 0.06,0%
+728,KLIMAT,Klimator,Stockholm,Technology,Software & IT Services,SEK 67.14M,-6x,-0.09,SEK 2.16,-1.8%
+729,HEGR,Hedera Group publ,Stockholm,Industrials,Professional & Commercial Services,SEK 67.05M,11.4x,-0.19,SEK 4.50,-9.3%
+730,CHRO,ChromoGenics,Stockholm,Consumer Cyclicals,Homebuilding & Construction Supplies,SEK 66.04M,-0.6x,-0.02,SEK 9.96,0.4%
+731,FLOWS,Flowscape Technology,Stockholm,Technology,Software & IT Services,SEK 65.83M,-29x,-0.3,SEK 3.36,1.2%
+732,ISAB,Inhalation Sciences,Spotlight,Healthcare,Healthcare Equipment & Supplies,SEK 65.83M,-13.5x,-0.19,SEK 3.11,-0.3%
+733,KONT,Kontigo Care AB,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 64.09M,64.5x,-1.26,SEK 2,0.5%
+734,NOWO,Nowonomics AB,NGM,Industrials,Professional & Commercial Services,SEK 63.62M,-1.6x,-0.07,SEK 3.06,4.1%
+735,KLAR,Klaria Pharma Holding AB,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 63.06M,-1.2x,-0.02,SEK 0.52,10.6%
+736,EDYOU,Edyoutec AB,Spotlight,Technology,Software & IT Services,SEK 60.15M,-1.2x,-0.04,SEK 1.63,9.7%
+737,ABERA,Abera Bioscience,Spotlight,Healthcare,Biotechnology & Medical Research,SEK 59.88M,-5.1x,-0.1,SEK 4.10,-1%
+738,MODTX,Modus Therapeutics Holding AB,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 59.84M,-1.5x,-0.08,SEK 1.65,-0.9%
+739,EFFH,Effnetplattformen Holding AB,Stockholm,Technology,Software & IT Services,SEK 59.65M,,,SEK 4.26,-3.2%
+740,QBNK,QBNK Holding AB,Spotlight,Technology,Software & IT Services,SEK 59.48M,-20.2x,-0.35,SEK 6.10,0%
+741,COMBI,Combigene,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 59.40M,-1.7x,0.02,SEK 3,4.2%
+742,LYGRD,Lyckegard AB,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 59.22M,-0.7x,0.01,SEK 1.02,0%
+743,HELIO,Heliospectra publ AB,Stockholm,Technology,Semiconductors & Semiconductor Equipment,SEK 58.58M,-2.3x,-0.06,SEK 0.45,-6.3%
+744,SCOUT,Scout Gaming,Stockholm,Technology,Software & IT Services,SEK 58.55M,-1.1x,0.32,SEK 0.26,-2.6%
+745,TOUCH,Touchtech,Spotlight,Technology,Software & IT Services,SEK 58.09M,18.2x,0.1,SEK 5.24,8.7%
+746,GCOR,Gaming Corps AB,Stockholm,Technology,Software & IT Services,SEK 58.04M,-2.3x,-0.24,SEK 0.84,-0.2%
+747,KENH,Kentima Holding publ AB,Stockholm,Technology,Software & IT Services,SEK 58.03M,497.5x,-5.98,SEK 1.99,0%
+748,RPLAN,Ranplan,Stockholm,Technology,Communications & Networking,SEK 57.96M,-1.4x,,SEK 1.23,0%
+749,IZAFEb,iZafe Group AB,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 57.87M,-1.6x,-0.05,SEK 0.21,0%
+750,RLVNC,Relevance Communication Nordic AB,NGM,Consumer Cyclicals,Media & Publishing,SEK 57.84M,-7.8x,0.17,SEK 2.56,2.4%
+751,APRNDR,Aprendere Skolor AB,Stockholm,Academic & Educational Services,"School, College & University",SEK 57.79M,14.2x,-0.3,SEK 9.20,-0.5%
+752,VH,Vastra Hamnens Restaurangdrift Ab,Stockholm,Financials,Investment Banking & Investment Services,SEK 57M,71.9x,-0.92,SEK 57,0%
+753,WTGR,Wonderful Times,Spotlight,Consumer Cyclicals,Leisure Products,SEK 56.80M,29x,0.1,SEK 11,-1.8%
+754,WPAY,West International,Stockholm,Technology,Office Equipment,SEK 56.68M,-2.3x,0.18,SEK 0.79,9.8%
+755,MNDRK,Mindark Pe AB,Spotlight,Technology,Software & IT Services,SEK 56.11M,,,SEK 1.98,11.2%
+756,BIOVIT,Bio Vitos Pharma AB,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 55.86M,-1.8x,-0.07,SEK 0.21,-6.3%
+757,PLUND,ProstaLund,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 55.74M,-1.8x,0.22,SEK 0.45,3%
+758,IMMNOV,Immunovia publ AB,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 55.25M,-0.5x,-0.01,SEK 1.21,-4.9%
+759,FRAMb,Fram Skandinavien,Stockholm,Technology,Software & IT Services,SEK 54.23M,-2x,0,SEK 15,-9.6%
+760,AMIDO,Amido publ,Spotlight,Technology,Software & IT Services,SEK 53.21M,-5.1x,0.04,SEK 1.81,-8.6%
+761,MAXENTb,Maximum Entertainment AB,Stockholm,Technology,Software & IT Services,SEK 53.15M,-0.4x,0,SEK 1.03,-1%
+762,BIOWKS,Bio-Works,Spotlight,Healthcare,Healthcare Equipment & Supplies,SEK 52.23M,-1.1x,-0.12,SEK 1.34,7.2%
+763,FRAGBI,Fragbite Group AB,Stockholm,Technology,Software & IT Services,SEK 51.55M,-0.1x,-0.03,SEK 0.02,-3.1%
+764,BEAMMWb,Beammwave AB,Stockholm,Technology,Software & IT Services,SEK 50.30M,-1.7x,0.15,SEK 2.28,0.9%
+765,USWE,USWE Sports AB,Stockholm,Consumer Cyclicals,Specialty Retailers,SEK 49.96M,-2.6x,-0.33,SEK 7.05,0.7%
+766,MACKb,Mackmyra Svensk Whisky AB,Stockholm,Consumer Non-Cyclicals,Beverages,SEK 49.48M,-0.3x,-0.02,SEK 0.14,0%
+767,TRIBOb,Triboron B,Stockholm,Basic Materials,Chemicals,SEK 49.20M,-2.5x,-0.1,SEK 0.48,7.6%
+768,STVAb,Star Vault,NGM,Technology,Software & IT Services,SEK 48.92M,-5.9x,-2,SEK 0.12,1.7%
+769,ARCT,Arctic Gold Publ AB,Stockholm,Basic Materials,Metals & Mining,SEK 48.61M,-3.9x,-0.1,SEK 0.29,2.5%
+770,INSPL,Insplorion,Stockholm,Technology,Electronic Equipment & Parts,SEK 48.29M,-1.5x,-0.11,SEK 2.03,8%
+771,MANTEX,Mantex,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 47.90M,-2.9x,-0.12,SEK 0.18,0.3%
+772,FLUIC,Fluicell,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 47.71M,-0.3x,-0.02,SEK 0.10,3.8%
+773,ABSLb,Absolicon Solar Collector,Spotlight,Energy,Renewable Energy,SEK 47.21M,-0.5x,0.1,SEK 8.12,1.5%
+774,SIMRISb,Simris Alg,Stockholm,Consumer Non-Cyclicals,Food & Tobacco,SEK 47.16M,-0.9x,-0.05,SEK 0.14,-1.5%
+775,DBPHAb,Double Bond Pharma,Spotlight,Healthcare,Biotechnology & Medical Research,SEK 47.13M,-2.5x,-0.11,SEK 0.42,-4.5%
+776,SLOTTb,Slottsviken Fastighetsaktiebolag B,Spotlight,Real Estate,Real Estate Operations,SEK 46.38M,883.9x,-8.46,SEK 27.40,8.7%
+777,ZAPLOX,Zaplox,Stockholm,Technology,Software & IT Services,SEK 45.90M,-1.3x,-0.03,SEK 1.55,-4.9%
+778,BTCX,Goobit Group AB,NGM,Technology,Financial Technology (Fintech) & Infrastructure,SEK 45.09M,-32.2x,-0.26,SEK 0.17,-4%
+779,STRAX,Strax,Stockholm,Consumer Cyclicals,Specialty Retailers,SEK 44.62M,-0.1x,0,SEK 0.37,22.5%
+780,REFINE,Refine AB,Stockholm,Consumer Cyclicals,Diversified Retail,SEK 44.19M,-0.1x,,SEK 0.91,13.5%
+781,RISK,Risk Intelligence,Spotlight,Industrials,Professional & Commercial Services,SEK 43.99M,,-0.05,SEK 1.88,0.4%
+782,HEART,Real Heart,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 43.43M,-0.3x,0.02,SEK 0.21,-6.6%
+783,CMOTECb,Scandinavian ChemoTech,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 43.17M,-1.5x,-0.06,SEK 1.99,4.7%
+784,LPGO,Lipigon Pharmaceuticals AB,Stockholm,Healthcare,Pharmaceuticals,SEK 42.92M,-2x,-0.04,SEK 0.33,-3.7%
+785,NANOCb,NanoCap AB,Stockholm,Financials,Investment Banking & Investment Services,SEK 42.56M,-1.6x,-0.03,SEK 8.20,-2.1%
+786,RMDX,Railway Metrics AB,NGM,Technology,Software & IT Services,SEK 42.13M,-7.8x,-0.55,SEK 1.80,-0.3%
+787,EASYb,EasyFill,Spotlight,Industrials,Professional & Commercial Services,SEK 42.04M,-2.7x,-0.04,SEK 0.20,-7.5%
+788,QLOSRb,Qlosr AB,Stockholm,Basic Materials,Metals & Mining,SEK 41.69M,-0.6x,0.01,SEK 0.73,4.3%
+789,VIDH,Vidhance AB,Spotlight,Technology,Software & IT Services,SEK 41.48M,-2.1x,0,SEK 9.02,-0.4%
+790,COMPDM,Compodium International AB,Stockholm,Technology,Software & IT Services,SEK 40.78M,,-0.08,SEK 7.90,0%
+791,ABIG,Igrene,Spotlight,Energy,Oil & Gas Related Equipment and Services,SEK 40.77M,-13.4x,-0.72,SEK 0.79,-1.8%
+792,DUG,Dug Foodtech AB,Stockholm,Consumer Non-Cyclicals,Food & Tobacco,SEK 40.03M,-2.3x,-0.03,SEK 0.94,-2.9%
+793,NBZG,Northbaze Group,Stockholm,Technology,"Computers, Phones & Household Electronics",SEK 39.25M,-1.6x,0.07,SEK 0.36,45.6%
+794,TESSIN,Tessin Nordic,Stockholm,Technology,Software & IT Services,SEK 39.02M,-1.7x,-0.03,SEK 0.12,-2.5%
+795,PCOMb,Precomp Solutions publ AB,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 38.76M,-6.8x,-0.1,SEK 1.70,10.4%
+796,POLARC,Polarcool,Spotlight,Healthcare,Biotechnology & Medical Research,SEK 38.43M,-0.2x,-0.05,SEK 0.03,5.9%
+797,BRAVE,Kinda Brave Entertainment AB,Stockholm,,,SEK 38.22M,,,SEK 2.15,7.5%
+798,ENERS,Enersize,Stockholm,Technology,Software & IT Services,SEK 38.04M,-0.9x,-0.03,SEK 0.010,4.3%
+799,DLAB,Dlaboratory Sweden AB,Stockholm,Technology,Software & IT Services,SEK 37.96M,-4.7x,-0.38,SEK 2.20,-1.8%
+800,CHOSA,Chosa Oncology AB,Spotlight,Healthcare,Biotechnology & Medical Research,SEK 37.60M,-7.3x,,SEK 1.05,0%
+801,SCOLG,Scandion Oncology,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 37.57M,-0.4x,-0.01,SEK 0.16,-0.6%
+802,SARSYS,Sarsys Asft AB,NGM,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 37.54M,-3.8x,0.25,SEK 2.68,46.4%
+803,ECOM,Ecomb,Spotlight,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 37.53M,-2.2x,0.02,SEK 0.16,-1.8%
+804,OP,Oscar Properties Holding AB,Stockholm,Real Estate,Real Estate Operations,SEK 37.35M,-0x,0,SEK 0.26,-6.8%
+805,OPpref,Oscar Properties Pref,Stockholm,Real Estate,Real Estate Operations,SEK 37.35M,-0x,0,SEK 184,12.2%
+806,XAVIb,Xavi Solutionnode,NGM,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 37.33M,-1.6x,-0.04,SEK 0.30,0%
+807,GEAN,Genetic Analysis AS,Spotlight,Healthcare,Healthcare Providers & Services,SEK 37.24M,-1.4x,-0.03,SEK 0.81,5.9%
+808,THINC,Thinc Jetty,Spotlight,Technology,Software & IT Services,SEK 36.69M,,-0.22,SEK 3.30,0%
+809,VAXXA,Vaxxa AB,Spotlight,Technology,Software & IT Services,SEK 36.64M,-77.9x,-0.63,SEK 1.05,-4.5%
+810,GOMERO,Gomero Group,Spotlight,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 36.46M,,0.32,SEK 19.60,4.3%
+811,MYBEAT,My Beat AB,Spotlight,Technology,Telecommunications Services,SEK 36.43M,-6.3x,-0.09,SEK 0.44,1.4%
+812,SAMTb,Samtrygg Group,NGM,Real Estate,Real Estate Operations,SEK 36.07M,-20.1x,,SEK 3.52,2.3%
+813,SDET,SensoDetect,Spotlight,Healthcare,Healthcare Equipment & Supplies,SEK 35.71M,-2.8x,-0.16,SEK 0.15,-3.5%
+814,STABL,Stayble Therapeutics AB,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 35.63M,-0.4x,-0.03,SEK 0.84,3.1%
+815,NGOL,Northgold AB,Stockholm,Basic Materials,Metals & Mining,SEK 35.59M,-2.9x,-0.11,SEK 2.24,-4.3%
+816,IMSW,Invent Medic Sweden,Spotlight,Healthcare,Healthcare Equipment & Supplies,SEK 35.32M,-3.8x,-0.15,SEK 0.76,0%
+817,NOVU,Novus Group Intl,Spotlight,Consumer Cyclicals,Media & Publishing,SEK 35.06M,-9.6x,0.02,SEK 2.90,0%
+818,CHARGE,ChargePanel AB,Stockholm,Technology,Software & IT Services,SEK 34.52M,-1.5x,,SEK 1.67,9.9%
+819,ECOb,EcoRub,Spotlight,Industrials,Professional & Commercial Services,SEK 34.20M,-2.8x,-0.15,SEK 0.09,-0.4%
+820,AIKb,AIK Fotboll,NGM,Consumer Cyclicals,Hotels & Entertainment Services,SEK 33.63M,-0.8x,0,SEK 1.54,2.7%
+821,LOVEb,I Love Lund AB publ,Spotlight,,,SEK 33.05M,,,SEK 84,0%
+822,TALKP,TalkPool,Stockholm,Technology,Telecommunications Services,SEK 32.96M,5.9x,-0.07,SEK 7,0.6%
+823,QCORE,Qlucore AB,Stockholm,Technology,Software & IT Services,SEK 32.02M,-2.3x,-1.34,SEK 7.85,-1.3%
+824,WEG,Windon Energy AB,Spotlight,Energy,Renewable Energy,SEK 31.98M,,,SEK 2.35,-10.6%
+825,ATANA,Attana,NGM,Healthcare,Biotechnology & Medical Research,SEK 31.87M,-2x,-0.06,SEK 0.07,2.8%
+826,DSNO,Desenio Group AB,Stockholm,Consumer Cyclicals,Diversified Retail,SEK 30.41M,-0.1x,0,SEK 0.21,1%
+827,CMHM,Chordate Medical Holding AB,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 30.26M,-0.6x,-0.04,SEK 0.06,-1.3%
+828,KAKEL,Kakel Max,Stockholm,Consumer Cyclicals,Homebuilding & Construction Supplies,SEK 29.78M,-40.5x,0.35,SEK 9.80,-1%
+829,BATTM,Eurobattery Minerals,NGM,Basic Materials,Metals & Mining,SEK 29.23M,-0.9x,-0.02,SEK 0.19,-1.5%
+830,MEDIMI,Medimi,Spotlight,Healthcare,Healthcare Equipment & Supplies,SEK 28.90M,-2.2x,-0.03,SEK 0.03,-2.9%
+831,NILS,Nilsson Special Vehicles publ AB,Stockholm,Consumer Cyclicals,Automobiles & Auto Parts,SEK 28.39M,11.7x,0.07,SEK 6.05,1.7%
+832,NOHARM,Harm Reduction AB,Spotlight,Consumer Non-Cyclicals,Food & Drug Retailing,SEK 27.96M,-1x,0.01,SEK 0.09,-5%
+833,ZOOMI,Zoomability Int,Spotlight,Consumer Cyclicals,Automobiles & Auto Parts,SEK 27.61M,-2.1x,-0.33,SEK 1.65,-2.9%
+834,ZENI,Zenicor,Spotlight,,,SEK 26.89M,-2.8x,0.03,SEK 1.91,4.4%
+835,CARDEO,Cardeon AB,NGM,Real Estate,Real Estate Operations,SEK 26.47M,-0.1x,0.06,SEK 0.04,8.6%
+836,LAIR,LightAir,NGM,Industrials,Professional & Commercial Services,SEK 26.37M,-0.3x,-0.02,SEK 4.92,-8%
+837,ABIGR,Abelco Investment,NGM,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 26.03M,-0.4x,,SEK 0.01,8.3%
+838,MTII,MTI Investment SE,Stockholm,Financials,Investment Holding Companies,SEK 26M,-1x,0.04,SEK 1.50,-3.8%
+839,EXALT,Exalt,Spotlight,Technology,Telecommunications Services,SEK 25.73M,10.6x,0.1,SEK 0.48,0.4%
+840,WYLD,Wyld Networks,Stockholm,Technology,Telecommunications Services,SEK 25.69M,-0.5x,-0.03,SEK 1.14,-8.2%
+841,SPIFF,Spiffbet AB,NGM,Technology,Software & IT Services,SEK 25.55M,-0.6x,-0.01,SEK 0.01,0%
+842,ZENZIPb,Zenergy,Spotlight,Consumer Cyclicals,Homebuilding & Construction Supplies,SEK 24.54M,-0.6x,0,SEK 0.01,10%
+843,SONE,Sonetel,Stockholm,Technology,Software & IT Services,SEK 24.23M,-54.3x,-0.93,SEK 5,-3.8%
+844,PROGEN,Prostatype Genomics AB,Stockholm,Healthcare,Healthcare Providers & Services,SEK 23.78M,-0.2x,-0.01,SEK 0.03,4.2%
+845,DIVIOb,Divio Technologies AB,Stockholm,Technology,Software & IT Services,SEK 23.55M,-1.5x,-9.55,SEK 0.13,-0.4%
+846,GAMEC,Game Chest Group AB,NGM,Technology,Software & IT Services,SEK 23.51M,-33.4x,-0.46,SEK 0.70,8.4%
+847,FXI,FX International,Spotlight,Financials,Investment Banking & Investment Services,SEK 23.38M,-0.5x,0,SEK 0.13,-12.1%
+848,BODY,Bodyflight Sweden,Spotlight,,,SEK 23.11M,22.2x,-0.25,SEK 1.32,-4.3%
+849,TIROINT,Transiro Int,NGM,Technology,Software & IT Services,SEK 22.84M,-5x,-0.07,SEK 0.03,0%
+850,VSDYNb,Vibrosense Dynamics AB,Spotlight,Healthcare,Healthcare Equipment & Supplies,SEK 22.81M,-2.1x,-0.16,SEK 0.90,0.9%
+851,BUY,Sweden BuyersClub AB,Stockholm,Consumer Cyclicals,Diversified Retail,SEK 22.11M,,,SEK 2.72,0.7%
+852,QIIWI,Qiiwi Games AB,Stockholm,Consumer Cyclicals,Leisure Products,SEK 21.46M,-0.8x,0.01,SEK 2.58,-2.3%
+853,TOPR,Topright Nordic AB,NGM,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 20.94M,-0.7x,-0.01,SEK 0.09,0%
+854,POLY,PolyPlank publ AB,Stockholm,Industrials,Professional & Commercial Services,SEK 20.77M,-2.2x,-0.42,SEK 0.03,-5.8%
+855,TH1NG,TH1NG AB,Stockholm,Technology,Telecommunications Services,SEK 20.39M,-1.1x,-0.02,SEK 0.76,0%
+856,EEVIA,Eevia Health Abp,Spotlight,Consumer Non-Cyclicals,Food & Tobacco,SEK 20.07M,-1.4x,-0.13,SEK 0.57,1.1%
+857,COMINT,Comintelli,Spotlight,Technology,Software & IT Services,SEK 20.04M,-3.1x,0.04,SEK 2.70,20.5%
+858,BIOF,Biofrigas Sweden,Spotlight,Energy,Oil & Gas,SEK 19.97M,-1.5x,1.13,SEK 0.68,28.3%
+859,OURLIV,OurLiving AB,Spotlight,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 19.88M,-0.7x,,SEK 0.26,0.8%
+860,SECIT,SECITS,Stockholm,Technology,Communications & Networking,SEK 19.55M,-0.2x,-0.01,SEK 0.05,-2.6%
+861,SCCb,Sjostrand Coffee,Spotlight,Consumer Cyclicals,Household Goods,SEK 19.04M,-16.7x,-0.19,SEK 0.70,17.5%
+862,NFGAB,Nordic Flanges,Stockholm,Consumer Cyclicals,Homebuilding & Construction Supplies,SEK 18.97M,-0.8x,0,SEK 0.22,-8.5%
+863,EATG,EatGood Sweden,Spotlight,Consumer Cyclicals,Household Goods,SEK 18.89M,-7.9x,-0.22,SEK 0.97,-5.8%
+864,LIDDS,Lidds AB,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 18.83M,-0.4x,-0.01,SEK 0.14,-1.4%
+865,DANCAN,Dancann Pharma AS,Spotlight,Healthcare,Biotechnology & Medical Research,SEK 18.56M,-0x,0,SEK 0.01,-10.3%
+866,PHYRb,Preservia Hyresfastigheter AB,NGM,Real Estate,Real Estate Operations,SEK 18.19M,-0.5x,0.04,SEK 0.13,24%
+867,PHYRpref,Preservia Hyresfastigheter AB,NGM,Real Estate,Real Estate Operations,SEK 18.19M,-0.5x,0.04,SEK 35,-12.5%
+868,APTA,Aptahem AB,Spotlight,Healthcare,Biotechnology & Medical Research,SEK 17.84M,-0.7x,-0.11,SEK 3.15,-2.5%
+869,SAFES,Safe At Sea,Spotlight,Industrials,Professional & Commercial Services,SEK 17.40M,16.9x,0.1,SEK 0.68,0%
+870,PERPb,Perpetua Medical AB,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 17.36M,-0.8x,-0.02,SEK 0.16,0%
+871,DIVb,Dividend Sweden AB,NGM,Financials,Investment Holding Companies,SEK 17.26M,,,SEK 0.23,0.4%
+872,LIGR,Lightning AB,Spotlight,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 17.18M,-9x,0.01,SEK 0.94,0%
+873,PEXAb,PExA AB,Spotlight,Healthcare,Healthcare Equipment & Supplies,SEK 16.91M,-2.2x,0.02,SEK 0.40,-16.7%
+874,NGENIC,Ngenic AB,Stockholm,Technology,Software & IT Services,SEK 16.90M,-0.8x,0.02,SEK 2.59,4.9%
+875,QBRICK,Qbrick AB,NGM,Technology,Telecommunications Services,SEK 16.83M,-1.2x,-0.02,SEK 0.22,-0.9%
+876,SOZAP,Sozap Publ AB,Stockholm,Consumer Cyclicals,Leisure Products,SEK 16.57M,-0.8x,-0.74,SEK 0.72,-4%
+877,SAFGb,Safe Lane Gaming AB,NGM,Technology,Telecommunications Services,SEK 16.15M,-0.3x,-0.05,SEK 1.94,2.1%
+878,GBKG,Goodbye Kansas Group AB,Stockholm,Technology,Software & IT Services,SEK 16.10M,-0x,-0,SEK 0.74,0.7%
+879,LEVBIO,Level Bio AB,NGM,Healthcare,Healthcare Equipment & Supplies,SEK 15.85M,-1.6x,0.01,SEK 0.29,0%
+880,CRBX,Carbiotix AB,Spotlight,Healthcare,Biotechnology & Medical Research,SEK 15.56M,-1x,,SEK 0.08,1.3%
+881,KILI,Kiliaro AB,NGM,Technology,Software & IT Services,SEK 15.53M,2.3x,0.02,SEK 0.53,13%
+882,OODA,oodash AB,Stockholm,Technology,Software & IT Services,SEK 15.43M,-0.1x,0.01,SEK 5.50,0.4%
+883,RIGHTB,Rightbridge Ventures AB,Stockholm,Financials,Investment Banking & Investment Services,SEK 15.38M,-0.1x,-0,SEK 0.02,-2.2%
+884,PHAL,PharmaLundensis,Spotlight,Healthcare,Biotechnology & Medical Research,SEK 15.29M,-5.9x,0.23,SEK 0.65,1.6%
+885,PROVIT,Provide IT Sweden,Spotlight,Technology,Software & IT Services,SEK 14.80M,79.5x,-0.84,SEK 1.66,-0.3%
+886,RAYTL,Raytelligence,NGM,Technology,Electronic Equipment & Parts,SEK 14.76M,-0.1x,-0,SEK 0.89,2.8%
+887,AMNI,Amniotics AB,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 14.76M,-0.4x,-0.01,SEK 0.010,0%
+888,EMART,EmbeddedArt AB,Spotlight,Technology,Communications & Networking,SEK 14.70M,-0.6x,-0.12,SEK 9.02,-2.7%
+889,SRTMG,Shortcut Media,Spotlight,Consumer Cyclicals,Media & Publishing,SEK 14.65M,-11.4x,-0.15,SEK 0.16,-3.6%
+890,AINO,Aino Health,Stockholm,Industrials,Professional & Commercial Services,SEK 14.63M,-1x,-0.02,SEK 0.17,0%
+891,HUNTER,Hunter Capital AB,Spotlight,Consumer Cyclicals,Diversified Retail,SEK 14.30M,-5.1x,-0.11,SEK 7.50,85.6%
+892,SENSW,Sustainable Energy Solutions Sweden,NGM,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 14.11M,-1x,,SEK 0.06,-1.6%
+893,EBLITZ,eBlitz AB,NGM,Financials,Investment Holding Companies,SEK 13.91M,-1.3x,0.02,SEK 0.75,21%
+894,ADVBOX,Adventure Box Technology AB,Stockholm,Technology,Financial Technology (Fintech) & Infrastructure,SEK 13.66M,-0.8x,-0.02,SEK 0.29,3.2%
+895,XPC,XP Chemistries AB,Stockholm,Healthcare,Pharmaceuticals,SEK 13.45M,-0.6x,-0.04,SEK 0.14,-2.8%
+896,GABAT,Gabather,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 13.22M,-1x,0.16,SEK 0.70,4.5%
+897,CAPSE,Northern CapSek Ventures AB,NGM,Financials,Investment Banking & Investment Services,SEK 13.03M,-2.3x,-0.02,SEK 0.30,0%
+898,MIHO,Miris Holding,Spotlight,Healthcare,Healthcare Equipment & Supplies,SEK 12.86M,-0.2x,-0.01,SEK 0.10,-1%
+899,MODI,Motion Display Scandinavia,Spotlight,Technology,Electronic Equipment & Parts,SEK 12.72M,33.8x,0.3,SEK 1.52,-0.7%
+900,LCTE,LC Tec,NGM,Technology,Electronic Equipment & Parts,SEK 12.38M,-1.4x,-0.03,SEK 0.42,4.5%
+901,HOODIN,Hoodin,Spotlight,Technology,Software & IT Services,SEK 12.37M,-0.8x,-0.08,SEK 0.46,13%
+902,ELLE,Ellen AB,Stockholm,Consumer Non-Cyclicals,Personal & Household Products & Services,SEK 12.19M,-3.1x,-0.06,SEK 1.10,0%
+903,CRET,Creturner AB publ,NGM,Technology,Financial Technology (Fintech) & Infrastructure,SEK 12.10M,-1.1x,0.01,SEK 0.21,-12.9%
+904,SPERM,Spermosens,Spotlight,Healthcare,Healthcare Equipment & Supplies,SEK 12.08M,-0.2x,-0.01,SEK 0.04,-7.5%
+905,ALONNRb,Archelon Natural Resources AB,NGM,Energy,Coal,SEK 11.93M,,,SEK 0.51,9.6%
+906,MAGNA,Magnasense AB,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 11.86M,-0.2x,-0,SEK 0.33,-1.2%
+907,S2ME,S2Medical,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 11.84M,-0.4x,-0.01,SEK 0.04,-10.5%
+908,POLYMER,Polymer Factory Sweden,NGM,Basic Materials,Chemicals,SEK 11.66M,-2x,-0.23,SEK 1.10,-5.2%
+909,HYCO,Hybricon Bus Systems AB,NGM,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 11.55M,-5.2x,-0.06,SEK 1.45,3.6%
+910,DIABIO,Diagonal Bio AB,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 11.46M,-0.1x,-0.02,SEK 0.03,-2.1%
+911,NJOB,NetJobs Group AB,Stockholm,Industrials,Professional & Commercial Services,SEK 11.41M,-16x,1.27,SEK 0.35,-1.1%
+912,GIAB,Godsinlosen Nordic,Stockholm,Consumer Cyclicals,Diversified Retail,SEK 11.34M,-1x,-0.01,SEK 0.69,-4.9%
+913,FRNTb,Front Ventures,NGM,Financials,Investment Banking & Investment Services,SEK 10.48M,-0.2x,0,SEK 0.23,-13.4%
+914,SAXGR,Saxlund Group AB,Stockholm,Industrials,Professional & Commercial Services,SEK 10.26M,-0.4x,-0.04,SEK 0.01,-15.5%
+915,RENT,Rentunder Holding,NGM,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 10.14M,-5.7x,,SEK 0.27,0%
+916,VULTS,Vultus,Spotlight,Technology,Software & IT Services,SEK 9.92M,-0.4x,,SEK 0.67,-1.5%
+917,MAHVIE,Mahvie Minerals AB,NGM,,,SEK 9.91M,,,SEK 0.24,6.1%
+918,ALTEM,Alteco Medical,Spotlight,Healthcare,Healthcare Equipment & Supplies,SEK 9.84M,-1.7x,-0.05,SEK 0.17,22%
+919,MONI,Monivent,Spotlight,Healthcare,Healthcare Equipment & Supplies,SEK 9.81M,-0.5x,-0.01,SEK 0.32,5.3%
+920,CYXO,Cyxone,Stockholm,Healthcare,Pharmaceuticals,SEK 9.72M,-0.3x,-0.01,SEK 0.05,15.4%
+921,2CUREX,2cureX,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 9.68M,-0.3x,0.03,SEK 0.59,-1.7%
+922,RESQ,Resqunit AB,Stockholm,Consumer Cyclicals,Specialty Retailers,SEK 9.59M,,,SEK 0.80,0%
+923,SBFBOa,SBF Bostad AB,NGM,Financials,Collective Investments,SEK 9.51M,1.6x,,SEK 570,-0.9%
+924,SBFBOb,SBF Bostad B,NGM,Financials,Collective Investments,SEK 9.51M,,,SEK 630,0%
+925,ODIN,Odinwell,Spotlight,Healthcare,Healthcare Equipment & Supplies,SEK 9.49M,-2.4x,-0.07,SEK 0.40,1%
+926,RLOSb,RanLOS AB,Stockholm,Technology,Software & IT Services,SEK 9.32M,-2.4x,,SEK 4.81,3.7%
+927,NISCH,Nischer Properties,NGM,Real Estate,Real Estate Operations,SEK 8.94M,-0.1x,-0,SEK 0.12,2.6%
+928,AMNO,Amnode,Spotlight,Basic Materials,Metals & Mining,SEK 8.82M,-3.8x,3.03,SEK 2.60,3.2%
+929,HUBS,Hubbster Group,NGM,Industrials,Professional & Commercial Services,SEK 8.66M,-0.8x,-0.02,SEK 0.35,0%
+930,FOUT,Fastout Int,NGM,Technology,Software & IT Services,SEK 8.64M,-27x,0.11,SEK 0.11,8%
+931,EVOL,Evolear AB,Spotlight,Technology,Software & IT Services,SEK 8.60M,-1.1x,0,SEK 1.75,-10.3%
+932,HOIb,Hoi Publishing AB,NGM,Consumer Cyclicals,Media & Publishing,SEK 8.31M,-0.9x,-0.08,SEK 0.25,-1.6%
+933,BLICK,Blick Global Group AB,Spotlight,Technology,Software & IT Services,SEK 8.29M,-0.1x,0,SEK 0.79,-5.7%
+934,UPGRAD,Upgrade Invest Nordic AB,Spotlight,,,SEK 8.24M,,,SEK 4.06,0.5%
+935,NIDHOG,Nidhogg Resources Holding AB,Spotlight,Healthcare,Biotechnology & Medical Research,SEK 8.06M,-0.2x,-0.01,SEK 0.03,9.7%
+936,GTGS,Gold Town Games,NGM,Consumer Cyclicals,Leisure Products,SEK 8.05M,-0.2x,0,SEK 0.15,5%
+937,ARCTIC,Arctic Blue Beverages AB,Stockholm,Consumer Non-Cyclicals,Beverages,SEK 7.86M,-0.5x,-0.01,SEK 0.31,3.3%
+938,HUBSO,Hubso Group,Spotlight,Technology,Software & IT Services,SEK 7.73M,-0.2x,0,SEK 0.07,0%
+939,NATTA,Nattaro Labs AB,Spotlight,,,SEK 7.69M,-0.6x,-0.05,SEK 0.38,8.6%
+940,RVN,Renewable Ventures Nordic AB,Spotlight,,,SEK 7.43M,,,SEK 3.92,-13.3%
+941,NXAR,Nexar Group AB,NGM,Consumer Cyclicals,Media & Publishing,SEK 7.38M,-2.4x,-0.25,SEK 0.23,-4.9%
+942,F2M,Free2Move,NGM,Technology,Telecommunications Services,SEK 7.06M,-0.2x,-0.01,SEK 0.03,-3.3%
+943,HDWb,Hitech Wireless Sweden,Stockholm,Technology,Communications & Networking,SEK 6.95M,-0.1x,-0,SEK 0.008,14.1%
+944,AFRIR,Africa Resources AB,NGM,Basic Materials,Metals & Mining,SEK 6.82M,-14.4x,-0.17,SEK 0.59,3.5%
+945,JSSEC,JS Security Technologies Group,Spotlight,Technology,Software & IT Services,SEK 6.70M,-1.6x,-0.02,SEK 0.15,-9.1%
+946,APTR,AppSpotr,Stockholm,Technology,Software & IT Services,SEK 6.58M,-0.2x,-0,SEK 0.41,-0.7%
+947,ELLWEE,Ellwee AB,Stockholm,Consumer Cyclicals,Leisure Products,SEK 6.17M,-0.2x,0,SEK 5.18,0%
+948,XMR,XMReality,Stockholm,Technology,Software & IT Services,SEK 6.14M,-0.2x,-0.01,SEK 0.06,-4.1%
+949,TENDO,Tendo AB Unt,Spotlight,Healthcare,Healthcare Equipment & Supplies,SEK 6.11M,-0.1x,0.1,SEK 0.09,25.1%
+950,TAURb,Taurus Energy,Spotlight,Energy,Renewable Energy,SEK 6.06M,-2.9x,-0.08,SEK 0.03,-13.2%
+951,RECYb,Recyctec Holding,Spotlight,Industrials,Professional & Commercial Services,SEK 6.02M,-0.6x,-0.01,SEK 0.46,-0.9%
+952,PIXEL,PixelFox AB,NGM,Consumer Cyclicals,Diversified Retail,SEK 6.01M,,,SEK 0.54,10.7%
+953,ALLT,Alltainer,Spotlight,Real Estate,Real Estate Operations,SEK 5.90M,-0.5x,0.01,SEK 0.45,10.2%
+954,SOCIAL,Sociallite US AB,Spotlight,Technology,Software & IT Services,SEK 5.57M,-0.1x,-0,SEK 1.55,0%
+955,QLIFE,Qlife Holding AB,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 5.42M,-0x,,SEK 2.94,-0.7%
+956,HMPLY,Hemply Balance Holding AB,NGM,Consumer Cyclicals,Specialty Retailers,SEK 5.33M,-1x,-0.03,SEK 0.03,-2.9%
+957,SOUND,Sound Dimension AB,Spotlight,Technology,"Computers, Phones & Household Electronics",SEK 5.27M,-0.5x,-0.01,SEK 0.05,-17.4%
+958,KVIX,Kvix AB,NGM,Technology,Software & IT Services,SEK 4.92M,-0.5x,-0.06,SEK 0.56,-8.9%
+959,NEWL,Newlist AB,Stockholm,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SEK 4.40M,-0.1x,-0.03,SEK 0.17,-10%
+960,MBBAB,MoveByBike Europe AB,Spotlight,Industrials,Freight & Logistics Services,SEK 3.25M,-0.1x,0,SEK 0.08,2%
+961,CLINEb,Cline Scientific AB,Stockholm,Healthcare,Pharmaceuticals,SEK 3.15M,-0.7x,-0.03,SEK 0.07,0%
+962,REDWPH,Redwood Pharma,Stockholm,Healthcare,Pharmaceuticals,SEK 3.14M,-0.2x,-0,SEK 1.18,0%
+963,TANGI,Tangiamo Touch Tech,Stockholm,Technology,Electronic Equipment & Parts,SEK 3.08M,-0.2x,-0,SEK 0.008,8.6%
+964,BONZUN,Bonzun AB,Stockholm,Healthcare,Healthcare Providers & Services,SEK 2.99M,,,SEK 0.02,-2.4%
+965,QUIA,QuiaPEG Pharmaceutical,Stockholm,Healthcare,Pharmaceuticals,SEK 2.83M,-1.1x,-0,SEK 0.04,2.4%
+966,SELARM,Sensor Alarm Norden,Spotlight,Industrials,Professional & Commercial Services,SEK 2.81M,-1.2x,-0.02,SEK 0.05,-1.9%
+967,ASAPH,Asarina Pharma,Stockholm,Healthcare,Biotechnology & Medical Research,SEK 2.72M,-0.2x,-0.01,SEK 0.12,6.4%
+968,DUEAR,Duearity AB,Stockholm,Healthcare,Healthcare Equipment & Supplies,SEK 2.63M,-0.1x,0,SEK 0.09,-10%
+969,MBOLIC,Metabolic Nordic AB,Stockholm,Technology,Software & IT Services,SEK 2.63M,,,SEK 0.09,0%
+970,MAV,Mavshack publ AB,Stockholm,Consumer Cyclicals,Media & Publishing,SEK 2.58M,-0.1x,-0,SEK 0.10,3.2%
+971,EURIb,European Institute of Science,Spotlight,Healthcare,Biotechnology & Medical Research,SEK 2.25M,-0.6x,-0.02,SEK 3.92,-8.8%
+972,ANTCOb,ANTCO Investment AB,NGM,,,SEK 1.95M,,,SEK 0.09,-9.5%
+973,MOVEA,Move About AB,Stockholm,Technology,Software & IT Services,SEK 1.82M,-0.2x,-0,SEK 0.02,-3.4%
+974,NOSIUMb,NOSIUM AB,NGM,Consumer Non-Cyclicals,Personal & Household Products & Services,SEK 1.80M,-0x,0,SEK 0.03,-3.7%
+975,FSPORT,Fsport AB,Stockholm,Technology,Software & IT Services,SEK 1.79M,-0.1x,-0,SEK 0.04,0%
+976,LIPI,Lipidor,Stockholm,Healthcare,Pharmaceuticals,SEK 1.39M,-0.3x,-0,SEK 0.05,1.7%
+977,BRANDB,Brandbee,NGM,Technology,Software & IT Services,SEK 1.24M,-0x,-0,SEK 0.002,0%
+978,CIRCLEb,Circle Energy Sweden AB,Stockholm,Utilities,Electrical Utilities & IPPs,SEK 1.18M,,,SEK 0.010,8.7%
+979,TRML,Trainimal AB,NGM,Technology,Software & IT Services,SEK 1.15M,-1.3x,-0.01,SEK 0.49,-2%
+980,ECTINb,Ectin Research AB,Spotlight,Healthcare,Biotechnology & Medical Research,SEK 1.12M,-0.4x,0,SEK 0.08,-14.7%
+981,AVSALT,Avsalt AB publ,NGM,Technology,Software & IT Services,SEK 1.08M,-0.1x,,SEK 8,-2.4%
+982,SYNCb,Syncro AB,Spotlight,Technology,Software & IT Services,SEK 1.08M,-0.1x,,SEK 0.010,2%
+983,DEVH,Deversify Health AB,Stockholm,Industrials,Professional & Commercial Services,SEK 1.07M,,,SEK 0.03,0%
+984,ARCEDE,NGM:ARCEDE,Spotlight,,,SEK 16.37K,,,SEK 0.003,
+985,TINGSb,Tingsvalvet Fastighets AB,Stockholm,,,,,,SEK 32.80,-2.4%

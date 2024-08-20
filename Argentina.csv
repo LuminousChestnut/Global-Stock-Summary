@@ -1,0 +1,330 @@
+1,AAPLm,Apple DRC,Buenos Aires,Technology,"Computers, Phones & Household Electronics","ARS 3,175.29T",33.5x,3.14,"ARS 14,025",0.2%
+2,MSFTm,Microsoft DRC,Buenos Aires,Technology,Software & IT Services,"ARS 2,916.76T",35x,1.57,"ARS 17,675",1.1%
+3,NVDAm,NVIDIA,Buenos Aires,Technology,Semiconductors & Semiconductor Equipment,"ARS 2,725.17T",67.7x,0.08,"ARS 6,240",1.8%
+4,MELIm,MercadoLibre DRC,Buenos Aires,Technology,Software & IT Services,"ARS 1,875.60T",22.8x,0.8,"ARS 20,000",-0.9%
+5,AMZNm,Amazon.com,Buenos Aires,Consumer Cyclicals,Diversified Retail,"ARS 1,678.19T",39.6x,0.17,"ARS 1,500",0%
+6,BRKBm,Berkshire Hathaway,Buenos Aires,Consumer Non-Cyclicals,Consumer Goods Conglomerates,ARS 888.09T,13.9x,-0.66,"ARS 25,300",1.5%
+7,LLYm,Eli Lilly and Co,Buenos Aires,Healthcare,Pharmaceuticals,ARS 787.55T,114x,8.36,"ARS 21,025",2.1%
+8,TSMm,Taiwan Semiconductor Manufacturing Co,Buenos Aires,Technology,Semiconductors & Semiconductor Equipment,ARS 709.65T,26.4x,-5.99,"ARS 24,000",-1.2%
+9,AVGOm,Broadcom,Buenos Aires,Technology,Semiconductors & Semiconductor Equipment,ARS 691.29T,66.5x,-2.36,"ARS 5,150",1%
+10,TSLAm,Tesla Cedears,Buenos Aires,Consumer Cyclicals,Automobiles & Auto Parts,ARS 604.58T,51.4x,48.44,"ARS 17,000",-3.5%
+11,JPMm,JPMorgan Chase DRC,Buenos Aires,Financials,Banking Services,ARS 563.03T,11.7x,0.74,"ARS 17,800",1.3%
+12,WMTm,Walmart DRC,Buenos Aires,Consumer Non-Cyclicals,Food & Drug Retailing,ARS 518.13T,29.2x,0.42,"ARS 4,845",1.1%
+13,SPYm,SPDR S P 500 ETF Trust DRC,Buenos Aires,Financials,Investment Banking & Investment Services,ARS 516.07T,4.7x,,"ARS 34,450",0.3%
+14,UNHm,UnitedHealth Group,Buenos Aires,Healthcare,Healthcare Providers & Services,ARS 503.49T,38x,-1.14,"ARS 22,275",0.5%
+15,XOMm,Exxon Mobil,Buenos Aires,Energy,Oil & Gas,ARS 496.68T,14.3x,-0.46,"ARS 15,025",0.7%
+16,DXOM2m,Exxon Mobil DRC,Buenos Aires,Energy,Oil & Gas,ARS 492.61T,14.1x,-0.05,ARS 183.58,0%
+17,Vm,Visa,Buenos Aires,Technology,Software & IT Services,ARS 467.02T,27.7x,1.42,"ARS 18,425",0%
+18,MAm,Mastercard,Buenos Aires,Technology,Software & IT Services,ARS 399.42T,35x,1.52,"ARS 17,650",0%
+19,PGm,Procter & Gamble DRC,Buenos Aires,Consumer Non-Cyclicals,Personal & Household Products & Services,ARS 373.59T,27.3x,13.54,"ARS 14,275",1.1%
+20,DJNJ2m,Johnson & Johnson,Buenos Aires,Healthcare,Pharmaceuticals,ARS 362.17T,10.3x,0.3,ARS 815,0%
+21,COSTm,Costco Wholesale,Buenos Aires,Consumer Cyclicals,Diversified Retail,ARS 360.25T,53.4x,2.72,"ARS 22,825",-0.1%
+22,DJNJ3m,Johnson Johnson DRC,Buenos Aires,Healthcare,Pharmaceuticals,ARS 358.81T,10.2x,,"ARS 1,670",1.2%
+23,JNJm,Johnson & Johnson DRC,Buenos Aires,Healthcare,Pharmaceuticals,ARS 358.81T,10.2x,0.11,"ARS 13,425",0.4%
+24,JCIm,Johnson Controls International DRC,Buenos Aires,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",ARS 358.68T,24.2x,0.45,"ARS 12,175.50",0%
+25,ORCLm,Oracle,Buenos Aires,Technology,Software & IT Services,ARS 351.44T,35.6x,1.67,"ARS 57,300",1.2%
+26,HDm,Home Depot DRC,Buenos Aires,Consumer Cyclicals,Specialty Retailers,ARS 332.42T,24x,-2.54,"ARS 14,100",1.4%
+27,ABBVm,Abbvie,Buenos Aires,Healthcare,Pharmaceuticals,ARS 320.51T,64.2x,-1.65,"ARS 24,525",1.4%
+28,BACm,Bank of America DRC,Buenos Aires,Financials,Banking Services,ARS 282.93T,13.5x,-0.71,"ARS 12,325",1.6%
+29,KOm,Coca-Cola DRC,Buenos Aires,Consumer Non-Cyclicals,Beverages,ARS 278.19T,27.8x,13.48,"ARS 17,400",0.3%
+30,MRKm,Merck & Co DRC,Buenos Aires,Healthcare,Pharmaceuticals,ARS 271.17T,20.9x,0.06,"ARS 28,700",-1.4%
+31,NFLXm,Netflix,Buenos Aires,Technology,Software & IT Services,ARS 266.73T,40.5x,0.55,"ARS 17,450",1.6%
+32,QQQm,Invesco QQQ Trust Series 1 DRC,Buenos Aires,Financials,Investment Banking & Investment Services,ARS 262.89T,4.5x,,"ARS 29,400",0.3%
+33,CVXm,Chevron DRC,Buenos Aires,Energy,Oil & Gas,ARS 248.79T,14.3x,-0.39,"ARS 11,500",0.4%
+34,CRMm,Salesforce.Com,Buenos Aires,Technology,Software & IT Services,ARS 232.87T,45.4x,0.03,"ARS 17,900",0.1%
+35,SAPm,SAP SE DRC,Buenos Aires,Technology,Software & IT Services,ARS 232.29T,87.6x,-1.83,"ARS 44,775",0.5%
+36,ADBEm,Adobe,Buenos Aires,Technology,Software & IT Services,ARS 225.17T,48x,7.74,"ARS 15,600",1.5%
+37,PEPm,PepsiCo DRC,Buenos Aires,Consumer Non-Cyclicals,Beverages,ARS 224.48T,25.1x,1.2,"ARS 12,200",0%
+38,TMm,Toyota DRC,Buenos Aires,Consumer Cyclicals,Automobiles & Auto Parts,ARS 224.22T,7x,0.1,"ARS 15,000",2.6%
+39,NVSm,Novartis DRC,Buenos Aires,Healthcare,Pharmaceuticals,ARS 216.55T,14.4x,0.19,"ARS 35,875",0.7%
+40,SHELm,Royal Dutch Shell A DRC,Buenos Aires,Energy,Oil & Gas,ARS 216.34T,12.9x,-0.38,"ARS 46,150",0.8%
+41,TMOm,Thermo Fisher Scientific,Buenos Aires,Healthcare,Healthcare Equipment & Supplies,ARS 215.84T,37x,3.6,"ARS 34,625",-0.5%
+42,AMDm,Advanced Micro Devices,Buenos Aires,Technology,Semiconductors & Semiconductor Equipment,ARS 214.19T,166.8x,0.03,"ARS 17,850",0%
+43,ACNm,Accenture DRC,Buenos Aires,Technology,Software & IT Services,ARS 188.34T,28.8x,-26.94,"ARS 5,450",3%
+44,MCDm,McDonald DRC,Buenos Aires,Consumer Cyclicals,Hotels & Entertainment Services,ARS 182.92T,23.5x,4.45,"ARS 14,350",0.5%
+45,BABAm,Alibaba Cedear,Buenos Aires,Technology,Software & IT Services,ARS 181.09T,18.4x,1.24,"ARS 11,225",-2%
+46,ABTm,Abbott Laboratories,Buenos Aires,Healthcare,Healthcare Equipment & Supplies,ARS 179.90T,34.6x,4.1,"ARS 34,725",1.2%
+47,QCOMm,Qualcomm,Buenos Aires,Technology,Semiconductors & Semiconductor Equipment,ARS 175.33T,21.3x,16.24,"ARS 19,325",-1.3%
+48,GEm,General Electric DRC,Buenos Aires,Consumer Non-Cyclicals,Consumer Goods Conglomerates,ARS 172.44T,19.8x,-0.88,"ARS 26,575",0%
+49,CSCOm,Cisco Systems DRC,Buenos Aires,Technology,Communications & Networking,ARS 171.98T,15.2x,2.45,"ARS 11,550",0.4%
+50,PMm,Philip Morris International DRC,Buenos Aires,,,ARS 171.52T,20.8x,2.21,"ARS 8,350",0.1%
+51,WFCm,Wells Fargo & Co,Buenos Aires,Financials,Banking Services,ARS 169.20T,10.9x,0.53,"ARS 13,600",1.7%
+52,IBMm,IBM DRC,Buenos Aires,Technology,Software & IT Services,ARS 166.41T,20.9x,0.07,"ARS 16,275",0.9%
+53,Tm,AT&T DRC,Buenos Aires,Technology,Telecommunications Services,ARS 164.77T,14.1x,0.05,"ARS 8,290",0.6%
+54,VZm,Verizon DRC,Buenos Aires,Technology,Telecommunications Services,ARS 162T,15.4x,-0.33,"ARS 13,000",1%
+55,AXPm,American Express DRC,Buenos Aires,Financials,Banking Services,ARS 159.75T,18.1x,0.48,"ARS 20,625",2%
+56,CATm,Caterpillar DRC,Buenos Aires,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",ARS 154.17T,15.3x,0.41,"ARS 21,425",-0.3%
+57,PFEm,Pfizer DRC,Buenos Aires,Healthcare,Pharmaceuticals,ARS 153.82T,-63x,0.56,"ARS 9,170",0.1%
+58,DISNm,Walt Disney DRC,Buenos Aires,Consumer Cyclicals,Media & Publishing,ARS 147.34T,33x,0.29,"ARS 9,120",0.8%
+59,TTEm,TotalEnergies SE DRC,Buenos Aires,Energy,Oil & Gas,ARS 146.83T,7.5x,0.48,"ARS 28,625",0.1%
+60,SPGIm,S P Global DRC,Buenos Aires,Industrials,Professional & Commercial Services,ARS 144.93T,46.7x,1,"ARS 13,875",0.5%
+61,ULm,Unilever NV CEDEAR,Buenos Aires,Consumer Non-Cyclicals,Personal & Household Products & Services,ARS 142.67T,20.8x,-1.07,"ARS 25,575",-0.5%
+62,UBERm,Uber Tech DRC,Buenos Aires,Technology,Software & IT Services,ARS 142.07T,73.6x,0.13,"ARS 45,525",1.2%
+63,UNPm,Union Pacific,Buenos Aires,Industrials,Freight & Logistics Services,ARS 138.31T,22.7x,-7.75,"ARS 15,325",2.2%
+64,LMTm,Lockheed Martin DRC,Buenos Aires,Industrials,Aerospace & Defense,ARS 125.72T,20.3x,25.67,"ARS 35,550",0.4%
+65,SIEGYm,Siemens CEDEAR,Buenos Aires,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",ARS 125.52T,16x,-8.77,"ARS 8,050",0%
+66,BHPm,BHP Group Ltd CEDEAR,Buenos Aires,Basic Materials,Metals & Mining,ARS 125.14T,18.1x,-0.25,"ARS 33,200",-2.4%
+67,HONm,Honeywell International,Buenos Aires,Consumer Non-Cyclicals,Consumer Goods Conglomerates,ARS 120.23T,23.1x,2.62,"ARS 31,325",-0.2%
+68,NKEm,Nike DRC,Buenos Aires,Consumer Cyclicals,Textiles & Apparel,ARS 110.88T,21x,1.27,"ARS 8,300",-0.2%
+69,MUFGm,Mitsubishi UFJ Financial DRC,Buenos Aires,Financials,Banking Services,ARS 108.77T,13x,0.41,"ARS 12,500",0.2%
+70,MUm,Micron Tech DRC,Buenos Aires,Technology,Semiconductors & Semiconductor Equipment,ARS 104.97T,-71.9x,-1.42,"ARS 25,375",2.9%
+71,Cm,Citigroup DRC,Buenos Aires,Financials,Investment Banking & Investment Services,ARS 104.31T,16.3x,-0.37,"ARS 25,050",2%
+72,LRCXm,Lam Research DRC,Buenos Aires,Technology,Semiconductors & Semiconductor Equipment,ARS 104.04T,28.9x,-2.17,"ARS 19,200",0.5%
+73,PANWm,Palo Alto Networks DRC,Buenos Aires,Technology,Software & IT Services,ARS 103.67T,43.7x,0.05,"ARS 8,650",2.7%
+74,SONYm,Sony Corp DRC,Buenos Aires,Technology,"Computers, Phones & Household Electronics",ARS 101.10T,16.2x,5,"ARS 14,075",-0.7%
+75,ADPm,Automatic Data Processing DRC,Buenos Aires,Technology,Software & IT Services,ARS 100.68T,28.7x,2.63,"ARS 55,550",0.6%
+76,ADIm,Analog Devices BA,Buenos Aires,Technology,Semiconductors & Semiconductor Equipment,ARS 100.52T,50x,-1.25,"ARS 18,175",-1.8%
+77,RIOm,Rio Tinto,Buenos Aires,Basic Materials,Metals & Mining,ARS 100.45T,9.4x,0.39,"ARS 9,920",-2.3%
+78,SBUXm,Starbucks,Buenos Aires,Consumer Cyclicals,Hotels & Entertainment Services,ARS 100.02T,26.4x,2.35,"ARS 9,900",-1.7%
+79,MDTm,Medtronic,Buenos Aires,Healthcare,Healthcare Equipment & Supplies,ARS 98.55T,29.5x,-13.45,"ARS 25,875",-0.8%
+80,BAm,Boeing BA,Buenos Aires,Industrials,Aerospace & Defense,ARS 97.43T,-29.9x,-1.23,"ARS 8,890",0.1%
+81,BMYm,Bristol-Myers Squibb DRC,Buenos Aires,Healthcare,Pharmaceuticals,ARS 92.15T,-15x,0.08,"ARS 20,350",-1.9%
+82,DEm,Deere & Co,Buenos Aires,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",ARS 90.99T,10.5x,0.85,"ARS 11,175",0%
+83,IBNm,ICICI Bank,Buenos Aires,Financials,Banking Services,ARS 90.93T,18x,0.86,"ARS 34,625",-1.1%
+84,MDLZm,Mondelez International DRC,Buenos Aires,,,ARS 89.59T,24.5x,-7.31,"ARS 6,100",1.3%
+85,SHOPm,Shopify,Buenos Aires,Technology,Software & IT Services,ARS 86.85T,71.9x,0.44,ARS 850,3.2%
+86,GILDm,Gilead Sciences,Buenos Aires,Healthcare,Pharmaceuticals,ARS 86.82T,87.9x,-1.08,"ARS 23,550",0.3%
+87,PBRm,Petroleo Brasileiro,Buenos Aires,Energy,Oil & Gas,ARS 86.18T,6x,,"ARS 18,775",0%
+88,MOm,Altria Group,Buenos Aires,Consumer Non-Cyclicals,Food & Tobacco,ARS 82.06T,8.9x,0.16,"ARS 16,200",0.2%
+89,INTCm,Intel DRC,Buenos Aires,Technology,Semiconductors & Semiconductor Equipment,ARS 80.05T,86.5x,0.43,"ARS 5,070",-2.3%
+90,CLm,Colgate-Palmolive DRC,Buenos Aires,Consumer Non-Cyclicals,Personal & Household Products & Services,ARS 77.28T,29.6x,0.32,"ARS 43,200",1.8%
+91,RACEm,Ferrari NV DRC,Buenos Aires,,,ARS 76.36T,53.7x,1.66,"ARS 6,890",5.5%
+92,SCCOm,Southern Copper,Buenos Aires,Basic Materials,Metals & Mining,ARS 74.92T,28.9x,-36.76,"ARS 63,700",-0.1%
+93,CVSm,CVS Health DRC,Buenos Aires,,,ARS 66.21T,9.9x,0.07,"ARS 4,800",0.1%
+94,SANm,Banco Santander,Buenos Aires,Financials,Banking Services,ARS 65.88T,5.8x,0.24,"ARS 23,125",0.1%
+95,MMMm,3M DRC,Buenos Aires,Consumer Non-Cyclicals,Consumer Goods Conglomerates,ARS 65.62T,-10x,0.29,"ARS 15,925",0.3%
+96,MSIm,Motorola Solutions,Buenos Aires,Technology,Communications & Networking,ARS 65.59T,47.5x,-16.66,"ARS 26,600",1.6%
+97,FDXm,FedEx,Buenos Aires,Industrials,Freight & Logistics Services,ARS 65.31T,16.3x,1.4,"ARS 35,975",0.1%
+98,PLTRm,Palantir Tech DRC,Buenos Aires,,,ARS 65.17T,168x,0.2,"ARS 13,100",2.3%
+99,PYPLm,PayPal Holdings,Buenos Aires,Industrials,Professional & Commercial Services,ARS 63.62T,16x,0.98,"ARS 10,475",1.2%
+100,SPOTm,Spotify Technology,Buenos Aires,Technology,Software & IT Services,ARS 63.02T,128.4x,0.92,"ARS 15,150",0%
+101,USBm,U.S. Bancorp DRC BA,Buenos Aires,Financials,Banking Services,ARS 62.09T,13.4x,-1.09,"ARS 10,650",0.5%
+102,IWMm,iShares Russell 2000 ETF DRC,Buenos Aires,Financials,Investment Banking & Investment Services,ARS 60.41T,13.9x,,"ARS 26,250",-0.9%
+103,TGTm,Target,Buenos Aires,Consumer Cyclicals,Diversified Retail,ARS 59T,15.2x,0.29,"ARS 7,190",-0.4%
+104,SLBm,Schlumberger NV,Buenos Aires,Energy,Oil & Gas Related Equipment and Services,ARS 58.49T,14.2x,1.16,"ARS 18,525",0.3%
+105,NGGm,National Grid DRC,Buenos Aires,Utilities,Multiline Utilities,ARS 58.20T,15.9x,-0.3,"ARS 40,550",-0.9%
+106,NUm,Nu Holdings DRC,Buenos Aires,Financials,Banking Services,ARS 57.20T,40.5x,0.06,"ARS 8,480",4.6%
+107,FCXm,Freeport McMoRan,Buenos Aires,Basic Materials,Metals & Mining,ARS 56.65T,31.3x,-3.77,"ARS 17,625",-0.6%
+108,ITUBm,Itau Unibanco Holding,Buenos Aires,Financials,Banking Services,ARS 55.65T,9.2x,0.45,"ARS 8,420",1.9%
+109,STLAm,Stellantis NV DRC,Buenos Aires,,,ARS 55.56T,3.2x,-0.13,"ARS 3,980",1.4%
+110,NTESm,NetEase,Buenos Aires,Technology,Software & IT Services,ARS 54.25T,14.6x,0.39,"ARS 7,890",-3.1%
+111,PSXm,Phillips 66,Buenos Aires,Energy,Oil & Gas,ARS 54.11T,11.7x,-0.22,"ARS 29,125",2.6%
+112,BBVm,Banco Bilbao Vizcaya DRC,Buenos Aires,Financials,Banking Services,ARS 53.43T,5.9x,0.2,"ARS 12,500",-0.8%
+113,NEMm,Newmont Corporation DRC,Buenos Aires,Basic Materials,Metals & Mining,ARS 53.01T,-25.4x,0.27,"ARS 20,625",-0.8%
+114,MRVLm,Marvell Tech DRC,Buenos Aires,,,ARS 52.13T,-60.1x,0.11,"ARS 5,700",-1.7%
+115,AMXm,America Movil B,Buenos Aires,Technology,Telecommunications Services,ARS 49.18T,30.5x,0.39,"ARS 21,800",1.9%
+116,OXYm,Occidental Petroleum DRC,Buenos Aires,Energy,Oil & Gas,ARS 48.50T,13.1x,-0.45,"ARS 14,400",-1.2%
+117,PCARm,Paccar,Buenos Aires,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",ARS 46.40T,10x,0.28,"ARS 39,700",1.3%
+118,HMCm,Honda Motor Co DRC,Buenos Aires,Consumer Cyclicals,Automobiles & Auto Parts,ARS 46.18T,6.6x,0.08,"ARS 38,725",2.2%
+119,GMm,General Motors DRC,Buenos Aires,Consumer Cyclicals,Automobiles & Auto Parts,ARS 46.14T,4.9x,0.19,"ARS 9,200",0.1%
+120,TRVVm,Travelers Companies,Buenos Aires,Financials,Insurance,ARS 45.85T,13.4x,0.2,"ARS 45,275",-0.9%
+121,COINm,Coinbase Global DRC,Buenos Aires,Technology,Financial Technology (Fintech) & Infrastructure,ARS 45.79T,31.5x,0.17,"ARS 9,200",-1.3%
+122,KMBm,Kimberly-Clark DRC,Buenos Aires,Consumer Non-Cyclicals,Personal & Household Products & Services,ARS 44.62T,20.8x,0.52,"ARS 29,800",2.1%
+123,BKm,Bank of New York Mellon,Buenos Aires,Financials,Investment Banking & Investment Services,ARS 44.53T,15.3x,0.7,"ARS 40,625",0.8%
+124,ROSTm,Ross Stores DRC,Buenos Aires,Consumer Cyclicals,Specialty Retailers,ARS 44.40T,23.7x,0.74,"ARS 44,950",0.1%
+125,AIGm,AIG,Buenos Aires,Financials,Insurance,ARS 44.22T,-74.3x,-0.12,"ARS 18,325",1%
+126,TTMm,Tata Motors,Buenos Aires,Consumer Cyclicals,Automobiles & Auto Parts,ARS 43.75T,12.4x,,"ARS 8,651",0%
+127,LYGm,Lloyds Banking Group,Buenos Aires,Financials,Banking Services,ARS 42.75T,8.1x,0.3,"ARS 1,820",-1.4%
+128,VALEm,Vale DRC,Buenos Aires,Basic Materials,Metals & Mining,ARS 41.57T,5.4x,-0.47,"ARS 6,460",-1.7%
+129,SEm,Sea Ltd DRC,Buenos Aires,Technology,Software & IT Services,ARS 40.44T,-186.7x,9.27,"ARS 3,020",2.2%
+130,SNOWm,Snowflake,Buenos Aires,Technology,Software & IT Services,ARS 39.95T,-45.1x,8.52,"ARS 5,340",-0.7%
+131,BSNm,Danone DRC,Buenos Aires,Consumer Non-Cyclicals,Food & Tobacco,ARS 39.56T,39.6x,-13.87,ARS 668.40,0%
+132,BCSm,Barclays,Buenos Aires,Financials,Banking Services,ARS 39.33T,8.5x,-0.31,"ARS 14,550",1%
+133,ADSm,Adidas DRC,Buenos Aires,Consumer Cyclicals,Textiles & Apparel,ARS 39.18T,212.2x,2.57,"ARS 3,980",0%
+134,HSYm,Hershey DRC,Buenos Aires,Consumer Non-Cyclicals,Food & Tobacco,ARS 38.21T,22.3x,5.65,"ARS 12,150",0.6%
+135,Fm,Ford Motor DRC,Buenos Aires,Consumer Cyclicals,Automobiles & Auto Parts,ARS 38.20T,10.6x,-1.48,"ARS 13,000",0.8%
+136,JDm,JD.com,Buenos Aires,Consumer Cyclicals,Diversified Retail,ARS 37.53T,12.1x,0.38,"ARS 8,180",-1.4%
+137,FMXm,Fomento Economico Mexicano,Buenos Aires,Consumer Non-Cyclicals,Food & Drug Retailing,ARS 37.11T,28x,-0.34,"ARS 23,700",0.2%
+138,AEMm,Agnico Eagle Mines,Buenos Aires,Basic Materials,Metals & Mining,ARS 36.38T,62x,-0.79,"ARS 16,250",-0.6%
+139,EAm,Electronic Arts DRC,Buenos Aires,Technology,Software & IT Services,ARS 36.37T,34.1x,1.06,"ARS 13,250",-0.7%
+140,SQm,Block DRC,Buenos Aires,Industrials,Professional & Commercial Services,ARS 36.13T,56.3x,0.1,"ARS 3,925",-2%
+141,HWMm,Howmet Aerospace AR,Buenos Aires,Industrials,Aerospace & Defense,ARS 36.02T,41.3x,0.52,"ARS 118,450",-0.3%
+142,SYYm,Sysco,Buenos Aires,Consumer Non-Cyclicals,Food & Drug Retailing,ARS 35.13T,19.5x,1.57,"ARS 12,025",1.3%
+143,XLEm,Energy Select Sector SPDR Fund DRC,Buenos Aires,,Investment Banking & Investment Services,ARS 34.80T,4.2x,,"ARS 56,800",0.7%
+144,DOWm,Dow Inc DRC,Buenos Aires,Basic Materials,Chemicals,ARS 34.77T,33.1x,-0.98,"ARS 11,200",0.7%
+145,EFXm,Equifax,Buenos Aires,Industrials,Professional & Commercial Services,ARS 34.42T,62.4x,5.98,"ARS 23,225",2.3%
+146,ABEVm,Ambev,Buenos Aires,Consumer Non-Cyclicals,Beverages,ARS 34.14T,13.9x,15.11,"ARS 8,780",-0.7%
+147,HPQm,HP DRC,Buenos Aires,Technology,"Computers, Phones & Household Electronics",ARS 32.02T,11.6x,0.77,"ARS 44,025",-0.1%
+148,GLWm,Corning DRC,Buenos Aires,Technology,Electronic Equipment & Parts,ARS 31.82T,76.9x,-2.43,"ARS 12,525",-0.8%
+149,NUEm,Nucor,Buenos Aires,Basic Materials,Metals & Mining,ARS 31.56T,10.2x,-0.28,"ARS 11,100",-1.8%
+150,GOLDm,Barrick Gold DRC,Buenos Aires,Basic Materials,Metals & Mining,ARS 31.56T,22.1x,0.02,"ARS 12,075",-0.4%
+151,DDm,Dupont De Nemours DRC,Buenos Aires,Basic Materials,Chemicals,ARS 30.94T,51.3x,-1.22,"ARS 20,000",0.3%
+152,GRMNm,Garmin,Buenos Aires,Technology,Communications & Networking,ARS 30.71T,23.6x,0.62,"ARS 71,000",-0.8%
+153,MRNAm,Moderna DRC,Buenos Aires,,,ARS 29.74T,-5.4x,0.01,"ARS 5,520",1.1%
+154,BIDUm,Baidu,Buenos Aires,Technology,Software & IT Services,ARS 28.42T,14.6x,0.28,"ARS 9,690",-2.6%
+155,ORANm,Orange,Buenos Aires,Technology,Telecommunications Services,ARS 28.22T,12.3x,0.35,"ARS 14,225",0%
+156,BIIBm,Biogen AR,Buenos Aires,Healthcare,Pharmaceuticals,ARS 27.49T,25.1x,-0.45,"ARS 19,500",-2.6%
+157,BBAS3m,Banco do Brasil DRC,Buenos Aires,,,ARS 27.47T,5.2x,-3.89,"ARS 3,260",1.1%
+158,LVSm,Las Vegas Sands,Buenos Aires,Consumer Cyclicals,Hotels & Entertainment Services,ARS 27.32T,18.4x,0.01,"ARS 25,075",-0.2%
+159,TCOMm,Tripcom DRC,Buenos Aires,Consumer Cyclicals,Hotels & Entertainment Services,ARS 25.82T,21.5x,0.21,"ARS 26,025",-2.6%
+160,EBAYm,Ebay,Buenos Aires,Technology,Software & IT Services,ARS 25.67T,10.7x,0.09,"ARS 35,375",-0.6%
+161,HALm,Halliburton Co,Buenos Aires,Energy,Oil & Gas Related Equipment and Services,ARS 25.62T,10.2x,0.91,"ARS 19,600",-0.6%
+162,BBDm,Banco Bradesco DRC,Buenos Aires,Financials,Banking Services,ARS 25.59T,11.9x,-0.76,"ARS 3,475",0.3%
+163,PHGm,Koninklijke Philips DRC,Buenos Aires,Healthcare,Healthcare Equipment & Supplies,ARS 25.11T,-56.5x,-0.56,"ARS 7,220",0.3%
+164,CAHm,Cardinal Health,Buenos Aires,Healthcare,Pharmaceuticals,ARS 24.28T,47.5x,1.63,"ARS 44,675",3.1%
+165,MSTRm,Microstrategy DRC,Buenos Aires,Technology,Software & IT Services,ARS 23.84T,-102.1x,0.71,"ARS 8,310",-3.7%
+166,VODm,Vodafone Group,Buenos Aires,Technology,Telecommunications Services,ARS 23.84T,20.7x,-0.21,"ARS 12,150",0.6%
+167,RBLXm,Roblox DRC,Buenos Aires,Technology,Software & IT Services,ARS 23.73T,-22.8x,-2.38,"ARS 24,650",0.5%
+168,TEFOm,Telefonica,Buenos Aires,Technology,Telecommunications Services,ARS 23.72T,-24x,0.15,ARS 709,0.1%
+169,DALm,Delta Air Lines DRC,Buenos Aires,,,ARS 23.33T,5.5x,0.11,"ARS 6,150",-1.1%
+170,IFFm,International Flavors Fragrances DRC,Buenos Aires,Consumer Non-Cyclicals,Food & Tobacco,ARS 23.17T,-10.4x,1.51,"ARS 10,325",0%
+171,FSLRm,First Solar,Buenos Aires,Energy,Renewable Energy,ARS 22.83T,20.1x,0.03,"ARS 15,875",-2.5%
+172,KBm,KB Financial DRC,Buenos Aires,Financials,Banking Services,ARS 22.23T,8x,6.4,"ARS 39,450",0.9%
+173,ERICm,Telefonaktiebolaget LM Ericsson,Buenos Aires,Technology,Communications & Networking,ARS 21.58T,-6.7x,0.02,"ARS 4,335",-0.5%
+174,NOKAm,Nokia CEDEAR,Buenos Aires,Technology,Communications & Networking,ARS 20.30T,51.4x,-0.23,"ARS 4,995",0.7%
+175,BSBRm,Bancontander Brasil,Buenos Aires,Financials,Banking Services,ARS 18.71T,9.7x,2.09,"ARS 6,980",2%
+176,PKSm,Posco,Buenos Aires,Basic Materials,Metals & Mining,ARS 17.76T,,3.9,"ARS 25,750",1.4%
+177,CCLm,Carnival DRC,Buenos Aires,,,ARS 17.60T,20.7x,0.16,"ARS 6,300",-0.6%
+178,ZMm,Zoom Video Communications,Buenos Aires,Technology,Software & IT Services,ARS 16.51T,20.6x,0,"ARS 1,520",-1%
+179,VRSNm,Verisign,Buenos Aires,Technology,Software & IT Services,ARS 16.04T,20.9x,0.86,"ARS 36,700",-1%
+180,AVYm,Avery Dennison DRC,Buenos Aires,Basic Materials,Containers & Packaging,ARS 15.78T,26.7x,2.2,"ARS 14,575",-0.9%
+181,IPm,International Paper Co,Buenos Aires,Basic Materials,Containers & Packaging,ARS 15T,36.7x,-0.58,"ARS 14,650",1.9%
+182,NMRm,Nomura Holdings DRC,Buenos Aires,Financials,Investment Banking & Investment Services,ARS 14.87T,11.1x,0.12,"ARS 6,770",-1.3%
+183,CELUm,Celulosa Argentina,Buenos Aires,Basic Materials,Paper & Forest Products,ARS 14.49T,"2,720x",,"ARS 1,435",-3%
+184,VIVm,Telefonica Brasil,Buenos Aires,Technology,Telecommunications Services,ARS 14.46T,16x,1.04,"ARS 12,100",2.3%
+185,SNAPm,Snap,Buenos Aires,Technology,Software & IT Services,ARS 14.04T,-12.6x,-0.8,"ARS 11,450",-2.3%
+186,SNAm,SnapOn,Buenos Aires,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",ARS 13.54T,13.9x,2.08,"ARS 57,750",0.3%
+187,GFIm,Gold Fields,Buenos Aires,Basic Materials,Metals & Mining,ARS 13.33T,20x,-13.84,"ARS 20,200",5.5%
+188,BNGm,Bunge,Buenos Aires,Consumer Non-Cyclicals,Food & Tobacco,ARS 12.87T,10.7x,-0.33,"ARS 24,325",-0.8%
+189,UALm,United Airlines Holdings DRC,Buenos Aires,Industrials,Passenger Transportation Services,ARS 12.44T,4.5x,0.46,"ARS 10,200",-1%
+190,SUZm,Suzano,Buenos Aires,Basic Materials,Paper & Forest Products,ARS 11.62T,319.9x,-3.2,"ARS 12,600",-0.8%
+191,SBSm,SABESP ON DRC,Buenos Aires,Utilities,Water & Related Utilities,ARS 11.53T,16.7x,0.62,"ARS 46,150",1.5%
+192,YPFDm,YPF,Buenos Aires,Energy,Oil & Gas,ARS 10.78T,"-8,770x",0.09,"ARS 27,400",-0.2%
+193,DOCUm,DocuSign,Buenos Aires,Technology,Software & IT Services,ARS 10.71T,105.6x,0.4,"ARS 3,195",4.2%
+194,XPm,XP Inc DRC,Buenos Aires,Financials,Investment Banking & Investment Services,ARS 10.10T,13.8x,0.65,"ARS 6,180",5.3%
+195,TWLOm,Twilio DRC,Buenos Aires,Technology,Software & IT Services,ARS 9.16T,-18.2x,-0.33,"ARS 2,135",-0.5%
+196,Xm,United States Steel,Buenos Aires,Basic Materials,Metals & Mining,ARS 8.95T,16.6x,-0.29,"ARS 17,850",1%
+197,CXm,Cemex,Buenos Aires,Basic Materials,Construction Materials,ARS 8.69T,53x,,"ARS 8,000",0.1%
+198,KEPm,Korea Electric Power DRC,Buenos Aires,Utilities,Electrical Utilities & IPPs,ARS 8.59T,,0.04,"ARS 9,110",-0.4%
+199,WBAm,Walgreens Boots Alliance,Buenos Aires,Consumer Non-Cyclicals,Food & Drug Retailing,ARS 8.53T,-1.6x,0.02,"ARS 4,415",-1.2%
+200,MOSm,Mosaic DRC,Buenos Aires,Basic Materials,Chemicals,ARS 8.31T,36.9x,-0.4,"ARS 6,980",-2%
+201,ASRm,Grupo Aeroportuario del Sureste DRC,Buenos Aires,Industrials,Transport Infrastructure,ARS 7.83T,13.1x,0.66,"ARS 17,800",2.6%
+202,GLOBm,Globant,Buenos Aires,Technology,Software & IT Services,ARS 7.73T,51x,4.45,"ARS 13,475",0.6%
+203,ROKUm,Roku Inc DRC,Buenos Aires,,,ARS 7.67T,-16.3x,-0.6,"ARS 5,500",-1.8%
+204,PACm,Grupo Aeroportuario del Pacifico DRC,Buenos Aires,Industrials,Transport Infrastructure,ARS 7.67T,16.6x,-11.41,"ARS 12,700",0%
+205,NIOm,NIO Inc DRC,Buenos Aires,Consumer Cyclicals,Automobiles & Auto Parts,ARS 7.57T,-2.8x,0.21,"ARS 1,185",-4%
+206,TIMBm,Tim,Buenos Aires,Technology,Telecommunications Services,ARS 7.57T,14.2x,0.26,"ARS 20,950",0.7%
+207,ANFm,Abercrombie Fitch DRC,Buenos Aires,Consumer Cyclicals,Specialty Retailers,ARS 7.38T,18.1x,0.02,"ARS 193,600",-0.4%
+208,BRFSm,BRF,Buenos Aires,Consumer Non-Cyclicals,Food & Tobacco,ARS 6.71T,-71.9x,-0.86,"ARS 16,525",3.9%
+209,TXRm,Ternium DRC,Buenos Aires,Basic Materials,Metals & Mining,ARS 6.38T,-9.4x,0.06,"ARS 11,025",0.7%
+210,GGALm,Grupo Financiero Galicia,Buenos Aires,Financials,Banking Services,ARS 6.36T,12.1x,0.02,"ARS 4,320",3.2%
+211,GGBm,Gerdau DRC,Buenos Aires,Basic Materials,Metals & Mining,ARS 6.10T,7.6x,-0.15,"ARS 16,100",-0.9%
+212,AALm,American Airlines DRC,Buenos Aires,Industrials,Passenger Transportation Services,ARS 6.01T,-52.9x,0.51,"ARS 6,130",-1.8%
+213,ETSYm,ETSY,Buenos Aires,Consumer Cyclicals,Diversified Retail,ARS 5.58T,21.5x,0.16,"ARS 4,090",-5.2%
+214,ERJm,Embraer,Buenos Aires,Industrials,Aerospace & Defense,ARS 5.54T,17x,0.03,"ARS 40,800",0%
+215,ELPm,Companhia Paranaense de Energia DRC,Buenos Aires,Utilities,Electrical Utilities & IPPs,ARS 5.10T,14.8x,1.27,"ARS 29,625",1.7%
+216,ARKKm,ARK Innovation ETF DRC,Buenos Aires,Financials,Investment Banking & Investment Services,ARS 5.07T,,,"ARS 5,340",-1.5%
+217,MBTm,Mobil’nye Telesistemy PAO DRC,Buenos Aires,Technology,Telecommunications Services,ARS 5T,,0.76,ARS 650,0%
+218,BMAm,Banco Macro B,Buenos Aires,Financials,Banking Services,ARS 4.58T,5.5x,0.01,"ARS 7,180",4.1%
+219,HOGm,HarleyDavidson,Buenos Aires,Consumer Cyclicals,Automobiles & Auto Parts,ARS 4.46T,7.3x,-0.83,"ARS 15,250",-0.5%
+220,UGPm,Ultrapar Participacoes,Buenos Aires,Energy,Oil & Gas,ARS 4.44T,9.2x,0.08,"ARS 5,460",-2%
+221,VISTm,Vista Oil & Gas Argentina,Buenos Aires,Energy,Oil & Gas,ARS 4.42T,10.8x,0.36,"ARS 20,725",0.9%
+222,EWZm,iShares MSCI Brazil ETF DRC,Buenos Aires,Financials,Investment Banking & Investment Services,ARS 4.05T,3.9x,,"ARS 18,975",0.1%
+223,TXARm,Ternium Argentina,Buenos Aires,Basic Materials,Metals & Mining,ARS 4.04T,127.1x,0,ARS 892,-1.2%
+224,PAGSm,PagSeguro Digital DRC,Buenos Aires,Industrials,Professional & Commercial Services,ARS 3.94T,12.9x,0.7,"ARS 5,550",2.4%
+225,STNEm,StoneCo DRC,Buenos Aires,Technology,Financial Technology (Fintech) & Infrastructure,ARS 3.89T,13.1x,0,"ARS 5,640",0.9%
+226,TECO2m,Telecom Argentina,Buenos Aires,Technology,Telecommunications Services,ARS 3.88T,12.6x,0.09,"ARS 1,805",0.6%
+227,TGSU2m,Trans Gas Sur,Buenos Aires,Energy,Oil & Gas,ARS 3.61T,26.7x,-1.5,"ARS 4,795",-2.3%
+228,URBNm,Urban Outfitters DRC,Buenos Aires,Consumer Cyclicals,Specialty Retailers,ARS 3.59T,13.8x,0.21,"ARS 24,675",-4.5%
+229,PAMPm,Pampa Energia,Buenos Aires,Utilities,Electrical Utilities & IPPs,ARS 3.55T,0x,-0.11,"ARS 2,610",-0.2%
+230,MIRGm,Mirgor,Buenos Aires,Technology,"Computers, Phones & Household Electronics",ARS 3.51T,-71.7x,0.37,"ARS 19,550",0.1%
+231,AAPm,Advance Auto Parts DRC,Buenos Aires,,,ARS 3.39T,168.8x,-1.78,"ARS 5,500",-3.2%
+232,PBIm,Pitney Bowes DRC,Buenos Aires,Technology,Office Equipment,ARS 3.18T,-12.7x,0.05,"ARS 8,850",-2.4%
+233,UPSTm,Upstart Holdings DRC,Buenos Aires,Financials,Banking Services,ARS 3.05T,-15.6x,-0.56,"ARS 9,180",-4.4%
+234,HLm,Hecla Mining Co,Buenos Aires,Basic Materials,Metals & Mining,ARS 3.04T,-73.2x,-6.36,"ARS 6,540",-2.7%
+235,CARm,Avis Budget Group,Buenos Aires,Industrials,Passenger Transportation Services,ARS 2.84T,3.9x,-0.07,"ARS 4,120",-0.1%
+236,AKOBm,Embotelladora Andina DRC,Buenos Aires,Consumer Non-Cyclicals,Beverages,ARS 2.77T,12.9x,0.16,"ARS 25,850",0%
+237,SIDm,CIA Siderurgica NC,Buenos Aires,Basic Materials,Metals & Mining,ARS 2.67T,-40.3x,8.12,"ARS 21,975",-4.6%
+238,ALUAm,Aluar,Buenos Aires,Basic Materials,Metals & Mining,ARS 2.60T,24.9x,1.98,ARS 934,0.2%
+239,BBARm,BBVA Banco Frances,Buenos Aires,Financials,Banking Services,ARS 2.48T,18.1x,-0.45,"ARS 4,180",3.3%
+240,CAAPm,Corporacion America Airports,Buenos Aires,Industrials,Transport Infrastructure,ARS 2.35T,7x,0.06,"ARS 79,050",0.4%
+241,RIOTm,Riot Platforms DRC,Buenos Aires,,,ARS 2.19T,19.3x,0.22,"ARS 3,305",-1.9%
+242,YELPm,Yelp,Buenos Aires,Technology,Software & IT Services,ARS 2.09T,16.4x,0.08,"ARS 21,950",0%
+243,CDEm,Coeur Mining,Buenos Aires,Basic Materials,Metals & Mining,ARS 2.07T,-28.4x,-2.85,"ARS 7,000",-5%
+244,YYm,JOYY DRC,Buenos Aires,Technology,Software & IT Services,ARS 1.95T,5.6x,0.04,"ARS 8,720",-1.2%
+245,WBOm,Weibo DRC,Buenos Aires,Technology,Software & IT Services,ARS 1.84T,7.2x,0.57,"ARS 1,670",-1.8%
+246,PAASm,Pan American Silver,Buenos Aires,Basic Materials,Metals & Mining,ARS 1.80T,-47.7x,-0.79,"ARS 8,320",-1%
+247,CEPUm,Central Puerto,Buenos Aires,Utilities,Electrical Utilities & IPPs,ARS 1.78T,10.1x,0.03,"ARS 1,185",1.3%
+248,BPATm,Banco Patagonia,Buenos Aires,Financials,Banking Services,ARS 1.77T,18.3x,0.64,"ARS 2,480",1%
+249,KOFMm,Coca Cola Femsa DRC,Buenos Aires,Consumer Non-Cyclicals,Beverages,ARS 1.77T,1.7x,3.38,"ARS 56,550",-0.2%
+250,FERRm,Ferrum,Buenos Aires,Consumer Cyclicals,Homebuilding & Construction Supplies,ARS 1.53T,"-1,550x",14.03,ARS 163,2.8%
+251,NGm,NovaGold Resources,Buenos Aires,Basic Materials,Metals & Mining,ARS 1.39T,-32.2x,-1.98,"ARS 21,825",-3.5%
+252,TGNO4m,Trans. Gas Norte,Buenos Aires,Utilities,Natural Gas Utilities,ARS 1.28T,-168.3x,0.45,"ARS 2,885",-0.3%
+253,BBm,BlackBerry,Buenos Aires,Technology,Software & IT Services,ARS 1.24T,-8.1x,-0.1,ARS 953,-2.1%
+254,BYMAm,BYMA,Buenos Aires,Financials,Investment Banking & Investment Services,ARS 1.17T,-69.6x,0.27,ARS 310,7.6%
+255,XROXm,Xerox Holdings,Buenos Aires,Technology,Office Equipment,ARS 1.16T,-11.2x,-0.22,"ARS 12,450",-2.9%
+256,ADGOm,Adecoagro DRC,Buenos Aires,Technology,Software & IT Services,ARS 1.13T,5.2x,0.01,"ARS 14,275",-2.6%
+257,CAPXm,Capex,Buenos Aires,Energy,Oil & Gas,ARS 1.09T,-31x,0.23,"ARS 6,100",-1.1%
+258,MOLA5m,Molinos Agro,Buenos Aires,Consumer Non-Cyclicals,Food & Tobacco,ARS 1.04T,16.2x,0.74,"ARS 18,900",0%
+259,TVm,Grupo Televisa DRC,Buenos Aires,Consumer Cyclicals,Media & Publishing,ARS 1.04T,-3.1x,-0.08,ARS 835,-4%
+260,MOLAm,Molinos Agro,Buenos Aires,Consumer Non-Cyclicals,Food & Tobacco,ARS 1.04T,19.3x,0.74,"ARS 21,150",0.6%
+261,BITFm,Bitfarms DRC,Buenos Aires,Technology,Financial Technology (Fintech) & Infrastructure,ARS 976.85B,-6.8x,0.78,"ARS 14,075",-3.8%
+262,IRSAm,IRSA,Buenos Aires,Real Estate,Real Estate Operations,ARS 951.45B,-5.9x,0.03,"ARS 1,300",2%
+263,EDNm,Edenor,Buenos Aires,Utilities,Electrical Utilities & IPPs,ARS 941.27B,4.3x,0.01,"ARS 1,080",-0.5%
+264,HUTm,Hut 8 BA,Buenos Aires,Technology,Financial Technology (Fintech) & Infrastructure,ARS 933.12B,4.7x,0.01,"ARS 69,800",0.3%
+265,CVHm,Cablevision,Buenos Aires,Technology,Telecommunications Services,ARS 848.12B,7x,0.05,"ARS 4,690",0.1%
+266,SUPVm,Grupo Supervielle,Buenos Aires,Financials,Banking Services,ARS 795.91B,8.4x,0.01,"ARS 1,790",-0.6%
+267,DESPm,Despegar,Buenos Aires,Consumer Cyclicals,Hotels & Entertainment Services,ARS 776B,113x,1.03,"ARS 13,500",0.2%
+268,TRANm,Transener,Buenos Aires,Utilities,Electrical Utilities & IPPs,ARS 747.05B,"3,220x",-34.71,"ARS 1,635",-2.7%
+269,CTIOm,Consultatio,Buenos Aires,Real Estate,Real Estate Operations,ARS 737.83B,165.9x,0.14,"ARS 1,800",1.4%
+270,COMEm,Comercial del Plata,Buenos Aires,Energy,Oil & Gas,ARS 704.12B,13.4x,0.24,ARS 226.75,-1.7%
+271,MOLIm,Molinos,Buenos Aires,Consumer Non-Cyclicals,Food & Tobacco,ARS 690.85B,9.4x,0.08,"ARS 3,430",2.4%
+272,PATAm,SAIEP,Buenos Aires,Consumer Non-Cyclicals,Food & Drug Retailing,ARS 687.50B,19.4x,1.09,"ARS 1,400",-1.1%
+273,MOLI5m,Molinos Rio de la Plata,Buenos Aires,Consumer Non-Cyclicals,Food & Tobacco,ARS 683.25B,12.3x,0.08,"ARS 3,933",0%
+274,CGPA2m,Camuzzi Gas Pampeana,Buenos Aires,Utilities,Natural Gas Utilities,ARS 654.90B,-359.9x,2.54,"ARS 1,970",1.5%
+275,HARGm,Holcim Argentina,Buenos Aires,Basic Materials,Construction Materials,ARS 596.16B,21.8x,0.55,"ARS 1,640",-1.2%
+276,METRm,Metrogas SA,Buenos Aires,Utilities,Natural Gas Utilities,ARS 594.78B,5.2x,0.01,"ARS 1,040",-0.5%
+277,BIOXm,Bioceres,Buenos Aires,Basic Materials,Chemicals,ARS 593.84B,207.8x,-2.49,"ARS 12,700",0.2%
+278,CRESm,Cresud,Buenos Aires,Consumer Non-Cyclicals,Food & Tobacco,ARS 586.42B,,0.41,ARS 990,-1.5%
+279,CRE3Wm,Cresud,Buenos Aires,Consumer Non-Cyclicals,Food & Tobacco,ARS 586.42B,-47.2x,0.29,ARS 697,-2.5%
+280,BHIPm,Banco Hipotecario,Buenos Aires,Financials,Banking Services,ARS 583.57B,9.9x,0.11,ARS 380.50,1.2%
+281,SAMIm,San Miguel,Buenos Aires,Consumer Non-Cyclicals,Food & Tobacco,ARS 582.02B,-26.7x,0.23,ARS 818,-0.4%
+282,JMIAm,Jumia Tech DRC,Buenos Aires,Technology,Software & IT Services,ARS 559.02B,-4.8x,-0.15,"ARS 6,200",-0.6%
+283,GPRKm,GeoPark,Buenos Aires,Energy,Oil & Gas,ARS 491.86B,4.6x,-0.1,"ARS 11,975",0.4%
+284,LEDEm,Ledesma,Buenos Aires,Consumer Non-Cyclicals,Food & Tobacco,ARS 455.10B,7.9x,0.1,"ARS 1,025",0%
+285,LACm,Lithium Americas DRC,Buenos Aires,,,ARS 453.22B,-43.2x,-0.68,"ARS 2,840",-4.2%
+286,MUXm,McEwen Mining DRC,Buenos Aires,,,ARS 413.90B,4.9x,0.03,"ARS 5,460",-1.8%
+287,GBANm,Naturgy BAN,Buenos Aires,Utilities,Natural Gas Utilities,ARS 405.30B,58.3x,-1.04,"ARS 1,230",-1.2%
+288,INVJm,Inversora Juramento,Buenos Aires,Consumer Non-Cyclicals,Food & Tobacco,ARS 308.25B,472.7x,4.23,ARS 434,0.5%
+289,DGCU2m,Distribuidora de Gas Cuyana,Buenos Aires,Utilities,Natural Gas Utilities,ARS 283.29B,23.3x,0.37,"ARS 1,400",0.7%
+290,VALOm,Banco de Valores,Buenos Aires,Financials,Banking Services,ARS 282.25B,116.6x,-13.71,ARS 338,-0.7%
+291,HAVAm,Havanna,Buenos Aires,Financials,Investment Banking & Investment Services,ARS 281.86B,24.5x,4.5,"ARS 5,830",-2.8%
+292,CBRDm,Companhia Brasileira de Distribuicao,Buenos Aires,Consumer Non-Cyclicals,Food & Drug Retailing,ARS 260.88B,27.9x,,ARS 459,0%
+293,AUSOm,Autopistas del Sol,Buenos Aires,Industrials,Transport Infrastructure,ARS 244.82B,-225.3x,2.02,"ARS 2,770",0.9%
+294,DGCEm,Distribuidora de Gas del Centro,Buenos Aires,,,ARS 222.23B,,,"ARS 1,375",-0.7%
+295,CECO2m,Central Costanera,Buenos Aires,Utilities,Electrical Utilities & IPPs,ARS 218.67B,-4x,0.01,ARS 317,0%
+296,MTRm,Matba Rofex,Buenos Aires,Financials,Investment Banking & Investment Services,ARS 213.04B,-375.8x,2.83,"ARS 1,750",0.9%
+297,LOMAm,Loma Negra,Buenos Aires,Basic Materials,Construction Materials,ARS 206.55B,3.1x,0.03,"ARS 1,755",0.3%
+298,GCLAm,Grupo clarin,Buenos Aires,Consumer Cyclicals,Media & Publishing,ARS 202.87B,-9.3x,0,"ARS 1,905",0.5%
+299,SPCEm,Virgin Galactic Holdings DRC,Buenos Aires,,,ARS 165.77B,-0.3x,-0.01,"ARS 15,500",-0.3%
+300,OESTm,GCO,Buenos Aires,Industrials,Transport Infrastructure,ARS 163.20B,115.4x,-1.71,"ARS 1,040",0%
+301,BOLTm,Boldt,Buenos Aires,Industrials,Professional & Commercial Services,ARS 134.07B,-19.3x,0.16,ARS 55.20,3.4%
+302,RIGOm,Rigolleau,Buenos Aires,Basic Materials,Containers & Packaging,ARS 128.96B,-35.1x,0.23,ARS 889,-0.1%
+303,MORIm,Morixe Hermanos,Buenos Aires,Consumer Non-Cyclicals,Food & Tobacco,ARS 91.48B,,3.82,ARS 325,0.9%
+304,MORI5m,Morixe Hermanos,Buenos Aires,Consumer Non-Cyclicals,Food & Tobacco,ARS 89.95B,824.3x,0.43,ARS 36.80,0%
+305,SATLm,Satellogic DRC,Buenos Aires,Basic Materials,Metals & Mining,ARS 87.09B,-1.5x,0.46,"ARS 1,270",-0.8%
+306,SEMIm,Molinos Juan Semino,Buenos Aires,Consumer Non-Cyclicals,Food & Tobacco,ARS 80.87B,25.3x,-0.81,ARS 136.75,-2%
+307,RICHm,Laboratorios Richmond,Buenos Aires,Healthcare,Pharmaceuticals,ARS 80.75B,-18.9x,0.01,ARS 991,-3.8%
+308,GAMIm,BGaming,Buenos Aires,Technology,Software & IT Services,ARS 75.23B,-12.2x,0.04,ARS 222,0.3%
+309,AGROm,Agrometal,Buenos Aires,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",ARS 70.44B,-31.6x,0.1,ARS 59,-1.8%
+310,CADOm,Carlos Casado,Buenos Aires,Consumer Non-Cyclicals,Food & Tobacco,ARS 64.06B,-35.6x,0.17,ARS 520,-1.5%
+311,GRIMm,Grimoldi,Buenos Aires,Consumer Cyclicals,Textiles & Apparel,ARS 53.61B,-14.5x,0.13,"ARS 1,210",-2%
+312,INTRm,Compania Introductora de BA,Buenos Aires,Consumer Non-Cyclicals,Food & Tobacco,ARS 48.49B,-108x,-2.82,ARS 393,-1.9%
+313,FIPLm,Fiplasto SA,Buenos Aires,Basic Materials,Paper & Forest Products,ARS 41.61B,-68.5x,0.77,ARS 322,0.9%
+314,CARCm,Carboclor,Buenos Aires,Basic Materials,Chemicals,ARS 33.79B,62.3x,-0.99,ARS 31,-0.6%
+315,GCDIm,GCDI,Buenos Aires,Real Estate,Real Estate Operations,ARS 24.07B,-2.7x,-0.09,ARS 26.25,0.6%
+316,SIm,Silvergate Capital DRC,Buenos Aires,Financials,Banking Services,ARS 20.79B,-0x,,ARS 22,0%
+317,LONGm,Longvie,Buenos Aires,Consumer Cyclicals,Household Goods,ARS 17.04B,-2.4x,0.14,ARS 31,-2.1%
+318,DYCAm,Dycasa,Buenos Aires,Industrials,Construction & Engineering,ARS 12.48B,-7x,,ARS 416,0.1%
+319,EDSHm,Edesa,Buenos Aires,Utilities,Electrical Utilities & IPPs,ARS 11.22B,-0.8x,0,ARS 490,0%
+320,REGEm,Garcia Reguera,Buenos Aires,Consumer Cyclicals,Diversified Retail,ARS 10.80B,14.6x,,"ARS 5,400",0%
+321,DOMEm,Artefactos Domesticos,Buenos Aires,Consumer Cyclicals,Household Goods,ARS 7.45B,-65.9x,-0.75,ARS 74.50,3.6%
+322,GAROm,Garovaglio y Zorroaquin,Buenos Aires,Consumer Non-Cyclicals,Food & Tobacco,ARS 6.56B,-2.6x,0.01,ARS 149.50,0.3%
+323,ROSEm,Instituto Rosenbusch,Buenos Aires,Healthcare,Pharmaceuticals,ARS 3.62B,3.6x,0.01,ARS 85,-1.2%
+324,POLLm,Polledo,Buenos Aires,Industrials,Construction & Engineering,ARS 2.89B,16.7x,-0.37,ARS 450,0%
+325,EDLHm,EDESAL,Buenos Aires,Utilities,Electrical Utilities & IPPs,ARS 1.68B,-0.6x,,ARS 22.50,0%
+326,HULIm,Hulytego,Buenos Aires,Basic Materials,Chemicals,ARS 1.29B,,0.08,"ARS 1,500",0%
+327,INAGm,Insumos Agroquimicos,Buenos Aires,Basic Materials,Chemicals,ARS 594M,262.1x,-2.76,ARS 270,0%
+328,EMDEm,Emdersa,Buenos Aires,Utilities,Electrical Utilities & IPPs,ARS 487.81M,0.7x,,ARS 8,0%
+329,ALDAFm,Allaria Argencons Distrito,Buenos Aires,,,,,,ARS 255.50,0%
+330,ALDBFm,Allaria Ledesma Fondos,Buenos Aires,Financials,Investment Banking & Investment Services,,,,ARS 351,0%

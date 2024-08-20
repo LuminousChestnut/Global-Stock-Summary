@@ -1,0 +1,723 @@
+1,VCB,Vietcombank,Ho Chi Minh,Financials,Banking Services,₫495.75T,16x,2.75,"₫88,600",1.1%
+2,BID,Bank for Investment and Development,Ho Chi Minh,Financials,Banking Services,₫271.34T,13.4x,0.88,"₫47,600",2%
+3,FPT,FPT Corp,Ho Chi Minh,Consumer Non-Cyclicals,Consumer Goods Conglomerates,₫191.03T,29x,1.25,"₫130,700",1.5%
+4,GAS,Petrovietnam Gas JSCrp,Ho Chi Minh,Energy,Oil & Gas,₫189.71T,24.7x,-0.46,"₫82,500",1.6%
+5,CTG,Vietnam Joint Stock Commercial Bank,Ho Chi Minh,Financials,Banking Services,₫173.72T,8.6x,0.25,"₫32,250",1.3%
+6,VHM,Vinhomes,Ho Chi Minh,Real Estate,Real Estate Operations,₫167.43T,7.1x,-0.14,"₫38,450",1.6%
+7,HPG,Hoa Phat Group JSC,Ho Chi Minh,Basic Materials,Metals & Mining,₫163.74T,15.1x,0.02,"₫25,600",1.6%
+8,VNM,Vinamilk,Ho Chi Minh,Consumer Non-Cyclicals,Food & Tobacco,₫154.24T,17.8x,1,"₫73,700",-0.1%
+9,VIC,Vingroup JSC,Ho Chi Minh,Real Estate,Real Estate Operations,₫154.19T,41x,-1.24,"₫41,350",1.4%
+10,TCB,Techcombank,Ho Chi Minh,Financials,Banking Services,₫151.47T,7.1x,0.34,"₫21,450",1.4%
+11,VPB,Vietnam Prosperity,Ho Chi Minh,Financials,Banking Services,₫144.79T,12x,-1.03,"₫18,250",1.4%
+12,MBB,Military Commercial Bank,Ho Chi Minh,Financials,Banking Services,₫127.15T,5.9x,0.22,"₫24,050",3.4%
+13,MSN,Masan Group Corp,Ho Chi Minh,Consumer Non-Cyclicals,Food & Tobacco,₫111.04T,156.6x,-3.27,"₫77,300",3.1%
+14,ACB,ACB,Ho Chi Minh,Financials,Banking Services,₫106.98T,6.7x,0.53,"₫24,000",2.1%
+15,MWG,Mobile World Investment Corp,Ho Chi Minh,Consumer Cyclicals,Specialty Retailers,₫101.02T,45.4x,1.02,"₫69,000",4.7%
+16,GVR,Vietnam Rubber,Ho Chi Minh,Consumer Cyclicals,Automobiles & Auto Parts,₫96.66T,16.3x,,"₫34,700",6.3%
+17,LPB,Fortune Vietnam Joint Stock Commercial Bank,Ho Chi Minh,Financials,Banking Services,₫76.73T,11.1x,0.39,"₫30,050",2.2%
+18,HDB,Ho Chi Minh City Develop,Ho Chi Minh,Financials,Banking Services,₫76.07T,6.3x,0.12,"₫26,350",0.8%
+19,BCM,Investment and Industrial Development,Ho Chi Minh,Real Estate,Real Estate Operations,₫74.83T,27.3x,,"₫72,100",1.8%
+20,SAB,Saigon Beer Alcohol Beverage,Ho Chi Minh,Consumer Non-Cyclicals,Beverages,₫72.08T,17.3x,-2.72,"₫56,200",0.9%
+21,PLX,Vietnam National Petro,Ho Chi Minh,Energy,Oil & Gas,₫64.93T,22.3x,-3.58,"₫51,000",4.1%
+22,VJC,Vietjet Aviation,Ho Chi Minh,Industrials,Passenger Transportation Services,₫55.84T,46.1x,0.29,"₫103,400",0.6%
+23,STB,Sai Gon Thuong Tin Commercial,Ho Chi Minh,Financials,Banking Services,₫55.33T,6.3x,0.49,"₫29,300",1.2%
+24,SSB,Southeast Asia Commercial Joint Stock Bank,Ho Chi Minh,Financials,Banking Services,₫53.78T,14.9x,-1.98,"₫21,550",0%
+25,VIB,Viet Nam International Commercial Joint Stock Bank,Ho Chi Minh,Financials,Banking Services,₫53.65T,7x,-1.99,"₫21,150",1.7%
+26,SSI,SSI Securities,Ho Chi Minh,Financials,Investment Banking & Investment Services,₫48.97T,17.3x,0.18,"₫32,500",5.2%
+27,HVN,Vietnam Airlines,Ho Chi Minh,Industrials,Passenger Transportation Services,₫44.95T,49.2x,0.44,"₫21,100",3.9%
+28,DGC,Ducgiang Chemicals Detergent Powder,Ho Chi Minh,Basic Materials,Chemicals,₫42.04T,14.8x,-0.53,"₫111,100",4.3%
+29,VRE,Vincom Retail,Ho Chi Minh,Real Estate,Real Estate Operations,₫41.7T,9.3x,0.39,"₫18,300",2.8%
+30,TPB,Tien Phong Commercial,Ho Chi Minh,Financials,Banking Services,₫38.42T,8.1x,-0.4,"₫17,500",2.3%
+31,KDH,Khang Dien House Trading Invest,Ho Chi Minh,Real Estate,Real Estate Operations,₫33.83T,52.5x,-1.56,"₫37,050",4.4%
+32,REE,Refrigeration Electrical Engineerin,Ho Chi Minh,Utilities,Electrical Utilities & IPPs,₫32.92T,18.3x,-0.55,"₫69,800",3.4%
+33,PNJ,Phu Nhuan Jewelry JSC,Ho Chi Minh,Consumer Cyclicals,Textiles & Apparel,₫32.79T,17.2x,1.67,"₫98,000",1.1%
+34,SHB,Sai Gon Ha Noi Commercial,Ho Chi Minh,Financials,Banking Services,₫32.66T,4.9x,,"₫10,600",1.9%
+35,BVH,BaoViet Holdings,Ho Chi Minh,Financials,Insurance,₫32.37T,17.4x,1.7,"₫43,750",2.3%
+36,EIB,Vietnam Export Import Commercial,Ho Chi Minh,Financials,Banking Services,₫32.29T,14.6x,-2.61,"₫18,550",1.4%
+37,POW,Petrovietnam Power,Ho Chi Minh,Utilities,Electrical Utilities & IPPs,₫31.62T,29.9x,-1.19,"₫13,550",3.8%
+38,OCB,Orient Commercial Joint Stock Bank,Ho Chi Minh,Financials,Banking Services,₫29.59T,9.5x,-1.62,"₫14,550",1%
+39,MSB,Vietnam Maritime Commercial Joint Stock Bank,Ho Chi Minh,Financials,Banking Services,₫28.9T,6.3x,4.87,"₫14,600",1%
+40,GMD,Gemadept Corp,Ho Chi Minh,Industrials,Transport Infrastructure,₫24.81T,20.8x,-0.43,"₫80,000",1%
+41,PGV,Power Generation,Ho Chi Minh,Utilities,Electrical Utilities & IPPs,₫24.6T,23.1x,-0.43,"₫22,000",1.9%
+42,FRT,FPT Digital,Ho Chi Minh,Consumer Cyclicals,Specialty Retailers,₫23.77T,-78.8x,0.33,"₫174,500",1.3%
+43,NVL,No Va Land Invest,Ho Chi Minh,Real Estate,Real Estate Operations,₫23.21T,11.6x,0.03,"₫11,900",6.3%
+44,VND,VNDIRECT Securities,Ho Chi Minh,Financials,Investment Banking & Investment Services,₫22.83T,7.9x,0.03,"₫15,100",6%
+45,NAB,Nam A Commercial Joint Stock Bank,Ho Chi Minh,,,₫22.02T,,,"₫16,750",0.6%
+46,VCI,Viet Capital,Ho Chi Minh,Financials,Investment Banking & Investment Services,₫20.66T,26.5x,0.2,"₫46,800",5.5%
+47,KBC,Kinh Bac City Development Share,Ho Chi Minh,Real Estate,Real Estate Operations,₫20.34T,77x,-0.8,"₫26,600",6.8%
+48,IDC,Idico Corporation JSC,Hanoi,Consumer Non-Cyclicals,Consumer Goods Conglomerates,₫19.9T,10.7x,0.07,"₫60,300",2.2%
+49,DCM,Petrovietnam Camau Fertilizer,Ho Chi Minh,Basic Materials,Chemicals,₫19.69T,14.9x,-0.41,"₫37,200",3.9%
+50,HCM,Ho Chi Minh City Securities Corp,Ho Chi Minh,Financials,Investment Banking & Investment Services,₫19.11T,19.3x,0.53,"₫27,150",6.5%
+51,PVS,Petrovietnam Technical Services,Hanoi,Energy,Oil & Gas Related Equipment and Services,₫18.88T,23.1x,-2.24,"₫39,500",2.1%
+52,GEX,Gelex JSC,Ho Chi Minh,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",₫18.22T,16.6x,0.05,"₫21,350",3.1%
+53,VGC,Viglacera,Ho Chi Minh,Consumer Cyclicals,Homebuilding & Construction Supplies,₫18.07T,23.1x,-0.88,"₫43,100",6.9%
+54,VPI,Van Phu,Ho Chi Minh,Real Estate,Real Estate Operations,₫16.84T,92.2x,-1.22,"₫58,000",0.7%
+55,PDR,Phat Dat Real Estate Development,Ho Chi Minh,Real Estate,Real Estate Operations,₫16.42T,28.3x,-0.79,"₫18,800",6.8%
+56,VHC,Vinh Hoan Corp,Ho Chi Minh,Consumer Non-Cyclicals,Food & Tobacco,₫16.16T,21.3x,-0.52,"₫72,100",2.4%
+57,KDC,Kido,Ho Chi Minh,Consumer Non-Cyclicals,Food & Tobacco,₫15.74T,-32.5x,0.23,"₫54,400",-0.2%
+58,HUT,HUD - TASCO,Hanoi,Industrials,Construction & Engineering,₫15.53T,214.3x,-28.29,"₫17,400",3%
+59,NLG,Nam Long Investment Corp,Ho Chi Minh,Real Estate,Real Estate Operations,₫15.24T,37.9x,-1.12,"₫39,600",6.3%
+60,PVD,PetroVietnam Drilling Well Services,Ho Chi Minh,Energy,Oil & Gas Related Equipment and Services,₫15.18T,"735,140x",0.01,"₫27,250",3.2%
+61,SIP,Sai Gon Vrg Investment,Ho Chi Minh,,,₫14.68T,19.5x,,"₫72,700",3.6%
+62,CTR,Viettel Construction,Ho Chi Minh,Industrials,Construction & Engineering,₫14.49T,13.1x,,"₫126,600",5.8%
+63,DIG,Development Investment Construction,Ho Chi Minh,Real Estate,Real Estate Operations,₫14.48T,375.4x,-6.79,"₫23,750",7%
+64,DPM,PetroVietnam Fertilizer Chemical,Ho Chi Minh,Basic Materials,Chemicals,₫14.48T,28.7x,-0.34,"₫37,000",2.8%
+65,DHG,DHG Pharmaceutical JSC,Ho Chi Minh,Healthcare,Pharmaceuticals,₫13.83T,17x,-0.69,"₫105,600",0.1%
+66,THD,Thaiholdings JSC,Hanoi,Basic Materials,Construction Materials,₫13.59T,97.4x,-2.52,"₫35,400",0.3%
+67,FTS,FPT Securities,Ho Chi Minh,Financials,Investment Banking & Investment Services,₫13.28T,26.4x,0.58,"₫43,400",6.9%
+68,SHS,SHS,Hanoi,Financials,Investment Banking & Investment Services,₫13.17T,11.9x,0.07,"₫16,200",6.6%
+69,VCG,VINACONEX,Ho Chi Minh,Industrials,Construction & Engineering,₫12.77T,14.1x,0.07,"₫19,050",3%
+70,HSG,Hoasen Group,Ho Chi Minh,Basic Materials,Metals & Mining,₫12.54T,11x,0.06,"₫20,350",3.8%
+71,PVI,PVI Holdings,Hanoi,Financials,Insurance,₫12.3T,11.9x,2.46,"₫52,500",1.9%
+72,VSH,Vinh Son Song Hinh Hydropower JSC,Ho Chi Minh,Utilities,Electrical Utilities & IPPs,₫12.17T,37.4x,-0.5,"₫49,800",-3.9%
+73,KSF,Real Tech JSC,Hanoi,Real Estate,Real Estate Operations,₫12.09T,26.9x,0.67,"₫40,500",0.5%
+74,TCH,Hoang Huy Investment,Ho Chi Minh,Real Estate,Real Estate Operations,₫12.09T,15.6x,0.08,"₫18,100",6.2%
+75,MBS,MB Securities,Hanoi,Financials,Investment Banking & Investment Services,₫11.9T,16.7x,0.25,"₫27,200",7.1%
+76,LGC,CII Bridges and Roads Investment,Ho Chi Minh,Industrials,Transport Infrastructure,₫11.28T,11.7x,0.04,"₫58,500",0%
+77,BSI,BIDV Securities JSC,Ho Chi Minh,Financials,Investment Banking & Investment Services,₫11.18T,22.8x,0.13,"₫50,100",6.9%
+78,HAG,Hoang Anh Gia Lai JSC,Ho Chi Minh,Consumer Non-Cyclicals,Food & Tobacco,₫11.05T,5.6x,0.08,"₫10,500",4.5%
+79,BAB,Bac A Commercial Joint Stock Bank,Hanoi,Financials,Banking Services,₫10.66T,13.1x,,"₫11,900",0.9%
+80,VCS,Vicostone JSC,Hanoi,Consumer Cyclicals,Homebuilding & Construction Supplies,₫10.58T,12.3x,1.04,"₫66,100",4.3%
+81,PVT,PetroVietnam Transportation Corp,Ho Chi Minh,Energy,Oil & Gas Related Equipment and Services,₫10.29T,10.8x,4.13,"₫28,900",4%
+82,KSV,Vinacomin Minerals,Hanoi,Basic Materials,Metals & Mining,₫10.28T,15x,0.05,"₫50,600",-1.6%
+83,DXG,Dat Xanh Real Estate Service Contr,Ho Chi Minh,Real Estate,Real Estate Operations,₫10.16T,54.5x,0.26,"₫14,100",6.8%
+84,DGW,Digiworld,Ho Chi Minh,Consumer Cyclicals,Specialty Retailers,₫10.16T,26.6x,-1.06,"₫60,900",3.6%
+85,NTP,Tien Phong Plastic JSC,Hanoi,Consumer Cyclicals,Homebuilding & Construction Supplies,₫10.11T,16.7x,0.2,"₫70,900",9.9%
+86,CMG,CMC Corp,Ho Chi Minh,Technology,Software & IT Services,₫9.94T,34.4x,3.13,"₫52,100",4.7%
+87,BWE,Binh Duong Water,Ho Chi Minh,Utilities,Water & Related Utilities,₫9.73T,17.5x,-2.79,"₫44,200",4.6%
+88,VIX,VIX Securities JSC,Ho Chi Minh,Financials,Investment Banking & Investment Services,₫9.56T,20.9x,,"₫11,900",6.3%
+89,SBT,Thanh Thanh Cong Tay Ninh,Ho Chi Minh,Consumer Non-Cyclicals,Food & Tobacco,₫9.44T,15.8x,0.36,"₫12,700",0.4%
+90,HDG,Ha Do Group JSC,Ho Chi Minh,Real Estate,Real Estate Operations,₫9.43T,15.1x,,"₫28,050",6.9%
+91,BHN,Hanoi Beer Alcohol,Ho Chi Minh,Consumer Non-Cyclicals,Beverages,₫9.13T,31.3x,-1.32,"₫39,400",0%
+92,PC1,PC1 JSC,Ho Chi Minh,Industrials,Construction & Engineering,₫9.02T,35.6x,14.23,"₫29,050",3.8%
+93,DTK,Vinacomin Power,Hanoi,Utilities,Electrical Utilities & IPPs,₫8.88T,15.5x,-1.32,"₫13,000",4%
+94,VTP,Viettel Post Joint Stock,Ho Chi Minh,,,₫8.72T,,,"₫76,000",6.2%
+95,KOS,Kosy,Ho Chi Minh,Real Estate,Real Estate Operations,₫8.57T,360.9x,4.97,"₫39,600",0.1%
+96,BMP,Binh Minh Plastics JSC,Ho Chi Minh,Consumer Cyclicals,Homebuilding & Construction Supplies,₫8.36T,8.9x,-1.34,"₫102,100",5.5%
+97,EVF,EVN Finance,Ho Chi Minh,Financials,Banking Services,₫8.35T,15.1x,,"₫11,850",6.8%
+98,CEO,CEO Group JSC,Hanoi,Real Estate,Real Estate Operations,₫8.16T,50.7x,-0.65,"₫15,100",9.4%
+99,SCS,Sai Gon Cargo,Ho Chi Minh,Industrials,Transport Infrastructure,₫8.03T,15.1x,1.5,"₫84,600",1.6%
+100,TMS,Transimex Saigon Corp,Ho Chi Minh,Industrials,Freight & Logistics Services,₫7.91T,54.7x,-1,"₫50,000",-1%
+101,PHR,Phuoc Hoa Rubber JSC,Ho Chi Minh,Consumer Cyclicals,Automobiles & Auto Parts,₫7.79T,20.8x,-0.36,"₫57,500",3.8%
+102,SJS,SJ JSC,Ho Chi Minh,Real Estate,Real Estate Operations,₫7.31T,34.3x,1.4,"₫64,200",1.6%
+103,SZC,Sonadezi Chau Duc,Ho Chi Minh,Real Estate,Real Estate Operations,₫6.81T,10.1x,,"₫37,800",5.9%
+104,DBC,Dabaco,Ho Chi Minh,Consumer Non-Cyclicals,Food & Tobacco,₫6.7T,28x,0.01,"₫27,650",3%
+105,IMP,Imexpharm Corp,Ho Chi Minh,Healthcare,Pharmaceuticals,₫6.68T,29.1x,-3.55,"₫86,800",2.5%
+106,CTD,Cotec Construction JSC,Ho Chi Minh,Industrials,Construction & Engineering,₫6.36T,42.7x,0.13,"₫63,700",4.4%
+107,ACG,An Cuong Wood Working JSC,Ho Chi Minh,Basic Materials,Paper & Forest Products,₫6.33T,15x,1.31,"₫41,800",-0.4%
+108,VIF,Viet Nam Forestry,Hanoi,Basic Materials,Paper & Forest Products,₫5.95T,14.5x,,"₫17,000",-7.6%
+109,BCG,Bamboo Capital,Ho Chi Minh,Industrials,Construction & Engineering,₫5.84T,56.8x,0.15,"₫6,650",5.9%
+110,SCG,SCG Construction JSC,Hanoi,Industrials,Construction & Engineering,₫5.81T,162.1x,,"₫65,300",0.2%
+111,VCF,Vinacafe Bien Hoa JSC,Ho Chi Minh,Consumer Non-Cyclicals,Food & Tobacco,₫5.81T,13.1x,0.77,"₫218,400",-0.2%
+112,CAV,Vietnam Electric Cable Corp,Ho Chi Minh,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",₫5.74T,-66.2x,0.08,"₫69,900",0%
+113,DHT,Hataphar,Hanoi,Healthcare,Pharmaceuticals,₫5.67T,78.2x,,"₫68,700",2.8%
+114,CTS,VietinBank Securities JSC,Ho Chi Minh,Financials,Investment Banking & Investment Services,₫5.64T,30.1x,0.17,"₫37,950",6.9%
+115,NT2,PetroVietnam Power Nhon Trach 2 JSC,Ho Chi Minh,Utilities,Electrical Utilities & IPPs,₫5.53T,122.6x,-1.36,"₫19,250",1.3%
+116,IJC,Becamex Infrastructure Development,Ho Chi Minh,Real Estate,Real Estate Operations,₫5.52T,18.1x,-0.31,"₫14,550",4.3%
+117,NKG,Nam Kim Steel JSC,Ho Chi Minh,Basic Materials,Metals & Mining,₫5.45T,13.3x,0.09,"₫20,700",4.3%
+118,TDM,Thu Dau Mot Water,Ho Chi Minh,Utilities,Water & Related Utilities,₫5.39T,30.1x,-0.77,"₫49,000",-0.5%
+119,HHV,Deo Ca Traffic Infrastructure Investment JSC,Ho Chi Minh,Industrials,Transport Infrastructure,₫5.14T,12.8x,,"₫11,900",3%
+120,CHP,Central Hydropower JSC,Ho Chi Minh,Utilities,Electrical Utilities & IPPs,₫5.07T,18.7x,-0.55,"₫34,500",0%
+121,VSC,Vietnam Container Shipping,Ho Chi Minh,Industrials,Transport Infrastructure,₫5.03T,40.3x,,"₫18,850",4.1%
+122,VDS,Viet Dragon,Ho Chi Minh,Financials,Investment Banking & Investment Services,₫5.02T,11.9x,,"₫20,650",7%
+123,HAH,Hai An Transport and Stevedoring,Ho Chi Minh,Industrials,Transport Infrastructure,₫5.02T,16.2x,-0.36,"₫41,400",3.5%
+124,TMP,Thac Mo Hydropower JSC,Ho Chi Minh,Utilities,Electrical Utilities & IPPs,₫4.98T,15.6x,,"₫71,100",-0.4%
+125,NVB,National Citizen Commercial Joint Stock Bank,Hanoi,Financials,Banking Services,₫4.96T,-7.3x,0,"₫8,900",2.3%
+126,TCM,Thanh Cong Textile Garment Invest,Ho Chi Minh,Consumer Cyclicals,Textiles & Apparel,₫4.89T,25.9x,3.7,"₫48,150",3.1%
+127,CII,Ho Chi Minh City Infrastructure Inv,Ho Chi Minh,Industrials,Transport Infrastructure,₫4.83T,12.2x,0.01,"₫15,150",6.3%
+128,PAN,PAN Group JSC,Ho Chi Minh,Consumer Non-Cyclicals,Food & Tobacco,₫4.77T,9x,0.05,"₫22,750",1.3%
+129,HNG,Hoang Anh Gia Lai Agricultural JSC,Ho Chi Minh,Consumer Non-Cyclicals,Food & Tobacco,₫4.7T,-3.8x,-0.06,"₫4,230",1.2%
+130,HT1,Ha Tien 1 Cement JSC,Ho Chi Minh,Basic Materials,Construction Materials,₫4.52T,68.9x,0.39,"₫11,900",3.5%
+131,HDC,Ba Ria Vung Tau House Development,Ho Chi Minh,Real Estate,Real Estate Operations,₫4.44T,8.9x,,"₫28,600",6.9%
+132,CSV,South Basic Chemicals JSC,Ho Chi Minh,Basic Materials,Chemicals,₫4.4T,23.6x,-1.3,"₫39,850",2.4%
+133,GEG,Gia Lai Electricity,Ho Chi Minh,Utilities,Electrical Utilities & IPPs,₫4.39T,33.7x,-1.38,"₫12,850",2.8%
+134,PTB,Phu Tai JSC,Ho Chi Minh,Consumer Cyclicals,Household Goods,₫4.37T,13.4x,-1.97,"₫65,400",1.9%
+135,HNA,Hua Na Hydropower,Hanoi,Utilities,Electrical Utilities & IPPs,₫4.35T,24.5x,-0.47,"₫18,500",-5.1%
+136,BAF,BAF Viet Nam Agriculture JSC,Ho Chi Minh,Consumer Non-Cyclicals,Food & Tobacco,₫4.34T,10.4x,,"₫18,600",2.5%
+137,ANV,Nam Viet Corp,Ho Chi Minh,Consumer Non-Cyclicals,Food & Tobacco,₫4.31T,134x,-1.5,"₫32,450",4%
+138,PPC,Pha Lai Thermal Power JSC,Ho Chi Minh,Utilities,Electrical Utilities & IPPs,₫4.3T,9.9x,-0.8,"₫13,400",1.1%
+139,BIC,BIDV Insurance Corp,Ho Chi Minh,Financials,Insurance,₫4.26T,9.9x,0.23,"₫36,300",1.4%
+140,PDN,Dong Nai Port JSC,Ho Chi Minh,Industrials,Transport Infrastructure,₫4.23T,13.9x,0.39,"₫114,100",0%
+141,VNR,Vietnam National Reinsurance,Hanoi,Financials,Insurance,₫4.2T,10.6x,-0.48,"₫25,300",0.4%
+142,TLG,Thien Long Group Corp,Ho Chi Minh,Industrials,Professional & Commercial Services,₫4.13T,10.9x,1.71,"₫52,600",2.3%
+143,DRC,Danang Rubber JSC,Ho Chi Minh,Consumer Cyclicals,Automobiles & Auto Parts,₫4.05T,13.7x,0.28,"₫34,100",1.6%
+144,AAA,An Phat Plastic and Green,Ho Chi Minh,Basic Materials,Containers & Packaging,₫4.03T,9x,0.02,"₫10,550",3.9%
+145,DBD,Binh Dinh Pharma,Ho Chi Minh,Healthcare,Pharmaceuticals,₫3.83T,16.8x,-3,"₫40,600",0%
+146,AGR,AgriBank Securities JSC,Ho Chi Minh,Financials,Investment Banking & Investment Services,₫3.82T,31.8x,-1.79,"₫17,750",6.9%
+147,STG,South Logistics JSC,Ho Chi Minh,Industrials,Freight & Logistics Services,₫3.75T,29.7x,-0.96,"₫38,200",-6.8%
+148,MSH,Song Hong Garment,Ho Chi Minh,Consumer Cyclicals,Textiles & Apparel,₫3.7T,13.6x,-0.56,"₫49,350",1.1%
+149,SHP,Southern Hydropower JSC,Ho Chi Minh,Utilities,Electrical Utilities & IPPs,₫3.56T,15.3x,3.59,"₫35,200",0.6%
+150,DPR,Dong Phu Rubber JSC,Ho Chi Minh,Consumer Cyclicals,Automobiles & Auto Parts,₫3.53T,9.2x,0.12,"₫40,650",4%
+151,ITA,Tan Tao Investment and Industry,Ho Chi Minh,Real Estate,Real Estate Operations,₫3.5T,15.4x,0.09,"₫3,780",6.2%
+152,VC3,Vietnam Construction JSC No. 3,Hanoi,Real Estate,Real Estate Operations,₫3.49T,21.5x,0.42,"₫27,900",1.1%
+153,ASM,Sao Mai Group Corp,Ho Chi Minh,Consumer Non-Cyclicals,Food & Tobacco,₫3.44T,17.7x,-0.39,"₫9,280",4.3%
+154,RAL,Rangdong Light source and Vacuum,Ho Chi Minh,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",₫3.44T,5.5x,0.65,"₫146,500",0.1%
+155,HHS,Hoang Huy Investment Services,Ho Chi Minh,Consumer Cyclicals,Automobiles & Auto Parts,₫3.42T,6.9x,0.07,"₫9,310",6.3%
+156,TDP,Thuan Duc JSC,Ho Chi Minh,Basic Materials,Containers & Packaging,₫3.34T,17x,,"₫35,000",1.6%
+157,TVS,Thien Viet Securities JSC,Ho Chi Minh,Financials,Investment Banking & Investment Services,₫3.32T,15x,0.1,"₫19,900",3.9%
+158,CRE,Century Land,Ho Chi Minh,Real Estate,Real Estate Operations,₫3.32T,2.9x,,"₫7,160",2.7%
+159,DPG,Dat Phuong,Ho Chi Minh,Industrials,Construction & Engineering,₫3.28T,16.2x,,"₫51,800",6.2%
+160,PGD,Petrovietnam Low Pressure Gas Distr,Ho Chi Minh,Energy,Oil & Gas Related Equipment and Services,₫3.28T,13.8x,-0.33,"₫33,350",0.8%
+161,TNG,Tng Investment And Trading JSC,Hanoi,Consumer Cyclicals,Textiles & Apparel,₫3.27T,15.2x,-0.54,"₫28,100",5.2%
+162,TRA,Traphaco JSC,Ho Chi Minh,Healthcare,Pharmaceuticals,₫3.23T,15.6x,-1.48,"₫78,000",-0.6%
+163,MIG,Military Insurance,Ho Chi Minh,Financials,Insurance,₫3.22T,9x,,"₫18,700",4.8%
+164,DXS,Dat Xanh Real Estate Services JSC,Ho Chi Minh,Real Estate,Real Estate Operations,₫3.17T,-28.6x,0.13,"₫5,900",6.9%
+165,FMC,Sao Ta Foods JSC,Ho Chi Minh,Consumer Non-Cyclicals,Food & Tobacco,₫3.13T,10.9x,0.52,"₫47,900",1.8%
+166,DHC,Dong Hai JSC of Bentre,Ho Chi Minh,Basic Materials,Containers & Packaging,₫3.09T,12.9x,34.52,"₫38,500",1.3%
+167,DVP,Dinhvu Port Investment Development,Ho Chi Minh,Industrials,Transport Infrastructure,₫3.02T,11.9x,-0.38,"₫75,600",-0.3%
+168,DPP,Dongnai Pharma,Hanoi,Consumer Non-Cyclicals,Food & Drug Retailing,₫2.96T,355.9x,-4.89,"₫21,000",-4.5%
+169,BMI,BaoMinh Insurance Corp,Ho Chi Minh,Financials,Insurance,₫2.96T,9.3x,0.31,"₫24,550",1%
+170,CDN,Danang Port,Hanoi,Industrials,Transport Infrastructure,₫2.95T,10.3x,2.93,"₫29,800",0.3%
+171,DNP,DNP Holding JSC,Hanoi,Consumer Cyclicals,Homebuilding & Construction Supplies,₫2.93T,352.5x,-4.84,"₫20,800",0%
+172,NTL,Tu Liem Urban Development JSC,Ho Chi Minh,Real Estate,Real Estate Operations,₫2.92T,3.8x,0,"₫23,800",4.9%
+173,LAS,LAM THAO FERTI,Hanoi,Basic Materials,Chemicals,₫2.89T,15.7x,0.4,"₫25,600",4.9%
+174,PET,PetroVietnam General Services Corp,Ho Chi Minh,Consumer Cyclicals,Specialty Retailers,₫2.87T,20.7x,0.16,"₫26,950",5.1%
+175,VPD,Viet Nam Power,Ho Chi Minh,Utilities,Electrical Utilities & IPPs,₫2.86T,16.9x,,"₫26,800",0%
+176,SGN,Sai Gon Ground,Ho Chi Minh,Industrials,Transport Infrastructure,₫2.83T,13.6x,0.96,"₫84,100",1%
+177,BVS,Baoviet Securities Company,Hanoi,Financials,Investment Banking & Investment Services,₫2.8T,13.2x,0.45,"₫38,800",8.7%
+178,VFG,Viet Nam Fumigation JSC,Ho Chi Minh,Basic Materials,Chemicals,₫2.78T,9x,0.2,"₫66,500",2.6%
+179,IPA,Ipa Investments,Hanoi,Financials,Investment Holding Companies,₫2.74T,11.3x,0.01,"₫13,200",3.1%
+180,APG,APG Securities Joint Stock,Ho Chi Minh,Financials,Investment Banking & Investment Services,₫2.73T,13.1x,0.09,"₫12,150",3.4%
+181,CTF,City Auto,Ho Chi Minh,Consumer Cyclicals,Specialty Retailers,₫2.68T,32.8x,,"₫30,000",0%
+182,AST,Taseco Air Services,Ho Chi Minh,Consumer Cyclicals,Specialty Retailers,₫2.66T,21x,0.45,"₫59,000",1.9%
+183,PGI,Petrolimex Insurance Corp,Ho Chi Minh,Financials,Insurance,₫2.65T,11.1x,0.27,"₫23,900",1.7%
+184,AGG,An Gia Real Estate Investment and Development,Ho Chi Minh,Real Estate,Real Estate Operations,₫2.63T,6.3x,,"₫17,750",5.6%
+185,BFC,Binh Dien Fertilizer JSC,Ho Chi Minh,Basic Materials,Chemicals,₫2.62T,,0.02,"₫45,800",
+186,TIG,THANGLONG INVE,Hanoi,Real Estate,Real Estate Operations,₫2.61T,12.1x,-0.64,"₫13,500",6.3%
+187,STK,Century Synthetic Fiber Corp,Ho Chi Minh,Consumer Cyclicals,Textiles & Apparel,₫2.57T,-404.1x,3.72,"₫26,650",2.1%
+188,SAM,Sam Holdings,Ho Chi Minh,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",₫2.55T,35.1x,0.08,"₫6,710",2.6%
+189,NCT,NoiBai Cargo Terminal Services JSC,Ho Chi Minh,Industrials,Transport Infrastructure,₫2.53T,11.3x,1.54,"₫96,700",0.3%
+190,IDI,International Development & Investm,Ho Chi Minh,Consumer Non-Cyclicals,Food & Tobacco,₫2.53T,50x,-0.74,"₫9,270",3.9%
+191,TBC,Thac Ba Hydropower JSC,Ho Chi Minh,Utilities,Electrical Utilities & IPPs,₫2.51T,28x,-0.43,"₫39,500",-2.6%
+192,PTI,POST TELECOMMU,Hanoi,Financials,Insurance,₫2.48T,6.7x,0.01,"₫30,900",-0.3%
+193,SHI,Son Ha International Corp,Ho Chi Minh,Basic Materials,Metals & Mining,₫2.38T,11.6x,,"₫14,700",-1.3%
+194,TNH,TNH Hospital JSC,Ho Chi Minh,Healthcare,Healthcare Providers & Services,₫2.37T,14x,,"₫22,200",3.3%
+195,LIX,Lix Detergent JSC,Ho Chi Minh,Consumer Non-Cyclicals,Personal & Household Products & Services,₫2.36T,14.2x,5.82,"₫36,200",0%
+196,VOS,Vietnam Ocean Shipping JSC,Ho Chi Minh,Industrials,Freight & Logistics Services,₫2.35T,2.7x,,"₫16,850",5.3%
+197,KHG,Khai Hoan Land Real Estate JSC,Ho Chi Minh,Real Estate,Real Estate Operations,₫2.34T,,,"₫5,370",3.3%
+198,DMC,DOMESCO Medical Import Export,Ho Chi Minh,Healthcare,Pharmaceuticals,₫2.32T,13.2x,13.47,"₫66,900",0.2%
+199,SCR,Saigon Thuong Tin Real Estate JSC,Ho Chi Minh,Real Estate,Real Estate Operations,₫2.3T,190.9x,,"₫5,820",4.3%
+200,NBB,577 Investment,Ho Chi Minh,Real Estate,Real Estate Operations,₫2.29T,"1,350x",-21.24,"₫22,950",3.2%
+201,CKG,Kien Giang Construction Investment Consultancy,Ho Chi Minh,Real Estate,Real Estate Operations,₫2.28T,12.5x,,"₫24,850",4%
+202,MVB,Vinacomin Viet Bac Mining Industry Holding,Hanoi,Energy,Coal,₫2.26T,10.1x,,"₫21,500",9.7%
+203,KSB,Binh Duong Mineral and Construction,Ho Chi Minh,Basic Materials,Construction Materials,₫2.21T,61.7x,-0.98,"₫19,400",5.4%
+204,PLC,Petrolimex Petrochemical JSC,Hanoi,Energy,Oil & Gas,₫2.14T,42.6x,-1.75,"₫26,500",3.1%
+205,TV2,Power Engineering,Ho Chi Minh,Industrials,Construction & Engineering,₫2.11T,35.5x,0.15,"₫32,750",5%
+206,HQC,Hoang Quan Consulting Trading Serv,Ho Chi Minh,Real Estate,Real Estate Operations,₫2.1T,223.4x,,"₫3,640",3.4%
+207,NET,NETCO,Hanoi,Consumer Non-Cyclicals,Personal & Household Products & Services,₫2.09T,10.5x,0.15,"₫93,500",1.7%
+208,LCG,Lizen JSC,Ho Chi Minh,Industrials,Construction & Engineering,₫2.06T,17.4x,,"₫10,800",2.9%
+209,SGT,Saigon Telecommunication & Tech,Ho Chi Minh,Technology,Telecommunications Services,₫2.06T,98.3x,,"₫13,950",-0.4%
+210,APH,An Phat Holdings JSC,Ho Chi Minh,Basic Materials,Chemicals,₫2.04T,-84.6x,,"₫8,600",2.9%
+211,GIL,Binh Thanh Import Export Production,Ho Chi Minh,Consumer Cyclicals,Textiles & Apparel,₫2.02T,23.9x,-1.17,"₫29,600",5.2%
+212,LHG,Long Hau Corp,Ho Chi Minh,Real Estate,Real Estate Operations,₫1.99T,12.6x,,"₫39,500",2.9%
+213,FCN,Fecon Foundation Engineering,Ho Chi Minh,Industrials,Construction & Engineering,₫1.98T,-67.2x,0.29,"₫12,550",2.4%
+214,PAC,Dry Cell and Storage Battery,Ho Chi Minh,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",₫1.98T,18.4x,-7.85,"₫42,650",4%
+215,PRE,Hanoi Reinsurance JSC,Hanoi,Financials,Insurance,₫1.96T,8.5x,0.87,"₫18,600",-1.1%
+216,ELC,Elcom Tech Communications,Ho Chi Minh,Technology,Software & IT Services,₫1.95T,,0.08,"₫23,400",
+217,VGS,VGS,Hanoi,Basic Materials,Metals & Mining,₫1.95T,17x,,"₫34,800",8.4%
+218,SBA,Song Ba JSC,Ho Chi Minh,Utilities,Electrical Utilities & IPPs,₫1.91T,12.7x,-0.44,"₫31,600",-2.3%
+219,SLS,SON LA SUGAR,Hanoi,Consumer Non-Cyclicals,Food & Tobacco,₫1.9T,3.6x,5.79,"₫194,100",-0.8%
+220,HHC,Hai Ha Confectionery JSC,Hanoi,Consumer Non-Cyclicals,Food & Tobacco,₫1.89T,33.8x,,"₫115,200",0%
+221,DCL,Cuu Long Pharmaceutical,Ho Chi Minh,Healthcare,Pharmaceuticals,₫1.89T,29.8x,-0.75,"₫25,900",4%
+222,ORS,Tien Phong Securities,Ho Chi Minh,Financials,Investment Banking & Investment Services,₫1.88T,18.5x,-0.68,"₫13,000",5.3%
+223,PVP,Pacific Petroleum Transport,Ho Chi Minh,Energy,Oil & Gas Related Equipment and Services,₫1.79T,20.6x,,"₫17,150",4.3%
+224,SVC,Saigon General Service Corp,Ho Chi Minh,Consumer Cyclicals,Specialty Retailers,₫1.79T,2x,0.1,"₫26,900",-1.3%
+225,TTA,Truong Thanh Development and Construction,Ho Chi Minh,Utilities,Electrical Utilities & IPPs,₫1.75T,18.2x,,"₫10,450",1.5%
+226,TCD,Transport and Industry,Ho Chi Minh,Industrials,Construction & Engineering,₫1.75T,3.1x,,"₫5,220",4.6%
+227,HAX,Hang Xanh Motors Service JSC,Ho Chi Minh,Consumer Cyclicals,Specialty Retailers,₫1.74T,32.3x,,"₫16,100",4.2%
+228,SGR,Saigon Real Estate,Ho Chi Minh,Real Estate,Real Estate Operations,₫1.74T,2.3x,,"₫29,000",6.4%
+229,QCG,Quoc Cuong Gia Lai JSC,Ho Chi Minh,Real Estate,Real Estate Operations,₫1.7T,159.3x,0.96,"₫6,210",5.2%
+230,HBC,Hoa Binh Construction & Real Estate,Ho Chi Minh,Industrials,Construction & Engineering,₫1.67T,4.9x,0.05,"₫4,820",2.5%
+231,S4A,Sesan 4A Hydroelectric,Ho Chi Minh,Utilities,Electrical Utilities & IPPs,₫1.65T,15.2x,-0.51,"₫39,000",0%
+232,PGS,Petrovietnam Southern Gas JSC,Hanoi,Energy,Oil & Gas,₫1.65T,16.8x,0.52,"₫33,000",-4.9%
+233,HPX,Hai Phat Invest,Ho Chi Minh,Real Estate,Real Estate Operations,₫1.63T,13.6x,0.02,"₫5,350",7%
+234,HTG,Hoa Tho Textile,Ho Chi Minh,Consumer Cyclicals,Textiles & Apparel,₫1.58T,9.7x,-0.25,"₫43,600",2.2%
+235,SEB,MIEN TRUNG PID,Hanoi,Utilities,Electrical Utilities & IPPs,₫1.57T,12.9x,-0.46,"₫49,000",1.2%
+236,VFS,Viet First Securities,Hanoi,Financials,Investment Banking & Investment Services,₫1.56T,15.3x,,"₫13,400",3.1%
+237,TIP,Tin Nghia Industrial,Ho Chi Minh,Real Estate,Real Estate Operations,₫1.55T,10.6x,,"₫23,900",3.7%
+238,OPC,OPC Pharmaceutical JSC,Ho Chi Minh,Healthcare,Pharmaceuticals,₫1.54T,16.3x,-0.64,"₫24,000",0.8%
+239,QNP,Quy Nhon Port JSC,Ho Chi Minh,,,₫1.53T,,,"₫37,800",0%
+240,OGC,Ocean Group JSC,Ho Chi Minh,Consumer Non-Cyclicals,Food & Tobacco,₫1.51T,24.4x,-0.61,"₫5,050",4.3%
+241,SWC,Southern Waterborne,Hanoi,Energy,Oil & Gas,₫1.5T,15.3x,0.45,"₫30,000",-0.3%
+242,ASG,ASG,Ho Chi Minh,Industrials,Freight & Logistics Services,₫1.48T,29.5x,,"₫19,100",-2.5%
+243,DTD,Thanh Dat Invest,Hanoi,Industrials,Construction & Engineering,₫1.48T,10.9x,-0.24,"₫26,000",7.4%
+244,FIT,FIT INVEST JSC,Ho Chi Minh,Real Estate,Real Estate Operations,₫1.47T,-46.4x,0.21,"₫4,320",2.9%
+245,ACC,ACC Binh Duong Investment and Construction JSC,Ho Chi Minh,Basic Materials,Construction Materials,₫1.43T,3.1x,,"₫13,600",1.9%
+246,CLL,Cat Lai Port JSC,Ho Chi Minh,Industrials,Transport Infrastructure,₫1.41T,15.6x,1.35,"₫41,600",0.2%
+247,TTF,Truong Thanh Furniture Corp,Ho Chi Minh,Consumer Cyclicals,Household Goods,₫1.39T,-15.5x,0.13,"₫3,560",5.3%
+248,NSC,Vietnam National Seed JSC,Ho Chi Minh,Consumer Non-Cyclicals,Food & Tobacco,₫1.38T,5.3x,0.07,"₫79,900",1.8%
+249,EVG,Everland Investment,Ho Chi Minh,Basic Materials,Construction Materials,₫1.38T,15.8x,,"₫6,550",4.8%
+250,IDV,VinhPhuc Infrastructure Development JSC,Hanoi,Real Estate,Real Estate Operations,₫1.36T,7.3x,0.19,"₫37,500",0.8%
+251,CSM,Southern Rubber Industry JSC,Ho Chi Minh,Consumer Cyclicals,Automobiles & Auto Parts,₫1.33T,21.6x,1.09,"₫12,800",2%
+252,HRC,Hoa Binh Rubber JSC,Ho Chi Minh,Consumer Cyclicals,Automobiles & Auto Parts,₫1.32T,88.9x,1.87,"₫43,800",6.7%
+253,L18,Construction And Investment JSC No 18,Hanoi,Industrials,Construction & Engineering,₫1.29T,28.3x,,"₫33,800",9.7%
+254,CNG,CNG Vietnam JSC,Ho Chi Minh,Utilities,Natural Gas Utilities,₫1.28T,11.9x,0.16,"₫36,300",3.7%
+255,YEG,YEAH1 Gr,Ho Chi Minh,Consumer Cyclicals,Media & Publishing,₫1.26T,-3.4x,,"₫9,210",1.5%
+256,SZL,Sonadezi Long Thanh Shareholding Co,Ho Chi Minh,Real Estate,Real Estate Operations,₫1.25T,22.1x,,"₫42,650",-0.7%
+257,TDC,Binh Duong Trade and Development,Ho Chi Minh,Basic Materials,Construction Materials,₫1.22T,21.4x,,"₫12,100",4.8%
+258,D2D,Industrial Urban Development JSC,Ho Chi Minh,Real Estate,Real Estate Operations,₫1.21T,15.4x,,"₫40,000",0%
+259,TVC,Tri Viet Management Investment Corp,Hanoi,Industrials,Professional & Commercial Services,₫1.2T,4.7x,0.03,"₫10,100",5.2%
+260,SZB,Sonadezi Long Binh Share Holding Co,Hanoi,Real Estate,Real Estate Operations,₫1.19T,6.9x,,"₫40,000",0.5%
+261,BCF,Bich Chi Food Co,Hanoi,Consumer Non-Cyclicals,Food & Tobacco,₫1.19T,12.9x,-0.97,"₫34,000",-2.9%
+262,CLC,Cat Loi JSC,Ho Chi Minh,Consumer Non-Cyclicals,Food & Tobacco,₫1.16T,8.1x,0.81,"₫44,200",0%
+263,NAF,Nafoods Group JSC,Ho Chi Minh,Consumer Non-Cyclicals,Beverages,₫1.15T,10.1x,,"₫18,250",1.1%
+264,GKM,Khang Minh Brick,Hanoi,Basic Materials,Construction Materials,₫1.15T,-6x,,"₫36,700",0%
+265,OCH,OCH.JSC,Hanoi,Consumer Non-Cyclicals,Food & Tobacco,₫1.14T,18x,-0.29,"₫5,700",0%
+266,LBM,Lam Dong Mineral and Building Mater,Ho Chi Minh,Basic Materials,Construction Materials,₫1.14T,36.5x,,"₫28,250",3.1%
+267,SDV,Sonadezi Services,Hanoi,Industrials,Professional & Commercial Services,₫1.14T,,,"₫38,000",-4.8%
+268,TEG,Truong Thanh Energy and Real Estate JSC,Ho Chi Minh,Basic Materials,Paper & Forest Products,₫1.13T,7.2x,,"₫9,390",3%
+269,NHH,Hanoi Plastics,Ho Chi Minh,Basic Materials,Chemicals,₫1.13T,7x,,"₫15,550",1%
+270,VTO,Vietnam Tanker JSC,Ho Chi Minh,Energy,Oil & Gas Related Equipment and Services,₫1.13T,14.3x,1,"₫14,150",3.3%
+271,THG,Tien Giang Investment Construction,Ho Chi Minh,Basic Materials,Construction Materials,₫1.12T,12.8x,-0.5,"₫42,900",2.1%
+272,TRC,Tay Ninh Rubber JSC,Ho Chi Minh,Consumer Cyclicals,Automobiles & Auto Parts,₫1.11T,12.6x,0.05,"₫38,000",-0.3%
+273,CSC,"Cotana., JSC",Hanoi,Industrials,Construction & Engineering,₫1.11T,19.4x,-0.32,"₫29,700",4.2%
+274,SMB,Sai Gon Mien Trung Beer,Ho Chi Minh,Consumer Non-Cyclicals,Beverages,₫1.1T,8.7x,,"₫36,950",0.4%
+275,SJD,Can Don Hydro Power JSC,Ho Chi Minh,Utilities,Electrical Utilities & IPPs,₫1.09T,9x,-3.19,"₫15,800",1.6%
+276,PVC,Petrovietnam Drilling Mud JSC,Hanoi,Energy,Oil & Gas Related Equipment and Services,₫1.09T,100.4x,-2.06,"₫13,300",3.1%
+277,IDJ,IDJ FINANCIAL,Hanoi,Real Estate,Real Estate Operations,₫1.08T,8.5x,,"₫6,100",5.2%
+278,GMA,Viet Nam Enteco,Hanoi,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",₫1.07T,263.9x,,"₫53,600",0%
+279,ITC,Investment Trading of Real Estate,Ho Chi Minh,Real Estate,Real Estate Operations,₫1.07T,12.1x,0.45,"₫11,150",5.7%
+280,TMB,Vinacomin Northern Coal,Hanoi,Energy,Coal,₫1.05T,3x,0.03,"₫69,700",1.8%
+281,TIX,Tan Binh Import Export JSC,Ho Chi Minh,Real Estate,Real Estate Operations,₫1.05T,11.9x,3.48,"₫35,000",2.9%
+282,TCL,Tan Cang Logistics and Stevedoring,Ho Chi Minh,Industrials,Transport Infrastructure,₫1.05T,11.3x,,"₫34,900",0.3%
+283,EVS,Everest Securities,Hanoi,Financials,Investment Banking & Investment Services,₫1.05T,1.1x,,"₫6,300",3.3%
+284,NHA,Ha Noi South Housing and Urban Development,Ho Chi Minh,Real Estate,Real Estate Operations,₫1.03T,184.2x,,"₫24,350",6.8%
+285,CVT,CMC,Ho Chi Minh,Consumer Cyclicals,Homebuilding & Construction Supplies,₫1.02T,23.3x,-0.41,"₫27,700",-0.2%
+286,TCI,Thanh Cong Securities JSC,Ho Chi Minh,,,₫1.01T,,,"₫8,990",2.6%
+287,TVB,Tri Viet Securities,Ho Chi Minh,Financials,Investment Banking & Investment Services,₫1.01T,15.8x,0.13,"₫9,020",4.2%
+288,LHC,LHC,Hanoi,Industrials,Construction & Engineering,₫1T,14.4x,,"₫69,500",0.7%
+289,BCC,Bim Son Cement JSC,Hanoi,Basic Materials,Construction Materials,₫998B,-5x,0.04,"₫8,100",2.5%
+290,L14,LICOGI 14,Hanoi,Industrials,Construction & Engineering,₫996.76B,39.3x,-0.74,"₫32,300",7.7%
+291,LSS,Lam Son Sugar JSC,Ho Chi Minh,Consumer Non-Cyclicals,Food & Tobacco,₫945.59B,7.9x,,"₫11,800",2.6%
+292,INN,Agriculture Printing and Packaging JSC,Hanoi,Industrials,Professional & Commercial Services,₫942.69B,9x,0.31,"₫52,500",-2.8%
+293,BBC,Bibica Corp,Ho Chi Minh,Consumer Non-Cyclicals,Food & Tobacco,₫939.51B,8.2x,0.08,"₫50,100",0.2%
+294,VIP,Vietnam Petroleum Transport JSC,Ho Chi Minh,Energy,Oil & Gas Related Equipment and Services,₫917.51B,3.4x,,"₫13,400",3.5%
+295,PIC,PC3 Investment,Hanoi,Utilities,Electrical Utilities & IPPs,₫913.51B,26.3x,-5.34,"₫27,400",0%
+296,HVT,VICCO,Hanoi,Basic Materials,Chemicals,₫890.03B,27.9x,,"₫81,000",0.6%
+297,S99,SCI JSC,Hanoi,Industrials,Construction & Engineering,₫878.41B,9.1x,,"₫8,900",2.3%
+298,CTI,CuongThuan Idico Development Invest,Ho Chi Minh,Industrials,Transport Infrastructure,₫874.06B,10.7x,-3.74,"₫16,000",3.2%
+299,SVI,Bien Hoa Packaging Co,Ho Chi Minh,Basic Materials,Containers & Packaging,₫872.61B,8.9x,-0.42,"₫68,000",0%
+300,CMX,Camimex JSC,Ho Chi Minh,Consumer Non-Cyclicals,Food & Tobacco,₫872.29B,3.5x,,"₫8,930",4.1%
+301,VC7,BGI JSC,Hanoi,Industrials,Construction & Engineering,₫864.82B,10.7x,0.09,"₫9,000",8.4%
+302,PGC,Petrolimex Gas Corp JSC,Ho Chi Minh,Energy,Oil & Gas,₫862.85B,9.8x,-0.56,"₫14,300",0.7%
+303,VPH,Van Phat Hung Corp,Ho Chi Minh,Real Estate,Real Estate Operations,₫858.22B,-21.5x,0.01,"₫9,100",5%
+304,CLM,Vinacomin Coal Import,Hanoi,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",₫858B,4.9x,,"₫78,000",0%
+305,SKG,Superdong Fast Ferry Kien Giang JSC,Ho Chi Minh,Industrials,Passenger Transportation Services,₫854.5B,17.6x,-0.49,"₫12,900",2.4%
+306,HTN,Hung Thinh Incons,Ho Chi Minh,Industrials,Construction & Engineering,₫851.95B,7.7x,,"₫9,560",5.4%
+307,VIT,VIT,Hanoi,Consumer Cyclicals,Homebuilding & Construction Supplies,₫849.99B,"8,950x",,"₫17,000",0.6%
+308,ILB,ICD Tan Cang Long Binh,Ho Chi Minh,Industrials,Freight & Logistics Services,₫845.33B,11.5x,,"₫34,600",0.3%
+309,SRC,Sao Vang Rubber JSC,Ho Chi Minh,Consumer Cyclicals,Automobiles & Auto Parts,₫827.87B,6.1x,0,"₫29,500",-6.8%
+310,ADS,Damsan,Ho Chi Minh,Consumer Cyclicals,Textiles & Apparel,₫825.06B,3x,,"₫10,800",2.4%
+311,VNG,Thanh Thanh Cong Tourist JSC,Ho Chi Minh,Consumer Cyclicals,Hotels & Entertainment Services,₫817.12B,43.1x,,"₫8,400",0%
+312,SHN,HANIC,Hanoi,Industrials,Diversified Industrial Goods Wholesale,₫816.53B,"-1,860x",-22.62,"₫6,300",-10%
+313,HHP,Hai Phong Hoang Ha Paper,Ho Chi Minh,Basic Materials,Paper & Forest Products,₫814.48B,9.3x,,"₫9,410",1.8%
+314,PMC,PHARMEDIC JSC,Hanoi,Healthcare,Pharmaceuticals,₫811.93B,13.1x,0.98,"₫87,000",0%
+315,GSP,International Gas Product Shipping,Ho Chi Minh,Energy,Oil & Gas Related Equipment and Services,₫810.21B,8.4x,0.46,"₫13,200",2.3%
+316,NVT,Ninh Van Bay Travel Real Estate,Ho Chi Minh,Consumer Cyclicals,Hotels & Entertainment Services,₫776.49B,-5.3x,,"₫8,580",3.9%
+317,DTL,Dai Thien Loc Corp,Ho Chi Minh,Basic Materials,Metals & Mining,₫776.08B,-14.5x,-0.26,"₫12,800",1.2%
+318,SMC,SMC Investment Trading JSC,Ho Chi Minh,Basic Materials,Metals & Mining,₫772.87B,-0.9x,0.02,"₫10,500",5%
+319,BTP,Ba Ria Thermal Power JSC,Ho Chi Minh,Utilities,Electrical Utilities & IPPs,₫768.17B,11.5x,-0.32,"₫12,700",0.8%
+320,CAP,Yen Bai Forest JSC,Hanoi,Basic Materials,Chemicals,₫761.97B,23.1x,-0.28,"₫49,900",0.2%
+321,VDP,Vidipha Central Pharma,Ho Chi Minh,Healthcare,Pharmaceuticals,₫755.26B,10.7x,,"₫34,200",-2%
+322,SGC,Sagiang Import&Export Corporation,Hanoi,Consumer Non-Cyclicals,Food & Tobacco,₫750.5B,7.6x,0.05,"₫105,000",0%
+323,SFI,Sea & Air Freight International,Ho Chi Minh,Industrials,Freight & Logistics Services,₫736.39B,3.1x,,"₫31,200",-1.7%
+324,IVS,Guotai Junan Securities Vietnam,Hanoi,Financials,Investment Banking & Investment Services,₫735.11B,31.1x,,"₫10,600",2.9%
+325,VTZ,Viet Thanh Plastic Trading and,Hanoi,Basic Materials,Chemicals,₫722.4B,23.5x,,"₫14,900",-0.7%
+326,ADP,A Dong Paint,Ho Chi Minh,Basic Materials,Chemicals,₫711.93B,11.6x,,"₫30,100",-6.2%
+327,TN1,Rox Key Holdings JSC,Ho Chi Minh,Real Estate,Real Estate Operations,₫710.08B,10.3x,,"₫13,000",0%
+328,VNS,Vietnam Sun Corp,Ho Chi Minh,Industrials,Passenger Transportation Services,₫709.13B,7.3x,-0.14,"₫10,450",1%
+329,HJS,Nam Mu Hydropower JSC,Hanoi,Utilities,Electrical Utilities & IPPs,₫703.5B,11.7x,1.01,"₫33,500",-1.5%
+330,DXP,Doan Xa Port JSC,Hanoi,Industrials,Transport Infrastructure,₫694.96B,12.6x,0.43,"₫11,600",2.6%
+331,TNC,Thong Nhat Rubber JSC,Ho Chi Minh,Consumer Cyclicals,Automobiles & Auto Parts,₫689.15B,34.3x,,"₫35,800",0%
+332,CLW,Cho Lon Water Supply JSC,Ho Chi Minh,Utilities,Water & Related Utilities,₫676B,66.7x,,"₫52,000",0%
+333,PSD,PETROLEUM GENE,Hanoi,Technology,"Computers, Phones & Household Electronics",₫673.76B,10.8x,-0.23,"₫13,000",2.4%
+334,NDN,DANANG HOUSING,Hanoi,Real Estate,Real Estate Operations,₫673.58B,3.8x,,"₫9,400",5.6%
+335,VPG,Viet Phat Import Export,Ho Chi Minh,Basic Materials,Metals & Mining,₫669.36B,1.8x,,"₫12,800",4.1%
+336,BTS,But Son Cement JSC,Hanoi,Basic Materials,Construction Materials,₫667.22B,-4.3x,0.02,"₫5,400",0%
+337,DSN,Dam Sen Water Park Corp,Ho Chi Minh,Consumer Cyclicals,Hotels & Entertainment Services,₫665.77B,7.8x,-0.38,"₫55,100",0.2%
+338,SJE,Song Da N011 JSC,Hanoi,Industrials,Construction & Engineering,₫652.56B,4.3x,0.02,"₫27,000",0%
+339,TLH,Tienlen Steel Corp JSC,Ho Chi Minh,Basic Materials,Metals & Mining,₫651.46B,-4.1x,-5,"₫5,800",3.9%
+340,HGM,HGM,Hanoi,Basic Materials,Metals & Mining,₫649.68B,7.3x,,"₫54,500",0%
+341,GDT,Duc Thanh Wood Processing,Ho Chi Minh,Consumer Cyclicals,Household Goods,₫648.52B,14.3x,2.18,"₫29,650",1.9%
+342,PSH,Nam Song Hau Trading Investing Petroleum,Ho Chi Minh,Energy,Oil & Gas,₫643.47B,13.6x,,"₫5,280",3.5%
+343,API,Asia Pacific Investment JSC,Hanoi,Real Estate,Real Estate Operations,₫639.04B,-10.9x,0.06,"₫7,600",5.6%
+344,WCS,West Coach Station JSC,Hanoi,Industrials,Transport Infrastructure,₫632.5B,34.3x,,"₫253,000",-1.1%
+345,DC4,DIC Holdings Construction JSC,Ho Chi Minh,Industrials,Construction & Engineering,₫626.58B,8.8x,,"₫10,900",3.8%
+346,DRL,Hydro Power No3,Ho Chi Minh,Utilities,Electrical Utilities & IPPs,₫617.5B,31.1x,,"₫65,000",1.4%
+347,DL1,Alpha Seven JSC,Hanoi,Industrials,Passenger Transportation Services,₫616.17B,11x,0.16,"₫5,800",5.4%
+348,PCT,CGT,Hanoi,Industrials,Passenger Transportation Services,₫615.44B,32.6x,,"₫12,300",-0.8%
+349,TKU,Tung Kuang Industrial JSC,Hanoi,Basic Materials,Metals & Mining,₫609.46B,-27.7x,0.24,"₫13,000",-3.7%
+350,PVB,PetroVietnam Coating JSC,Hanoi,Basic Materials,Metals & Mining,₫604.8B,-30x,0.15,"₫28,000",3.3%
+351,DHA,Hoa An JSC,Ho Chi Minh,Basic Materials,Construction Materials,₫603.77B,16.7x,,"₫41,000",1.2%
+352,SAF,Safoco Foodstuff JSC,Hanoi,Consumer Non-Cyclicals,Food & Tobacco,₫602.33B,14.4x,,"₫50,000",0%
+353,ACL,Cuulong Fish JSC,Ho Chi Minh,Consumer Non-Cyclicals,Food & Tobacco,₫601.91B,19.3x,,"₫11,950",0%
+354,KHP,Khanh Hoa Power JSC,Ho Chi Minh,Utilities,Electrical Utilities & IPPs,₫594.39B,19.2x,,"₫9,840",0.5%
+355,NTH,Nuoc Trong Hydro Power JSC,Hanoi,Energy,Renewable Energy,₫594.11B,12.1x,-0.49,"₫55,000",0%
+356,DLG,Duc Long Gia Lai Group JSC,Ho Chi Minh,Technology,Electronic Equipment & Parts,₫592.63B,-1x,-0.04,"₫2,000",0%
+357,VNT,VAN CARGOES,Hanoi,Industrials,Freight & Logistics Services,₫584.21B,-33.2x,2.41,"₫35,100",0%
+358,APS,Asia Pacific Securities JSC,Hanoi,Financials,Investment Banking & Investment Services,₫581B,"-2,340x",-23.4,"₫7,000",4.5%
+359,TVD,TVD,Hanoi,Energy,Coal,₫566.53B,3.9x,,"₫12,600",0%
+360,S55,Song Da 505 JSC,Hanoi,Industrials,Construction & Engineering,₫565B,9.1x,,"₫56,500",0%
+361,SAV,Savimex Corp,Ho Chi Minh,Consumer Cyclicals,Household Goods,₫564.26B,-17x,,"₫22,300",-0.9%
+362,DAT,Travel Investment and Seafood Devel,Ho Chi Minh,Consumer Non-Cyclicals,Food & Tobacco,₫543.44B,8.2x,-0.37,"₫7,850",0.6%
+363,DP2,Central Pharmaceutical JSC No3,Hanoi,Healthcare,Pharmaceuticals,₫540.08B,11.6x,1.04,"₫62,800",-0.3%
+364,DP3,Central Pharmaceutical JSC No3,Hanoi,Healthcare,Pharmaceuticals,₫540.08B,11.6x,1.04,"₫62,800",-0.3%
+365,CCL,Cuu Long Petro Urban Development,Ho Chi Minh,Real Estate,Real Estate Operations,₫535.64B,4.7x,,"₫8,990",6.9%
+366,TSC,Techno Agricultural Supplying JSC,Ho Chi Minh,Consumer Non-Cyclicals,Food & Tobacco,₫533.49B,-33.8x,-0.48,"₫2,710",2.3%
+367,HLD,HUDLAND Real Estate,Hanoi,Real Estate,Real Estate Operations,₫528B,195.2x,-4.12,"₫26,400",2.3%
+368,EVE,Everpia Vietnam JSC,Ho Chi Minh,Consumer Cyclicals,Household Goods,₫526.85B,"-54,550x",,"₫12,550",0.4%
+369,PHN,Hanoi Battery,Hanoi,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",₫522.28B,9.6x,,"₫72,000",0%
+370,LDG,LDG Investment,Ho Chi Minh,Real Estate,Real Estate Operations,₫520.1B,-0.8x,0,"₫2,030",6.8%
+371,VC2,Vina2 Investment and Construction JSC,Hanoi,Industrials,Construction & Engineering,₫515.77B,68.5x,-0.98,"₫7,500",7.1%
+372,FDC,Foreign Trade Development Invest,Ho Chi Minh,Real Estate,Real Estate Operations,₫511.76B,-900.8x,-8.78,"₫13,250",6.8%
+373,NNC,Nui Nho Stone JSC,Ho Chi Minh,Basic Materials,Construction Materials,₫504.16B,10.8x,-3.01,"₫23,000",2.2%
+374,SFG,Southern Fertilizer JSC,Ho Chi Minh,Basic Materials,Chemicals,₫502.92B,11.7x,0.13,"₫10,550",0.5%
+375,VAF,Van Dien Fused Magnesium Phosphate,Ho Chi Minh,Basic Materials,Chemicals,₫491.53B,7.7x,,"₫13,050",0%
+376,TDW,Thu Duc Water Supply JSC,Ho Chi Minh,Utilities,Water & Related Utilities,₫472.6B,20.6x,,"₫55,600",0%
+377,SSC,Southern Seed Corp,Ho Chi Minh,Consumer Non-Cyclicals,Food & Tobacco,₫467.17B,8.9x,0.25,"₫35,200",0%
+378,ABT,Bentre Aquaproduct Import and Export JSC,Ho Chi Minh,Consumer Non-Cyclicals,Food & Tobacco,₫466.38B,7.2x,0.37,"₫39,600",-1%
+379,MCP,My Chau Printing & Packaging Holdin,Ho Chi Minh,Basic Materials,Containers & Packaging,₫463.32B,30.4x,,"₫28,500",-1.7%
+380,HUB,Thua Thien Hue,Ho Chi Minh,Industrials,Construction & Engineering,₫461.54B,13.4x,,"₫17,700",0.9%
+381,BTT,Ben Thanh Trading Service JSC,Ho Chi Minh,Consumer Cyclicals,Diversified Retail,₫459B,86.6x,,"₫34,000",0%
+382,HAP,Hapaco Group JSC,Ho Chi Minh,Basic Materials,Paper & Forest Products,₫457.72B,4.8x,,"₫4,150",0%
+383,PSI,Petrovietnam Securities JSC,Hanoi,Financials,Investment Banking & Investment Services,₫454.79B,16.9x,-0.74,"₫7,600",4.1%
+384,TPP,Tan Phu Viet Nam JSC,Hanoi,Basic Materials,Containers & Packaging,₫454.5B,42x,25.51,"₫10,100",-3.8%
+385,TV1,Power Engineering 1,Hanoi,Industrials,Construction & Engineering,₫453B,13.8x,-1.52,"₫22,900",-0.4%
+386,VRC,Vrc Real Estate and Investment JSC,Ho Chi Minh,Real Estate,Real Estate Operations,₫443.32B,86.1x,,"₫8,500",-3.3%
+387,TFC,TRANGCORP Corporation JSC,Hanoi,Consumer Non-Cyclicals,Food & Tobacco,₫442.63B,679.1x,,"₫26,300",5.2%
+388,C69,1369 Construction,Hanoi,Basic Materials,Construction Materials,₫438.78B,26.3x,,"₫7,100",1.4%
+389,DVM,Viet Nam Medicinal Materials JSC,Hanoi,Healthcare,Pharmaceuticals,₫436.36B,11.9x,,"₫10,300",1%
+390,FIR,FIRST REAL,Ho Chi Minh,Real Estate,Real Estate Operations,₫434.3B,15.5x,,"₫6,760",3.7%
+391,NBC,Vinacomin NuiBeo Coal JSC,Hanoi,Energy,Coal,₫432.89B,4.3x,,"₫11,700",1.7%
+392,SD9,Song Da No. 9 JSC,Hanoi,Industrials,Construction & Engineering,₫431.35B,13.9x,,"₫12,600",0.8%
+393,VNC,Vinacontrol,Hanoi,Industrials,Professional & Commercial Services,₫426.28B,11.6x,,"₫40,600",-0.2%
+394,DNC,Hai Phong Electricity Water Machine Assembly JSC,Hanoi,Utilities,Electrical Utilities & IPPs,₫422.26B,5.7x,,"₫52,600",0%
+395,AMV,American Vietnamese Biotech,Hanoi,Healthcare,Pharmaceuticals,₫419.54B,35.5x,,"₫3,200",3.2%
+396,MBG,MBG JSC,Hanoi,Consumer Non-Cyclicals,Consumer Goods Conglomerates,₫408.74B,-7x,0.05,"₫3,300",3.1%
+397,AAV,AAV JSC,Hanoi,Real Estate,Real Estate Operations,₫407.03B,-30.3x,,"₫5,900",3.5%
+398,CDC,Chuong Duong Corp,Ho Chi Minh,Real Estate,Real Estate Operations,₫405.69B,38.2x,,"₫18,500",0.3%
+399,EID,Ha Noi Education Development And Investment JSC,Hanoi,Consumer Cyclicals,Media & Publishing,₫405B,4.4x,0.13,"₫27,000",0%
+400,COM,Materials Petroleum JSC,Ho Chi Minh,Energy,Oil & Gas,₫402.44B,9.6x,0.03,"₫28,500",0%
+401,TLD,Thang Long Urban,Ho Chi Minh,Basic Materials,Paper & Forest Products,₫399.59B,,,"₫5,140",0%
+402,TYA,Taya Vietnam Electric Wire and Cabl,Ho Chi Minh,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",₫398.85B,10.9x,0.01,"₫13,000",2%
+403,HTI,Idico Infrastructure Development,Ho Chi Minh,Industrials,Transport Infrastructure,₫395.44B,12.7x,,"₫15,850",0.3%
+404,AME,Alphanam M&E,Hanoi,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",₫391.2B,18.2x,-1.02,"₫6,000",0%
+405,TTE,TRUONG THINH ENERGY,Ho Chi Minh,Utilities,Electrical Utilities & IPPs,₫390.32B,12.7x,,"₫13,700",0%
+406,ICT,JSC for Telecoms and Informatics,Ho Chi Minh,Technology,Semiconductors & Semiconductor Equipment,₫389.44B,9.2x,,"₫12,400",2.5%
+407,JVC,Japan Vietnam Medical Instrument JSC,Ho Chi Minh,Healthcare,Healthcare Equipment & Supplies,₫380.25B,-11.4x,,"₫3,370",2.1%
+408,PMG,Petro Center,Ho Chi Minh,Energy,Oil & Gas,₫379.96B,-7.3x,,"₫8,200",5.1%
+409,HCD,Hcd Investment Producing,Ho Chi Minh,Basic Materials,Chemicals,₫378.83B,3.5x,,"₫10,250",2.5%
+410,SDU,Song Da Urban Investment Construction and Developm,Hanoi,Real Estate,Real Estate Operations,₫376B,741.9x,,"₫18,800",0%
+411,VHH,Thanh Dat Investment,Hanoi,Basic Materials,Construction Materials,₫374.52B,2.8x,-0.05,"₫6,600",13.8%
+412,DQC,Dien Quang JSC,Ho Chi Minh,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",₫373.41B,-10x,0.02,"₫13,550",0.7%
+413,MST,MST Investment JSC,Hanoi,Industrials,Construction & Engineering,₫372.42B,5.2x,,"₫4,900",6.5%
+414,CCI,CuChi Commercial and Industrial Dev,Ho Chi Minh,Energy,Oil & Gas,₫368.36B,6.5x,,"₫21,000",1.7%
+415,HII,An Phat Yen Bai Mineral Plastic,Ho Chi Minh,Basic Materials,Chemicals,₫366.11B,2.4x,,"₫4,970",1.4%
+416,HVH,HVC Invest,Ho Chi Minh,Industrials,Professional & Commercial Services,₫359.71B,3.3x,,"₫8,860",5%
+417,HBS,HBS,Hanoi,Financials,Investment Banking & Investment Services,₫359.7B,19.5x,0.08,"₫10,900",3.8%
+418,CMS,Vietnam Constr,Hanoi,Industrials,Professional & Commercial Services,₫356.34B,73.8x,,"₫14,000",4.5%
+419,NAG,NAGAKAWA VIETN,Hanoi,Consumer Cyclicals,Household Goods,₫351.28B,12.3x,2.5,"₫11,100",0.9%
+420,VNF,VINAFREIGHT,Hanoi,Industrials,Freight & Logistics Services,₫348.87B,59.8x,-0.8,"₫11,000",0%
+421,HTC,HocMon Trade JSC,Hanoi,Energy,Oil & Gas,₫348.15B,10.5x,,"₫21,100",0%
+422,POT,Post&Telecommunication Equipment,Hanoi,Technology,Communications & Networking,₫347.8B,185.1x,-2.27,"₫17,900",0%
+423,HAR,An Duong Thao Dien Real estate Trad,Ho Chi Minh,Real Estate,Real Estate Operations,₫343.87B,10.4x,,"₫3,820",2.4%
+424,ABS,Binhthuan Agriculture Services,Ho Chi Minh,Basic Materials,Chemicals,₫343.2B,19.7x,,"₫4,400",2.6%
+425,TVT,Viet Thang,Ho Chi Minh,Consumer Cyclicals,Textiles & Apparel,₫342.3B,6.3x,,"₫16,300",0%
+426,BTW,Ben Thanh Water,Hanoi,Utilities,Water & Related Utilities,₫337.9B,7.7x,1.14,"₫36,100",0%
+427,PLP,Pha Le Plastics,Ho Chi Minh,Basic Materials,Chemicals,₫336B,1.8x,,"₫4,800",0%
+428,MHC,MHC JSC,Ho Chi Minh,Industrials,Freight & Logistics Services,₫334.98B,6.8x,,"₫8,090",1.4%
+429,DNA,An Giang Power,Hanoi,Utilities,Multiline Utilities,₫333.96B,108x,-2.12,"₫24,200",0.4%
+430,MAC,Marine Supply and Engineering Service JSC,Hanoi,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",₫333.07B,6.2x,,"₫22,000",-8.3%
+431,TDH,Thu Duc Housing Development Corp,Ho Chi Minh,Real Estate,Real Estate Operations,₫330.07B,-4.7x,0.22,"₫2,930",2.4%
+432,SRF,Searefico,Ho Chi Minh,Industrials,Construction & Engineering,₫327.73B,436.3x,3.91,"₫8,980",-2.5%
+433,VSA,Vietnam Ocean Shipping Agency Corp,Hanoi,Industrials,Freight & Logistics Services,₫327.04B,7.7x,0.62,"₫23,200",1.3%
+434,TTL,Thang Long,Hanoi,Industrials,Construction & Engineering,₫326.46B,13.8x,0.04,"₫7,800",1.3%
+435,NRC,Danh Khoi JSC,Hanoi,Real Estate,Real Estate Operations,₫326.3B,10.7x,0.08,"₫3,700",5.7%
+436,PTL,Victory Capital JSC,Ho Chi Minh,Real Estate,Real Estate Operations,₫322.3B,12.4x,,"₫3,260",3.5%
+437,BAX,Thong Nhat,Hanoi,Real Estate,Real Estate Operations,₫322.26B,12.3x,1.88,"₫39,300",0%
+438,MED,Mediplantex National Pharmaceutical JSC,Hanoi,Healthcare,Pharmaceuticals,₫321.42B,20.4x,2.25,"₫25,900",0%
+439,LIG,LICOGI 13,Hanoi,Industrials,Construction & Engineering,₫320.35B,3.2x,,"₫3,400",3%
+440,VNE,Vietnam Electricity Construction,Ho Chi Minh,Industrials,Construction & Engineering,₫320.02B,-3.6x,0,"₫3,890",3.5%
+441,THT,Vinacomin HaTu Coal JSC,Hanoi,Energy,Coal,₫316.94B,4.3x,0.35,"₫12,900",1.6%
+442,GLT,Global Electrical Technology,Hanoi,Basic Materials,Paper & Forest Products,₫316.06B,65.9x,-0.83,"₫33,800",5.3%
+443,VIG,VICS,Hanoi,Financials,Investment Banking & Investment Services,₫315.93B,9.4x,,"₫7,000",4.5%
+444,HMC,Hochiminh City Metal Corp,Ho Chi Minh,Basic Materials,Metals & Mining,₫315.31B,2.8x,,"₫11,550",1.3%
+445,HLC,Vinacomin Ha Lam Coal JSC,Hanoi,Energy,Coal,₫315.15B,4x,0.13,"₫12,400",-0.8%
+446,NBW,Nha Be Water,Hanoi,Utilities,Water & Related Utilities,₫311.74B,13.1x,,"₫28,600",0%
+447,SGH,Saigon Hotel JSC,Hanoi,Consumer Cyclicals,Hotels & Entertainment Services,₫309.1B,39.9x,,"₫25,000",0%
+448,DRH,DRH Holdings JSC,Ho Chi Minh,Real Estate,Real Estate Operations,₫308.03B,-3.5x,0.07,"₫2,480",4.6%
+449,ITD,Innovative Technology Development,Ho Chi Minh,Technology,Integrated Hardware & Software,₫306.67B,21.5x,,"₫12,500",3.3%
+450,CTB,Hai Duong Pump Manufacturing JSC,Hanoi,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",₫306.43B,7x,-0.85,"₫22,400",-8.6%
+451,TSB,Tiasang Battery JSC,Hanoi,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",₫302.87B,46.7x,,"₫44,900",4.4%
+452,PHC,Phuc Hungnstruction,Ho Chi Minh,Industrials,Construction & Engineering,₫297.03B,33.3x,,"₫5,880",1.4%
+453,UIC,Idico Urban and House Development,Ho Chi Minh,Utilities,Electrical Utilities & IPPs,₫296.8B,7.8x,,"₫37,100",0%
+454,BNA,Bao Ngoc Investment Production,Hanoi,Consumer Non-Cyclicals,Food & Tobacco,₫295B,6.8x,,"₫12,100",2.5%
+455,CCR,CamRanh Port,Hanoi,Industrials,Transport Infrastructure,₫293.44B,22.3x,,"₫12,100",0%
+456,GDW,Gia Dinh Water Supply,Hanoi,Utilities,Water & Related Utilities,₫289.75B,8x,,"₫30,700",0.7%
+457,DAH,Dong A Hotel Group,Ho Chi Minh,Consumer Cyclicals,Hotels & Entertainment Services,₫289.65B,5.9x,,"₫3,440",2.4%
+458,HOM,HOM,Hanoi,Basic Materials,Construction Materials,₫287.99B,-9.2x,0.04,"₫4,000",0%
+459,VHL,VIGLACERA HALO,Hanoi,Basic Materials,Construction Materials,₫287.5B,-5.1x,0.15,"₫11,500",0%
+460,PVG,Petro Vietnam LPG JSC,Hanoi,Energy,Oil & Gas,₫283.99B,-183x,1.65,"₫7,100",1.4%
+461,VMD,Vimedimex Medi Pharma JSC,Ho Chi Minh,Consumer Non-Cyclicals,Food & Drug Retailing,₫283.33B,18.3x,,"₫18,000",0%
+462,NHT,Nam Hoa Trading,Ho Chi Minh,Consumer Cyclicals,Leisure Products,₫282.33B,4.3x,,"₫11,750",6.8%
+463,ADG,Clever Group,Ho Chi Minh,Consumer Cyclicals,Media & Publishing,₫282.22B,6x,,"₫13,450",1.9%
+464,GMC,Saigon Garment Manufacturing Trade,Ho Chi Minh,Consumer Cyclicals,Textiles & Apparel,₫280.5B,1.9x,,"₫8,500",0.1%
+465,SBV,Siam Brothers Vietnam,Ho Chi Minh,Basic Materials,Chemicals,₫277.34B,5.3x,,"₫10,150",-5.6%
+466,TV4,Power Engineering Consulting JSC 4,Hanoi,Industrials,Construction & Engineering,₫276.94B,8.4x,-0.86,"₫14,000",0%
+467,DHM,Duong Hieu Trading and Mining,Ho Chi Minh,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",₫276.6B,42.5x,,"₫9,200",0.7%
+468,CLH,La Hien Cement,Hanoi,Basic Materials,Construction Materials,₫273.6B,7.3x,,"₫22,800",0%
+469,TMT,TMT Motor JSC,Ho Chi Minh,Consumer Cyclicals,Automobiles & Auto Parts,₫267.73B,-2.7x,0.01,"₫7,260",1%
+470,VE4,VNECO4 Electricity,Hanoi,Industrials,Construction & Engineering,₫266.66B,199.6x,,"₫233,600",0%
+471,BMC,Binh Dinh Minerals JSC,Ho Chi Minh,Basic Materials,Metals & Mining,₫266.44B,20.3x,,"₫21,500",4.4%
+472,BKG,BKG Viet Nam Investment JSC,Ho Chi Minh,Basic Materials,Paper & Forest Products,₫263.52B,12.7x,,"₫3,740",1.6%
+473,TCO,Tco Holdings JSC,Ho Chi Minh,Industrials,Freight & Logistics Services,₫257.28B,6.1x,,"₫13,750",-0.4%
+474,WSS,WSS,Hanoi,Financials,Investment Banking & Investment Services,₫256.53B,,,"₫5,100",4.1%
+475,SC5,Construction JSC No5,Ho Chi Minh,Industrials,Construction & Engineering,₫256.22B,8.1x,,"₫17,650",3.2%
+476,C32,CIC39,Ho Chi Minh,Basic Materials,Construction Materials,₫255.5B,-8.1x,0.02,"₫17,000",0%
+477,DDG,Indochine Import Export,Hanoi,Energy,Renewable Energy,₫255.49B,33.3x,0.32,"₫3,400",6.3%
+478,VSI,Water Supply Sewerage Construction,Ho Chi Minh,Industrials,Construction & Engineering,₫254.1B,4.5x,,"₫19,250",6.9%
+479,PCH,Picomat Plastic JSC,Hanoi,,,₫254.1B,18.7x,,"₫10,700",1.9%
+480,SJ1,Hung Hau Agricultural,Hanoi,Consumer Non-Cyclicals,Food & Tobacco,₫253.63B,16.8x,,"₫11,800",-0.8%
+481,LAF,Long An Food Processing Export JSC,Ho Chi Minh,Consumer Non-Cyclicals,Food & Tobacco,₫250.38B,7.3x,0.23,"₫17,000",1.2%
+482,PJT,Petrolimex Joint Stock Tanker Co,Ho Chi Minh,Energy,Oil & Gas Related Equipment and Services,₫250.07B,7.2x,,"₫10,050",0.5%
+483,AAT,Tien Son Thanh Hoa JSC,Ho Chi Minh,Consumer Cyclicals,Textiles & Apparel,₫248.58B,28.2x,,"₫3,540",0.9%
+484,SFC,Saigon Fuel JSC,Ho Chi Minh,Energy,Oil & Gas,₫245.48B,6x,,"₫21,850",6.6%
+485,VPS,Vietnam Pesticide JSC,Ho Chi Minh,Basic Materials,Chemicals,₫244.36B,15.2x,,"₫9,990",0.7%
+486,ABR,Viet Brand Invest,Ho Chi Minh,Industrials,Professional & Commercial Services,₫244B,9.7x,,"₫12,200",4.3%
+487,SCI,SCI E C JSC,Hanoi,Industrials,Construction & Engineering,₫241.39B,20.3x,,"₫9,500",3.3%
+488,VID,Vien Dong Investment Development,Ho Chi Minh,Basic Materials,Paper & Forest Products,₫236.85B,-396.9x,,"₫5,800",-2.4%
+489,TCT,Tay Ninh Cable Car Tour Co.,Ho Chi Minh,Industrials,Passenger Transportation Services,₫236.58B,25.1x,-0.54,"₫18,500",-1.1%
+490,VCC,VINACONEX 25,Hanoi,Industrials,Construction & Engineering,₫235.2B,18.3x,,"₫9,800",-2%
+491,NFC,Ninh Binh Phosphate,Hanoi,Basic Materials,Chemicals,₫234.4B,8.4x,0.18,"₫14,900",0%
+492,LDP,Lam Dong Pharmaceutical JSC,Hanoi,Healthcare,Pharmaceuticals,₫233.74B,-25.9x,-0.39,"₫18,400",0%
+493,VNL,Vinalink International Freight Forw,Ho Chi Minh,Industrials,Freight & Logistics Services,₫233.32B,3.9x,,"₫16,500",0%
+494,VC6,Visicons Construction and Investment JSC,Hanoi,Industrials,Construction & Engineering,₫231.34B,9.7x,,"₫23,900",0%
+495,PMS,Petroleum Mechanical JSC,Hanoi,Basic Materials,Containers & Packaging,₫230.46B,6.8x,0.08,"₫32,000",2.9%
+496,MDC,Vinacomin Mong Duong Coal JSC,Hanoi,Energy,Coal,₫229.18B,4.5x,,"₫10,700",0%
+497,SVT,Saigon Viendong Tech,Ho Chi Minh,Basic Materials,Paper & Forest Products,₫225.04B,35.3x,,"₫13,000",0%
+498,L10,Lilama 10 JSC,Ho Chi Minh,Industrials,Construction & Engineering,₫224.19B,7.3x,,"₫22,900",0%
+499,VGP,Vegetexco Port JSC,Hanoi,Industrials,Transport Infrastructure,₫223.04B,11.3x,-2.77,"₫28,500",1.4%
+500,DBT,Ben Tre Pharmaceutical JSC,Ho Chi Minh,Healthcare,Pharmaceuticals,₫221.47B,12.6x,,"₫11,950",-0.4%
+501,PJC,Petrolimex Hanoi,Hanoi,Energy,Oil & Gas,₫219.81B,7.5x,,"₫30,000",0%
+502,C47,Construction JSC 47,Ho Chi Minh,Industrials,Construction & Engineering,₫218.05B,3.9x,,"₫5,950",-0.8%
+503,HTL,Truong Long Engineering and Auto,Ho Chi Minh,Consumer Cyclicals,Automobiles & Auto Parts,₫216B,4.8x,0.06,"₫18,000",-1.1%
+504,NAP,Nghe Tinh Port,Hanoi,Industrials,Transport Infrastructure,₫215.17B,9.6x,0.16,"₫10,000",0%
+505,DTG,Tipharco Pharma,Hanoi,Healthcare,Pharmaceuticals,₫213B,9.5x,,"₫25,500",-8.3%
+506,TNT,TNT JSC,Ho Chi Minh,Real Estate,Real Estate Operations,₫212.67B,5.8x,,"₫4,170",3%
+507,HID,Ha Long Investment,Ho Chi Minh,Consumer Cyclicals,Homebuilding & Construction Supplies,₫211.08B,2.4x,,"₫2,750",1.5%
+508,CAN,Ha Long Canned Food JSC,Hanoi,Consumer Non-Cyclicals,Food & Tobacco,₫210B,19.5x,,"₫42,000",0%
+509,VMS,Vietnam Maritime Development JSC,Hanoi,Industrials,Transport Infrastructure,₫209.7B,16.7x,1.57,"₫23,300",9.9%
+510,QHD,Viet Duc Welding Electrode JSC,Hanoi,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",₫209.39B,43.3x,,"₫34,200",0%
+511,TNA,Thien Nam Trading Import Export,Ho Chi Minh,Consumer Non-Cyclicals,Food & Drug Retailing,₫207.26B,-20x,0.02,"₫4,390",-1.1%
+512,CRC,Create Capital Vietnam,Ho Chi Minh,Energy,Renewable Energy,₫206.7B,8.5x,,"₫6,830",1.3%
+513,CJC,Central Area Electrical Mechanical,Hanoi,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",₫206.4B,33.7x,0.64,"₫25,800",0%
+514,SMA,Saigon Machinery Spare Parts JSC,Ho Chi Minh,Utilities,Electrical Utilities & IPPs,₫205.56B,6.1x,,"₫10,100",0%
+515,ST8,ST8 Holdings JSC,Ho Chi Minh,Technology,Office Equipment,₫204.74B,11.4x,0.02,"₫7,970",3.6%
+516,KTS,KTS,Hanoi,Consumer Non-Cyclicals,Food & Tobacco,₫202.8B,6.6x,-0.36,"₫40,000",0%
+517,BCE,Binh Duong Construction Civil Eng,Ho Chi Minh,Industrials,Construction & Engineering,₫201.95B,9.5x,,"₫5,750",1.6%
+518,SD5,Song Da No. 5 JSC,Hanoi,Industrials,Construction & Engineering,₫200.2B,8.8x,,"₫7,700",0%
+519,PCE,Central PetroVietnam Fertilizer and,Hanoi,Basic Materials,Chemicals,₫196B,9.2x,,"₫19,600",-3.9%
+520,CIA,Cam Ranh Airport,Hanoi,Industrials,Transport Infrastructure,₫195.94B,31.4x,,"₫10,500",-1.9%
+521,SED,EDID,Hanoi,Consumer Cyclicals,Media & Publishing,₫194.71B,5.4x,4.34,"₫21,000",-0.9%
+522,PPT,Petro Times JSC,Hanoi,,,₫194.04B,23.9x,,"₫11,200",0%
+523,KMR,Mirae JSC,Ho Chi Minh,Consumer Cyclicals,Textiles & Apparel,₫193.95B,92.9x,,"₫3,410",1.5%
+524,HMH,Hai Minh,Hanoi,Industrials,Freight & Logistics Services,₫187.58B,32.7x,,"₫14,600",0%
+525,CMV,Camau Trading JSC,Ho Chi Minh,Energy,Oil & Gas,₫183.37B,4x,,"₫10,100",2%
+526,HSL,Hong Ha Son Agricutural,Ho Chi Minh,Consumer Non-Cyclicals,Food & Tobacco,₫182.43B,3.6x,,"₫4,730",0.2%
+527,SDG,SADICO CAN THO,Hanoi,Basic Materials,Containers & Packaging,₫180.49B,192.6x,-1.17,"₫17,800",0%
+528,X20,X20,Hanoi,Consumer Cyclicals,Textiles & Apparel,₫179.4B,19.3x,,"₫10,400",0%
+529,TET,TEXTACO,Hanoi,Consumer Cyclicals,Textiles & Apparel,₫179.07B,13.6x,,"₫31,400",0%
+530,GIC,Green Development and Investment Service JSC,Hanoi,Industrials,Freight & Logistics Services,₫178.16B,11x,,"₫14,600",-0.7%
+531,CIG,COMA 18 JSC,Ho Chi Minh,Real Estate,Real Estate Operations,₫175.99B,6.4x,,"₫5,580",3.5%
+532,VDL,Lam Dong Foodstuff JSC,Hanoi,Consumer Non-Cyclicals,Beverages,₫175.89B,-11x,,"₫12,000",0%
+533,PPS,PertroVietnam Power Services JSC,Hanoi,Energy,Renewable Energy,₫175.5B,9.4x,,"₫11,700",0%
+534,VMC,Vimeco JSC,Hanoi,Industrials,Construction & Engineering,₫175.1B,34.1x,0.01,"₫6,700",9.8%
+535,VSM,Central Container,Hanoi,Industrials,Freight & Logistics Services,₫171B,13.6x,1.57,"₫19,000",0%
+536,NBP,NinhBinh Thermal Power JSC,Hanoi,Utilities,Electrical Utilities & IPPs,₫168.54B,10.8x,-0.36,"₫13,100",0%
+537,SRA,"SARA., JSC",Hanoi,Real Estate,Real Estate Operations,₫168.48B,34.7x,,"₫3,900",2.6%
+538,GMX,MY XUAN BRICK,Hanoi,Basic Materials,Construction Materials,₫168.04B,10.6x,,"₫18,900",1.6%
+539,RCL,Cholon Real Estate JSC,Hanoi,Real Estate,Real Estate Operations,₫167.69B,21.2x,,"₫12,100",0%
+540,TDT,TDT Invest,Hanoi,Consumer Cyclicals,Textiles & Apparel,₫167.28B,7x,,"₫7,000",0%
+541,LEC,Central Power Real Estate,Ho Chi Minh,Real Estate,Real Estate Operations,₫161.82B,27.1x,,"₫6,200",0%
+542,NO1,911 JSC,Ho Chi Minh,,,₫160.32B,,,"₫6,750",1%
+543,YBM,Yen Bai Industry,Ho Chi Minh,Basic Materials,Construction Materials,₫160.16B,10.8x,,"₫11,200",0%
+544,MAS,Danang Airport Services JSC,Hanoi,Industrials,Transport Infrastructure,₫160.04B,52.5x,0.3,"₫37,500",0%
+545,TOT,Transimex,Hanoi,Industrials,Freight & Logistics Services,₫159.88B,6.4x,,"₫18,400",-3.7%
+546,DTT,Do Thanh Tech,Ho Chi Minh,Basic Materials,Containers & Packaging,₫159.37B,42.7x,,"₫19,550",0%
+547,PTC,ICAPITAL Investment JSC,Ho Chi Minh,Industrials,Construction & Engineering,₫158.31B,17.6x,,"₫4,900",3.6%
+548,ASP,An Pha Petroleum Group JSC,Ho Chi Minh,Energy,Oil & Gas,₫156.83B,-1.7x,0,"₫4,200",0.2%
+549,CTP,Minh Khang Capital Trading Public JSC,Hanoi,Consumer Non-Cyclicals,Food & Tobacco,₫156.09B,178.9x,,"₫12,900",8.4%
+550,ICG,Song Hong Construction JSC,Hanoi,Industrials,Construction & Engineering,₫156B,61.2x,,"₫7,800",1.3%
+551,TA9,Thanh An 96 Installation,Hanoi,Industrials,Construction & Engineering,₫155.25B,8.1x,0.51,"₫12,500",0.8%
+552,SPM,SPM Corp,Ho Chi Minh,Healthcare,Pharmaceuticals,₫154.22B,8.1x,-0.37,"₫11,200",-0.9%
+553,TCR,Taicera Enterprise Co,Ho Chi Minh,Consumer Cyclicals,Homebuilding & Construction Supplies,₫153.54B,81.7x,,"₫3,380",0%
+554,VTV,Vicem Energy and Environment JSC,Hanoi,Basic Materials,Construction Materials,₫152.88B,-65.8x,-1.76,"₫4,900",0%
+555,FCM,Fecon Mining JSC,Ho Chi Minh,Basic Materials,Construction Materials,₫151.08B,13.9x,,"₫3,350",1.5%
+556,TPC,Tan Dai Hung Plastic JSC,Ho Chi Minh,Basic Materials,Containers & Packaging,₫150.64B,9.5x,,"₫6,690",4.5%
+557,SHA,Son Ha Sai Gon,Ho Chi Minh,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",₫150.51B,11.9x,-0.55,"₫4,500",0.2%
+558,TTT,Tay Ninh Tourist,Hanoi,Consumer Cyclicals,Hotels & Entertainment Services,₫150.36B,554.8x,,"₫32,900",0%
+559,PPP,Phong Phu Pharmaceutical JSC,Hanoi,Healthcare,Pharmaceuticals,₫149.6B,9.3x,-1.27,"₫17,000",-0.6%
+560,BRC,Ben Thanh Rubber JSC,Ho Chi Minh,Consumer Cyclicals,Automobiles & Auto Parts,₫149.12B,6.3x,,"₫11,850",-2.9%
+561,VBC,VBC,Hanoi,Basic Materials,Containers & Packaging,₫147.75B,5.3x,1.81,"₫19,700",0%
+562,NAV,Nam Viet JSC,Ho Chi Minh,Consumer Cyclicals,Homebuilding & Construction Supplies,₫147.2B,16.9x,,"₫18,400",1.7%
+563,KHS,Kien Hung,Hanoi,Consumer Non-Cyclicals,Food & Tobacco,₫145.09B,48x,-0.61,"₫12,000",0%
+564,SDA,Song Da Manpower Supply&Trading JSC,Hanoi,Industrials,Professional & Commercial Services,₫144.13B,12x,0,"₫5,500",5.8%
+565,HAT,Hanoi Beer Trading JSC,Hanoi,Consumer Non-Cyclicals,Food & Drug Retailing,₫143.66B,-8.1x,,"₫46,000",0%
+566,RDP,RangDong Plastic JSC,Ho Chi Minh,Basic Materials,Chemicals,₫143.28B,14.6x,,"₫2,930",4.6%
+567,SJF,Sunstar Investment,Ho Chi Minh,Consumer Non-Cyclicals,Food & Tobacco,₫141.77B,13.2x,,"₫1,790",0%
+568,V12,Viet Nam Construction JSC No 12,Hanoi,Industrials,Construction & Engineering,₫140.8B,"149,466.1x",,"₫12,100",0%
+569,KPF,Hoang Minh Finance Investment JSC,Ho Chi Minh,Real Estate,Real Estate Operations,₫140.6B,5.1x,,"₫2,310",2.2%
+570,LM8,Lilama 18 JSC,Ho Chi Minh,Industrials,Construction & Engineering,₫139.9B,6.6x,,"₫14,900",0%
+571,PSW,South West PetroVietnam Fertil Chem,Hanoi,Basic Materials,Chemicals,₫137.7B,30.3x,,"₫8,200",0%
+572,LGL,Long Giang Investment and Urban Dev,Ho Chi Minh,Industrials,Construction & Engineering,₫137.5B,137.7x,,"₫2,680",1.9%
+573,GMH,Quang Tri Minh Hung JSC,Ho Chi Minh,Basic Materials,Construction Materials,₫136.46B,,,"₫8,400",1.6%
+574,PSE,SouthEast Petrovietnam Fertil Chem,Hanoi,Basic Materials,Chemicals,₫135B,16.5x,0.04,"₫10,800",0%
+575,THB,THB,Hanoi,Consumer Non-Cyclicals,Beverages,₫134.81B,43.3x,,"₫11,800",0%
+576,UNI,Sao Mai Viet Investment Dev JSC,Hanoi,Technology,Communications & Networking,₫134.31B,162.9x,0.99,"₫8,600",2.4%
+577,VCA,Vnsteel Vicasa JSC,Ho Chi Minh,Basic Materials,Metals & Mining,₫133.65B,4.4x,,"₫8,800",3.3%
+578,TJC,Transportation&Trading Services JSC,Hanoi,Industrials,Freight & Logistics Services,₫130.72B,3.3x,-0.24,"₫15,200",0%
+579,NST,Ngan Son JSC,Hanoi,Consumer Non-Cyclicals,Food & Tobacco,₫127.7B,7.6x,-0.22,"₫11,400",0%
+580,KDM,New Residential Urban Development Holdings,Hanoi,Basic Materials,Construction Materials,₫125.35B,133.8x,0.86,"₫16,500",-2.9%
+581,TNI,Thanh Nam,Ho Chi Minh,Basic Materials,Metals & Mining,₫124.95B,-8.7x,,"₫2,380",0.4%
+582,PIA,Petrolimex Infor Tech,Hanoi,Technology,Software & IT Services,₫124.8B,8x,,"₫32,000",0%
+583,PMB,North PetroVietnam Fertilizer & Che,Hanoi,Basic Materials,Chemicals,₫122.4B,11.7x,0.05,"₫10,200",-1.9%
+584,MDG,Mien Dong JSC,Ho Chi Minh,Industrials,Construction & Engineering,₫120.8B,8.5x,,"₫11,700",0%
+585,SHE,Son Ha Develop,Hanoi,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",₫119.63B,6.4x,,"₫10,400",0%
+586,HTV,Logistics Vicem JSC,Ho Chi Minh,Industrials,Freight & Logistics Services,₫119.51B,3.3x,,"₫9,120",-1.3%
+587,TMC,Thu Duc Trading&Import Export JSC,Hanoi,Energy,Oil & Gas,₫115.32B,9.7x,0.05,"₫9,300",0%
+588,TV3,Power Engineering Consulting JSC 3,Hanoi,Industrials,Professional & Commercial Services,₫113.26B,7.7x,-0.22,"₫11,900",0.9%
+589,EBS,Educational Book JSC,Hanoi,Consumer Cyclicals,Media & Publishing,₫112.41B,9.7x,,"₫11,000",0%
+590,VTB,Viettronics Tan Binh JSC,Ho Chi Minh,Technology,"Computers, Phones & Household Electronics",₫111.83B,15.8x,,"₫10,300",-0.5%
+591,CAG,Angiang Port,Hanoi,Industrials,Transport Infrastructure,₫110.4B,34.4x,-0.68,"₫8,000",3.9%
+592,HVX,Vicem Hai Van Cement JSC,Ho Chi Minh,Basic Materials,Construction Materials,₫109.63B,13.1x,,"₫2,640",0%
+593,TTH,Tien Thanh Service,Hanoi,Industrials,Diversified Industrial Goods Wholesale,₫108.39B,5.5x,0,"₫2,900",7.4%
+594,DIH,Development Investment Construction Hoi An JSC,Hanoi,Industrials,Construction & Engineering,₫108.24B,3.9x,,"₫15,700",-4.9%
+595,VC1,Construction JSC N0 1,Hanoi,Industrials,Construction & Engineering,₫108B,32.4x,,"₫9,000",4.7%
+596,HTT,Ha Tay Trading,Hanoi,Real Estate,Real Estate Operations,₫107.04B,1.5x,,"₫1,300",0%
+597,HDA,Dong A Paint JSC,Hanoi,Basic Materials,Chemicals,₫104.88B,-25.5x,0.09,"₫3,800",0%
+598,DHP,Hai Phong Elec,Hanoi,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",₫104.41B,8.3x,-1.24,"₫11,000",-3.5%
+599,GTA,Thuan An Wood Processing,Ho Chi Minh,Consumer Cyclicals,Household Goods,₫103.71B,11.1x,,"₫10,550",0%
+600,PNC,Phuong Nam Cultural Joint Stock,Ho Chi Minh,Consumer Cyclicals,Specialty Retailers,₫103.67B,13.2x,,"₫9,600",0%
+601,TDG,TDG Global Investment JSC,Ho Chi Minh,Energy,Oil & Gas,₫100.72B,2.9x,,"₫5,210",1.6%
+602,NHC,Nhi Hiep Brick-Tile JSC,Hanoi,Basic Materials,Construction Materials,₫100.37B,-89.9x,0.51,"₫33,000",0%
+603,PCG,Petrovietnam Gas City Investment and Development J,Hanoi,Energy,Oil & Gas Related Equipment and Services,₫100.01B,154.7x,,"₫5,300",0%
+604,DST,Sao Thang Long Investment JSC,Hanoi,Consumer Cyclicals,Specialty Retailers,₫99.88B,89.1x,-0.91,"₫3,100",3.3%
+605,VHE,Viet Nam Herbs,Hanoi,Consumer Non-Cyclicals,Food & Tobacco,₫99.42B,67.3x,4.38,"₫3,100",3.3%
+606,NSH,Song Hong Aluminum,Hanoi,Basic Materials,Metals & Mining,₫99.33B,111.4x,-1.47,"₫4,800",2.1%
+607,BED,Danangbook,Hanoi,Consumer Cyclicals,Specialty Retailers,₫99B,18.5x,,"₫33,000",0%
+608,STC,Book And Educational Equipment JSC,Hanoi,Technology,Office Equipment,₫97.45B,4.8x,,"₫17,200",0%
+609,KMT,Central Vietnam Metal,Hanoi,Basic Materials,Metals & Mining,₫96.5B,9.2x,,"₫9,800",0%
+610,MCF,Mechanics Construction and Foodstuff JSC,Hanoi,Consumer Non-Cyclicals,Food & Tobacco,₫95.92B,9.6x,,"₫8,900",2.3%
+611,SPC,Saigon Plant Protection JSC,Hanoi,Basic Materials,Chemicals,₫94.77B,-2.8x,0.01,"₫9,000",0%
+612,MEL,Me Lin Steel,Hanoi,Basic Materials,Metals & Mining,₫94.5B,21x,0.09,"₫6,300",0%
+613,DAD,Danang Education Investment And Development JSC,Hanoi,Consumer Cyclicals,Media & Publishing,₫94.12B,7.1x,,"₫20,200",1%
+614,SD6,Song Da N0. 6 JSC,Hanoi,Industrials,Construction & Engineering,₫93.88B,-1.7x,0,"₫2,700",8%
+615,SRB,Sara Group,Hanoi,Technology,Software & IT Services,₫90.72B,,,"₫2,100",0%
+616,PDB,Din Capital Investment,Hanoi,Basic Materials,Construction Materials,₫89.99B,17.7x,,"₫10,100",0%
+617,PV2,PV2 Investment JSC,Hanoi,Real Estate,Real Estate Operations,₫88.49B,35.8x,,"₫2,400",0%
+618,DAG,Dong A Plastic Group JSC,Ho Chi Minh,Consumer Cyclicals,Homebuilding & Construction Supplies,₫86.25B,-0x,0,"₫1,430",0%
+619,PIT,Petrolimex International Trading,Ho Chi Minh,Industrials,Diversified Industrial Goods Wholesale,₫85.97B,-40.1x,,"₫6,050",0%
+620,PEC,Power Engineering,Hanoi,Consumer Non-Cyclicals,Consumer Goods Conglomerates,₫85.66B,5.8x,-0.16,"₫9,000",12.5%
+621,PPY,PetroVietnam Oil Phu Yen,Hanoi,Energy,Oil & Gas,₫85.03B,6.3x,-0.46,"₫9,100",0%
+622,KSQ,CNC Capital Viet Nam JSC,Hanoi,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",₫84B,11.3x,,"₫2,800",3.7%
+623,ITQ,THIEN QUANG GR,Hanoi,Basic Materials,Metals & Mining,₫82.79B,52.1x,,"₫2,600",4%
+624,D11,Real Estate 11,Hanoi,Real Estate,Real Estate Operations,₫82.19B,51.3x,,"₫11,200",0%
+625,INC,IDICO INCON,Hanoi,Industrials,Professional & Commercial Services,₫81.8B,"218,165.2x",,"₫40,900",0%
+626,ADC,ADC,Hanoi,Industrials,Professional & Commercial Services,₫81.55B,5.7x,-0.38,"₫20,500",0%
+627,L40,40 Investment Construction JSC,Hanoi,Industrials,Construction & Engineering,₫80.48B,33.7x,0.01,"₫22,500",0%
+628,SVD,Vu Dang Investment Trading JSC,Ho Chi Minh,Consumer Cyclicals,Textiles & Apparel,₫79.51B,10.8x,,"₫2,950",2.4%
+629,HMR,Hoang Mai Stone JSC,Hanoi,Basic Materials,Construction Materials,₫78.57B,19x,,"₫15,200",8.6%
+630,HCC,Hoa Cam Concrete JSC,Hanoi,Basic Materials,Construction Materials,₫78.22B,9.3x,-0.26,"₫12,000",0%
+631,V21,VINACONEX 21,Hanoi,Industrials,Construction & Engineering,₫78B,"1,128.8x",,"₫6,500",-1.5%
+632,ARM,General Aviation Import Export JSC,Hanoi,Industrials,Aerospace & Defense,₫77.78B,19.9x,,"₫25,000",0%
+633,KST,KASATI,Hanoi,Industrials,Professional & Commercial Services,₫77.3B,11.4x,,"₫12,900",0%
+634,AAM,Mekong Fisheries JSC,Ho Chi Minh,Consumer Non-Cyclicals,Food & Tobacco,₫76.82B,52.2x,,"₫7,350",-7%
+635,PSC,Petrolimex Saigon,Hanoi,Energy,Oil & Gas,₫76.32B,5x,,"₫10,600",0%
+636,ALT,Alta,Hanoi,Basic Materials,Containers & Packaging,₫75.72B,9.1x,-1.15,"₫13,700",0%
+637,CTT,Vinacomin Machinery JSC,Hanoi,Basic Materials,Metals & Mining,₫75.63B,6.1x,0.49,"₫16,100",-1.2%
+638,STP,Song Da Industry Trade JSC,Hanoi,Basic Materials,Containers & Packaging,₫75.63B,6.9x,0.03,"₫9,400",0%
+639,DTA,De Tam JSC,Ho Chi Minh,Real Estate,Real Estate Operations,₫75.47B,8x,,"₫3,980",0%
+640,BKC,BacKan Mineral Joint Stock,Hanoi,Basic Materials,Metals & Mining,₫73.95B,11.1x,0.11,"₫6,300",0%
+641,VCR,VINACONEX ITC,Hanoi,Real Estate,Real Estate Operations,₫73.8B,,,"₫24,600",0.4%
+642,CCM,CPC,Hanoi,Basic Materials,Chemicals,₫72.24B,8.6x,,"₫17,700",0%
+643,CPC,CPC,Hanoi,Basic Materials,Chemicals,₫72.24B,8.6x,,"₫17,700",0%
+644,HAS,Hacisco JSC,Ho Chi Minh,Industrials,Construction & Engineering,₫70.2B,19.9x,,"₫9,000",0%
+645,ATS,Atesco Industrial Cartering,Hanoi,Consumer Non-Cyclicals,Consumer Goods Conglomerates,₫69.65B,269.5x,,"₫19,900",-5.2%
+646,VC9,Construction JSC No 9,Hanoi,Industrials,Construction & Engineering,₫66.78B,41.8x,-1.16,"₫4,000",-4.8%
+647,HU1,HUD1 Investment and Construction,Ho Chi Minh,Industrials,Construction & Engineering,₫66.7B,32.9x,,"₫6,670",-0.4%
+648,BBS,But Son Cement Packing JSC,Hanoi,Basic Materials,Containers & Packaging,₫66B,5x,,"₫11,000",0%
+649,QST,Quang Ninh Book and Educational Equipment JSC,Hanoi,Consumer Cyclicals,Specialty Retailers,₫65.45B,8.7x,0.88,"₫20,200",0%
+650,SVN,Vexilla Viet Nam JSC,Hanoi,Industrials,Construction & Engineering,₫65.1B,145.8x,-2.65,"₫3,100",-3.1%
+651,PBP,Petrovietnam Pac,Hanoi,Basic Materials,Containers & Packaging,₫64.79B,9.8x,0.27,"₫13,500",0.7%
+652,SGD,Educational Book In Ho Chi Minh,Hanoi,Consumer Cyclicals,Media & Publishing,₫63.07B,39.4x,0.04,"₫15,600",0%
+653,TMX,"CEMENT.T., JSC",Hanoi,Basic Materials,Construction Materials,₫63B,17.2x,-0.52,"₫10,500",0%
+654,DS3,Riverway Management 3,Hanoi,Industrials,Transport Infrastructure,₫62.95B,13.5x,0.14,"₫5,900",-1.7%
+655,TTC,Thanh Thanh JSC,Hanoi,Consumer Cyclicals,Homebuilding & Construction Supplies,₫62.38B,8.3x,,"₫10,500",0%
+656,HAD,HAD,Hanoi,Consumer Non-Cyclicals,Beverages,₫62B,13.9x,,"₫15,500",0%
+657,SFN,Saigon Fishing Net JSC,Hanoi,Consumer Cyclicals,Textiles & Apparel,₫60.72B,7.8x,,"₫21,200",0%
+658,MCC,High Grade Brick Tile,Hanoi,Basic Materials,Construction Materials,₫59.83B,14.5x,,"₫12,000",0%
+659,PGN,Plastic Additives JSC,Hanoi,Basic Materials,Chemicals,₫59.63B,11.8x,,"₫6,300",0%
+660,SMN,South Books Educational Equipment,Hanoi,Consumer Cyclicals,Specialty Retailers,₫59.47B,8.1x,,"₫13,500",8%
+661,CVN,"Vinam.,JSC",Hanoi,Industrials,Construction & Engineering,₫59.4B,0.9x,,"₫2,000",0%
+662,DC2,Development Investment Construction Number 2 JSC,Hanoi,Real Estate,Real Estate Operations,₫58.94B,192.6x,-2.86,"₫7,800",-9.3%
+663,NDX,DA NANG HOUSIN,Hanoi,Industrials,Construction & Engineering,₫58.93B,13.6x,-0.26,"₫5,900",-1.7%
+664,VTH,Viet Thai Electric,Hanoi,Basic Materials,Metals & Mining,₫58.46B,10.4x,,"₫7,400",1.4%
+665,PMP,Dam Phu My Packaging JSC,Hanoi,Basic Materials,Containers & Packaging,₫56.7B,8.4x,,"₫13,500",0%
+666,VCM,VINACONEX MEC,Hanoi,Industrials,Professional & Commercial Services,₫56.4B,16.3x,,"₫18,800",9.3%
+667,AGM,An Giang Import Export Co,Ho Chi Minh,Consumer Non-Cyclicals,Food & Tobacco,₫56.06B,22x,,"₫3,080",4.4%
+668,CKV,Cokyvina,Hanoi,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",₫55.96B,29.2x,-1.12,"₫13,800",0%
+669,HKT,Ego Viet Nam Investment JSC,Hanoi,Consumer Non-Cyclicals,Food & Tobacco,₫55.83B,77.4x,-0.91,"₫9,100",-1.1%
+670,VLA,VLA,Hanoi,Technology,Software & IT Services,₫52.35B,476.4x,-4.34,"₫13,100",0%
+671,VTJ,Vi Na Ta Ba Trading,Hanoi,Real Estate,Real Estate Operations,₫47.88B,10.6x,0.03,"₫4,200",0%
+672,MKV,Cai Lay Veterinary Pharmaceutical JSC,Hanoi,Healthcare,Pharmaceuticals,₫47.5B,6.5x,,"₫9,500",3.3%
+673,PTS,Haiphong PTS JSC,Hanoi,Energy,Oil & Gas,₫47.33B,307.6x,-3.07,"₫8,500",0%
+674,DTC,Viglacera Dong Trieu JSC,Hanoi,Basic Materials,Construction Materials,₫46B,36.2x,,"₫4,500",-2.2%
+675,BSC,Ben Thanh Services JSC,Hanoi,Consumer Cyclicals,Specialty Retailers,₫46B,-834.8x,,"₫14,600",0%
+676,AMC,Asia Mineral,Hanoi,Basic Materials,Construction Materials,₫45.6B,8.1x,0.31,"₫16,000",1.9%
+677,BXH,Haiphong Packing VICEM JSC,Hanoi,Basic Materials,Containers & Packaging,₫45.18B,27.5x,,"₫15,000",-9.1%
+678,LBE,LABECO Investment Trading JSC,Hanoi,Consumer Cyclicals,Media & Publishing,₫45B,48.4x,,"₫22,500",0%
+679,DNW,Dong Nai Paint Corporation,Hanoi,Basic Materials,Chemicals,₫44.79B,5.4x,-0.17,"₫29,500",0%
+680,SDN,Dong Nai Paint Corporation,Hanoi,Basic Materials,Chemicals,₫44.79B,5.4x,-0.17,"₫29,500",0%
+681,IHK,Aviation Printing,Hanoi,Industrials,Professional & Commercial Services,₫43.56B,11.1x,-63.3,"₫14,000",0%
+682,ECI,Education Cartography and Illustration JSC,Hanoi,Consumer Cyclicals,Media & Publishing,₫43.12B,10x,,"₫24,500",0%
+683,DVG,Dai Viet Paint JSC,Hanoi,Basic Materials,Chemicals,₫42B,21x,,"₫1,400",-6.7%
+684,KSD,KSD,Hanoi,Consumer Non-Cyclicals,Personal & Household Products & Services,₫42B,279.3x,,"₫3,500",2.9%
+685,ONE,ONE CORP,Hanoi,Technology,Communications & Networking,₫41.05B,8x,,"₫5,200",2%
+686,SSM,Steel Structure Manufacture JSC,Hanoi,Industrials,Construction & Engineering,₫40.72B,-27x,-0.35,"₫8,200",0%
+687,MCO,Investment And Construction JSC No1,Hanoi,Industrials,Construction & Engineering,₫39.81B,183.6x,,"₫9,700",9%
+688,THS,Song Da Thanh Hoa JSC,Hanoi,Consumer Cyclicals,Household Goods,₫38.61B,15.5x,,"₫14,300",0%
+689,VTC,VTC Telecommunications JSC,Hanoi,Technology,Communications & Networking,₫38.5B,38x,,"₫8,500",3.7%
+690,QTC,Quang Nam Transportation Construction JSC,Hanoi,Industrials,Construction & Engineering,₫38.34B,17.3x,0.06,"₫14,200",0%
+691,DXV,Da Nang Construction Building Mater,Ho Chi Minh,Basic Materials,Construction Materials,₫37.72B,8.5x,,"₫3,810",3%
+692,PEN,Petrolimex Installation III,Hanoi,Industrials,Construction & Engineering,₫36.5B,-3.6x,,"₫7,300",0%
+693,TXM,Gypsum And Cement JSC,Hanoi,Basic Materials,Construction Materials,₫35.7B,-19.9x,,"₫5,100",4.1%
+694,CMC,CMC Investment JSC,Hanoi,Consumer Cyclicals,Automobiles & Auto Parts,₫34.21B,20.9x,-1.31,"₫7,500",-2.6%
+695,BPC,Bim Son Packing JSC,Hanoi,Basic Materials,Containers & Packaging,₫33.44B,32.4x,-1.02,"₫8,800",-1.1%
+696,SPI,Spiral Galaxy JSC,Hanoi,Basic Materials,Construction Materials,₫33.39B,7.8x,,"₫2,100",0%
+697,CET,HTC Holding JSC,Hanoi,Basic Materials,Chemicals,₫33.28B,"1,816x",,"₫5,500",7.8%
+698,LCD,Erection Electromechanics Testing JSC,Hanoi,Industrials,Professional & Commercial Services,₫32.55B,-217.5x,,"₫21,700",0%
+699,FID,Vietnam Enterprise Investment Dev,Hanoi,Industrials,Diversified Industrial Goods Wholesale,₫32.13B,-8.4x,0.04,"₫1,300",0%
+700,PTD,Phuc Thinh Design Construction Trad,Hanoi,Industrials,Construction & Engineering,₫31.5B,-51.2x,-0.43,"₫6,300",-6%
+701,TPH,Hanoi Textbooks Printing JSC,Hanoi,Industrials,Professional & Commercial Services,₫30.81B,17.1x,4.78,"₫14,700",8.9%
+702,KKC,Thanh Thai JSC,Hanoi,Basic Materials,Metals & Mining,₫30.68B,8.1x,0.06,"₫5,900",0%
+703,PGT,P TAXI SAIGON,Hanoi,Financials,Banking Services,₫30.5B,6.1x,0.04,"₫3,300",0%
+704,HEV,Higher Educational&Vocational Book,Hanoi,Consumer Cyclicals,Media & Publishing,₫30B,19x,,"₫30,000",0%
+705,PPE,PetroVietnam Power Eng,Hanoi,Industrials,Professional & Commercial Services,₫29.6B,27.3x,,"₫14,800",0%
+706,FUCVREIT,Techcom Vietnam REIT,Ho Chi Minh,Financials,Collective Investments,₫28B,,,"₫5,600",0.4%
+707,SMT,SMT,Hanoi,Technology,Communications & Networking,₫27.88B,9.5x,,"₫5,100",2%
+708,DAE,Educational Book In Da Nang City,Hanoi,Consumer Cyclicals,Media & Publishing,₫26.96B,9x,,"₫14,000",0%
+709,SDC,Song Da Consulting JSC,Hanoi,Industrials,Construction & Engineering,₫26.62B,14.8x,-0.71,"₫10,200",0%
+710,BDW,Binh Dinh Water,Hanoi,Utilities,Water & Related Utilities,₫26.47B,35.6x,-0.85,"₫23,500",0%
+711,PRC,PORTSERCO,Hanoi,Industrials,Freight & Logistics Services,₫24.12B,54.3x,,"₫20,100",0%
+712,VE1,VNECO1,Hanoi,Industrials,Construction & Engineering,₫21.35B,10.6x,,"₫3,600",5.9%
+713,CTC,Hoang Kim Tay Nguyen JSC,Hanoi,Consumer Cyclicals,Specialty Retailers,₫20.54B,1.5x,,"₫1,300",0%
+714,HCT,Haiphong Cement Transport JSC,Hanoi,Basic Materials,Construction Materials,₫19.76B,34.5x,,"₫9,800",0%
+715,CX8,Constrexim,Hanoi,Industrials,Construction & Engineering,₫18.71B,202.6x,,"₫7,000",0%
+716,MHL,Minh Huu Lien,Hanoi,Industrials,Professional & Commercial Services,₫17.45B,-0.8x,0,"₫3,300",0%
+717,BST,Binh Thuan Books and Equipment JSC,Hanoi,Consumer Cyclicals,Media & Publishing,₫15.18B,13.9x,,"₫13,800",0%
+718,TKG,Tung Khanh Trading and,Hanoi,Basic Materials,Metals & Mining,₫12.63B,899.5x,,"₫2,100",5%
+719,BDB,Binh Dinh Book and Equipment JSC,Hanoi,Consumer Cyclicals,Specialty Retailers,₫10.48B,14.1x,-0.34,"₫9,300",0%
+720,VE8,VNECO 8 ELECTR,Hanoi,Industrials,Construction & Engineering,₫9.54B,-8.5x,,"₫5,300",0%
+721,VE3,VNECO 3,Hanoi,Industrials,Construction & Engineering,₫9.37B,-24.2x,0.17,"₫7,100",0%
+722,KTT,KTT,Hanoi,Industrials,Construction & Engineering,₫7.39B,-0.5x,0,"₫2,500",0%
+723,DCT,Dong Nai Roofsheet,Hanoi,Basic Materials,Construction Materials,₫2.13B,0.3x,-0,₫700,0%

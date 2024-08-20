@@ -1,0 +1,53 @@
+1,OTPB,OTP Bank,Budapest,Financials,Banking Services,HUF 4.90T,5.2x,,"HUF 17,700",0%
+2,MBHB,MBH Bank Nyrt,Budapest,Financials,Banking Services,HUF 2.30T,11.7x,0.09,"HUF 7,100",-0.3%
+3,GDRB,Gedeon Richter,Budapest,Healthcare,Pharmaceuticals,HUF 1.89T,8.3x,0.09,"HUF 10,360",-0.4%
+4,MOLB,MOL,Budapest,Energy,Oil & Gas,HUF 1.74T,4x,,"HUF 2,730",0.2%
+5,MTEL,Magyar Telekom,Budapest,Technology,Telecommunications Services,HUF 964.91B,8x,0.09,"HUF 1,066",0.8%
+6,OPUSG,Opus Global,Budapest,Consumer Non-Cyclicals,Consumer Goods Conglomerates,HUF 270.04B,10.4x,0.36,HUF 419,-0.5%
+7,GOPD,GOPD Nyrt,Budapest,Real Estate,Real Estate Operations,HUF 237.60B,"39,600x",,"HUF 9,900",0%
+8,IGNY,4iG Nyrt,Budapest,Technology,Telecommunications Services,HUF 227.94B,-4.8x,0.04,HUF 775,1.2%
+9,BIFR,Budapesti Ingatlan Hasznositasi,Budapest,Real Estate,Real Estate Operations,HUF 137.02B,12.4x,2.5,HUF 524,3.2%
+10,MBHJB,MBH Jelzalogbank Nyrt,Budapest,Financials,Banking Services,HUF 107.02B,108.1x,,HUF 710,-1.4%
+11,ALTS,Alteo Energiaszolgaltato,Budapest,Utilities,Electrical Utilities & IPPs,HUF 91.49B,9.6x,-0.26,"HUF 4,620",-0.9%
+12,AUTW,AutoWallis,Budapest,Consumer Cyclicals,Specialty Retailers,HUF 75.70B,11.4x,-0.24,HUF 143,1.4%
+13,SUNDELL,SunDell Estate Nyrt,Budapest,Real Estate,Real Estate Operations,HUF 71.31B,24.3x,-1.1,"HUF 49,800",0%
+14,ANYB,ANY,Budapest,Industrials,Professional & Commercial Services,HUF 64.99B,11.3x,0.04,"HUF 4,540",-1.1%
+15,SPLUS,Shopper Park Plus Zrt,Budapest,Real Estate,Real Estate Operations,HUF 57.81B,8.6x,-0.17,"HUF 4,407.24",0%
+16,MAST,Masterplast,Budapest,Consumer Cyclicals,Homebuilding & Construction Supplies,HUF 50.46B,-15.4x,0.31,"HUF 3,040",-0.7%
+17,ZWCG,Zwack Unicum Likoripari,Budapest,Consumer Non-Cyclicals,Beverages,HUF 49B,17.2x,-3.38,"HUF 24,500",0.8%
+18,GSPA,Graphisoft Park Se Ingatl Eur,Budapest,Real Estate,Real Estate Operations,HUF 40.99B,9x,0.27,"HUF 4,102.86",1%
+19,UBMH,UBM Holding Nyrt,Budapest,Consumer Non-Cyclicals,Food & Tobacco,HUF 35.56B,,,"HUF 1,500",0%
+20,NATURLAND,Naturland Holding Vagyonkezelo es,Budapest,Healthcare,Pharmaceuticals,HUF 33.99B,,,"HUF 2,460",0%
+21,MULTIHOME,MultiHome Ingatlanforgalmazo Nyrt,Budapest,Consumer Cyclicals,Homebuilding & Construction Supplies,HUF 33.38B,,,HUF 11.20,0%
+22,CIGP,CIG Pannonia,Budapest,Financials,Insurance,HUF 30.82B,8.7x,0.05,HUF 324,0%
+23,DUNA,Duna House,Budapest,Real Estate,Real Estate Operations,HUF 30.75B,13.2x,-0.74,HUF 902,0.9%
+24,DELTA,Delta Technologies Nyrt,Budapest,Technology,Software & IT Services,HUF 28.95B,,,HUF 75.60,1.3%
+25,APPB,Appeninn,Budapest,Real Estate,Real Estate Operations,HUF 27B,3x,0.06,HUF 576,-0.4%
+26,PANP,PannErgy,Budapest,Utilities,Electrical Utilities & IPPs,HUF 21.07B,12.5x,0.34,"HUF 1,395",-0.7%
+27,GLOSTER,Gloster Infokommunikacios Nyrt,Budapest,Technology,Software & IT Services,HUF 15.54B,,,HUF 865,1.2%
+28,KULC,Kulcs Soft Szamitastechnika,Budapest,Technology,Software & IT Services,HUF 12.96B,11.9x,0.61,"HUF 2,160",-1.8%
+29,FRVG_p,Forras Vagyonkezelesi es Prf,Budapest,Financials,Investment Banking & Investment Services,HUF 9.50B,2.1x,,"HUF 1,440",-4%
+30,FRVG,Forras Vagyonkezelesi Befektetesi,Budapest,Financials,Investment Banking & Investment Services,HUF 9.50B,2.5x,,"HUF 1,900",0%
+31,VERTIKAL,Vertikal Nyrt,Budapest,Basic Materials,Chemicals,HUF 9.40B,,,HUF 9.40,0%
+32,NAPZ,NAP Nyrt,Budapest,Financials,Investment Holding Companies,HUF 9.40B,,,"HUF 1,270",-5.2%
+33,EPROLIUSIA,Eprolius Ingatlan Nyrt,Budapest,Real Estate,Real Estate Operations,HUF 7.80B,21.5x,0.04,"HUF 1,280",-1.5%
+34,CIVITA,Civita Nyrt,Budapest,,,HUF 7.10B,,,HUF 590,0%
+35,ASTRASUN,Astrasun Solar Zrt,Budapest,Utilities,Electrical Utilities & IPPs,HUF 6.52B,,,HUF 276,0%
+36,AMIXA,Amixa Holding Nyrt,Budapest,Financials,Investment Banking & Investment Services,HUF 5.57B,-53.7x,,HUF 440,0%
+37,KERMANNIT,Kermann IT Solutions Nyrt,Budapest,Technology,Software & IT Services,HUF 5.46B,,,HUF 500,0%
+38,OXOTH,OXO Technologies Hldng.,Budapest,Financials,Investment Holding Companies,HUF 4.93B,,,"HUF 2,477.05",0%
+39,ESENSEN,eSense Human Resources Szolgaltato,Budapest,Industrials,Professional & Commercial Services,HUF 4.78B,,,HUF 470,-1.7%
+40,DMKER,DM KER Nyrt,Budapest,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",HUF 4.41B,-16.7x,0.02,HUF 37,2.8%
+41,PENSUM,Pensum Nyrt,Budapest,Industrials,Professional & Commercial Services,HUF 4.40B,,,"HUF 2,200",0%
+42,STRTH,STRT Holding Nyrt,Budapest,Financials,Investment Banking & Investment Services,HUF 4.35B,,,HUF 978,0%
+43,MGKR,Megakran Kereskedelmi es Szolgaltato Nyrt,Budapest,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",HUF 4.23B,17.6x,0.08,HUF 4.26,-3.2%
+44,NAVIGATOR,Navigator Investments Nyrt,Budapest,Financials,Investment Banking & Investment Services,HUF 3.54B,,,HUF 80,-4.2%
+45,NUTE,Nutex Befektetesi,Budapest,Healthcare,Pharmaceuticals,HUF 2.81B,16.4x,0.58,HUF 19,6.4%
+46,EPDUFERR,Epduferr Nyrt,Budapest,Basic Materials,Metals & Mining,HUF 2.68B,66.4x,0.57,HUF 38.80,0%
+47,VVT,ViVeTech Nyrt,Budapest,Technology,Software & IT Services,HUF 2.62B,,,HUF 216,0%
+48,ENEFI,ENEFI,Budapest,Utilities,Multiline Utilities,HUF 1.52B,-10.9x,0.44,HUF 226,-2.6%
+49,ORME,Ormester Vagyonvedelmi Nyrt,Budapest,Industrials,Professional & Commercial Services,HUF 1.06B,11.8x,0.14,HUF 470,8.8%
+50,NORDGENERAL,Nordtelekom Tavkozlesi,Budapest,Technology,Telecommunications Services,HUF 805.83M,-11.5x,,HUF 12.50,-9.4%
+51,FUTU,FuturAqua Asvanyviztermelo Vagyonke,Budapest,Consumer Non-Cyclicals,Beverages,HUF 562.59M,13.3x,0.09,HUF 18.70,0%
+52,CHOME,Chameleon Smart Home Zrt,Budapest,Technology,Software & IT Services,,,,HUF 97,0%
+53,POLYDUCT,Polyduct Muanyages Femipari Nyrt,Budapest,Basic Materials,Chemicals,,,,"HUF 12,100",0%

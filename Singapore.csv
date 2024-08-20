@@ -1,0 +1,566 @@
+1,DBSM,DBS,Singapore,Financials,Banking Services,SGD 101.02B,9.6x,1.1,SGD 35.56,2.3%
+2,OCBC,OCBC Bank,Singapore,Financials,Banking Services,SGD 64.37B,8.8x,0.66,SGD 14.33,2.2%
+3,UOBH,UOB,Singapore,Financials,Banking Services,SGD 51.12B,9.2x,2.65,SGD 30.59,1.9%
+4,STEL,SingTel,Singapore,Technology,Telecommunications Services,SGD 49.21B,62.1x,-0.94,SGD 2.98,-1.3%
+5,ADVANC,Advanced Info Service PCL DRC,Singapore,,,SGD 27.18B,22.5x,1.29,SGD 0.92,-1.1%
+6,SIAL,Singapore Airlines,Singapore,Industrials,Passenger Transportation Services,SGD 21.64B,9.6x,0.1,SGD 6.07,-0.8%
+7,WLIL,Wilmar,Singapore,Consumer Non-Cyclicals,Food & Tobacco,SGD 19.48B,9.5x,-0.26,SGD 3.11,-0.3%
+8,STEG,ST Engineering,Singapore,Industrials,Aerospace & Defense,SGD 14.19B,22.1x,2.35,SGD 4.55,-0.2%
+9,JARD,Jardine Matheson,Singapore,Consumer Non-Cyclicals,Consumer Goods Conglomerates,SGD 14.10B,133x,-1.54,SGD 48.50,-1%
+10,CMLT,CapitaLand Integrated Commercial Trust,Singapore,Real Estate,Residential & Commercial REITs,SGD 14.08B,16.5x,0.86,SGD 2.09,-0.5%
+11,CAPN,Capitaland Investment,Singapore,Real Estate,Real Estate Operations,SGD 12.54B,,-0.88,SGD 2.53,0.8%
+12,GELA,Great Eastern Holdings Ltd,Singapore,Financials,Insurance,SGD 12.21B,13.2x,1.07,SGD 25.80,0%
+13,TBEV,Thai Beverage,Singapore,Consumer Non-Cyclicals,Beverages,SGD 12.19B,12x,-1.16,SGD 0.49,2.1%
+14,CAPD,CapitaLand Ascendas,Singapore,Real Estate,Residential & Commercial REITs,SGD 11.92B,85x,-1.02,SGD 2.72,0.7%
+15,SGXL,Singapore Exchange,Singapore,Financials,Investment Banking & Investment Services,SGD 11.06B,18.5x,3.19,SGD 10.34,1.2%
+16,JCYC,Jardine C&C,Singapore,Consumer Non-Cyclicals,Consumer Goods Conglomerates,SGD 10.41B,7.5x,0.44,SGD 26.37,-0.1%
+17,YAZG,Yangzijiang Shipbuilding,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 10.15B,10.2x,0.28,SGD 2.57,-1.2%
+18,HKLD,HK Land Holdings,Singapore,Real Estate,Real Estate Operations,SGD 10.02B,-7x,0.04,SGD 4.54,-0.6%
+19,GENS,Genting Singapore,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 9.90B,14.4x,0.2,SGD 0.81,-1.8%
+20,SCIL,Semb Corp,Singapore,Utilities,Multiline Utilities,SGD 8.47B,8.9x,1.15,SGD 4.74,1.1%
+21,MACT,Mapletree Commercial Trust,Singapore,Real Estate,Residential & Commercial REITs,SGD 6.68B,11.6x,1.29,SGD 1.27,2.4%
+22,MAPL,Mapletree Logistics Trust,Singapore,Real Estate,Residential & Commercial REITs,SGD 6.52B,22x,-0.46,SGD 1.30,0.8%
+23,MAPI,Mapletree Industrial Trust,Singapore,Real Estate,Residential & Commercial REITs,SGD 6.32B,56.6x,-0.92,SGD 2.33,1.8%
+24,SEAT,Seatrium Limited,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 4.83B,-2.8x,0.01,SGD 1.42,-0.7%
+25,SATS,SATS Ltd,Singapore,Industrials,Transport Infrastructure,SGD 4.75B,83.7x,0.32,SGD 3.18,-0.6%
+26,CTDM,City Development,Singapore,Real Estate,Real Estate Operations,SGD 4.51B,15x,-0.2,SGD 5.06,0.2%
+27,CTDM_p,City Developments Ltd Pref,Singapore,Real Estate,Real Estate Operations,SGD 4.51B,15x,,SGD 0.98,0%
+28,UTOS,UOL Group,Singapore,Real Estate,Real Estate Operations,SGD 4.42B,6.3x,0.14,SGD 5.23,0.8%
+29,OLAG,Olam Group,Singapore,Consumer Non-Cyclicals,Food & Tobacco,SGD 4.36B,17.9x,-0.29,SGD 1.14,-0.9%
+30,FCRT,Frasers Centrepoint Trust,Singapore,Real Estate,Residential & Commercial REITs,SGD 4.17B,21.5x,-1.41,SGD 2.30,0.4%
+31,VENM,Venture Corporation Ltd,Singapore,Technology,Electronic Equipment & Parts,SGD 4.14B,16.3x,-0.66,SGD 14.28,1.7%
+32,FRAE,Frasers Logistics,Singapore,Real Estate,Residential & Commercial REITs,SGD 3.76B,-29.4x,0.24,SGD 1,0%
+33,KEPE,Keppel DC REIT,Singapore,Real Estate,Residential & Commercial REITs,SGD 3.52B,23.3x,-0.75,SGD 2.03,-1%
+34,SUNT,Suntec REIT,Singapore,Real Estate,Residential & Commercial REITs,SGD 3.47B,18.3x,-0.64,SGD 1.19,1.7%
+35,DFIR,DFI Retail Holdings,Singapore,Consumer Non-Cyclicals,Food & Drug Retailing,SGD 3.40B,21.4x,0.06,SGD 2.51,1.1%
+36,NETL,NetLink,Singapore,Technology,Telecommunications Services,SGD 3.37B,33.1x,-5.73,SGD 0.87,1.2%
+37,GAGR,GoldenAgr,Singapore,Consumer Non-Cyclicals,Food & Tobacco,SGD 3.36B,18.3x,,SGD 0.26,0%
+38,CAPS,CapitaLand Ascott Trust,Singapore,Real Estate,Residential & Commercial REITs,SGD 3.28B,13.4x,-1.56,SGD 0.86,0%
+39,KASA,Keppel REIT,Singapore,Real Estate,Residential & Commercial REITs,SGD 3.16B,26.3x,-0.46,SGD 0.84,0%
+40,FRPL,Frasers Property,Singapore,Real Estate,Real Estate Operations,SGD 3.10B,-79x,0.77,SGD 0.79,0%
+41,CMDG,ComfortDelGro,Singapore,Industrials,Passenger Transportation Services,SGD 3.05B,17x,3.94,SGD 1.41,-0.7%
+42,MOIL,Mandarin Oriental International Ltd,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 2.67B,-5.8x,0.02,SGD 2.12,-1.2%
+43,SIAE,SIA Engg,Singapore,Industrials,Transport Infrastructure,SGD 2.57B,25x,0.87,SGD 2.29,0.9%
+44,PARA,Paragon REIT,Singapore,Real Estate,Residential & Commercial REITs,SGD 2.53B,9.9x,0.1,SGD 0.88,1.7%
+45,SIND,Singapore Land Group,Singapore,Real Estate,Real Estate Operations,SGD 2.52B,12.3x,,SGD 1.76,0%
+46,KEPL,Keppel Infra REIT,Singapore,Basic Materials,Chemicals,SGD 2.27B,50.6x,2.02,SGD 0.46,0%
+47,HPAR,Haw Par Corporation Ltd,Singapore,Healthcare,Pharmaceuticals,SGD 2.27B,9.7x,0.22,SGD 10.25,-0.1%
+48,SHEN,Sheng Siong Group Ltd,Singapore,Consumer Non-Cyclicals,Food & Drug Retailing,SGD 2.26B,16.4x,3.18,SGD 1.51,-0.7%
+49,TIAN,Tianjin Zhongxin Pharma Group,Singapore,Healthcare,Pharmaceuticals,SGD 2.25B,26x,-2.9,SGD 2.92,-0.4%
+50,STAR,StarHub,Singapore,Technology,Telecommunications Services,SGD 2.20B,14.9x,0.09,SGD 1.27,-1.5%
+51,PWLR,Parkway Life REIT,Singapore,Real Estate,Residential & Commercial REITs,SGD 2.19B,20.9x,0.12,SGD 3.62,0.8%
+52,FRLD,First Resources Ltd,Singapore,Consumer Non-Cyclicals,Food & Tobacco,SGD 2.17B,11.4x,-0.2,SGD 1.40,0%
+53,IFAS,iFAST Corporation,Singapore,Technology,Financial Technology (Fintech) & Infrastructure,SGD 2.16B,41.5x,0.09,SGD 7.26,1.3%
+54,ESRO,ESR-REIT,Singapore,Real Estate,Residential & Commercial REITs,SGD 2B,-26x,0.07,SGD 0.25,0%
+55,HPPS,Hotel Properties Ltd,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 1.85B,2.8x,0,SGD 3.53,0%
+56,FRNM,F & N,Singapore,Consumer Non-Cyclicals,Food & Tobacco,SGD 1.78B,10.8x,0.94,SGD 1.22,0%
+57,RAFG,Raffles Medical Group Ltd,Singapore,Healthcare,Healthcare Providers & Services,SGD 1.69B,27.6x,-0.47,SGD 0.91,0.5%
+58,GUOC,GuocoLand Ltd,Singapore,Real Estate,Real Estate Operations,SGD 1.62B,8.4x,-0.18,SGD 1.46,-0.7%
+59,OUEI,OUE Commercial,Singapore,Real Estate,Residential & Commercial REITs,SGD 1.54B,7.6x,-0.33,SGD 0.28,3.7%
+60,CAPC,CapitaLand India Trust,Singapore,Real Estate,Residential & Commercial REITs,SGD 1.49B,8.1x,0.21,SGD 1.11,1.8%
+61,HPHT,Hutchison Port Holdings Trust,Singapore,Industrials,Transport Infrastructure,SGD 1.44B,28.7x,-0.74,SGD 0.17,0%
+62,RVHL,Riverstone Holdings Ltd,Singapore,Healthcare,Healthcare Equipment & Supplies,SGD 1.36B,16.8x,0.46,SGD 0.92,2.2%
+63,UOKH,UOB Kay Hian Holdings Ltd,Singapore,Financials,Investment Banking & Investment Services,SGD 1.32B,5.9x,0.12,SGD 1.41,4.4%
+64,LEND,Lendlease,Singapore,Real Estate,Residential & Commercial REITs,SGD 1.26B,22.4x,-0.53,SGD 0.53,0%
+65,FAEH,Far East Hospitality Trust,Singapore,Real Estate,Residential & Commercial REITs,SGD 1.25B,10.7x,-0.32,SGD 0.62,0.8%
+66,HBEE,Ho Bee Land Ltd,Singapore,Real Estate,Real Estate Operations,SGD 1.23B,-12.9x,0.02,SGD 1.85,-1.6%
+67,BUMI,Bumitama Agri Ltd,Singapore,Consumer Non-Cyclicals,Food & Tobacco,SGD 1.21B,6.8x,-0.48,SGD 0.70,-0.7%
+68,FSCA,First Sponsor Group Ltd,Singapore,Real Estate,Real Estate Operations,SGD 1.20B,82.3x,-1.09,SGD 1.07,-0.9%
+69,YANZ,Yangzijiang Financial Holding,Singapore,Financials,Investment Banking & Investment Services,SGD 1.19B,8.5x,0.19,SGD 0.35,1.5%
+70,SRTA,Sri Trang Agro Industry F,Singapore,Consumer Cyclicals,Automobiles & Auto Parts,SGD 1.18B,-60x,0.21,SGD 0.77,0%
+71,CAPA,CapitaLand China Trust,Singapore,Real Estate,Residential & Commercial REITs,SGD 1.11B,71.7x,-0.83,SGD 0.65,0.8%
+72,CROM,Cromwell European RE,Singapore,Real Estate,Residential & Commercial REITs,SGD 1.10B,-26.5x,-4.82,SGD 1.96,0%
+73,STHL,Starhill Global REIT,Singapore,Real Estate,Residential & Commercial REITs,SGD 1.09B,17x,-0.57,SGD 0.48,2.1%
+74,HLSF,Hong Leong Finance Ltd,Singapore,Financials,Banking Services,SGD 1.09B,11.7x,-0.4,SGD 2.44,0.4%
+75,CDLT,CDL Hospitality Trusts,Singapore,Real Estate,Residential & Commercial REITs,SGD 1.08B,8.5x,-0.25,SGD 0.87,0.6%
+76,BEST,Best World International,Singapore,Consumer Cyclicals,Specialty Retailers,SGD 1.07B,9x,-1.73,SGD 2.51,0%
+77,DIGT,Digital Core REIT Unt,Singapore,Real Estate,Residential & Commercial REITs,SGD 1.01B,-7.1x,0.01,SGD 0.79,1.7%
+78,SPOS,Singapore Post Ltd,Singapore,Industrials,Freight & Logistics Services,SGD 990.04M,14.5x,0.04,SGD 0.44,0%
+79,HRGS,Hour Glass,Singapore,Consumer Cyclicals,Specialty Retailers,SGD 985.12M,6.4x,-0.8,SGD 1.52,0.7%
+80,WTHS,Wing Tai Holdings Ltd,Singapore,Real Estate,Real Estate Operations,SGD 949.96M,-26x,0.21,SGD 1.25,0%
+81,SRIT,Sri Trang Gloves,Singapore,Healthcare,Healthcare Equipment & Supplies,SGD 936.46M,168.6x,-1.91,SGD 0.35,0%
+82,AIMA,AIMS AMP Capital,Singapore,Real Estate,Residential & Commercial REITs,SGD 911.88M,23.3x,-0.4,SGD 1.27,0%
+83,OVES,OUE Ltd,Singapore,Real Estate,Real Estate Operations,SGD 857.19M,-15.7x,-0.17,SGD 1.02,1%
+84,SASS,Sasseur REIT Unit,Singapore,Real Estate,Residential & Commercial REITs,SGD 853.28M,13.7x,,SGD 0.69,0%
+85,BSES,Bukit Sembawang Estates Ltd,Singapore,Real Estate,Real Estate Operations,SGD 844.05M,12x,0.11,SGD 3.26,-1.2%
+86,YNLG,Yanlord,Singapore,Real Estate,Real Estate Operations,SGD 840.22M,-1.8x,0.03,SGD 0.44,0%
+87,FRHO,Frasers Hospitality Trust,Singapore,Real Estate,Residential & Commercial REITs,SGD 828.21M,9.4x,0.4,SGD 0.43,2.4%
+88,PCEN,Pacific Century Regional Develop,Singapore,Financials,Investment Holding Companies,SGD 807.32M,-25.4x,0.07,SGD 0.31,0%
+89,SBVV,SBS Transit Ltd,Singapore,Industrials,Passenger Transportation Services,SGD 761.20M,11.2x,7.17,SGD 2.44,-0.8%
+90,SINA,Sinarmas Land Ltd,Singapore,Industrials,Professional & Commercial Services,SGD 753.16M,3x,-0.12,SGD 0.18,0%
+91,UMSH,UMS Holdings Ltd,Singapore,Technology,Semiconductors & Semiconductor Equipment,SGD 746.06M,14.3x,-0.3,SGD 1.04,1%
+92,CNAO,China Aviation Oil Singapore Corp,Singapore,Industrials,Transport Infrastructure,SGD 744.06M,6.9x,0.13,SGD 0.87,0.6%
+93,AZTE,Aztech Global,Singapore,Technology,Electronic Equipment & Parts,SGD 729.34M,7.5x,0.13,SGD 0.94,-0.5%
+94,JAPF,Japfa Ltd,Singapore,Consumer Non-Cyclicals,Food & Tobacco,SGD 702.77M,7.1x,0.04,SGD 0.34,1.5%
+95,SLVX,Silverlake Axis Ltd,Singapore,Technology,Financial Technology (Fintech) & Infrastructure,SGD 691.56M,14.7x,-1.2,SGD 0.28,-1.8%
+96,CEWL,China Everbright Water Ltd,Singapore,Utilities,Water & Related Utilities,SGD 686.61M,3.4x,0.2,SGD 0.24,2.1%
+97,HALC,HALCYON Agri Corp Ltd,Singapore,Consumer Cyclicals,Automobiles & Auto Parts,SGD 653.95M,-5.3x,0.02,SGD 0.41,0%
+98,HRNE,HRnetGroup,Singapore,Industrials,Professional & Commercial Services,SGD 652.12M,11.5x,-2.25,SGD 0.67,1.5%
+99,DMHL,Dyna Mac Holdings Ltd,Singapore,Energy,Oil & Gas Related Equipment and Services,SGD 637.98M,10.8x,0.07,SGD 0.59,-0.8%
+100,HONG,Hong Fok Corporation Ltd,Singapore,Real Estate,Real Estate Operations,SGD 626.76M,5.8x,-0.12,SGD 0.76,0.7%
+101,FREN,Frencken Group Ltd,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 593.66M,18.3x,-0.44,SGD 1.39,0%
+102,BRCA,BRC Asia Ltd,Singapore,Consumer Cyclicals,Homebuilding & Construction Supplies,SGD 592.60M,6.8x,0.47,SGD 2.16,0%
+103,PROP,PropNex,Singapore,Real Estate,Real Estate Operations,SGD 584.60M,13.2x,-0.51,SGD 0.79,1.3%
+104,STCM,Straits Trading Company Ltd,Singapore,Basic Materials,Metals & Mining,SGD 582.39M,-14.9x,0.19,SGD 1.30,0.8%
+105,CNCL,Centurion,Singapore,Real Estate,Real Estate Operations,SGD 554.91M,2.4x,0.03,SGD 0.66,0.8%
+106,SFLD,Stamford Land Corporation Ltd,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 548.94M,92.5x,-0.96,SGD 0.37,1.4%
+107,FRET,First REIT,Singapore,Real Estate,Residential & Commercial REITs,SGD 533.01M,8.5x,0.09,SGD 0.25,0%
+108,HGCS,Hotel Grand Central Ltd,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 532.39M,45x,0.03,SGD 0.72,-0.7%
+109,HLAA,Hong Leong Asia Ltd,Singapore,Consumer Cyclicals,Automobiles & Auto Parts,SGD 527.32M,6.3x,0.43,SGD 0.70,0%
+110,FEMP,Food Empire Holdings Ltd,Singapore,Consumer Non-Cyclicals,Food & Tobacco,SGD 510.20M,7.2x,-1.15,SGD 0.97,0%
+111,TALK,Talkmed Group Ltd,Singapore,Healthcare,Healthcare Providers & Services,SGD 504.13M,18.1x,-1.68,SGD 0.38,0%
+112,DELF,Delfi,Singapore,Consumer Non-Cyclicals,Food & Tobacco,SGD 501.15M,9.5x,1.57,SGD 0.82,-1.2%
+113,CORT,Cortina,Singapore,Consumer Cyclicals,Specialty Retailers,SGD 495.08M,8.1x,-0.42,SGD 2.99,0%
+114,FARE,Far East Orchard Ltd,Singapore,Real Estate,Real Estate Operations,SGD 489.10M,6.4x,0.04,SGD 1,0%
+115,ZHEN,Zheneng Jinjiang Environment Holding Co Ltd,Singapore,Energy,Renewable Energy,SGD 479.34M,9.2x,-0.67,SGD 0.33,-7%
+116,VCOM,Vicom Ltd,Singapore,Industrials,Professional & Commercial Services,SGD 471.58M,17x,5.91,SGD 1.33,0.8%
+117,QAFS,QAF Ltd,Singapore,Consumer Non-Cyclicals,Food & Tobacco,SGD 468.84M,13.4x,,SGD 0.81,0.6%
+118,BTSS,Boustead Singapore Ltd,Singapore,Industrials,Construction & Engineering,SGD 460.76M,7.2x,0.17,SGD 0.96,0%
+119,NANO,Nanofilm,Singapore,Basic Materials,Chemicals,SGD 458.96M,72.8x,-1.63,SGD 0.71,0.7%
+120,CIVM,Civmec Ltd,Singapore,Industrials,Construction & Engineering,SGD 451.76M,9x,1.24,SGD 0.89,0%
+121,SAMU,Samudera Shipping Line Ltd,Singapore,Industrials,Freight & Logistics Services,SGD 446.57M,6.1x,-0.08,SGD 0.83,2.5%
+122,GLVT,Gallant Venture Ltd,Singapore,Consumer Cyclicals,Automobiles & Auto Parts,SGD 431.59M,-9.9x,0.01,SGD 0.08,0%
+123,UOIS,United Overseas Insurance,Singapore,Financials,Insurance,SGD 431.14M,13.7x,0.42,SGD 7.05,0%
+124,TCIL,Tan Chong International Ltd,Singapore,Industrials,Freight & Logistics Services,SGD 429.97M,8.9x,-0.28,SGD 0.21,0%
+125,MEWI,Mewah International Inc,Singapore,Consumer Non-Cyclicals,Food & Tobacco,SGD 412.68M,7.7x,-0.12,SGD 0.28,0%
+126,DAIW,Daiwa House Logistics Trust Unt,Singapore,Real Estate,Residential & Commercial REITs,SGD 407.77M,9.8x,-0.14,SGD 0.59,0.9%
+127,IFAR,Indofood Agri Resources Ltd,Singapore,Consumer Non-Cyclicals,Food & Tobacco,SGD 404.81M,7.8x,-0.39,SGD 0.29,0%
+128,IREI,IREIT Global,Singapore,Real Estate,Residential & Commercial REITs,SGD 396.73M,-2.4x,0.01,SGD 0.29,0%
+129,STRA,Straco Corporation Ltd,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 393.51M,13.1x,0.05,SGD 0.46,0%
+130,SIIC,SIIC Environment,Singapore,Utilities,Water & Related Utilities,SGD 391.50M,3.9x,-0.14,SGD 0.15,-2.6%
+131,VAMG,Valuemax Group Ltd,Singapore,Consumer Cyclicals,Specialty Retailers,SGD 390.64M,6.4x,0.51,SGD 0.45,4.7%
+132,GEOE,Geo Energy Resources Ltd,Singapore,Energy,Coal,SGD 385.50M,4.8x,-0.18,SGD 0.28,0%
+133,KIML,Kimly,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 384.93M,11.1x,3.34,SGD 0.31,0%
+134,AEM,Aem Holdings Ltd,Singapore,Technology,Semiconductors & Semiconductor Equipment,SGD 379.84M,-26.7x,0.27,SGD 1.22,-1.6%
+135,BVHS,Bonvests Holdings Ltd,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 371.40M,51.4x,-0.79,SGD 0.93,0%
+136,SABA,Sabana Shariah Industrial REIT,Singapore,Real Estate,Residential & Commercial REITs,SGD 365.64M,20.6x,-0.31,SGD 0.32,-1.5%
+137,CHSN,China Sunsine Chemical Holdings Ltd,Singapore,Basic Materials,Chemicals,SGD 362.96M,5.4x,-0.12,SGD 0.38,0%
+138,PANU,Pan United Corporation Ltd,Singapore,Basic Materials,Construction Materials,SGD 352.43M,9x,0.14,SGD 0.50,1%
+139,UNIE,United Hampshire,Singapore,Real Estate,Residential & Commercial REITs,SGD 335.61M,8.4x,0.34,SGD 0.58,1.2%
+140,MTHL,Metro Holdings Ltd,Singapore,Consumer Cyclicals,Diversified Retail,SGD 335.35M,22.5x,-0.56,SGD 0.41,0%
+141,KPEL,Keppel Pacific Oak,Singapore,Real Estate,Residential & Commercial REITs,SGD 331.47M,-3.5x,0.01,SGD 0.32,2.1%
+142,CSES,CSE Global Ltd,Singapore,Technology,Software & IT Services,SGD 329.14M,11.2x,0.1,SGD 0.47,2.2%
+143,AMRA,Amara Holdings Ltd,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 327.73M,47.5x,4.23,SGD 0.57,1.8%
+144,GSHC,GSH Corporation Ltd,Singapore,Industrials,Professional & Commercial Services,SGD 326.59M,-55.3x,-0.72,SGD 0.17,0%
+145,YHSS,Yeo Hiap Seng Ltd,Singapore,Consumer Non-Cyclicals,Food & Tobacco,SGD 324.70M,47.3x,0.28,SGD 0.52,0%
+146,OXHL,Oxley Holdings Ltd,Singapore,Real Estate,Real Estate Operations,SGD 317.31M,-3.5x,0.01,SGD 0.08,0%
+147,PRIE,Prime US REIT,Singapore,Real Estate,Residential & Commercial REITs,SGD 314.85M,-1.8x,0.01,SGD 0.25,2.2%
+148,AZEU,Azeus Systems Holdings Ltd,Singapore,Technology,Software & IT Services,SGD 309M,21.5x,0.29,SGD 10.30,0%
+149,BANY,Banyan Tree Holdings Ltd,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 303.65M,9.5x,0,SGD 0.35,0%
+150,COSC,COSCO Corp,Singapore,Industrials,Freight & Logistics Services,SGD 302.30M,135x,1.51,SGD 0.14,0%
+151,ISET,Isetan Singapore Ltd,Singapore,Consumer Cyclicals,Diversified Retail,SGD 294.94M,-476.7x,1.18,SGD 7.15,-0.1%
+152,BCIL,Bund Center Investment Ltd,Singapore,Real Estate,Real Estate Operations,SGD 284.54M,26.8x,0.11,SGD 0.38,0%
+153,SECD,Second Chance Properties Ltd,Singapore,Consumer Cyclicals,Specialty Retailers,SGD 278.34M,18.8x,-0.9,SGD 0.30,0%
+154,HIAP,Hiap Hoe Ltd,Singapore,Real Estate,Real Estate Operations,SGD 277.63M,49.2x,0.4,SGD 0.59,0%
+155,TSHS,Tuan Sing Holdings Ltd,Singapore,Real Estate,Real Estate Operations,SGD 273.60M,53.8x,14.32,SGD 0.22,0%
+156,NATS,NSL Ltd,Singapore,Basic Materials,Construction Materials,SGD 272.70M,-11.6x,0.05,SGD 0.73,-0.7%
+157,MCHE,Multi Chem Ltd,Singapore,Technology,"Computers, Phones & Household Electronics",SGD 256.77M,8x,0.17,SGD 2.85,0.7%
+158,QMDT,Q & M Dental Group Singapore Ltd,Singapore,Healthcare,Healthcare Providers & Services,SGD 255.68M,15.9x,15.56,SGD 0.27,-1.8%
+159,ELIE,Elite Comm,Singapore,Real Estate,Residential & Commercial REITs,SGD 254.49M,-6.3x,-0.21,SGD 0.43,0%
+160,VLUE,Valuetronics Holdings Ltd,Singapore,Technology,Electronic Equipment & Parts,SGD 246.78M,9.1x,0.27,SGD 0.60,0.8%
+161,YOMA,Yoma Strategic Holdings Ltd,Singapore,Real Estate,Real Estate Operations,SGD 245.84M,9.8x,0.07,SGD 0.10,0%
+162,GPEI,GP Industries Ltd,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 244.34M,-4.2x,0.01,SGD 0.50,0%
+163,SINV,Sing Investments & Finance Ltd,Singapore,Financials,Banking Services,SGD 231.71M,7.1x,-2.25,SGD 0.98,1%
+164,SOUH,Southern Alliance,Singapore,Basic Materials,Metals & Mining,SGD 229.72M,-397.5x,-4.74,SGD 0.47,0%
+165,ECWO,EC World REIT,Singapore,Real Estate,Residential & Commercial REITs,SGD 226.75M,-0.5x,0,SGD 0.28,0%
+166,BHGR,BHG Retail REIT,Singapore,Real Estate,Residential & Commercial REITs,SGD 220.83M,-60.7x,0.42,SGD 0.43,-15%
+167,ISEC,ISEC Healthcare,Singapore,Healthcare,Healthcare Providers & Services,SGD 215.70M,16.3x,,SGD 0.38,0%
+168,LKH,Low Keng Huat Singapore Ltd,Singapore,Industrials,Construction & Engineering,SGD 214.26M,-145x,-1.92,SGD 0.29,0%
+169,CRED,Credit Bureau,Singapore,Industrials,Professional & Commercial Services,SGD 207.35M,18.8x,0.89,SGD 0.90,0%
+170,HTRS,Hotel Royal Ltd,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 205.63M,54.8x,0.5,SGD 1.70,0.6%
+171,OCGL,Oceanus Group Ltd,Singapore,Consumer Non-Cyclicals,Food & Drug Retailing,SGD 205.32M,-44.7x,-1.52,SGD 0.008,0%
+172,WHHL,Wee Hur Holdings Ltd,Singapore,Industrials,Construction & Engineering,SGD 202.23M,1x,0,SGD 0.22,0%
+173,MMEC,Micro Mechanics Holdings Ltd,Singapore,Technology,Semiconductors & Semiconductor Equipment,SGD 200.21M,25.3x,-0.62,SGD 1.44,0%
+174,ASPL,Aspial Lifestyle,Singapore,Consumer Cyclicals,Specialty Retailers,SGD 198.02M,7.5x,-3.74,SGD 0.13,0.8%
+175,MAPM,Marco Polo Marine Ltd,Singapore,Industrials,Freight & Logistics Services,SGD 195.19M,6.5x,0.08,SGD 0.05,0%
+176,MMPC,Mermaid Maritime PCL,Singapore,Energy,Oil & Gas,SGD 193.63M,363.5x,0.03,SGD 0.14,-0.7%
+177,PGUN,Penguin International Ltd,Singapore,Industrials,Passenger Transportation Services,SGD 189.35M,11x,0.06,SGD 0.86,-2.3%
+178,GRAN,Grand Venture,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 186.61M,29x,-0.55,SGD 0.55,0%
+179,GLNV,Global Invest,Singapore,Financials,Collective Investments,SGD 185.82M,9.5x,0.17,SGD 0.11,1.8%
+180,PSCC,PSC Corporation,Singapore,Basic Materials,Containers & Packaging,SGD 182.63M,7.9x,0.19,SGD 0.33,-1.5%
+181,MANU,Manulife US RE,Singapore,Real Estate,Residential & Commercial REITs,SGD 180.90M,-1.2x,-0.02,SGD 0.10,2.7%
+182,ARAU,ARA US Hospitality,Singapore,Real Estate,Residential & Commercial REITs,SGD 180.26M,-8.3x,,SGD 0.30,-2.1%
+183,TAIS,Tai Sin Electric Ltd,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 179.50M,15.6x,-0.28,SGD 0.39,-1.3%
+184,SUNP,Sunpower Group Ltd,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 179.03M,3.9x,0.03,SGD 0.22,0%
+185,ATLA,Atlantic Navigation Singapore,Singapore,Energy,Oil & Gas Related Equipment and Services,SGD 177.99M,4.6x,0.12,SGD 0.34,1.5%
+186,AVAR,Avarga,Singapore,Consumer Cyclicals,Homebuilding & Construction Supplies,SGD 172.58M,19x,-0.2,SGD 0.19,-2.6%
+187,HLSG,Hock Lian Seng Holdings Ltd,Singapore,Industrials,Construction & Engineering,SGD 166.43M,4.4x,0.04,SGD 0.32,1.6%
+188,ASTA,Astaka Holdings,Singapore,Real Estate,Real Estate Operations,SGD 164.51M,-666.8x,-13.58,SGD 0.09,0%
+189,DMPL,Del Monte Pacific Ltd,Singapore,Consumer Non-Cyclicals,Food & Tobacco,SGD 161.35M,-0.9x,0,SGD 0.08,5.1%
+190,LMRT,Lippo Malls Indonesia,Singapore,Real Estate,Residential & Commercial REITs,SGD 153.94M,-1.4x,0,SGD 0.02,-5%
+191,JUMB,JUMBO Group Ltd,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 153.72M,10.6x,0.37,SGD 0.25,0%
+192,JBFO,JB Foods Ltd,Singapore,Consumer Non-Cyclicals,Food & Tobacco,SGD 151.60M,63.1x,-0.67,SGD 0.50,0%
+193,ASPA,Aspial Corporation Ltd,Singapore,Consumer Cyclicals,Textiles & Apparel,SGD 150.94M,-13.6x,0.09,SGD 0.07,0%
+194,LIVE,17LIVE,Singapore,Technology,Software & IT Services,SGD 150.83M,-0.6x,0,SGD 0.86,0.6%
+195,GHYC,Ghy Culture,Singapore,Consumer Cyclicals,Media & Publishing,SGD 149.46M,-5.6x,0.04,SGD 0.14,0%
+196,CHHS,Chuan Hup Holdings Ltd,Singapore,Real Estate,Real Estate Operations,SGD 149.11M,24.7x,0.52,SGD 0.16,0%
+197,HFRY,Hafary Holdings Ltd,Singapore,Consumer Cyclicals,Homebuilding & Construction Supplies,SGD 148.54M,4.4x,0.12,SGD 0.34,0%
+198,YHII,YHI International Ltd,Singapore,Consumer Cyclicals,Automobiles & Auto Parts,SGD 144.40M,10.8x,-0.28,SGD 0.50,0%
+199,ASIA,Asian Pay Television Trust,Singapore,Consumer Cyclicals,Media & Publishing,SGD 142.70M,-0.4x,0,SGD 0.08,1.3%
+200,APAC,APAC Realty,Singapore,Real Estate,Real Estate Operations,SGD 138.53M,12.6x,-0.47,SGD 0.39,0%
+201,SOIL,Soilbuild Construction Group Ltd,Singapore,Industrials,Construction & Engineering,SGD 137.01M,13.8x,0.14,SGD 0.08,0%
+202,LHNL,LHN,Singapore,Real Estate,Real Estate Operations,SGD 133.85M,3.8x,0.74,SGD 0.32,0%
+203,MFSL,Moneymax Financial Services Ltd,Singapore,Consumer Cyclicals,Specialty Retailers,SGD 132.68M,4.5x,1.78,SGD 0.30,7.1%
+204,JEPH,JEP,Singapore,Industrials,Construction & Engineering,SGD 132.17M,64x,-1.01,SGD 0.32,0%
+205,HOTU,Hotung Investment Holdings Ltd,Singapore,Financials,Investment Banking & Investment Services,SGD 131.83M,-48x,0.36,SGD 1.39,0.7%
+206,REXI,Rex International Holding Ltd,Singapore,Energy,Oil & Gas,SGD 131.53M,-1.3x,0,SGD 0.10,2%
+207,BATE,Baker Technology Ltd,Singapore,Energy,Oil & Gas Related Equipment and Services,SGD 130.86M,8.2x,0.09,SGD 0.64,-0.8%
+208,SHDS,Sing Holdings Ltd,Singapore,Real Estate,Real Estate Operations,SGD 130.32M,17.1x,-11.4,SGD 0.32,-1.5%
+209,PECL,PEC Ltd,Singapore,Energy,Oil & Gas Related Equipment and Services,SGD 130.13M,14.3x,-0.59,SGD 0.51,0%
+210,UNUS,Unusual,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 127.62M,15.5x,0.05,SGD 0.12,0.8%
+211,RESH,RE&S,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 127.38M,27.7x,-0.46,SGD 0.36,0%
+212,RHPG,RH Petrogas Ltd,Singapore,Energy,Oil & Gas,SGD 125.28M,12.6x,-0.31,SGD 0.15,-1.3%
+213,ISDN,ISDN Holdings Ltd,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 122.65M,30.6x,-0.38,SGD 0.28,-1.8%
+214,OUEE,OUE Healthcare,Singapore,Healthcare,Healthcare Providers & Services,SGD 119.96M,27x,0.3,SGD 0.03,0%
+215,NRGL,Nordic Group Ltd,Singapore,Industrials,Construction & Engineering,SGD 119.73M,8.3x,-0.3,SGD 0.30,3.4%
+216,TASE,Tat Seng Packaging Group Ltd,Singapore,Basic Materials,Containers & Packaging,SGD 119.47M,5.8x,0.42,SGD 0.76,0%
+217,ZBRG,Zhongmin Baihui Retail Group Ltd,Singapore,Consumer Cyclicals,Diversified Retail,SGD 118.82M,20.8x,0.06,SGD 0.62,0%
+218,FORR,Fortress Minerals,Singapore,Basic Materials,Metals & Mining,SGD 115.13M,10.2x,-0.49,SGD 0.25,13.6%
+219,INTK,InnoTek Ltd,Singapore,Technology,Office Equipment,SGD 114.50M,26x,0.24,SGD 0.50,-1%
+220,NMCG,Nam Cheong,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 113.75M,0.1x,0,SGD 0.28,-1.7%
+221,SLBD,SLB Develop,Singapore,Real Estate,Real Estate Operations,SGD 113.21M,-15.5x,0.11,SGD 0.12,2.5%
+222,TION,Tiong Woon Corporation Holding Ltd,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 112.44M,5.8x,0.07,SGD 0.49,1%
+223,WINK,Winking Studios,Singapore,Industrials,Professional & Commercial Services,SGD 112.43M,42.8x,0.88,SGD 0.29,0%
+224,WPML,World Precision Machinery Ltd,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 112M,-54.3x,0.79,SGD 0.28,0%
+225,PMDS,Powermatic Data Systems Ltd,Singapore,Technology,Communications & Networking,SGD 111.85M,26.7x,-0.52,SGD 3.20,0%
+226,AFGL,AF Global,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 110.84M,-105x,0.93,SGD 0.10,-0.9%
+227,KSHH,KSH Holdings Ltd,Singapore,Industrials,Construction & Engineering,SGD 110.34M,-3.6x,0.01,SGD 0.20,-2.4%
+228,RESU,Resources Global,Singapore,Energy,Coal,SGD 110M,7.6x,-0.24,SGD 0.21,-4.5%
+229,NTYO,New Toyo International Holdings Ltd,Singapore,Basic Materials,Containers & Packaging,SGD 109.72M,8.6x,0.3,SGD 0.25,0%
+230,SBDS,Singapura Finance Ltd,Singapore,Financials,Banking Services,SGD 108.70M,17.6x,-0.63,SGD 0.69,0%
+231,LUCS,Lum Chang Holdings Ltd,Singapore,Industrials,Construction & Engineering,SGD 108.64M,-4.3x,0.06,SGD 0.29,1.8%
+232,AMTI,Amtd International,Singapore,Financials,Investment Banking & Investment Services,SGD 108.02M,0.7x,-0.02,SGD 3.60,0%
+233,EVER,Ever Glory United Holdings,Singapore,Industrials,Construction & Engineering,SGD 105.66M,14.4x,-0.66,SGD 0.41,0%
+234,INTN,International Cement,Singapore,Basic Materials,Construction Materials,SGD 104.56M,6x,-0.16,SGD 0.02,0%
+235,UNIO,Union Gas,Singapore,Utilities,Natural Gas Utilities,SGD 101.69M,8.6x,0.06,SGD 0.32,1.6%
+236,SNEX,Spindex Industries Ltd,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 99.79M,9x,-0.4,SGD 0.87,0%
+237,OKPH,OKP Holdings Ltd,Singapore,Industrials,Construction & Engineering,SGD 96.69M,4.6x,,SGD 0.31,0%
+238,CNMC,CNMC Goldmine Holdings Ltd,Singapore,Basic Materials,Metals & Mining,SGD 95.24M,10.5x,0.01,SGD 0.23,0%
+239,SSHP,Singapore Shipping Corporation Ltd,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 94.14M,7.7x,-0.36,SGD 0.23,0%
+240,FUYU,Fu Yu Corporation Ltd,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 92.96M,-15.3x,0.01,SGD 0.12,-0.8%
+241,METIS,Metis Energy,Singapore,Utilities,Electrical Utilities & IPPs,SGD 91M,-10x,0.03,SGD 0.03,0%
+242,SINI,Singapore Institute of Advanced,Singapore,Healthcare,Healthcare Providers & Services,SGD 89.09M,-3.7x,,SGD 0.09,5.9%
+243,OCKL,Old Chang Kee Ltd,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 88.60M,9.1x,0.16,SGD 0.73,1.4%
+244,HYPH,Hyphens Pharma,Singapore,Healthcare,Pharmaceuticals,SGD 88.03M,8.9x,,SGD 0.28,1.8%
+245,ABRH,ABR,Singapore,Consumer Non-Cyclicals,Food & Tobacco,SGD 87.43M,24.2x,0.55,SGD 0.44,0%
+246,ALSE,Alset International,Singapore,Real Estate,Real Estate Operations,SGD 87.32M,-25x,-0.22,SGD 0.03,0%
+247,BRWY,Broadway Industrial Group Ltd,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 87.29M,6.7x,0.01,SGD 0.19,-1%
+248,HLHL,Hai Leck Holdings Ltd,Singapore,Industrials,Professional & Commercial Services,SGD 85.97M,14.6x,0.47,SGD 0.38,0%
+249,ETIK,Envictus International Holdings Ltd,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 85.17M,-72.5x,-1.04,SGD 0.28,5.6%
+250,CREA,Creative Technology Ltd,Singapore,Technology,"Computers, Phones & Household Electronics",SGD 83.77M,-6.1x,-0.12,SGD 1.19,-3.2%
+251,SNSR,Sinostar PEC Holdings Ltd,Singapore,Energy,Oil & Gas,SGD 82.56M,1.6x,0,SGD 0.13,0%
+252,OVER,Overseas Education Ltd,Singapore,Academic & Educational Services,Miscellaneous Educational Service Providers,SGD 81.41M,12.3x,0.44,SGD 0.20,-2%
+253,ENGR,Engro Corporation Ltd,Singapore,Basic Materials,Construction Materials,SGD 81.31M,-12.9x,0.04,SGD 0.69,0%
+254,THAK,Thakral Corporation Ltd,Singapore,Real Estate,Real Estate Operations,SGD 79.46M,6.9x,,SGD 0.62,-1.6%
+255,DUTY,Duty Free International Ltd,Singapore,Consumer Cyclicals,Specialty Retailers,SGD 79.08M,24.7x,-0.59,SGD 0.07,-2.9%
+256,SARI,Sarine Technologies Ltd,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 78.88M,-21.8x,0.16,SGD 0.23,-4.2%
+257,CHOO,Choo Chiang Holdings Ltd,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 77.87M,7.7x,15.7,SGD 0.38,0%
+258,MTCS,Medtecs International Corporation,Singapore,Healthcare,Healthcare Equipment & Supplies,SGD 75.20M,-2.9x,,SGD 0.14,7%
+259,PROC,Procurri Corporation,Singapore,Technology,Software & IT Services,SGD 74.81M,-19.2x,-0.68,SGD 0.23,0%
+260,UNIS,Union Steel Holdings Ltd,Singapore,Basic Materials,Metals & Mining,SGD 74.42M,5.9x,0.12,SGD 0.63,0%
+261,GBYL,Grand Banks Yachts Ltd,Singapore,Consumer Cyclicals,Leisure Products,SGD 73.85M,5.5x,0.09,SGD 0.40,2.6%
+262,UGHE,UG Healthcare Corporation Ltd,Singapore,Healthcare,Healthcare Equipment & Supplies,SGD 73.61M,-3.5x,0.01,SGD 0.12,9.3%
+263,SEEH,SHS Holdings,Singapore,Industrials,Construction & Engineering,SGD 72.64M,-119x,-0.59,SGD 0.12,0%
+264,LEYC,Ley Choon Group Holdings Ltd,Singapore,Industrials,Construction & Engineering,SGD 72.28M,6.9x,0.37,SGD 0.05,2.1%
+265,KARI,Karin Technology Holdings Ltd,Singapore,Technology,"Computers, Phones & Household Electronics",SGD 70.31M,8.9x,0.08,SGD 0.32,0%
+266,LETL,Leader Environmental Technologies,Singapore,Industrials,Professional & Commercial Services,SGD 69.07M,-12.2x,0.3,SGD 0.05,0%
+267,SHEY,Shen Yao Holdings,Singapore,Basic Materials,Metals & Mining,SGD 67.41M,10x,,SGD 0.002,0%
+268,FSLT,First Ship Lease Trust,Singapore,Industrials,Freight & Logistics Services,SGD 67.19M,14.4x,-0.23,SGD 0.04,0%
+269,MM2A,MM2 Asia,Singapore,Consumer Cyclicals,Media & Publishing,SGD 66.97M,-8x,-0.13,SGD 0.02,0%
+270,OILT,Oiltek International Pte,Singapore,Consumer Non-Cyclicals,Food & Tobacco,SGD 66.50M,11.6x,0.25,SGD 0.46,-2.2%
+271,MTLS,MTQ Corporation Ltd,Singapore,Energy,Oil & Gas Related Equipment and Services,SGD 65.21M,6.9x,0.05,SGD 0.29,-1.7%
+272,KBEE,Koh Brothers Eco Engineering Ltd,Singapore,Industrials,Construction & Engineering,SGD 64.82M,-4.6x,0.05,SGD 0.02,0%
+273,MYPL,MYP Ltd,Singapore,Real Estate,Real Estate Operations,SGD 63.70M,-8x,0.01,SGD 0.04,0%
+274,KIMH,Kim Heng Offshore & Marine Holdings,Singapore,Energy,Oil & Gas Related Equipment and Services,SGD 63.44M,-45x,-0.51,SGD 0.09,2.3%
+275,RLSE,Raffles Education Corporation Ltd,Singapore,Academic & Educational Services,Professional & Business Education,SGD 63.42M,-6.6x,0.03,SGD 0.04,0%
+276,RLIM,9R Ltd,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 61.81M,-11.4x,0.13,SGD 0.06,-1.7%
+277,NLPM,Nam Lee Pressed Metal Industries,Singapore,Consumer Cyclicals,Homebuilding & Construction Supplies,SGD 61.72M,15.9x,0.05,SGD 0.25,0%
+278,PLPS,Pollux Properties,Singapore,Real Estate,Real Estate Operations,SGD 60.71M,22x,-0.52,SGD 0.02,0%
+279,SUTL,Sutl Enterprise,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 60.29M,7.6x,,SGD 0.68,0%
+280,PACI,Pacific Radiance Ltd,Singapore,Energy,Oil & Gas Related Equipment and Services,SGD 59.37M,0.9x,-0.03,SGD 0.04,0%
+281,ASLM,ASL Marine Holdings Ltd,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 58.29M,2.4x,0.02,SGD 0.06,1.7%
+282,GKEC,GKE Corporation Ltd,Singapore,Industrials,Freight & Logistics Services,SGD 55.50M,12x,0.07,SGD 0.07,2.9%
+283,KBRO,Koh Brothers Group Ltd,Singapore,Industrials,Construction & Engineering,SGD 55.27M,-4.2x,-0.31,SGD 0.13,0%
+284,KMEN,Kingsmen Creatives Ltd,Singapore,Industrials,Professional & Commercial Services,SGD 54.53M,15.9x,-0.5,SGD 0.27,1.9%
+285,THET,Trendlines Group Ltd,Singapore,Financials,Investment Banking & Investment Services,SGD 54.32M,-1.1x,0,SGD 0.05,0%
+286,UAFC,Uni-Asia Holdings,Singapore,Industrials,Professional & Commercial Services,SGD 54.23M,8.2x,-0.1,SGD 0.69,0.7%
+287,HGMM,HG Metal Manufacturing Ltd,Singapore,Basic Materials,Metals & Mining,SGD 54.11M,8.8x,0.06,SGD 0.32,0%
+288,SIHM,Sin Heng Heavy Machinery Ltd,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 53.29M,6.5x,0.06,SGD 0.49,-1%
+289,YNMH,Yongmao Holdings Ltd,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 52.81M,6.7x,-0.41,SGD 0.60,0%
+290,IWOW,iWOW Technology,Singapore,Technology,Integrated Hardware & Software,SGD 52.38M,18.9x,-0.75,SGD 0.20,0.5%
+291,STAS,Stamford Tyres Corporation Ltd,Singapore,Consumer Cyclicals,Automobiles & Auto Parts,SGD 52.22M,8.8x,0.19,SGD 0.22,4.8%
+292,VHLD,Vallianz,Singapore,Industrials,Freight & Logistics Services,SGD 52.10M,6.5x,0.09,SGD 0.04,0%
+293,ECOE,Econ Healthcare,Singapore,Healthcare,Healthcare Providers & Services,SGD 51.85M,8.1x,0.26,SGD 0.20,-5%
+294,AMCO,Amcorp Global Ltd,Singapore,Real Estate,Real Estate Operations,SGD 51.45M,-3.4x,0,SGD 0.12,0%
+295,AUDI,Audience Analytics,Singapore,Consumer Cyclicals,Media & Publishing,SGD 51.23M,11.9x,-0.58,SGD 0.30,0%
+296,BROM,Bromat Holdings,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 51.17M,-7.2x,-0.37,SGD 0.17,0%
+297,XMHL,XMH Holdings Ltd,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 50.44M,4x,0.02,SGD 0.46,0%
+298,LYCO,LY Corporation,Singapore,Consumer Cyclicals,Household Goods,SGD 48.88M,25.9x,0.17,SGD 0.10,0%
+299,WLAR,Willas Array Electronics Holdings,Singapore,Technology,Electronic Equipment & Parts,SGD 48.67M,-1.7x,0,SGD 0.56,0%
+300,YING,Ying Li International Real Estate,Singapore,Real Estate,Real Estate Operations,SGD 48.58M,14.7x,0.16,SGD 0.02,-13.6%
+301,VICP,Vicplas International,Singapore,Healthcare,Healthcare Equipment & Supplies,SGD 48.08M,23.5x,-0.35,SGD 0.09,1.1%
+302,LHTH,LHT Holdings Ltd,Singapore,Basic Materials,Paper & Forest Products,SGD 47.65M,14.7x,-0.49,SGD 0.89,0%
+303,SERL,Serial System Ltd,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 47.05M,-4.9x,0.01,SGD 0.05,0%
+304,MEMI,Memiontec Holdings,Singapore,Industrials,Construction & Engineering,SGD 46.91M,14.6x,0.53,SGD 0.07,0%
+305,JPFD,Japan Foods Holding Ltd,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 46.90M,-90x,0.97,SGD 0.27,-10%
+306,BENK,Beng Kuang Marine Ltd,Singapore,Industrials,Construction & Engineering,SGD 46.81M,3.7x,0.02,SGD 0.23,-2.1%
+307,MEGA,MegaChem Ltd,Singapore,Basic Materials,Chemicals,SGD 46.65M,-10x,0.04,SGD 0.35,-5.4%
+308,AVTO,Avi Tech Holdings,Singapore,Technology,Semiconductors & Semiconductor Equipment,SGD 46.18M,11.1x,0.4,SGD 0.27,0%
+309,EURO,EuroSports Global Ltd,Singapore,Consumer Cyclicals,Specialty Retailers,SGD 44.16M,-5.8x,0.06,SGD 0.18,-4.8%
+310,ERES,5E Resources,Singapore,Industrials,Professional & Commercial Services,SGD 43.75M,7.5x,0.34,SGD 0.31,0%
+311,ASPE,Aspen,Singapore,Real Estate,Real Estate Operations,SGD 43.33M,-1.4x,-0.05,SGD 0.04,11.1%
+312,AEHL,Asia Enterprises Holding Ltd,Singapore,Basic Materials,Metals & Mining,SGD 43.32M,7.1x,0.12,SGD 0.13,0%
+313,PRAL,Parkson Retail Asia Ltd,Singapore,Consumer Cyclicals,Diversified Retail,SGD 42.45M,1.5x,-0.09,SGD 0.06,-3.1%
+314,SIMI,Sim Leisure,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 42.17M,23.3x,-20.19,SGD 1,0%
+315,AVAU,Addvalue Technologies Ltd,Singapore,Technology,Communications & Networking,SGD 42.15M,130x,1.05,SGD 0.01,0%
+316,TAKA,Taka Jewellery Holdings,Singapore,Consumer Cyclicals,Specialty Retailers,SGD 41.96M,5x,-0.26,SGD 0.08,0%
+317,JUTN,Jiutian Chemical Group Ltd,Singapore,Basic Materials,Chemicals,SGD 41.76M,-0.9x,0,SGD 0.02,-4.5%
+318,IFAC,IFS Capital Ltd,Singapore,Financials,Banking Services,SGD 40.60M,12x,,SGD 0.11,0%
+319,ISOT,ISOteam Ltd,Singapore,Industrials,Construction & Engineering,SGD 40.46M,19.3x,0.19,SGD 0.06,0%
+320,SOUT,Southern Packaging,Singapore,Basic Materials,Containers & Packaging,SGD 40.08M,-25.2x,-0.26,SGD 0.57,0%
+321,EHHL,Enviro Hub Holdings Ltd,Singapore,Industrials,Professional & Commercial Services,SGD 40.07M,26x,-0.58,SGD 0.03,0%
+322,STGR,ST Group Food Industries,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 39.44M,23.2x,1.6,SGD 0.16,0%
+323,GLGP,Goodland Group Ltd,Singapore,Real Estate,Real Estate Operations,SGD 38.78M,-18x,0.14,SGD 0.11,0%
+324,CHHL,Chasen Holdings Ltd,Singapore,Industrials,Freight & Logistics Services,SGD 38.66M,-5.6x,0.01,SGD 0.10,1%
+325,HCSU,HC Surgical Specialists,Singapore,Healthcare,Healthcare Providers & Services,SGD 38.45M,9x,0.71,SGD 0.25,-3.8%
+326,CHEM,Chemical Industries Far East Ltd,Singapore,Basic Materials,Chemicals,SGD 37.97M,7.3x,0.18,SGD 0.50,-3.8%
+327,TACO,TA Corp,Singapore,Real Estate,Real Estate Operations,SGD 37.82M,-2.3x,0.01,SGD 0.07,0%
+328,PNEI,PNE Industries Ltd,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 37.76M,30x,,SGD 0.45,0%
+329,TIHL,TIH Ltd,Singapore,Financials,Collective Investments,SGD 37.70M,3.5x,0.04,SGD 0.16,0%
+330,WONG,Wong Fong Industries,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 37.60M,10.2x,,SGD 0.16,0%
+331,TOTM,Totm Technologies,Singapore,Technology,Financial Technology (Fintech) & Infrastructure,SGD 37.55M,-3.1x,-0.14,SGD 0.03,12%
+332,YKGI,YKGI,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 36.98M,9.9x,-0.34,SGD 0.09,0%
+333,OSSA,Ossia International Ltd,Singapore,Consumer Cyclicals,Specialty Retailers,SGD 36.88M,5.6x,-0.16,SGD 0.15,0.7%
+334,VIBR,Vibrant Group Ltd,Singapore,Industrials,Freight & Logistics Services,SGD 36.83M,59x,0.29,SGD 0.05,-8.5%
+335,CORD,Cordlife Group Ltd,Singapore,Healthcare,Healthcare Providers & Services,SGD 36.65M,10.2x,-0.38,SGD 0.14,0%
+336,PANH,Pan Hong Group Holdings,Singapore,Real Estate,Real Estate Operations,SGD 36.37M,6.3x,0.01,SGD 0.07,0%
+337,CHOF,CH Offshore Ltd,Singapore,Energy,Oil & Gas Related Equipment and Services,SGD 35.95M,-7.7x,-0.16,SGD 0.05,0%
+338,BBRS,BBR Holdings S Ltd,Singapore,Industrials,Construction & Engineering,SGD 35.46M,5.5x,0.47,SGD 0.11,-5.2%
+339,MIND,MindChamps PreSchool,Singapore,Consumer Non-Cyclicals,Personal & Household Products & Services,SGD 35.46M,-146x,0.09,SGD 0.15,-2%
+340,OUEH,Ouhua Energy Holdings Ltd,Singapore,Energy,Oil & Gas,SGD 34.79M,10.1x,-0.16,SGD 0.09,0%
+341,BANL,Ban Leong Technologies Ltd,Singapore,Technology,"Computers, Phones & Household Electronics",SGD 34.64M,4.9x,0.19,SGD 0.32,0%
+342,BHGC,BH Global Corp Ltd,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 34.50M,11.5x,0.49,SGD 0.12,0%
+343,SHEF,Sheffield Green Pte,Singapore,Industrials,Professional & Commercial Services,SGD 34.46M,9.8x,,SGD 0.19,0%
+344,TCIN,Telechoice International Ltd,Singapore,Technology,"Computers, Phones & Household Electronics",SGD 34.38M,-3x,-0.46,SGD 0.08,0%
+345,WILT,Wilton Resources Corporation Ltd,Singapore,Basic Materials,Metals & Mining,SGD 34.11M,-10.7x,-0.15,SGD 0.01,-7.1%
+346,MDRT,mDR Ltd,Singapore,Consumer Cyclicals,Specialty Retailers,SGD 33.96M,-1.4x,0,SGD 0.04,-13.3%
+347,CDWH,CDW Holding,Singapore,Technology,Electronic Equipment & Parts,SGD 33.82M,-22.7x,0.24,SGD 0.15,2.7%
+348,KOPL,KOP Ltd,Singapore,Real Estate,Real Estate Operations,SGD 33.24M,-7.5x,-0.13,SGD 0.03,0%
+349,TGLK,Tung Lok Restaurants 2000 Ltd,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 32.93M,17.1x,-0.32,SGD 0.12,0%
+350,GTCL,Global Testing Corp Ltd,Singapore,Technology,Semiconductors & Semiconductor Equipment,SGD 32.82M,7.3x,-0.11,SGD 0.94,0%
+351,ITRS,Intraco Ltd,Singapore,Industrials,Diversified Industrial Goods Wholesale,SGD 32.72M,10.7x,0,SGD 0.29,3.6%
+352,MOOR,Mooreast Holdings,Singapore,Basic Materials,Metals & Mining,SGD 32.12M,-15.9x,0.08,SGD 0.12,0%
+353,ASON,A-Sonic Aerospace Ltd,Singapore,Industrials,Freight & Logistics Services,SGD 32.01M,24.4x,-0.32,SGD 0.30,-1.6%
+354,AOXI,Aoxin Q & M Dental,Singapore,Healthcare,Healthcare Providers & Services,SGD 31.70M,-4.4x,-0.1,SGD 0.06,0%
+355,LMSC,LMS Compliance,Singapore,Industrials,Professional & Commercial Services,SGD 31.48M,18.9x,0.04,SGD 0.36,0%
+356,NOEL,Noel Gifts,Singapore,Consumer Cyclicals,Specialty Retailers,SGD 31.26M,-101.7x,1.04,SGD 0.31,0%
+357,TRAS,TransChina Automotive Holdings,Singapore,Consumer Cyclicals,Automobiles & Auto Parts,SGD 30.66M,-1.1x,0,SGD 0.05,-3.8%
+358,ALPI,Alpina Holdings,Singapore,Industrials,Construction & Engineering,SGD 30.42M,-135.3x,1.25,SGD 0.17,0%
+359,ZIXI,Zixin Holdings,Singapore,Consumer Non-Cyclicals,Food & Tobacco,SGD 30.20M,10.3x,0.06,SGD 0.02,-5%
+360,HLEC,Hoe Leong Corporation Ltd,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 30.18M,125x,-1.59,SGD 0.002,100%
+361,ELPZ,Ellipsiz Ltd,Singapore,Technology,Semiconductors & Semiconductor Equipment,SGD 29.92M,-180x,2.71,SGD 0.18,-1.6%
+362,DONA,Don Agro Intl,Singapore,Consumer Non-Cyclicals,Food & Tobacco,SGD 29.30M,-6.5x,0.06,SGD 0.23,18%
+363,SAMR,Samurai 2K Aerosol,Singapore,Basic Materials,Chemicals,SGD 29.11M,58.6x,0.57,SGD 0.09,0%
+364,SNRT,Sunright Ltd,Singapore,Technology,Semiconductors & Semiconductor Equipment,SGD 28.86M,-5.9x,0.34,SGD 0.23,6.8%
+365,NERA,Nera Telecommunications Ltd,Singapore,Technology,Communications & Networking,SGD 28.23M,4.9x,0.03,SGD 0.08,-1.3%
+366,CWIHx,Combine Will International Holdings,Singapore,Consumer Non-Cyclicals,Personal & Household Products & Services,SGD 28.12M,3.9x,-7.27,SGD 0.87,0%
+367,AEDE,Aedge Group,Singapore,Industrials,Construction & Engineering,SGD 28.09M,-16.7x,-0.41,SGD 0.27,0%
+368,ALLA,Alliance Healthcare Group,Singapore,Healthcare,Healthcare Providers & Services,SGD 27.80M,22.5x,-0.36,SGD 0.14,0%
+369,AUSG,AusGroup Ltd,Singapore,Energy,Oil & Gas Related Equipment and Services,SGD 27.66M,-1x,,SGD 0.009,0%
+370,SOUE,Southern Archipelago,Singapore,Real Estate,Real Estate Operations,SGD 27.57M,45.5x,5.88,SGD 0.001,0%
+371,TISE,Tiong Seng Holdings Ltd,Singapore,Industrials,Construction & Engineering,SGD 27.35M,3.3x,-0.03,SGD 0.06,0%
+372,ALPH,Alpha Energy Holdings Ltd,Singapore,Technology,Software & IT Services,SGD 27.21M,4.3x,,SGD 0.11,0%
+373,MEDN,Medinex,Singapore,Industrials,Professional & Commercial Services,SGD 26.54M,25x,-0.67,SGD 0.20,0%
+374,COSM,CosmoSteel Holdings Ltd,Singapore,Basic Materials,Metals & Mining,SGD 26.40M,-20.2x,0.12,SGD 0.10,0%
+375,HTCL,Hiap Tong Corporation Ltd,Singapore,Financials,Banking Services,SGD 26.34M,6.4x,-0.09,SGD 0.08,1.2%
+376,RECL,Reclaims Global,Singapore,Industrials,Professional & Commercial Services,SGD 26.20M,19.8x,-0.83,SGD 0.20,0%
+377,TYES,Tye Soon Ltd,Singapore,Consumer Cyclicals,Automobiles & Auto Parts,SGD 26.18M,6.1x,-0.25,SGD 0.30,-3.2%
+378,INTR,Interra Resources Ltd,Singapore,Energy,Oil & Gas,SGD 26.12M,4.3x,-0.11,SGD 0.04,0%
+379,PLAT,Plato Capital,Singapore,Technology,Software & IT Services,SGD 25.33M,-5.6x,0.05,SGD 2.08,0%
+380,ICPL,ICP Ltd,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 24.89M,80x,2.19,SGD 0.008,14.3%
+381,HUAT,Huationg Global,Singapore,Industrials,Construction & Engineering,SGD 24.28M,1.2x,0.04,SGD 0.14,0.7%
+382,KHON,Khong Guan Flour,Singapore,Consumer Non-Cyclicals,Food & Tobacco,SGD 23.75M,-19.2x,0.09,SGD 0.92,0%
+383,OTSH,OTS Holdings,Singapore,Consumer Non-Cyclicals,Food & Tobacco,SGD 23.54M,-14.8x,0.01,SGD 0.11,0%
+384,THEP,Place Holdings,Singapore,Consumer Cyclicals,Media & Publishing,SGD 23.52M,5x,0.08,SGD 0.004,-20%
+385,SANL,Sanli Environmental,Singapore,Industrials,Construction & Engineering,SGD 23.50M,7.7x,-0.24,SGD 0.09,0%
+386,DATA,Datapulse Technology Ltd,Singapore,Real Estate,Real Estate Operations,SGD 23.24M,-97x,-1.5,SGD 0.10,0%
+387,HGHH,HGH Holdings Ltd,Singapore,Basic Materials,Construction Materials,SGD 23.15M,-382.4x,-0.95,SGD 0.01,0%
+388,ENEC,Eneco Energy,Singapore,Energy,Oil & Gas,SGD 23.13M,-32.4x,-3.14,SGD 0.010,0%
+389,HLGE,Hl Global Enterprises,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 23.01M,13.2x,0.25,SGD 0.25,2.1%
+390,DIGI,Digilife Technologies,Singapore,Technology,Telecommunications Services,SGD 22.98M,37x,0.76,SGD 1.70,0%
+391,ADVN,Advancer Global,Singapore,Industrials,Professional & Commercial Services,SGD 22.86M,-11.4x,-0.53,SGD 0.09,0%
+392,KEHO,Keong Hong Holdings Ltd,Singapore,Industrials,Construction & Engineering,SGD 22.80M,-0.4x,0.01,SGD 0.10,0%
+393,MERC,Mercurius Capital Investment,Singapore,Real Estate,Real Estate Operations,SGD 22.29M,-2x,0.17,SGD 0.02,0%
+394,IXBI,IX Biopharma Ltd,Singapore,Healthcare,Pharmaceuticals,SGD 22.08M,-1.9x,-0.06,SGD 0.03,4.2%
+395,JASP,Jasper Investments Ltd,Singapore,Industrials,Freight & Logistics Services,SGD 21.77M,-29.9x,-1.52,SGD 0.005,-16.7%
+396,HKEW,Hor Kew Corporation Ltd,Singapore,Industrials,Construction & Engineering,SGD 21.61M,2.9x,0.01,SGD 0.41,-15.3%
+397,ANAN,AnAn,Singapore,Energy,Oil & Gas,SGD 21.17M,7.1x,-0.08,SGD 0.005,0%
+398,CSCH,CSC Holdings Ltd,Singapore,Industrials,Construction & Engineering,SGD 21.04M,-1x,-0.04,SGD 0.006,0%
+399,DISA,DISA,Singapore,Technology,Software & IT Services,SGD 21.01M,-5x,-4.26,SGD 0.002,0%
+400,TRKL,Trek 2000 International Ltd,Singapore,Technology,"Computers, Phones & Household Electronics",SGD 20.96M,5.6x,0.05,SGD 0.07,0%
+401,ABUD,Abundante,Singapore,Basic Materials,Construction Materials,SGD 20.86M,18.2x,0.48,SGD 0.20,0%
+402,SNLN,Soon Lian Holdings Ltd,Singapore,Basic Materials,Metals & Mining,SGD 20.52M,-4.5x,0.03,SGD 0.19,0%
+403,ABUN,Abundance International,Singapore,Industrials,Professional & Commercial Services,SGD 20.51M,-251.9x,0.43,SGD 0.02,-5.9%
+404,HATT,Hatten Land,Singapore,Real Estate,Real Estate Operations,SGD 20.43M,-1.5x,0.01,SGD 0.01,0%
+405,CASA,Casa Holdings Ltd,Singapore,Consumer Cyclicals,Household Goods,SGD 20.35M,16.2x,-0.78,SGD 0.10,1%
+406,LIAS,Lion Asiapac Ltd,Singapore,Basic Materials,Construction Materials,SGD 20.28M,275x,1.85,SGD 0.25,-9.1%
+407,KIWC,King Wan Corporation Ltd,Singapore,Industrials,Construction & Engineering,SGD 20.25M,1.6x,0,SGD 0.03,3.6%
+408,BROO,Brook Crompton,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 20.21M,7.5x,-0.35,SGD 0.57,0%
+409,SINR,Singapore Paincare,Singapore,Healthcare,Healthcare Providers & Services,SGD 20.18M,-80.7x,0.58,SGD 0.12,0%
+410,KCAL,Kencana Agri Ltd,Singapore,Consumer Non-Cyclicals,Food & Tobacco,SGD 20.09M,-53x,0.48,SGD 0.07,0%
+411,SECU,Secura,Singapore,Industrials,Professional & Commercial Services,SGD 20M,16.7x,-0.99,SGD 0.05,0%
+412,MSEL,Mun Siong Engineering Ltd,Singapore,Industrials,Construction & Engineering,SGD 19.77M,-11.3x,0.3,SGD 0.03,0%
+413,HONL,Hong Lai Huat,Singapore,Real Estate,Real Estate Operations,SGD 19.68M,-0.8x,0.01,SGD 0.04,0%
+414,SOUP,Soup Restaurant Group Ltd,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 19.55M,35x,0.98,SGD 0.07,0%
+415,YAMR,Yamada Green Resources Ltd,Singapore,Consumer Non-Cyclicals,Food & Tobacco,SGD 19.42M,15.1x,0.07,SGD 0.11,0%
+416,AOIL,AP Oil International Ltd,Singapore,Basic Materials,Chemicals,SGD 19.41M,39.3x,-0.66,SGD 0.12,0%
+417,SITR,Sitra (International),Singapore,Basic Materials,Paper & Forest Products,SGD 19.28M,-6.5x,0.2,SGD 0.01,0%
+418,ASMA,A-Smart,Singapore,Industrials,Professional & Commercial Services,SGD 18.78M,-17.5x,-0.88,SGD 0.07,0%
+419,QIAN,Qian Hu Corporation Ltd,Singapore,Consumer Non-Cyclicals,Food & Tobacco,SGD 18.73M,-2.1x,0,SGD 0.17,0%
+420,KODA,Koda Ltd,Singapore,Consumer Cyclicals,Household Goods,SGD 18.31M,-2.5x,0.01,SGD 0.22,0%
+421,YNAM,Yongnam Holdings Ltd,Singapore,Industrials,Construction & Engineering,SGD 18.30M,-0.4x,,SGD 0.03,0%
+422,AAIK,Annaik,Singapore,Basic Materials,Metals & Mining,SGD 17.89M,5.6x,-0.14,SGD 0.06,0%
+423,ASIC,AsiaPacific Strategic Investments,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 17.83M,-9.4x,-0.11,SGD 0.001,0%
+424,NIKS,Niks Professional,Singapore,Consumer Non-Cyclicals,Personal & Household Products & Services,SGD 17.81M,11.7x,-0.28,SGD 0.14,0%
+425,KORI,KORI Holdings Ltd,Singapore,Industrials,Construction & Engineering,SGD 17.66M,35.6x,-0.56,SGD 0.18,0%
+426,TEHO,Teho International Inc Ltd,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 17.66M,8.3x,-0.19,SGD 0.08,0%
+427,SAKA,Sakae Holdings Ltd,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 17.51M,42x,-0.61,SGD 0.13,0%
+428,KTMG,KTMG,Singapore,Consumer Cyclicals,Textiles & Apparel,SGD 17.48M,-11.4x,0.05,SGD 0.10,0%
+429,SAMT,Samko Timber Ltd,Singapore,Basic Materials,Paper & Forest Products,SGD 17.29M,-0.1x,0,SGD 0.002,0%
+430,CAPL,Capallianz Holdings,Singapore,Energy,Oil & Gas,SGD 17.11M,-9.2x,2.44,SGD 0.002,0%
+431,AMPL,Amplefield Ltd,Singapore,Real Estate,Real Estate Operations,SGD 17.06M,-9.5x,-0.15,SGD 0.02,0%
+432,POLA,Polaris Ltd,Singapore,Consumer Cyclicals,Specialty Retailers,SGD 17.05M,-8.6x,-0.17,SGD 0.001,0%
+433,DASI,Dasin Retail,Singapore,Real Estate,Residential & Commercial REITs,SGD 17M,-0.2x,,SGD 0.02,0%
+434,H2GG,H2G Green,Singapore,Consumer Cyclicals,Household Goods,SGD 16.98M,-3x,0.12,SGD 0.01,0%
+435,ANHL,Annica Holdings Ltd,Singapore,Energy,Oil & Gas Related Equipment and Services,SGD 16.97M,-10.3x,-0.8,SGD 0.001,0%
+436,ZHON,Zhongxin Fruit and Juice Ltd,Singapore,Consumer Non-Cyclicals,Food & Tobacco,SGD 16.89M,12.4x,-0.23,SGD 0.02,0%
+437,LINO,Lincotrade Associates Holdings,Singapore,Consumer Cyclicals,Specialty Retailers,SGD 16.86M,6.5x,0.05,SGD 0.10,0%
+438,FEDL,Federal International 2000 Ltd,Singapore,Energy,Oil & Gas Related Equipment and Services,SGD 16.18M,-0.9x,0,SGD 0.12,-7.3%
+439,QUAN,Quantum Healthcare,Singapore,Healthcare,Healthcare Providers & Services,SGD 16.03M,-4.1x,-0.35,SGD 0.010,0%
+440,CFMH,CFM Holdings,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 15.92M,7.4x,-0.08,SGD 0.08,0%
+441,PAVI,Pavillon Holdings,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 15.78M,-5.5x,0.02,SGD 0.01,0%
+442,ACES,Acesian Partners Ltd,Singapore,Industrials,Professional & Commercial Services,SGD 15.60M,2.5x,-0.77,SGD 0.03,-19.5%
+443,FJBN,F J Benjamin Holdings Ltd,Singapore,Consumer Cyclicals,Specialty Retailers,SGD 15.44M,-49.5x,0.47,SGD 0.01,0%
+444,ACCR,Accrelist,Singapore,Technology,"Computers, Phones & Household Electronics",SGD 14.99M,-6x,-0.04,SGD 0.05,0%
+445,ASCE,Ascent Bridge,Singapore,Basic Materials,Metals & Mining,SGD 14.80M,-3.2x,-0.11,SGD 0.17,0%
+446,NIPP,Nippecraft Ltd,Singapore,Basic Materials,Paper & Forest Products,SGD 14.76M,-31.8x,0.46,SGD 0.04,0%
+447,SAPP,Sapphire Corporation Ltd,Singapore,Industrials,Construction & Engineering,SGD 14.67M,10.6x,-0.11,SGD 0.04,12.5%
+448,GSSE,Gss Energy Ltd,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 14.49M,-2.3x,-0.04,SGD 0.02,0%
+449,SMFC,SunMoon Food Company Ltd,Singapore,Consumer Non-Cyclicals,Food & Tobacco,SGD 14.45M,548.4x,5.1,SGD 0.02,0%
+450,LS2H,LS 2 Holdings,Singapore,Industrials,Professional & Commercial Services,SGD 14.43M,5.5x,0.07,SGD 0.08,1.3%
+451,CYBP,China Yuanbang Property Holdings,Singapore,Real Estate,Real Estate Operations,SGD 14.23M,-0.2x,0,SGD 0.20,0%
+452,ZICO,Zicom Holdings Pvt,Singapore,Financials,Investment Banking & Investment Services,SGD 14.06M,-1.9x,0,SGD 0.04,0%
+453,NOON,NoonTalk Media,Singapore,Consumer Cyclicals,Media & Publishing,SGD 13.86M,-6.5x,,SGD 0.07,0%
+454,CERG,China Environmental Resources Group,Singapore,Consumer Cyclicals,Automobiles & Auto Parts,SGD 13.69M,-0.9x,0,SGD 0.03,0%
+455,MCHL,Mencast Holdings Ltd,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 13.37M,9.7x,0.02,SGD 0.03,0%
+456,ANIH,Anchun International Holdings Ltd,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 13.35M,30.4x,-0.33,SGD 0.28,0%
+457,ADSA,Advanced Systems Automation Ltd,Singapore,Technology,Semiconductors & Semiconductor Equipment,SGD 13.24M,-2.1x,0,SGD 0.02,0%
+458,ADVA,Advanced Holdings Ltd,Singapore,Energy,Oil & Gas Related Equipment and Services,SGD 13.16M,-3x,-0.09,SGD 0.13,0%
+459,MEGR,MeGroup,Singapore,Consumer Cyclicals,Automobiles & Auto Parts,SGD 12.91M,5.9x,0.14,SGD 0.13,0%
+460,ASIM,AsiaMedic Ltd,Singapore,Healthcare,Healthcare Providers & Services,SGD 12.70M,5.5x,-0.5,SGD 0.01,0%
+461,ONEA,Oneapex,Singapore,Real Estate,Real Estate Operations,SGD 12.67M,-50x,-0.77,SGD 0.15,0%
+462,JMGL,Jason Marine Group Ltd,Singapore,Technology,Communications & Networking,SGD 12.60M,120x,-3.99,SGD 0.12,0%
+463,EDIT,Edition Ltd,Singapore,Consumer Non-Cyclicals,Food & Tobacco,SGD 12.55M,-2.5x,0.11,SGD 0.005,0%
+464,OKHG,OKH Global Ltd,Singapore,Industrials,Construction & Engineering,SGD 12.42M,3.7x,0.03,SGD 0.01,10%
+465,BOLD,Boldtek,Singapore,Real Estate,Real Estate Operations,SGD 12.38M,,0,SGD 0.04,0%
+466,JLJH,Jubilee Industries Holdings Ltd,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 12.20M,6.5x,-0.04,SGD 0.04,0%
+467,LIVI,Livingstone Health Holdings,Singapore,Healthcare,Healthcare Providers & Services,SGD 12.18M,-3.3x,0.01,SGD 0.02,5.3%
+468,POGN,Progen Holdings Ltd,Singapore,Industrials,Construction & Engineering,SGD 12.11M,-10.3x,0.08,SGD 0.03,0%
+469,GDSG,GDS Global,Singapore,Consumer Cyclicals,Homebuilding & Construction Supplies,SGD 12.10M,-2.7x,0.67,SGD 0.05,0%
+470,CKFC,China Kangda Food Co Ltd,Singapore,Consumer Non-Cyclicals,Food & Tobacco,SGD 11.78M,-7.4x,-0.17,SGD 0.03,0%
+471,HSNG,Hosen Group Ltd,Singapore,Consumer Non-Cyclicals,Food & Drug Retailing,SGD 11.70M,9x,1.3,SGD 0.04,0%
+472,GREE,Green Build Technology Ltd,Singapore,Industrials,Construction & Engineering,SGD 11.69M,0.7x,-0.16,SGD 0.04,-2.4%
+473,NUTR,NutryFarm Int,Singapore,Consumer Non-Cyclicals,Food & Tobacco,SGD 11.68M,-0.6x,,SGD 0.09,0%
+474,OXPA,Oxpay Financial,Singapore,Industrials,Professional & Commercial Services,SGD 11.31M,-5.9x,-0.17,SGD 0.04,0%
+475,TRHL,Travelite Holdings Ltd,Singapore,Consumer Cyclicals,Specialty Retailers,SGD 11.17M,2.7x,-0.35,SGD 0.12,0%
+476,COUA,Courage Invest,Singapore,Industrials,Freight & Logistics Services,SGD 10.98M,-1.9x,0.01,SGD 0.010,0%
+477,FOPS,Fuji Offset Plates Manufacturing,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 10.98M,8.6x,-0.13,SGD 0.22,0%
+478,GRPS,GRP,Singapore,Consumer Cyclicals,Automobiles & Auto Parts,SGD 10.81M,-1.7x,0.02,SGD 0.06,0%
+479,HSOP,Hs Optimus Holdings,Singapore,Consumer Cyclicals,Household Goods,SGD 10.76M,-8x,-0.07,SGD 0.002,0%
+480,TTGL,Tritech Group Ltd,Singapore,Industrials,Construction & Engineering,SGD 10.63M,-4.5x,-0.06,SGD 0.009,0%
+481,LUMI,Luminor Financial Holdings,Singapore,Financials,Banking Services,SGD 10.55M,-16.3x,-1.25,SGD 0.06,0%
+482,REVE,Revez,Singapore,Technology,Software & IT Services,SGD 10.53M,-8x,-0.12,SGD 0.04,0%
+483,FIGT,Figtree Holdings Ltd,Singapore,Real Estate,Real Estate Operations,SGD 10.42M,-9.7x,-0.05,SGD 0.03,0%
+484,VIVI,Vividthree,Singapore,Consumer Cyclicals,Media & Publishing,SGD 10.25M,-4.8x,-0.11,SGD 0.02,4.3%
+485,ACRO,ACROMEC,Singapore,Industrials,Construction & Engineering,SGD 9.99M,-1.3x,-0.01,SGD 0.03,-3.2%
+486,GSHO,GS Holdings,Singapore,Industrials,Professional & Commercial Services,SGD 9.82M,-0.6x,0.01,SGD 0.05,0%
+487,HEAL,HealthBank,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 9.81M,-1.5x,0.01,SGD 0.10,0%
+488,ADVE,Adventus Holdings Ltd,Singapore,Real Estate,Real Estate Operations,SGD 9.81M,-2x,0.02,SGD 0.004,0%
+489,OLIV,Olive Tree Estates,Singapore,Real Estate,Real Estate Operations,SGD 9.73M,-12.7x,-0.18,SGD 0.08,0%
+490,IPSS,IPS Securex Holdings Ltd,Singapore,Technology,Communications & Networking,SGD 9.70M,-20x,-0.27,SGD 0.02,0%
+491,JAWA,Jawala,Singapore,Basic Materials,Paper & Forest Products,SGD 9.48M,-7.4x,0.02,SGD 0.08,0%
+492,CAPT,Captii Ltd,Singapore,Technology,Telecommunications Services,SGD 9.43M,-0.9x,0.01,SGD 0.29,0%
+493,ATIH,ASTI Holdings Ltd,Singapore,Technology,Semiconductors & Semiconductor Equipment,SGD 9.17M,6.7x,,SGD 0.01,0%
+494,FXCG,Fuxing China Group Ltd,Singapore,Consumer Cyclicals,Textiles & Apparel,SGD 9.03M,14.2x,0.03,SGD 0.47,0%
+495,SHOP,shopper360,Singapore,Consumer Cyclicals,Media & Publishing,SGD 8.70M,3.6x,0.03,SGD 0.08,0%
+496,NEWW,New Wave Holdings Ltd,Singapore,Basic Materials,Metals & Mining,SGD 8.64M,-1.7x,0,SGD 0.005,0%
+497,KOYO,Koyo International Ltd,Singapore,Industrials,Construction & Engineering,SGD 8.54M,2x,0.05,SGD 0.05,0%
+498,IPCC,IPC Corporation Ltd,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 8.53M,1.9x,-0.15,SGD 0.10,0%
+499,SUNR,Sunrise Shares,Singapore,Real Estate,Real Estate Operations,SGD 8.26M,-4x,-0.27,SGD 0.03,0%
+500,META,Metal Component Engineering Ltd,Singapore,Consumer Cyclicals,Specialty Retailers,SGD 8.25M,-0.8x,-0.12,SGD 0.008,0%
+501,OIOH,OIO Holdings Ltd,Singapore,Technology,Financial Technology (Fintech) & Infrastructure,SGD 8.08M,-5.4x,,SGD 0.04,0%
+502,DRWT,Darco Water Technologies Ltd,Singapore,Utilities,Water & Related Utilities,SGD 8.07M,-1.5x,0,SGD 0.09,0%
+503,NCHL,Natural Cool Holdings Ltd,Singapore,Industrials,Construction & Engineering,SGD 7.51M,15x,,SGD 0.03,0%
+504,RICH,Rich Capital,Singapore,Real Estate,Real Estate Operations,SGD 7.34M,-13x,0.04,SGD 0.001,0%
+505,GLOB,Global Invacom Group Ltd,Singapore,Technology,Communications & Networking,SGD 7.33M,-5.3x,-0.07,SGD 0.03,-3.6%
+506,LIFE,Lifebrandz,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 7.32M,-3x,0.16,SGD 0.003,0%
+507,CHIS,China Shenshan Orchard Holdings,Singapore,Consumer Non-Cyclicals,Food & Tobacco,SGD 7.02M,3x,-0.06,SGD 0.09,33.3%
+508,V2YC,V2Y,Singapore,Financials,Insurance,SGD 6.98M,-9x,,SGD 0.02,0%
+509,BIOL,Biolidics,Singapore,Healthcare,Healthcare Equipment & Supplies,SGD 6.97M,-2.3x,-0.03,SGD 0.009,0%
+510,CMIL,China Mining International Ltd,Singapore,Real Estate,Real Estate Operations,SGD 6.94M,-0.7x,0,SGD 0.02,30.8%
+511,AMOS,Amos,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 6.87M,-0.3x,0,SGD 0.03,-25%
+512,JIHL,Joyas International Holdings Ltd,Singapore,Financials,Banking Services,SGD 6.64M,-82.4x,0.46,SGD 0.003,0%
+513,VERS,Versalink Holdings Ltd,Singapore,Industrials,Professional & Commercial Services,SGD 6.62M,-3.2x,0.02,SGD 0.05,0%
+514,FAEA,Far East Group Ltd,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 6.46M,8.3x,0.01,SGD 0.06,0%
+515,METE,Metech,Singapore,Industrials,Professional & Commercial Services,SGD 6.44M,-1x,0,SGD 0.04,-5%
+516,RENA,Renaissance United,Singapore,Utilities,Natural Gas Utilities,SGD 6.18M,-0.5x,0.01,SGD 0.001,0%
+517,INCR,Incredible Holdings,Singapore,Technology,Electronic Equipment & Parts,SGD 5.99M,-2x,-0.06,SGD 0.002,0%
+518,ASIP,AsiaPhos Ltd,Singapore,Basic Materials,Chemicals,SGD 5.92M,1.3x,-0.01,SGD 0.004,0%
+519,NTEG,Ntegrator Holdings,Singapore,Consumer Cyclicals,Specialty Retailers,SGD 5.86M,-2.2x,-0.04,SGD 0.01,0%
+520,PROS,Prosper Cap Corporation,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 5.83M,-0.9x,0.23,SGD 0.19,-0.5%
+521,MITD,Manufacturing Integration Tech,Singapore,Technology,Semiconductors & Semiconductor Equipment,SGD 5.79M,-1.5x,0.02,SGD 0.02,0%
+522,MATE,Matex International,Singapore,Basic Materials,Chemicals,SGD 5.79M,-1.6x,0.02,SGD 0.02,0%
+523,NPFH,Net Pacific Financial Holdings,Singapore,Financials,Banking Services,SGD 5.78M,-3.7x,0.07,SGD 0.010,0%
+524,BEVE,Beverly JCG Ltd,Singapore,Healthcare,Healthcare Providers & Services,SGD 5.70M,-1.8x,-0.24,SGD 0.009,12.5%
+525,TRIC,TrickleStar,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 5.65M,-6.3x,0.01,SGD 0.07,0%
+526,IMPE,Imperium Crown,Singapore,Real Estate,Real Estate Operations,SGD 5.52M,-1.8x,0.02,SGD 0.007,0%
+527,EIND,Eindec,Singapore,Industrials,Professional & Commercial Services,SGD 5.17M,-16x,0.12,SGD 0.05,0%
+528,MSML,MSM International,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 5.16M,50x,-1.09,SGD 0.05,0%
+529,AMHL,Asian Micro,Singapore,Utilities,Natural Gas Utilities,SGD 5.14M,-8.6x,0.16,SGD 0.003,0%
+530,ESGL,ES Group,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 5.08M,-34x,0.01,SGD 0.04,0%
+531,SECL,Suntar Eco-City Ltd,Singapore,Healthcare,Pharmaceuticals,SGD 5.02M,39.5x,1.07,SGD 0.08,0%
+532,VCPL,Vcplus,Singapore,Basic Materials,Construction Materials,SGD 5M,-2.7x,-0.07,SGD 0.001,0%
+533,ASIV,Asia Vets,Singapore,Healthcare,Healthcare Providers & Services,SGD 4.97M,-6.8x,-2.38,SGD 0.03,0%
+534,CLEA,Clearbridge Health,Singapore,Healthcare,Healthcare Providers & Services,SGD 4.96M,-0.2x,0,SGD 0.008,-11.1%
+535,FOIL,Forise Int,Singapore,Industrials,Professional & Commercial Services,SGD 4.94M,-23.2x,-0.25,SGD 0.12,0%
+536,ATIC,Asiatic Group Holdings Ltd,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 4.67M,7.2x,0.05,SGD 0.003,0%
+537,MIYO,Miyoshi Ltd,Singapore,Technology,"Computers, Phones & Household Electronics",SGD 4.64M,-1.3x,-0.39,SGD 0.004,0%
+538,HTJT,Heatec Jietong,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 4.51M,-7.3x,-0.15,SGD 0.02,0%
+539,AJJM,AJJ Medtech Holdings,Singapore,Healthcare,Healthcare Equipment & Supplies,SGD 4.51M,-1.5x,-0.05,SGD 0.003,0%
+540,KATR,Katrina Group,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 4.46M,-387.8x,0.02,SGD 0.02,0%
+541,MARY,Mary Chia Holdings Ltd,Singapore,Consumer Non-Cyclicals,Personal & Household Products & Services,SGD 4.41M,-0.8x,0,SGD 0.02,0%
+542,PAST,Pasture Holdings,Singapore,Healthcare,Healthcare Equipment & Supplies,SGD 4.22M,-17.4x,,SGD 0.03,0%
+543,GCCP,GCCP Resources Ltd,Singapore,Basic Materials,Construction Materials,SGD 4.07M,3.4x,0.02,SGD 0.003,0%
+544,NAUT,NauticAWT Pte Ltd,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 3.97M,-2.5x,0.02,SGD 0.005,0%
+545,LUKG,Luxking Group Holdings Ltd,Singapore,Basic Materials,Chemicals,SGD 3.92M,1.4x,0,SGD 0.31,0%
+546,SATK,Santak Holdings,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 3.87M,,0.01,SGD 0.04,0%
+547,TSHC,Tshoration,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 3.81M,9.6x,-0.18,SGD 0.09,0%
+548,USPG,USP Group Ltd,Singapore,Energy,Oil & Gas,SGD 3.79M,-2.4x,,SGD 0.04,0%
+549,CKUN,China Kunda Technology Holdings Ltd,Singapore,Basic Materials,Chemicals,SGD 3.69M,-2.5x,-0.13,SGD 0.009,0%
+550,PHAR,Pharmesis International Ltd,Singapore,Healthcare,Pharmaceuticals,SGD 3.68M,-2.4x,0.19,SGD 0.12,0%
+551,SPAC,Spackman Entertainment Group Ltd,Singapore,Consumer Cyclicals,Media & Publishing,SGD 3.67M,-0.4x,0.02,SGD 0.002,0%
+552,SMIV,SMI Vantage,Singapore,Financials,Investment Banking & Investment Services,SGD 3.62M,-0.8x,2.2,SGD 0.006,-14.3%
+553,YVEN,Y Ventures,Singapore,Technology,Software & IT Services,SGD 3.46M,-10.6x,-0.08,SGD 0.01,0%
+554,CHNA,China International,Singapore,Industrials,Construction & Engineering,SGD 3.36M,-0.1x,0,SGD 0.04,0%
+555,SINJ,Sinjia Land Ltd,Singapore,Consumer Cyclicals,Hotels & Entertainment Services,SGD 3.31M,-2.3x,-0.11,SGD 0.02,0%
+556,BACU,Bacui Tech International,Singapore,Industrials,Professional & Commercial Services,SGD 3.27M,-3x,-0.1,SGD 0.003,0%
+557,BLAC,Blackgold,Singapore,Energy,Coal,SGD 3.23M,-2x,,SGD 0.003,0%
+558,JADA,Jadason Enterprises,Singapore,Technology,Semiconductors & Semiconductor Equipment,SGD 2.89M,-0.5x,0.02,SGD 0.004,0%
+559,SINL,SinoCloud Group,Singapore,Technology,Software & IT Services,SGD 2.74M,-1.2x,-0.01,SGD 0.01,0%
+560,SHAA,Shanaya,Singapore,Industrials,Professional & Commercial Services,SGD 2.59M,-2.1x,-0.12,SGD 0.02,0%
+561,RAFL,Raffles Infrastructure,Singapore,Industrials,Construction & Engineering,SGD 2.38M,2.1x,,SGD 0.04,0%
+562,VIBO,Vibropower Corporation Ltd,Singapore,Utilities,Electrical Utilities & IPPs,SGD 1.77M,11.5x,0.09,SGD 0.02,4.3%
+563,ACMA,Acma Ltd,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 1.74M,1.6x,0.04,SGD 0.04,0%
+564,MEDL,Medi Lifestyle,Singapore,Healthcare,Healthcare Providers & Services,SGD 1.65M,-0.4x,-0.05,SGD 0.01,0%
+565,SHTU,Shanghai Turbo Enterprises,Singapore,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",SGD 274.68K,-0.6x,-0.01,SGD 0.009,0%
+566,SRIF,Singapore Index Fund,Singapore,Financials,Collective Investments,,,,SGD 2.80,0%

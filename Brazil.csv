@@ -1,0 +1,1323 @@
+1,AAPL34,Apple Inc BDR,B3,Technology,"Computers, Phones & Household Electronics",R$18.74T,34.1x,3.13,R$61.53,1.5%
+2,MSFT34,Microsoft Corp BDR,B3,Technology,Software & IT Services,R$17.12T,35.4x,1.56,R$95.90,1.2%
+3,NVDC34,Nvidia,B3,Technology,Semiconductors & Semiconductor Equipment,R$16.51T,70.9x,0.08,R$13.97,3.9%
+4,GOGL35,Alphabet C BDR,B3,Technology,Software & IT Services,R$11T,23.2x,0.49,R$74.48,1.2%
+5,GOGL34,Alphabet A BDR,B3,Technology,Software & IT Services,R$11T,23.2x,0.49,R$73.71,1%
+6,AMZO34,Amazon.com Inc BDR,B3,Consumer Cyclicals,Diversified Retail,R$10.23T,41.5x,0.17,R$48.70,4.6%
+7,M1TA34,Facebook BDR,B3,Technology,Software & IT Services,R$7.45T,26.7x,0.2,R$105.23,2.4%
+8,BERK34,Berkshire Hathaway BDR,B3,Consumer Non-Cyclicals,Consumer Goods Conglomerates,R$5.20T,14.1x,-0.66,R$120.84,1%
+9,LILY34,Eli Lilly and Co BDR,B3,Healthcare,Pharmaceuticals,R$4.59T,113.9x,8.34,R$170.15,0.3%
+10,AVGO34,Broadcom,B3,Technology,Semiconductors & Semiconductor Equipment,R$4.24T,70.2x,-2.36,R$12.96,6.2%
+11,TSMC34,Taiwan Semiconductor Manufacturing Co,B3,Technology,Semiconductors & Semiconductor Equipment,R$4.12T,26.6x,-5.99,R$119.53,3.3%
+12,TSLA34,Tesla Motors DRC,B3,Consumer Cyclicals,Automobiles & Auto Parts,R$3.75T,55x,48.44,R$36.73,6.6%
+13,JPMC34,JPMorgan Chase Co BDR,B3,Financials,Banking Services,R$3.30T,11.8x,0.74,R$116.14,0.6%
+14,N1VO34,Novo Nordisk AS,B3,Healthcare,Pharmaceuticals,R$3.30T,45.8x,1.3,R$93,1%
+15,WALM34,Walmart BDR,B3,Consumer Non-Cyclicals,Food & Drug Retailing,R$3.03T,31.2x,0.42,R$25.09,7.4%
+16,UNHH34,Unitedhealth,B3,Healthcare,Healthcare Providers & Services,R$2.93T,37.9x,-1.13,R$45.48,0.7%
+17,EXXO34,Exxon Mobil Corp BDR,B3,Energy,Oil & Gas,R$2.89T,14.2x,-0.46,R$81.52,0.4%
+18,VISA34,Visa Inc BDR,B3,Technology,Software & IT Services,R$2.78T,28.4x,1.41,R$73.35,2.8%
+19,MSCD34,MasterCard Inc BDR,B3,Technology,Software & IT Services,R$2.37T,35.7x,1.52,R$82.68,2.1%
+20,PGCO34,Procter Gamble Co BDR,B3,Consumer Non-Cyclicals,Personal & Household Products & Services,R$2.16T,27.2x,13.51,R$65.90,0.2%
+21,COWC34,Costco Wholesale DRC,B3,Consumer Cyclicals,Diversified Retail,R$2.13T,54.3x,2.71,R$120.24,1.9%
+22,JNJB34,Johnson Johnson BDR,B3,Healthcare,Pharmaceuticals,R$2.10T,10.2x,0.11,R$58.45,1.3%
+23,ORCL34,Oracle Corp BDR,B3,Technology,Software & IT Services,R$2.06T,35.9x,1.67,R$125.02,1.2%
+24,ASML34,ASML Holding NV,B3,Technology,Semiconductors & Semiconductor Equipment,R$1.96T,48.5x,-5.1,R$92.46,5.5%
+25,HOME34,Home Depot Inc BDR,B3,Consumer Cyclicals,Specialty Retailers,R$1.96T,24.2x,-2.54,R$70.70,0.8%
+26,ABBV34,AbbVie DRC,B3,Healthcare,Pharmaceuticals,R$1.87T,64.2x,-1.64,R$65.94,-0.4%
+27,BOAC34,Bank of America Corp BDR,B3,Financials,Banking Services,R$1.66T,13.6x,-0.71,R$53.54,1.2%
+28,COCA34,Coca-Cola BDR,B3,Consumer Non-Cyclicals,Beverages,R$1.62T,27.8x,13.48,R$62.76,0.3%
+29,MRCK34,Merck Co Inc BDR,B3,Healthcare,Pharmaceuticals,R$1.58T,20.8x,0.06,R$77.71,-0.4%
+30,NFLX34,Netflix Inc DRC,B3,Technology,Software & IT Services,R$1.56T,40.7x,0.55,R$72.70,1%
+31,FNOR11,FINOR,B3,Financials,Investment Banking & Investment Services,R$1.53T,,,R$1.01,4.1%
+32,CHVX34,Chevron Corp BDR,B3,Energy,Oil & Gas,R$1.47T,14.5x,-0.39,R$80.62,1.5%
+33,A1ZN34,AstraZeneca,B3,Healthcare,Pharmaceuticals,R$1.44T,40.7x,9.14,R$78,2%
+34,SSFO34,Salesforce.com DRC,B3,Technology,Software & IT Services,R$1.39T,46.6x,0.03,R$65.39,3%
+35,SAPP34,SAP SE BDR,B3,Technology,Software & IT Services,R$1.37T,89.3x,-1.81,"R$1,160.35",0%
+36,ADBE34,Adobe,B3,Technology,Software & IT Services,R$1.35T,49.7x,7.73,R$60.92,5.1%
+37,TMCO34,Toyota Motor,B3,Consumer Cyclicals,Automobiles & Auto Parts,R$1.31T,7.2x,0.1,R$62.36,2.8%
+38,A1MD34,Advanced Micro Devices,B3,Technology,Semiconductors & Semiconductor Equipment,R$1.31T,175.7x,0.03,R$101.05,6%
+39,PEPB34,PepsiCo Inc BDR,B3,Consumer Non-Cyclicals,Beverages,R$1.30T,24.9x,1.2,R$63.12,-0.7%
+40,TMOS34,Thermo Fisher Scientific,B3,Healthcare,Healthcare Equipment & Supplies,R$1.26T,37.2x,3.6,R$68.88,0.8%
+41,N1VS34,Novartis AG DRC SA,B3,Healthcare,Pharmaceuticals,R$1.25T,14.4x,0.19,R$62.34,0.2%
+42,T1MU34,TMobile US,B3,Technology,Telecommunications Services,R$1.24T,24.1x,0.4,R$533.87,-0.5%
+43,ACNB34,Accenture PLC BDR,B3,Technology,Software & IT Services,R$1.12T,29.2x,-26.79,"R$1,771",1.3%
+44,P1DD34,Pinduoduo Inc BDR,B3,Technology,Software & IT Services,R$1.08T,19.5x,0.15,R$79.77,2.9%
+45,MCDC34,McDonalds Corp BDR,B3,Consumer Cyclicals,Hotels & Entertainment Services,R$1.08T,24x,4.46,R$75.46,1.4%
+46,DHER34,Danaher Corp BDR,B3,Healthcare,Healthcare Equipment & Supplies,R$1.07T,47.3x,-1.41,R$52.74,0.9%
+47,CSCO34,Cisco Systems Inc BDR,B3,Technology,Communications & Networking,R$1.07T,18.9x,2.45,R$53.05,6.4%
+48,QCOM34,Qualcomm Inc BDR,B3,Technology,Semiconductors & Semiconductor Equipment,R$1.06T,22.3x,16.22,R$79.30,4.2%
+49,ABTT34,Abbott Laboratories BDR,B3,Healthcare,Healthcare Equipment & Supplies,R$1.06T,34.9x,4.1,R$49.20,0%
+50,BABA34,Alibaba Group Holding,B3,Technology,Software & IT Services,R$1.03T,18.4x,1.24,R$15.53,-0.2%
+51,WFCO34,Wells Fargo Co BDR,B3,Financials,Banking Services,R$1.02T,11.1x,0.53,R$74.88,1.7%
+52,GEOO34,General Electric Co BDR,B3,Consumer Non-Cyclicals,Consumer Goods Conglomerates,R$1.02T,20.2x,-0.88,R$937.29,2.3%
+53,TEXA34,Texas Instruments Inc BDR,B3,Technology,Semiconductors & Semiconductor Equipment,R$1.01T,34.7x,-1.07,R$74.35,3.6%
+54,PHMO34,Philip Morris International,B3,Consumer Non-Cyclicals,Food & Tobacco,R$1T,20.8x,2.19,R$321.28,1.1%
+55,INTU34,Intuit,B3,Technology,Financial Technology (Fintech) & Infrastructure,R$998.35B,59.4x,1.55,R$78.21,0%
+56,FNAM11,Fundo de Investimento da Amazonia,B3,"Institutions, Associations & Organizations","Institutions, Associations & Organizations",R$991.03B,,,R$0.45,4.7%
+57,IBMB34,International Business Machines BDR,B3,Technology,Software & IT Services,R$979.01B,21.1x,0.07,"R$1,061.55",1.1%
+58,AXPB34,American Express Co BDR,B3,Financials,Banking Services,R$972.38B,18.6x,0.48,R$137.28,3%
+59,A1MT34,Applied Materials,B3,Technology,Semiconductors & Semiconductor Equipment,R$960.77B,24.1x,1.46,R$116.16,5.3%
+60,ATTB34,ATT Inc BDR,B3,Technology,Telecommunications Services,R$960.25B,14.1x,0.05,R$34.87,-2.2%
+61,AMGN34,Amgen Inc BDR,B3,Healthcare,Pharmaceuticals,R$959.23B,55.7x,-0.91,R$63.53,-0.5%
+62,N1OW34,ServiceNow DRC SA,B3,Technology,Software & IT Services,R$938.93B,149.1x,-7.08,R$91.26,2.3%
+63,I1SR34,Intuitive Surgical,B3,Healthcare,Healthcare Equipment & Supplies,R$934.99B,80.8x,1.71,R$131.19,3.3%
+64,VERZ34,Verizon Communications BDR,B3,Technology,Telecommunications Services,R$925.49B,15x,-0.33,R$36.76,-0.9%
+65,CATP34,Caterpillar Inc BDR,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$918.37B,15.7x,0.41,R$118.68,2.6%
+66,GSGI34,Goldman Sachs Group BDR,B3,Financials,Investment Banking & Investment Services,R$910.76B,15.9x,0.48,R$91.35,0.9%
+67,MSBR34,Morgan Stanley Bank AG,B3,Financials,Investment Banking & Investment Services,R$892.04B,16.4x,2.28,R$110.77,2.5%
+68,PFIZ34,Pfizer Inc BDR,B3,Healthcare,Pharmaceuticals,R$891.59B,-62.5x,0.55,R$39.39,-0.1%
+69,DISB34,Walt Disney Co BDR,B3,Consumer Cyclicals,Media & Publishing,R$884.27B,33.9x,0.29,R$32.52,4%
+70,NEXT34,Nextera Energy,B3,Utilities,Electrical Utilities & IPPs,R$872.66B,25.1x,-1.05,R$106.48,-0.3%
+71,RYTT34,Raytheon Technologies BDR,B3,Industrials,Aerospace & Defense,R$859.36B,71.2x,-1.22,R$108.05,0.9%
+72,SPGI34,S And P Global,B3,Industrials,Professional & Commercial Services,R$845.36B,46.7x,1,R$75.04,0.4%
+73,H1SB34,HSBC Holdings,B3,Financials,Banking Services,R$839.72B,7.3x,-2.28,R$61.99,7%
+74,CMCS34,Comcast Corp BDR,B3,Technology,Telecommunications Services,R$837.59B,10.4x,0.07,R$43.05,1%
+75,U1BE34,Uber Technologies,B3,Technology,Software & IT Services,R$836.59B,75.1x,0.13,R$99.82,1.5%
+76,ULEV34,Unilever NV,B3,Consumer Non-Cyclicals,Personal & Household Products & Services,R$834.31B,21x,-1.07,R$335.94,0.8%
+77,UPAC34,Union Pacific,B3,Industrials,Freight & Logistics Services,R$814.48B,22.9x,-7.6,R$330.82,0%
+78,H1DB34,HDFC Bank,B3,Financials,Banking Services,R$798.04B,18.1x,6.71,R$59.01,0%
+79,P1GR34,The Progressive,B3,Financials,Insurance,R$760.50B,20.2x,0.06,R$649.60,1.4%
+80,LOWC34,Lowe's Companies,B3,Consumer Cyclicals,Specialty Retailers,R$749.48B,19.2x,0.87,R$64.99,0%
+81,LMTB34,Lockheed Martin Corp BDR,B3,Industrials,Aerospace & Defense,R$731.28B,20.2x,25.67,"R$3,073.02",0.7%
+82,COPH34,ConocoPhillips DRC,B3,Energy,Oil & Gas,R$708.10B,12.3x,-0.87,R$50.90,1.8%
+83,BLAK34,BlackRock DRC,B3,Financials,Investment Banking & Investment Services,R$707.61B,21.5x,1.19,R$72.52,1.6%
+84,HONB34,Honeywell DRC,B3,Consumer Non-Cyclicals,Consumer Goods Conglomerates,R$706.69B,22.5x,2.56,"R$1,090",-0.5%
+85,REGN34,Regeneron,B3,Healthcare,Biotechnology & Medical Research,R$697.26B,29.1x,,R$107.69,2.7%
+86,S1YK34,Stryker,B3,Healthcare,Healthcare Equipment & Supplies,R$697.20B,36.7x,1.31,R$90.66,0%
+87,E1LV34,Elevance,B3,Healthcare,Healthcare Providers & Services,R$687.71B,18.9x,2.16,R$590.96,0%
+88,NIKE34,Nike Inc BDR,B3,Consumer Cyclicals,Textiles & Apparel,R$678.12B,22x,1.26,R$45.20,5.2%
+89,VRTX34,Vertex Pharmaceuticals DRC,B3,Healthcare,Biotechnology & Medical Research,R$668.15B,-248.2x,2.15,R$646.10,0.5%
+90,BKNG34,Booking,B3,Consumer Cyclicals,Hotels & Entertainment Services,R$666.28B,24.9x,0.98,R$113.30,0.9%
+91,E1TN34,Eaton,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$659.66B,33.1x,0.93,R$118.44,1.2%
+92,ABUD34,Anheuser Busch Inbev NV,B3,Consumer Non-Cyclicals,Beverages,R$653.81B,20.5x,-4.17,R$55.02,0%
+93,SCHW34,Charles Schwab BDR,B3,Financials,Investment Banking & Investment Services,R$653.30B,26.9x,-0.82,R$44.80,-0.3%
+94,MUTC34,Micron Technology,B3,Technology,Semiconductors & Semiconductor Equipment,R$651.15B,-76.6x,-1.42,R$98.18,7.2%
+95,P1LD34,Prologis,B3,Real Estate,Residential & Commercial REITs,R$645B,41x,-2.18,R$57.05,1%
+96,M1UF34,Mitsubishi UFJ Financial Group,B3,Financials,Banking Services,R$642.94B,13.5x,0.41,R$57.25,5.9%
+97,L1RC34,Lam Res,B3,Technology,Semiconductors & Semiconductor Equipment,R$635.06B,30.6x,-2.17,R$111.32,6.8%
+98,CTGP34,Citigroup Inc BDR,B3,Financials,Investment Banking & Investment Services,R$632.25B,16.7x,-0.37,R$55.33,2.5%
+99,B1SX34,Boston Scientific,B3,Healthcare,Healthcare Equipment & Supplies,R$626.13B,62.1x,0.59,R$425.04,2%
+100,K1LA34,KLA,B3,Technology,Semiconductors & Semiconductor Equipment,R$615.60B,40.9x,-2.27,"R$1,143.46",5.1%
+101,A1NE34,Arista Networks,B3,Technology,Communications & Networking,R$612.95B,45.1x,1.01,R$486.72,2.6%
+102,A1DI34,Analog Devices,B3,Technology,Semiconductors & Semiconductor Equipment,R$608.08B,51.7x,-1.21,R$607.11,-4.5%
+103,UPSS34,United Parcel Service Inc,B3,Industrials,Freight & Logistics Services,R$603.97B,21x,-0.44,R$44.24,2.2%
+104,C1BL34,Chubb,B3,Financials,Insurance,R$603.07B,11.4x,0.16,R$374.07,2.9%
+105,M1MC34,Marsh McLennan Companies,B3,Financials,Insurance,R$595.96B,27x,1.16,R$618,0%
+106,BOEI34,Boeing Co BDR,B3,Industrials,Aerospace & Defense,R$595.64B,-31.2x,-1.23,R$920.92,0%
+107,ADPR34,ADP DRC,B3,Technology,Software & IT Services,R$588.91B,28.8x,2.63,R$59.70,0%
+108,MDTC34,Medtronic DRC,B3,Healthcare,Healthcare Equipment & Supplies,R$588.18B,30.3x,-13.31,R$230.46,0%
+109,SBUB34,Starbucks Corp BDR,B3,Consumer Cyclicals,Hotels & Entertainment Services,R$585.66B,26.3x,2.35,R$515.58,-0.1%
+110,SNEC34,Sony,B3,Technology,"Computers, Phones & Household Electronics",R$573.74B,16.2x,4.96,R$484.61,-0.7%
+111,RIOT34,Rio Tinto,B3,Basic Materials,Metals & Mining,R$565.15B,9.2x,0.39,R$336.52,0.5%
+112,DEEC34,Deere & Co,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$563.40B,11.3x,0.85,R$68.22,6.2%
+113,T1OW34,American Tower,B3,Real Estate,Residential & Commercial REITs,R$558.21B,40.9x,0.27,R$50,-1.7%
+114,MELI34,Mercadolibre BDR,B3,Technology,Software & IT Services,R$553.99B,72x,0.79,R$90.98,5.5%
+115,BMYB34,Bristol Myers Squibb Company BDR,B3,Healthcare,Pharmaceuticals,R$545.25B,-15.2x,0.08,R$266.76,0%
+116,I1BN34,ICICI Bank,B3,Financials,Banking Services,R$532.44B,18x,0.84,R$152.40,-2.9%
+117,S2HO34,Shopify,B3,Technology,Software & IT Services,R$527.91B,75.3x,0.43,R$3.41,4.9%
+118,H1CA34,HCA Healthcare,B3,Healthcare,Healthcare Providers & Services,R$526.08B,17.2x,3.43,R$100.30,0%
+119,UBSG34,UBS BDR,B3,Financials,Investment Banking & Investment Services,R$525.82B,3.3x,0.01,R$165.75,-1.9%
+120,F1IS34,Fiserv,B3,Industrials,Professional & Commercial Services,R$522.82B,28.6x,0.59,R$441.32,0%
+121,T1SO34,Southern Co,B3,Utilities,Electrical Utilities & IPPs,R$521.82B,20.7x,0.42,R$483.95,0%
+122,C1IC34,Cigna,B3,Healthcare,Healthcare Providers & Services,R$517.39B,26.4x,-0.61,R$445.50,0%
+123,MDLZ34,Mondelez International Inc BDR,B3,Consumer Non-Cyclicals,Food & Tobacco,R$515.36B,24.1x,-7.23,R$192.27,-1.9%
+124,PETR3,PETROBRAS ON,B3,Energy,Oil & Gas,R$510.64B,6x,,R$41.38,1%
+125,PETR4,PETROBRAS PN,B3,Energy,Oil & Gas,R$510.64B,6x,,R$38.34,1.5%
+126,GILD34,Gilead Sciences DRC,B3,Healthcare,Pharmaceuticals,R$507.43B,87.8x,-1.07,R$200.76,0%
+127,B1PP34,BP DRC SA,B3,Energy,Oil & Gas,R$503.29B,13x,-0.21,R$46.75,1.1%
+128,S1HW34,SherwinWilliams Co,B3,Basic Materials,Chemicals,R$493.61B,36x,3.89,R$196.50,0.9%
+129,I1FO34,Infosys,B3,Technology,Software & IT Services,R$491.91B,28.7x,3.9,R$60.11,0.9%
+130,I1CE34,Intercontinental Exchange,B3,Financials,Investment Banking & Investment Services,R$488.92B,38.4x,1.11,R$428.40,0%
+131,ITLC34,Intel Corp BDR,B3,Technology,Semiconductors & Semiconductor Equipment,R$485.65B,89.6x,0.43,R$18.92,4%
+132,DUKB34,Duke Energy,B3,Utilities,Electrical Utilities & IPPs,R$478.37B,20.9x,0.08,R$650,5.1%
+133,MOOO34,Altria Group,B3,Consumer Non-Cyclicals,Food & Tobacco,R$475.15B,8.8x,0.16,R$280,0.2%
+134,MCOR34,Moody's,B3,Industrials,Professional & Commercial Services,R$465.99B,45.9x,1.48,R$634.33,0%
+135,S1NP34,Synopsys,B3,Technology,Software & IT Services,R$460.37B,58.5x,1.03,R$749.71,3.5%
+136,G1SK34,GlaxoSmithKline,B3,Healthcare,Pharmaceuticals,R$458.86B,16.1x,-0.21,R$45.72,0%
+137,Z1TS34,Zoetis,B3,Healthcare,Pharmaceuticals,R$457.39B,36x,4.83,R$63.48,1.1%
+138,W1MC34,Waste Management,B3,Industrials,Professional & Commercial Services,R$454.81B,32.7x,2.47,R$566.72,2.1%
+139,COLG34,Colgate Palmolive Co BDR,B3,Consumer Non-Cyclicals,Personal & Household Products & Services,R$453.88B,29.5x,0.32,R$79.52,-0.2%
+140,GDBR34,General Dynamics Corp BDR,B3,Industrials,Aerospace & Defense,R$444.28B,22.8x,4.39,"R$1,618.05",1.2%
+141,B1TI34,British American Tobacco,B3,Consumer Non-Cyclicals,Food & Tobacco,R$436.14B,-4.5x,0.02,R$39.64,-0.2%
+142,A1PH34,Amphenol,B3,Technology,Electronic Equipment & Parts,R$435.69B,37.8x,4.06,R$179.82,1.6%
+143,EQIX34,Equinix,B3,Real Estate,Residential & Commercial REITs,R$432.27B,75.9x,2.9,R$57,-0.7%
+144,I1RP34,Trane Tech,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$426.44B,30.7x,1.3,R$934.65,0%
+145,D1EL34,Dell Technologies,B3,Technology,"Computers, Phones & Household Electronics",R$426.34B,22x,0.21,R$604.80,6.6%
+146,C1DN34,Cadence Design Systems,B3,Technology,Software & IT Services,R$420.52B,71.7x,3.81,R$770.96,4.2%
+147,C1TA34,Cintas,B3,Industrials,Professional & Commercial Services,R$420.34B,50.3x,2.89,R$835.75,0%
+148,E1QN34,Equinor DRC,B3,Energy,Oil & Gas,R$418.72B,8.4x,-0.14,R$76.48,0.3%
+149,P1HC34,ParkerHannifin,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$415.80B,26.7x,0.31,R$724.29,0%
+150,AIRB34,Airbnb,B3,Technology,Software & IT Services,R$411.13B,15.6x,0.13,R$32.66,2.6%
+151,CHME34,CME Group,B3,Financials,Investment Banking & Investment Services,R$408.98B,22.6x,2.06,R$284.20,0%
+152,C1MG34,Chipotle Mexican Grill,B3,Consumer Cyclicals,Hotels & Entertainment Services,R$405.86B,52.6x,2.04,R$14.82,5.1%
+153,NOCG34,Northrop Grumman,B3,Industrials,Aerospace & Defense,R$404.46B,32.9x,-0.64,R$549.45,0%
+154,E1OG34,EOG Resources,B3,Energy,Oil & Gas,R$396.13B,9.5x,-0.75,R$341.36,0%
+155,CVSH34,CVS Health DRC,B3,Healthcare,Healthcare Providers & Services,R$395.79B,10.2x,0.07,R$30.76,0%
+156,DEOP34,Diageo,B3,Consumer Non-Cyclicals,Beverages,R$394.60B,18.7x,-1.52,R$39.88,2.5%
+157,A1ON34,Aon,B3,Financials,Insurance,R$394.05B,26.4x,-9.83,R$403.18,0%
+158,BCSA34,Banco Santander,B3,Financials,Banking Services,R$393.03B,5.9x,0.24,R$25.42,2.6%
+159,CNIC34,Canadian National Railway Co,B3,Industrials,Freight & Logistics Services,R$390.52B,18.4x,2.17,R$25.83,1.8%
+160,T1DG34,Transdigm,B3,Industrials,Aerospace & Defense,R$390.42B,47.1x,1.02,R$139.44,3.1%
+161,W1EL34,Welltower,B3,Real Estate,Residential & Commercial REITs,R$387.81B,109.8x,0.36,R$318.73,-0.8%
+162,M1CK34,McKesson,B3,Healthcare,Pharmaceuticals,R$387.45B,24.3x,-1.4,R$760.76,-0.3%
+163,I1TW34,Illinois Tool Works,B3,Consumer Non-Cyclicals,Consumer Goods Conglomerates,R$387.25B,23.5x,25.14,R$325,0%
+164,M1SI34,Motorola Solutions,B3,Technology,Communications & Networking,R$386.24B,47.8x,-16.23,R$574.50,2%
+165,MMMC34,3M Co BDR,B3,Consumer Non-Cyclicals,Consumer Goods Conglomerates,R$385.16B,-10x,0.29,R$173.80,1%
+166,P2LT34,Palantir Tech DRC,B3,Technology,Software & IT Services,R$382.57B,170.1x,0.2,R$56.99,3.3%
+167,B1AM34,Brookfield Asset Management DRC,B3,Financials,Investment Banking & Investment Services,R$381.64B,78.7x,0.22,R$64.02,1.4%
+168,FDXB34,FedEx Corp BDR,B3,Industrials,Freight & Logistics Services,R$381.42B,16.2x,1.35,"R$1,618.23",0%
+169,PYPL34,PayPal Holdings,B3,Industrials,Professional & Commercial Services,R$381.25B,16.4x,0.98,R$18.60,3.4%
+170,E1CL34,Ecolab,B3,Basic Materials,Chemicals,R$373.83B,40x,0.86,R$332.64,0%
+171,S1PO34,Spotify Technology,B3,Technology,Software & IT Services,R$370.03B,129.4x,0.92,R$459.44,0.7%
+172,B1DX34,Becton Dickinson and Co,B3,Healthcare,Healthcare Equipment & Supplies,R$369.41B,47.2x,-3.7,R$267.30,0%
+173,PNCS34,PNC Financial Services Group,B3,Financials,Banking Services,R$365.82B,14x,-0.76,R$462.03,0%
+174,USBC34,U.S. Bancorp DRC,B3,Financials,Banking Services,R$365.77B,13.6x,-1.09,R$58.74,1.6%
+175,TGTB34,Target Corp BDR,B3,Consumer Cyclicals,Diversified Retail,R$359.23B,15.9x,0.29,R$774.56,4.1%
+176,CSXC34,CSX,B3,Industrials,Freight & Logistics Services,R$357.46B,18.4x,-2.52,R$92.19,1.4%
+177,N1XP34,NXP Semiconductors NV,B3,Technology,Semiconductors & Semiconductor Equipment,R$354.08B,23.4x,21.44,R$692.78,2.4%
+178,SLBG34,Schlumberger AG,B3,Energy,Oil & Gas Related Equipment and Services,R$350.16B,14.5x,1.16,R$123.67,4.1%
+179,ROXO34,Nubank BDR,B3,Financials,Banking Services,R$349.76B,40.5x,0.06,R$12.55,4.1%
+180,R1SG34,Republic Services,B3,Industrials,Professional & Commercial Services,R$348.60B,32.2x,1.67,R$543.40,0%
+181,C2RW34,CrowdStrike Holdings DRC,B3,Technology,Software & IT Services,R$347.32B,476.2x,2.43,R$64.99,2.1%
+182,FCXO34,Freeport Mcmoran Copper Gold Inc,B3,Basic Materials,Metals & Mining,R$344.11B,32.6x,-3.77,R$80.08,4.7%
+183,M1TT34,Marriott,B3,Consumer Cyclicals,Hotels & Entertainment Services,R$342.65B,22.2x,1.58,R$304.02,2.7%
+184,A1JG34,Arthur J Gallagher Co,B3,Financials,Insurance,R$341.92B,55.4x,,R$799,0%
+185,A1PD34,Air Products,B3,Basic Materials,Chemicals,R$333.80B,23.7x,1.36,R$373.62,0%
+186,ITUB3,ITAUUNIBANCO ON,B3,Financials,Banking Services,R$331.55B,9.2x,0.46,R$31.76,1.4%
+187,ITUB4,ITAUUNIBANCOPN EB N1,B3,Financials,Banking Services,R$331.55B,9.2x,0.46,R$36.99,1.4%
+188,M1PC34,Marathon Petroleum,B3,Energy,Oil & Gas,R$331.37B,9.3x,-0.26,R$976.60,0%
+189,E1MR34,Emerson Electric Co,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$327.21B,34.8x,-0.4,R$590,5.7%
+190,SIMN34,Simon Property Group,B3,Real Estate,Residential & Commercial REITs,R$324.75B,20.1x,1.03,R$217.56,1.4%
+191,W1DA34,Workday,B3,Technology,Software & IT Services,R$323.13B,38.2x,0.06,R$76.30,0%
+192,BILB34,BBVA DRC,B3,Financials,Banking Services,R$317.84B,6.1x,0.2,R$55,1.6%
+193,P1SX34,Phillips 66,B3,Energy,Oil & Gas,R$315.58B,11.6x,-0.22,R$368.52,0%
+194,A1FL34,Aflac,B3,Financials,Insurance,R$312.08B,10.3x,0.49,R$489,0%
+195,N1EM34,Newmont,B3,Basic Materials,Metals & Mining,R$310.37B,-25.5x,0.27,R$270.01,0.2%
+196,D1HI34,D.R. Horton,B3,Consumer Cyclicals,Homebuilding & Construction Supplies,R$310.25B,12x,1.99,R$950.61,0%
+197,R1OP34,Roper Technologies,B3,Technology,Software & IT Services,R$310.07B,40.1x,-0.79,R$286,0%
+198,NETE34,NetEase,B3,Technology,Software & IT Services,R$308.85B,14.6x,0.39,R$49.50,3.6%
+199,CHCM34,Charter Communications,B3,Technology,Telecommunications Services,R$308.02B,11x,2.12,R$32.11,0.1%
+200,F1TN34,Fortinet,B3,Technology,Software & IT Services,R$307.57B,42.8x,1.52,R$198,-1.3%
+201,B1BT34,Truist Financial,B3,Financials,Banking Services,R$306.28B,-8.1x,0.06,R$227.73,0%
+202,P1SA34,Public Storage,B3,Real Estate,Residential & Commercial REITs,R$305.31B,29.8x,-0.55,R$348.60,0%
+203,INGG34,ING Groep NV,B3,Financials,Banking Services,R$303.05B,10x,-0.34,R$94.75,2.2%
+204,N1SC34,Norfolk Southern,B3,Industrials,Freight & Logistics Services,R$298.30B,31.6x,-1.03,R$306,0%
+205,A1UT34,Autodesk,B3,Technology,Software & IT Services,R$295.31B,53.6x,2.73,R$343.40,1.9%
+206,W1MB34,Williams Companies,B3,Energy,Oil & Gas Related Equipment and Services,R$292.93B,18.9x,2.52,R$236.50,0%
+207,OXYP34,Occidental Petroleum,B3,Energy,Oil & Gas,R$287.16B,13.2x,-0.45,R$52.75,1.5%
+208,R1IN34,Realty Income,B3,Real Estate,Residential & Commercial REITs,R$285.47B,55.9x,-3.08,R$164.40,-0.3%
+209,H1LT34,Hilton Worldwide Holdings,B3,Consumer Cyclicals,Hotels & Entertainment Services,R$284.02B,44.3x,-31.97,R$47.19,0%
+210,CAON34,Capital One Financial,B3,Financials,Banking Services,R$283.44B,12.4x,-0.69,R$377.40,0%
+211,A1EP34,American Electric Power Company,B3,Utilities,Electrical Utilities & IPPs,R$281.72B,19.3x,0.65,R$266.76,0%
+212,O1KE34,ONEOK,B3,Energy,Oil & Gas Related Equipment and Services,R$277.58B,18.7x,-1.27,R$224.25,0%
+213,GMCO34,General Motors,B3,Consumer Cyclicals,Automobiles & Auto Parts,R$276.26B,5.1x,0.19,R$61.73,3.3%
+214,S1RE34,Sempra Energy,B3,Utilities,Multiline Utilities,R$276.25B,17x,0.9,R$109.12,1.1%
+215,METB34,Metlife Inc BDR,B3,Financials,Insurance,R$275.84B,19.5x,-3.59,R$385.85,0%
+216,D1LR34,Digital Realty,B3,Real Estate,Residential & Commercial REITs,R$274.45B,42.9x,0.24,R$204.96,0%
+217,HOND34,Honda Motor Co,B3,Consumer Cyclicals,Automobiles & Auto Parts,R$273.34B,6.8x,0.08,R$174.42,4.4%
+218,P1AC34,Paccar,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$272.54B,10x,0.27,R$256.93,0%
+219,C1PR34,Copart,B3,Technology,Software & IT Services,R$271.89B,35.5x,1.8,R$140.41,0%
+220,T2TD34,Trade Desk,B3,Technology,Software & IT Services,R$271.15B,194.6x,1.92,R$5.52,2.4%
+221,ROST34,Ross Stores DRC,B3,Consumer Cyclicals,Specialty Retailers,R$269.90B,24.7x,0.74,R$403.82,4.3%
+222,C2OI34,Coinbase Global DRC,B3,Technology,Financial Technology (Fintech) & Infrastructure,R$269.24B,32.2x,0.17,R$43.42,1%
+223,TRVC34,Travelers Companies DRC,B3,Financials,Insurance,R$267.22B,13.2x,0.2,R$36.68,0%
+224,BONY34,Bank of New York Mellon Corp BDR,B3,Financials,Investment Banking & Investment Services,R$262.94B,15.5x,0.7,R$356.65,2%
+225,VLOE34,Valero Energy DRC,B3,Energy,Oil & Gas,R$261.85B,8.4x,-0.21,R$406.98,0%
+226,KMBB34,Kimberly Clark Corp BDR,B3,Consumer Non-Cyclicals,Personal & Household Products & Services,R$261.51B,20.9x,0.51,R$774.62,2.6%
+227,U1RI34,United Rentals,B3,Industrials,Professional & Commercial Services,R$260.49B,19x,1.18,R$141.26,2.4%
+228,C1CI34,Crown Castle International,B3,Real Estate,Residential & Commercial REITs,R$259.94B,39.8x,-1.33,R$153.93,1%
+229,AIGB34,AIG BDR,B3,Financials,Insurance,R$259.04B,-74.8x,-0.12,R$400,2.1%
+230,A1TT34,Allstate,B3,Financials,Insurance,R$257.28B,16.1x,0.07,R$39.25,0%
+231,KMIC34,Kinder Morgan,B3,Energy,Oil & Gas Related Equipment and Services,R$256.82B,19.4x,-11.57,R$115.20,0%
+232,J1CI34,Johnson Controls International,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$255.01B,29.1x,-1.34,R$366.27,0%
+233,L1YG34,Lloyds Banking Group,B3,Financials,Banking Services,R$254.88B,8.2x,0.3,R$16.32,2.3%
+234,D1OM34,Dominion Energy,B3,Utilities,Electrical Utilities & IPPs,R$254.29B,29.3x,-0.6,R$149.10,0%
+235,G1WW34,Ww Grainger,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$253.88B,26.1x,5.02,R$132.72,0%
+236,M1NS34,Monster Beverage,B3,Consumer Non-Cyclicals,Beverages,R$252.37B,29.1x,1.52,R$32.37,2.4%
+237,L1EN34,Lennar,B3,Consumer Cyclicals,Homebuilding & Construction Supplies,R$251.81B,11.7x,31.43,R$938.03,0%
+238,TAKP34,Takeda Pharmaceutical Co,B3,Healthcare,Pharmaceuticals,R$250.15B,44.7x,-0.84,R$76.64,0%
+239,P1AY34,Paychex,B3,Industrials,Professional & Commercial Services,R$246.26B,26.6x,2.95,R$344,0%
+240,M1SC34,Msci,B3,Industrials,Professional & Commercial Services,R$242.90B,37.6x,1.14,R$70.17,2.2%
+241,S2EA34,Sea DRC,B3,Technology,Software & IT Services,R$241.05B,-186.7x,9.23,R$17.37,3.3%
+242,T1EL34,TE Connectivity,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$240.95B,12.9x,0.19,R$301.62,0%
+243,I1QV34,IQVIA Holdings BDR,B3,Healthcare,Biotechnology & Medical Research,R$240.57B,30.8x,0.93,R$331.39,0%
+244,VALE3,VALE ON,B3,Basic Materials,Metals & Mining,R$238.90B,4.9x,-0.47,R$56.16,0.3%
+245,H1UM34,Humana,B3,Healthcare,Healthcare Providers & Services,R$235.71B,25.4x,-0.52,R$43.38,0.2%
+246,L1HX34,L3harris Technologies,B3,Industrials,Aerospace & Defense,R$234.16B,36.4x,0.73,R$310.93,0%
+247,B1CS34,Barclays,B3,Financials,Banking Services,R$233.85B,8.7x,-0.31,R$66.60,6.7%
+248,F1NI34,Fidelity National Information Services,B3,Technology,Financial Technology (Fintech) & Infrastructure,R$233.27B,75.6x,0.7,R$26.70,0%
+249,S2NW34,Snowflake,B3,Technology,Software & IT Services,R$233.01B,-45.3x,8.52,R$17.47,2%
+250,M1CH34,Microchip Technology,B3,Technology,Semiconductors & Semiconductor Equipment,R$228.79B,29.8x,-0.7,R$208.22,0%
+251,A1MP34,Ameriprise Financial,B3,Financials,Investment Banking & Investment Services,R$228.29B,14.4x,1.87,R$583.11,5.2%
+252,FDMO34,Ford Motor Co BDR,B3,Consumer Cyclicals,Automobiles & Auto Parts,R$228.03B,10.9x,-1.48,R$57.41,2.3%
+253,KHCB34,Kraft Heinz DRC,B3,Consumer Non-Cyclicals,Food & Tobacco,R$226.84B,21.7x,-0.57,R$47.10,-0.4%
+254,C1NC34,Centene,B3,Healthcare,Healthcare Providers & Services,R$226.40B,14.9x,1.54,R$429.24,2.4%
+255,H1ES34,Hess,B3,Energy,Oil & Gas,R$225.82B,15.7x,0.19,R$375.09,0%
+256,R1CL34,Royal Caribbean,B3,Consumer Cyclicals,Hotels & Entertainment Services,R$225.47B,16.3x,0,R$432.01,2.5%
+257,E1WL34,Edwards Life,B3,Healthcare,Healthcare Equipment & Supplies,R$224.75B,27.8x,3.28,R$93.06,2.5%
+258,SANB4,SANTANDER BRPN ,B3,Financials,Banking Services,R$224.10B,19.5x,2.09,R$15.78,-0.4%
+259,SANB11,SANTANDER BR UNT,B3,Financials,Banking Services,R$224.10B,19.5x,2.09,R$29.93,-0.4%
+260,A1GI34,Agilent Technologies,B3,Healthcare,Healthcare Equipment & Supplies,R$223.77B,32.8x,-4.39,R$371.26,0%
+261,WEGE3,WEG ON,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$222.07B,38x,2.25,R$52.75,2.3%
+262,N1DA34,Nasdaq,B3,Financials,Investment Banking & Investment Services,R$220.40B,40.3x,-1.81,R$191.39,0.9%
+263,C1MI34,Cummins,B3,Consumer Cyclicals,Automobiles & Auto Parts,R$219.30B,21.6x,-0.86,R$399,0%
+264,P1EG34,Public Service Enterprise Group,B3,Utilities,Multiline Utilities,R$219.05B,23.9x,-0.66,R$300.60,0%
+265,FMXB34,Fomento Economico Mexicano DRC,B3,Consumer Non-Cyclicals,Food & Drug Retailing,R$218.71B,28.1x,-0.34,R$614.27,0%
+266,P1DT34,Prudential,B3,Financials,Insurance,R$218.51B,13.9x,0.22,R$310.77,2.1%
+267,HSHY34,Hershey BDR,B3,Consumer Non-Cyclicals,Food & Tobacco,R$218.01B,21.8x,5.43,R$220.44,0%
+268,S2QU34,Block BDR,B3,Industrials,Professional & Commercial Services,R$217.19B,58.1x,0.1,R$14.16,3.7%
+269,JDCO34,JD.com,B3,Consumer Cyclicals,Diversified Retail,R$216.77B,12.1x,0.38,R$24.80,4.7%
+270,Q1UA34,Quanta Services,B3,Industrials,Construction & Engineering,R$216.14B,49.7x,1.34,R$118.80,0%
+271,D1DG34,Datadog DRC,B3,Technology,Software & IT Services,R$215.02B,235.9x,0.86,R$63.78,1%
+272,ARNC34,Howmet Aerospace BDR,B3,Industrials,Aerospace & Defense,R$214.10B,42.2x,0.52,R$524.29,2.8%
+273,I1DX34,IDEXX Laboratories,B3,Healthcare,Healthcare Equipment & Supplies,R$213.67B,46.3x,6.59,R$522,0%
+274,EAIN34,Electronic Arts,B3,Technology,Software & IT Services,R$212.87B,34.2x,1.06,R$401.64,0.3%
+275,G1MI34,General Mills,B3,Consumer Non-Cyclicals,Food & Tobacco,R$210.14B,15.9x,,R$380.25,-0.2%
+276,V1RS34,Verisk Analytics,B3,Technology,Software & IT Services,R$209.11B,42.9x,0.48,R$19.24,0.6%
+277,T1AM34,Atlassian Corporation DRC,B3,Technology,Software & IT Services,R$208.64B,-125.9x,-3.15,R$39.61,1.2%
+278,K1RC34,Kroger Co,B3,Consumer Non-Cyclicals,Food & Drug Retailing,R$207.66B,17.3x,-1.15,R$301.28,0%
+279,A1ME34,AMETEK,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$206.87B,28.3x,3.71,R$36.49,0%
+280,ABEV3,AMBEV S/A ON,B3,Consumer Non-Cyclicals,Beverages,R$206.33B,14.3x,15.11,R$13.03,3.7%
+281,E1XC34,Exelon,B3,Utilities,Electrical Utilities & IPPs,R$205.48B,15.5x,1.13,R$205.18,0.6%
+282,CTSH34,Cognizant Tech DRC,B3,Technology,Software & IT Services,R$205.15B,17.2x,6.49,R$425.53,0%
+283,S1YY34,Sysco,B3,Consumer Non-Cyclicals,Food & Drug Retailing,R$205.06B,19.6x,1.55,R$204.99,0%
+284,G1AR34,Gartner,B3,Technology,Software & IT Services,R$201.81B,43.6x,-4.91,R$657.83,0%
+285,E1XR34,Extra Space Storage,B3,Real Estate,Residential & Commercial REITs,R$201.34B,43.3x,-1.13,R$229.08,0%
+286,C1TV34,Corteva DRC,B3,Basic Materials,Chemicals,R$199.92B,41.2x,-32.14,R$70.70,0%
+287,F1AN34,Diamondback,B3,Energy,Oil & Gas,R$192.40B,10.2x,13.91,R$537.84,0%
+288,HPQB34,HP Inc BDR,B3,Technology,"Computers, Phones & Household Electronics",R$189.81B,11.8x,0.77,R$193.73,1.5%
+289,B1KR34,Baker Hughes DRC,B3,Energy,Oil & Gas Related Equipment and Services,R$189.14B,19.7x,0.23,R$214.25,0%
+290,G1LW34,Corning,B3,Technology,Electronic Equipment & Parts,R$189.07B,78.8x,-2.33,R$226.32,0%
+291,N1UE34,Nucor,B3,Basic Materials,Metals & Mining,R$188.86B,10.5x,-0.28,R$64.48,0%
+292,ELCI34,Estee Lauder Companies,B3,Consumer Non-Cyclicals,Personal & Household Products & Services,R$186.75B,53.4x,-1.21,R$21.80,6.1%
+293,A1LN34,Alnylam Pharmaceuticals DRC,B3,Healthcare,Biotechnology & Medical Research,R$184.95B,-451.2x,-5.09,R$71.22,-1.6%
+294,M1RN34,Moderna,B3,Healthcare,Biotechnology & Medical Research,R$182.35B,-5.6x,0.01,R$23.89,5.9%
+295,C1BR34,CBRE Group,B3,Real Estate,Real Estate Operations,R$181.84B,37.1x,2.73,R$610.80,2.7%
+296,M1LM34,Martin Marietta Materials,B3,Basic Materials,Construction Materials,R$181.18B,16.4x,0.13,R$665.98,0%
+297,DDNB34,DuPont De Nemours BDR,B3,Basic Materials,Chemicals,R$179.82B,106.2x,-1.17,R$448.20,0%
+298,G1RM34,Garmin,B3,Technology,Communications & Networking,R$179.10B,24x,0.6,R$465.37,0%
+299,R1MD34,Resmed,B3,Healthcare,Healthcare Equipment & Supplies,R$178.74B,31.3x,2.26,R$294.26,0%
+300,V1MC34,Vulcan Materials Co,B3,Basic Materials,Construction Materials,R$178.65B,35.8x,1.28,R$22.60,0.4%
+301,X1EL34,Xcel Energy,B3,Utilities,Electrical Utilities & IPPs,R$177.91B,17.3x,2.75,R$143.37,0%
+302,L1UL34,Lululemon,B3,Consumer Cyclicals,Textiles & Apparel,R$175.73B,20.6x,0.28,R$332.31,0%
+303,D1FS34,Discover Fin,B3,Financials,Banking Services,R$174.72B,11.5x,-0.55,R$314.36,0%
+304,I1RM34,Iron Mountain,B3,Real Estate,Residential & Commercial REITs,R$174.63B,136.6x,-3.51,R$592.80,0%
+305,H1IG34,Hartford Financial Services Group,B3,Financials,Insurance,R$174.56B,11.5x,0.22,R$519.80,0%
+306,E1IX34,Edison International,B3,Utilities,Electrical Utilities & IPPs,R$174.31B,32.3x,69.4,R$174.08,0%
+307,X1YL34,Xylem,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$171.97B,42.2x,0.6,R$360.36,0%
+308,L1YB34,LyondellBasell Industries NV,B3,Basic Materials,Chemicals,R$171.09B,13.5x,1.31,R$267.03,0%
+309,C1GP34,CoStar DRC,B3,Technology,Software & IT Services,R$167.35B,141.6x,-3.14,R$4,0%
+310,A1VB34,Avalonbay Communities,B3,Real Estate,Residential & Commercial REITs,R$167.23B,36.4x,-1.06,R$292.61,0.2%
+311,BPAC3,Banco BTG Pactual,B3,Financials,Investment Banking & Investment Services,R$166.68B,14.3x,0.5,R$16.98,3.5%
+312,BPAC5,Banco BTG Pactual Pref,B3,Financials,Investment Banking & Investment Services,R$166.68B,14.3x,0.5,R$9.64,3.9%
+313,BPAC11,Banco BTG,B3,Financials,Investment Banking & Investment Services,R$166.68B,14.3x,0.5,R$36.18,3.4%
+314,M1TD34,Mettler Toledo,B3,Healthcare,Healthcare Equipment & Supplies,R$163.25B,37.4x,-4.39,R$741.90,0%
+315,R1OK34,Rockwell Automation,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$162.46B,29.6x,-1,R$366.12,-6.3%
+316,BIIB34,Biogen DRC,B3,Healthcare,Pharmaceuticals,R$161.39B,25.3x,-0.43,R$186.48,0%
+317,BIDU34,Baidu,B3,Technology,Software & IT Services,R$160.86B,14.6x,0.28,R$33.83,3.3%
+318,DBAG34,Deutsche Bank AG,B3,,,R$160.85B,8.2x,-0.27,R$82.96,3%
+319,BBAS3,BRASIL ON,B3,Financials,Banking Services,R$160.74B,5.2x,-3.89,R$28.14,0.7%
+320,D1EX34,Dexcom DRC,B3,Healthcare,Healthcare Equipment & Supplies,R$158.71B,41.8x,0.48,R$7.84,2.2%
+321,C1DW34,CDW Corp DRC,B3,Technology,Integrated Hardware & Software,R$158.02B,26.2x,6.53,R$62.37,1.2%
+322,P1PG34,PPG Industries,B3,Basic Materials,Chemicals,R$155.95B,20x,2,R$334.85,-0.4%
+323,D1VN34,Devon Energy,B3,Energy,Oil & Gas,R$155.94B,8.2x,-0.33,R$249.84,0.5%
+324,W1EC34,WEC Energy Group,B3,Utilities,Electrical Utilities & IPPs,R$155.11B,20.5x,12.77,R$243.50,-0.8%
+325,W1LT34,Willis Towers Watson,B3,Financials,Insurance,R$154.67B,27.2x,5.51,R$335,0%
+326,T1SC34,Tractor Supply Co,B3,Consumer Cyclicals,Specialty Retailers,R$154.65B,25.1x,6.87,R$81.12,0%
+327,A1DM34,Archer Daniels Midland Co,B3,Consumer Non-Cyclicals,Food & Tobacco,R$154.39B,11.7x,-0.32,R$320,0%
+328,E1QR34,Equity Residential,B3,Real Estate,Residential & Commercial REITs,R$152.68B,28.3x,1.9,R$193.17,-0.2%
+329,W1AB34,Wabtec BDR,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$152.07B,27.7x,0.51,R$434.77,2.1%
+330,G1PI34,Global Payments,B3,Industrials,Professional & Commercial Services,R$151.90B,19.9x,0.22,R$140.56,0%
+331,A1WK34,American Water Works Company,B3,Utilities,Water & Related Utilities,R$151.84B,29.2x,16.26,R$199.80,0%
+332,K1EL34,Kellogg,B3,Consumer Non-Cyclicals,Food & Tobacco,R$151.48B,30.3x,5.92,R$220.20,0.5%
+333,HALI34,Halliburton Co BDR,B3,Energy,Oil & Gas Related Equipment and Services,R$150.96B,10.4x,0.87,R$171.60,-3.2%
+334,BBDC3,BRADESCO ON,B3,Financials,Banking Services,R$150.14B,11.9x,-0.76,R$13.51,0.9%
+335,BBDC4,BRADESCO PN EJ N1 ,B3,Financials,Banking Services,R$150.14B,11.9x,-0.76,R$15.16,1%
+336,EBAY34,eBay Inc BDR,B3,Technology,Software & IT Services,R$149.85B,10.8x,0.09,R$154.25,0.5%
+337,A1NS34,ANSYS,B3,Technology,Software & IT Services,R$149.71B,54.8x,-9.53,R$449.30,0%
+338,N1TA34,NetApp,B3,Technology,"Computers, Phones & Household Electronics",R$147.96B,27.6x,-1.28,R$721.11,4.1%
+339,FFTD34,Fifth Third Bancorp,B3,Financials,Banking Services,R$147.60B,12.6x,-1.33,R$167.99,0%
+340,CRIP34,Trip.com Group,B3,Consumer Cyclicals,Hotels & Entertainment Services,R$147.36B,21.5x,0.21,R$231.61,0%
+341,PHGN34,Koninklijke Philips NV,B3,Healthcare,Healthcare Equipment & Supplies,R$146.77B,-42.7x,-0.56,R$158.24,0.6%
+342,M1TB34,MT Bank,B3,Financials,Banking Services,R$146.07B,12x,-0.58,R$220.50,0%
+343,DGCO34,Dollar General,B3,Consumer Cyclicals,Diversified Retail,R$145.27B,17.5x,-0.48,R$27.54,3.2%
+344,N1VR34,NVR,B3,Consumer Cyclicals,Homebuilding & Construction Supplies,R$144.14B,17.4x,4.73,R$850,0%
+345,R2BL34,Roblox Corp BDR,B3,Technology,Software & IT Services,R$143.99B,-23.7x,-2.38,R$22.18,4.2%
+346,DEAI34,Delta Air Lines,B3,Industrials,Passenger Transportation Services,R$141.34B,5.8x,0.11,R$220.83,4.2%
+347,M2ST34,Microstrategy DRC,B3,,,R$141.04B,-104.1x,0.7,R$10.35,0.5%
+348,T1TW34,Take Two Interactive,B3,Technology,Software & IT Services,R$140.71B,-6.6x,0.03,R$200.55,1.1%
+349,P1HM34,Pultegroup,B3,Consumer Cyclicals,Homebuilding & Construction Supplies,R$139.06B,9.3x,1.06,R$673.53,0%
+350,V1OD34,Vodafone Group,B3,Technology,Telecommunications Services,R$139.02B,20.8x,-0.21,R$26.28,0.2%
+351,E1TR34,Entergy,B3,Utilities,Electrical Utilities & IPPs,R$138.31B,14.1x,0.51,R$306.59,0%
+352,B1RF34,Broadridge Financial Solutions,B3,Industrials,Professional & Commercial Services,R$137.82B,36.9x,3.46,R$262.98,0%
+353,TLNC34,Telefonica,B3,Technology,Telecommunications Services,R$137.29B,-24x,0.15,R$24.38,0%
+354,D1TE34,Dte Energy,B3,Utilities,Electrical Utilities & IPPs,R$136.68B,18x,4.31,R$153.55,0%
+355,R1JF34,Raymond James Financial,B3,Financials,Investment Banking & Investment Services,R$135.93B,12.4x,1,R$303.52,0%
+356,I1FF34,International Flavors,B3,Consumer Non-Cyclicals,Food & Tobacco,R$135.43B,-10.2x,1.5,R$266.50,0%
+357,C1AH34,Cardinal Health,B3,Healthcare,Pharmaceuticals,R$135.01B,43.8x,1.64,R$530.80,0%
+358,FSLR34,First Solar Inc,B3,Energy,Renewable Energy,R$134.76B,20.4x,0.03,R$630.77,1.2%
+359,F1TV34,Fortive,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$133.92B,27.7x,2.33,R$197,0%
+360,H1PE34,Hewlett Packard Enterprise Co,B3,Technology,"Computers, Phones & Household Electronics",R$133.64B,13.4x,0.17,R$103.20,5.4%
+361,D1OV34,Dover,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$133.38B,17.3x,0.37,R$373.16,0%
+362,F1EC34,FirstEnergy,B3,Utilities,Electrical Utilities & IPPs,R$133.09B,27.4x,0.33,R$191.14,0%
+363,V1TA34,Ventas,B3,Real Estate,Residential & Commercial REITs,R$132.69B,-150.5x,0.5,R$153.22,0%
+364,E1SE34,Eversource,B3,Utilities,Electrical Utilities & IPPs,R$130.18B,-243.6x,2.35,R$179,0%
+365,S1TT34,State Street,B3,Financials,Investment Banking & Investment Services,R$128.87B,14.5x,-0.51,R$426.99,0%
+366,T1RO34,T. Rowe Price Group,B3,Financials,Investment Banking & Investment Services,R$128.69B,13.3x,0.47,R$288.55,0%
+367,R1OL34,Rollins,B3,Industrials,Professional & Commercial Services,R$128.22B,48.5x,2.48,R$263.38,0%
+368,E1RI34,Telefonaktiebolaget LM Ericsson,B3,Technology,Communications & Networking,R$126.98B,-6.8x,0.02,R$19.10,1.4%
+369,S1BA34,SBA Communications,B3,Real Estate,Residential & Commercial REITs,R$126.11B,45.2x,21.14,R$240.48,0%
+370,P1PL34,PPL,B3,Utilities,Multiline Utilities,R$125.02B,27x,2.67,R$167.45,0%
+371,Z1BH34,Zimmer Biomet,B3,Healthcare,Healthcare Equipment & Supplies,R$122.75B,22.8x,0.22,R$155.85,0%
+372,W1YC34,Weyerhaeuser Co,B3,Real Estate,Residential & Commercial REITs,R$119.59B,31.1x,4.12,R$161.18,0%
+373,A1EE34,Ameren,B3,Utilities,Multiline Utilities,R$118.29B,18.2x,5.07,R$222.42,0%
+374,K1SG34,Keysight Technologies,B3,Technology,Electronic Equipment & Parts,R$118.08B,29.8x,-0.98,R$378.48,0%
+375,NOKI34,Nokia of America,B3,Technology,Communications & Networking,R$117.97B,53.3x,-0.23,R$22.40,4.7%
+376,B1FC34,BrownForman,B3,Consumer Non-Cyclicals,Beverages,R$117.22B,21x,0.64,R$257.92,0%
+377,C1BO34,Cboe Global,B3,Financials,Investment Banking & Investment Services,R$115.70B,27.2x,1.47,R$464.54,0%
+378,E1CO34,Ecopetrol,B3,Energy,Oil & Gas,R$114.83B,5x,-0.11,R$28.50,2.5%
+379,C1HK34,Check Point Software Technologies,B3,Technology,Software & IT Services,R$114.63B,25.2x,4.42,R$451.35,0%
+380,B1NT34,BioNTech SE,B3,Healthcare,Biotechnology & Medical Research,R$113.59B,-37.6x,0.31,R$29.90,3.1%
+381,I1LM34,Illumina,B3,Healthcare,Healthcare Equipment & Supplies,R$112.20B,-15.8x,-0.23,R$138.71,1.7%
+382,M1KC34,Mccormick,B3,Consumer Non-Cyclicals,Food & Tobacco,R$112.20B,27.7x,4.7,R$110.31,0%
+383,ITSA4,ITAUSA PN,B3,Financials,Banking Services,R$112.01B,7.7x,0.73,R$10.99,1.2%
+384,ITSA3,ITAUSA ON,B3,Financials,Banking Services,R$112.01B,7.7x,0.73,R$10.96,1.3%
+385,S1TX34,Seagate Technology,B3,Technology,"Computers, Phones & Household Electronics",R$111.84B,58.6x,0.37,R$525.88,0%
+386,T1EV34,Teva Pharmaceutical Industries DRC,B3,Healthcare,Pharmaceuticals,R$111.77B,-45.6x,-0.54,R$48.80,0%
+387,SANB3,SANTANDER BRON ,B3,Financials,Banking Services,R$111.67B,9.7x,2.09,R$14.18,0.4%
+388,P2ST34,Pure Storage DRC,B3,,,R$111.44B,210.7x,0.49,R$78.31,0%
+389,ENGI11,Energisa,B3,Utilities,Electrical Utilities & IPPs,R$111.17B,13.3x,0.29,R$48.65,0.7%
+390,A1RE34,Alexandria Real Estate Equities,B3,Real Estate,Residential & Commercial REITs,R$110.35B,141.6x,-1.89,R$157.49,0.6%
+391,W1DC34,Western Digital,B3,Technology,"Computers, Phones & Household Electronics",R$109.97B,-33.1x,-0.51,R$332.51,0%
+392,A1TM34,Atmos Energy,B3,Utilities,Natural Gas Utilities,R$109.45B,18.6x,1.18,R$324.39,0%
+393,B1GN34,Beigene,B3,Healthcare,Biotechnology & Medical Research,R$108.68B,-37.9x,-0.52,R$41.36,-0.8%
+394,MKLC34,Markel,B3,Financials,Insurance,R$108.56B,10.2x,0.95,R$418.39,0%
+395,C1MS34,CMS Energy,B3,Utilities,Multiline Utilities,R$107.54B,20x,0.69,R$159.52,0%
+396,H1BA34,Huntington Bancshares,B3,Financials,Banking Services,R$107.17B,12.6x,-0.4,R$73.64,0%
+397,R1FC34,Regions Financial,B3,Financials,Banking Services,R$104.45B,11.5x,-0.47,R$111.10,0%
+398,G1PC34,Genuine Parts Co,B3,Consumer Cyclicals,Automobiles & Auto Parts,R$104.28B,15.7x,13.73,R$410.34,0%
+399,E1SS34,Essex Property Trust,B3,Real Estate,Residential & Commercial REITs,R$103.91B,35.5x,-18.51,R$156,0%
+400,L1CA34,Laboratory,B3,Healthcare,Healthcare Providers & Services,R$103.14B,42.4x,-0.98,R$307.50,1.9%
+401,O1MC34,Omnicom Group,B3,Consumer Cyclicals,Media & Publishing,R$103.06B,13.1x,1.88,R$262.60,1.4%
+402,B1LL34,Ball,B3,Basic Materials,Containers & Packaging,R$103.01B,28.6x,0.06,R$169.83,0%
+403,H1OL34,Hologic,B3,Healthcare,Healthcare Equipment & Supplies,R$102.68B,28.3x,0.54,R$447.04,0%
+404,C1CL34,Carnival,B3,Consumer Cyclicals,Hotels & Entertainment Services,R$101.92B,22x,0.16,R$86.49,7.4%
+405,M1AA34,Mid-America Apartment Communities DRC,B3,Real Estate,Residential & Commercial REITs,R$101.16B,35.1x,-2.39,R$211.89,1.1%
+406,C1FG34,Citizens Financial Group,B3,Financials,Banking Services,R$100.63B,15.4x,-0.37,R$223.30,1.9%
+407,M1DB34,MongoDB,B3,Technology,Software & IT Services,R$100.17B,-88.2x,-2.15,R$68.11,2.6%
+408,R1YA34,Ryanair Holdings,B3,Industrials,Passenger Transportation Services,R$99.94B,9.7x,-1.03,R$71.19,0%
+409,B1AX34,Baxter International,B3,Healthcare,Healthcare Equipment & Supplies,R$99.88B,7.3x,-0.64,R$97.70,3.4%
+410,APTV34,Aptiv,B3,Consumer Cyclicals,Automobiles & Auto Parts,R$99.73B,5.1x,0.02,R$184.59,0%
+411,C1OO34,Cooper Companies,B3,Healthcare,Healthcare Equipment & Supplies,R$99.69B,55.8x,3.35,R$48.95,0%
+412,S1YF34,Synchrony Financial,B3,Financials,Banking Services,R$99.66B,6.4x,0.21,R$251.26,-0.4%
+413,J1EG34,Jacobs Engineering Group,B3,Industrials,Professional & Commercial Services,R$99.56B,28.7x,-2.08,R$402.21,0%
+414,BBYY34,Best Buy,B3,Consumer Cyclicals,Specialty Retailers,R$99.34B,14.7x,-3.89,R$480.01,0%
+415,Z1OM34,Zoom Video Communications,B3,Technology,Software & IT Services,R$97.92B,20.9x,0,R$12.67,1.5%
+416,W1SO34,Watsco DRC,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$97.83B,35.6x,-3.05,R$102.50,0%
+417,W1BD34,Warner Bros Discovery DRC,B3,Consumer Cyclicals,Media & Publishing,R$97.08B,-1.5x,0.02,R$39.72,4.5%
+418,C1OG34,Coterra,B3,Energy,Oil & Gas,R$96.73B,13.6x,-0.23,R$133.49,0%
+419,H1RL34,Hormel Foods,B3,Consumer Non-Cyclicals,Food & Tobacco,R$96.31B,22.9x,-1.25,R$177.20,0%
+420,FOXC34,Fox,B3,Consumer Cyclicals,Media & Publishing,R$96.12B,12.6x,0.36,R$170.69,0%
+421,A1LG34,Align Tech,B3,Healthcare,Healthcare Equipment & Supplies,R$95.81B,39.8x,0.78,R$324.57,0%
+422,U1LT34,Ulta Beauty,B3,Consumer Cyclicals,Specialty Retailers,R$95.57B,14.3x,2.89,R$100.88,11.5%
+423,P1FG34,Principal Financial Group,B3,Financials,Investment Banking & Investment Services,R$95.35B,13.9x,-0.96,R$337.31,0%
+424,C1NP34,CenterPoint Energy,B3,Utilities,Multiline Utilities,R$94.98B,15.8x,0.44,R$151.80,0%
+425,P1KG34,Packaging,B3,Basic Materials,Containers & Packaging,R$94.88B,24.4x,-1.47,R$561.12,0%
+426,ARMT34,ArcelorMittal BDR,B3,Basic Materials,Metals & Mining,R$94.86B,-30.4x,0.25,R$61,2.3%
+427,D1RI34,Darden Restaurants,B3,Consumer Cyclicals,Hotels & Entertainment Services,R$93.92B,16.8x,2.48,R$202.40,0%
+428,N1RG34,NRG Energy,B3,Utilities,Electrical Utilities & IPPs,R$93.78B,9x,0.04,R$455.25,2.8%
+429,N1TR34,Northern Trust,B3,Financials,Investment Banking & Investment Services,R$93.58B,11.7x,0.39,R$212.52,0%
+430,J1BH34,J B Hunt Transport Services,B3,Industrials,Freight & Logistics Services,R$93.54B,28.5x,-0.93,R$28.60,0%
+431,B1MR34,Biomarin,B3,Healthcare,Pharmaceuticals,R$93.32B,65.7x,0.42,R$244.06,0%
+432,L1OE34,Loews,B3,Financials,Insurance,R$93.04B,11.6x,0.22,R$421.68,0%
+433,A1VY34,Avery Dennison,B3,Basic Materials,Containers & Packaging,R$91.97B,26x,2.14,R$579.42,0%
+434,EXGR34,Expedia Group,B3,Consumer Cyclicals,Hotels & Entertainment Services,R$91.94B,23x,18.23,R$330.31,0%
+435,E1XP34,Expeditors International of Washington,B3,Industrials,Freight & Logistics Services,R$91.89B,25.6x,-0.8,R$339,0%
+436,ELET6,Centrais Eletricas Brasileiras Prf s,B3,Utilities,Electrical Utilities & IPPs,R$91.39B,23x,0.13,R$45.03,0.9%
+437,ELET3,Centrais Eletricas Brasileiras,B3,Utilities,Electrical Utilities & IPPs,R$91.39B,23x,0.13,R$40.46,0.8%
+438,S2UI34,Sun Communities DRC,B3,Real Estate,Residential & Commercial REITs,R$91.13B,254.6x,1.48,R$35.85,-0.7%
+439,Q1UE34,Quest Diagnostics,B3,Healthcare,Healthcare Providers & Services,R$91.10B,19.9x,2.5,R$418,0%
+440,S1SL34,Skyworks Solutions,B3,Technology,Semiconductors & Semiconductor Equipment,R$89.73B,22.3x,-0.83,R$287.68,0%
+441,I1PC34,International Paper Co,B3,Basic Materials,Containers & Packaging,R$89.48B,37.4x,-0.57,R$250.50,0%
+442,NMRH34,Nomura Holdings,B3,Financials,Investment Banking & Investment Services,R$88.65B,10.8x,0.12,R$29.13,0%
+443,O1KT34,Okta Inc DRC,B3,Technology,Software & IT Services,R$88.19B,-57.3x,-0.88,R$26.70,2.4%
+444,T1XT34,Textron,B3,Industrials,Aerospace & Defense,R$87.94B,18.4x,1.98,R$513.76,0%
+445,M1AS34,Masco,B3,Consumer Cyclicals,Homebuilding & Construction Supplies,R$87.05B,18.5x,1.09,R$371.50,0%
+446,E2NP34,Enphase Energy DRC,B3,Energy,Renewable Energy,R$86.97B,124.3x,-1.47,R$26.22,10%
+447,E1VE34,Everest Re Group,B3,Financials,Insurance,R$86.85B,5.4x,0.04,R$515,0%
+448,S1OU34,Southwest Airlines Co,B3,Industrials,Passenger Transportation Services,R$86.81B,200.8x,-2.21,R$151.20,0%
+449,M1RO34,Marathon Oil,B3,Energy,Oil & Gas,R$86.36B,10.9x,-0.51,R$151.36,0%
+450,A1CR34,Amcor DRC,B3,Basic Materials,Containers & Packaging,R$85.94B,24.1x,-0.75,R$57.84,0%
+451,N1WS34,News,B3,Consumer Cyclicals,Media & Publishing,R$85.91B,,0.76,R$147.15,0%
+452,VIVT3,TELEF BRASIL ON,B3,Technology,Telecommunications Services,R$85.02B,16x,1.04,R$50.99,-1.2%
+453,P1EA34,Healthpeak Properties,B3,Real Estate,Residential & Commercial REITs,R$84.30B,45.2x,-1.01,R$120,0%
+454,S1YM34,NortonLifeLock,B3,Technology,Software & IT Services,R$84.10B,25.3x,-0.45,R$135.10,0%
+455,A1KA34,Akamai Tech,B3,Technology,Software & IT Services,R$83.66B,24.3x,0.76,R$46.25,1%
+456,JBSS3,JBS ON,B3,Consumer Non-Cyclicals,Food & Tobacco,R$83.60B,20.7x,-0.47,R$37.74,1.1%
+457,R1VT34,PerkinElmer,B3,Healthcare,Healthcare Equipment & Supplies,R$81.05B,87.7x,-0.91,R$23,0%
+458,C1PB34,Campbell Soup Co,B3,Consumer Non-Cyclicals,Food & Tobacco,R$80.76B,18.2x,-3.75,R$229.31,0%
+459,C1AG34,Conagra Brands,B3,Consumer Non-Cyclicals,Food & Tobacco,R$80.71B,41.2x,-0.83,R$165.75,0%
+460,W1MG34,Warner Music Group,B3,Consumer Cyclicals,Media & Publishing,R$80.24B,27.1x,0.97,R$38.52,0.5%
+461,S1WK34,Stanley Black Decker,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$80.15B,-52.4x,0.39,R$128.83,0%
+462,C1FI34,CF Industries Holdings,B3,Basic Materials,Chemicals,R$79.46B,14.3x,-0.25,R$438.17,-1.1%
+463,K1EY34,KeyCorp,B3,Financials,Banking Services,R$79.33B,18.8x,-0.39,R$87.92,0%
+464,S1NA34,SnapOn,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$79.24B,14.1x,2.18,R$348,0%
+465,A1EN34,Alliant Energy,B3,Utilities,Electrical Utilities & IPPs,R$79.19B,22.6x,-3.92,R$256.45,0%
+466,U1HS34,Universal Health Services,B3,Healthcare,Healthcare Providers & Services,R$79.06B,15.8x,0.42,R$188.97,0%
+467,G1FI34,Gold Fields,B3,Basic Materials,Metals & Mining,R$78.86B,20.5x,-13.84,R$44.44,3.2%
+468,N1IS34,NiSource,B3,Utilities,Multiline Utilities,R$77.42B,19.1x,1.69,R$127.79,0%
+469,C1NS34,Celanese,B3,Basic Materials,Chemicals,R$77.32B,7.3x,0.14,R$353.60,2.5%
+470,P1NR34,Pentair,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$76.88B,21.8x,0.71,R$365.19,0%
+471,U1AL34,United Airlines Holdings,B3,Industrials,Passenger Transportation Services,R$76.73B,4.8x,0.45,R$116.74,5.4%
+472,U1DR34,UDR,B3,Real Estate,Residential & Commercial REITs,R$76.04B,101.7x,-1.64,R$176,0%
+473,E1VR34,Evergy,B3,Utilities,Electrical Utilities & IPPs,R$74.24B,18.3x,-6.54,R$164.22,0%
+474,BBSE3,BBSEGURIDADE ON NM,B3,Financials,Insurance,R$72.45B,8.8x,0.48,R$37.34,-0.3%
+475,J1NP34,Juniper Networks,B3,Technology,Communications & Networking,R$70.02B,53.4x,-1.23,R$213.31,0.4%
+476,R1EG34,Regency Centers,B3,Real Estate,Residential & Commercial REITs,R$69.93B,32.8x,-13.35,R$197.80,0%
+477,S1JM34,J M Smucker Co,B3,Consumer Non-Cyclicals,Food & Tobacco,R$69.42B,15.3x,0.02,R$290.52,0%
+478,B3SA3,B3 SA Brasil Bolsa Balcao,B3,Financials,Investment Banking & Investment Services,R$69.28B,17x,3.43,R$12.71,0.1%
+479,RDOR3,Rede D’Or,B3,Healthcare,Healthcare Providers & Services,R$68.95B,21.6x,0.25,R$31.45,2.3%
+480,BOXP34,Boston Properties DRC,B3,Real Estate,Residential & Commercial REITs,R$67.69B,65.7x,-0.86,R$38.22,1%
+481,SBSP3,SABESP ON,B3,Utilities,Water & Related Utilities,R$67.44B,16.5x,0.62,R$98.68,-0.8%
+482,A1ES34,AES,B3,Utilities,Electrical Utilities & IPPs,R$67.29B,15.8x,0.05,R$95.94,4%
+483,SUZB3,Suzano Papel Celulose,B3,Basic Materials,Paper & Forest Products,R$66.49B,312.6x,-3.2,R$53.74,-1.8%
+484,K1MX34,Carmax,B3,Consumer Cyclicals,Specialty Retailers,R$66.08B,28.1x,-2.36,R$233.39,0%
+485,J1KH34,Jack Henry Associates,B3,Technology,Software & IT Services,R$65.60B,31.1x,3.69,R$200.76,0%
+486,I1NC34,Incyte,B3,Healthcare,Pharmaceuticals,R$65.08B,140.8x,-1.61,R$192.62,0%
+487,M1CB34,Molson Coors Beverage Co,B3,Consumer Non-Cyclicals,Beverages,R$64.99B,10.4x,0,R$299.46,0%
+488,DVAI34,DaVita DRC,B3,,,R$64.81B,14.3x,0.16,R$760,0%
+489,T1CH34,BioTechne,B3,Healthcare,Biotechnology & Medical Research,R$64.79B,70x,-1.62,R$13.28,0%
+490,J1EF34,Jefferies Fin,B3,Financials,Investment Banking & Investment Services,R$64.40B,31x,-3.26,R$318.25,5.1%
+491,H1ST34,Host Hotels Resorts,B3,Real Estate,Residential & Commercial REITs,R$64.24B,15.6x,,R$89,0%
+492,F1RA34,Franklin Resources,B3,Financials,Investment Banking & Investment Services,R$64.13B,14x,45.04,R$119.88,0%
+493,A1OS34,A. O. Smith,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$64.12B,20.6x,0.17,R$472.58,0%
+494,SRXM34,Sirius XM Holdings DRC,B3,Consumer Cyclicals,Media & Publishing,R$63.88B,9x,0.69,R$17.19,4.1%
+495,D1OC34,DocuSign,B3,Technology,Software & IT Services,R$63.35B,107.6x,0.4,R$15,0%
+496,M1GM34,MGM Resorts International,B3,Consumer Cyclicals,Hotels & Entertainment Services,R$63.21B,12.9x,0.07,R$205.80,0%
+497,T1EC34,Technipfmc,B3,Energy,Oil & Gas Related Equipment and Services,R$63.21B,26x,0.07,R$148.94,4.6%
+498,C1HR34,Ch Robinson,B3,Industrials,Freight & Logistics Services,R$62.94B,35.2x,-0.91,R$26.79,0%
+499,I1PH34,Interpublic Group of Companies,B3,Consumer Cyclicals,Media & Publishing,R$62.74B,11.8x,0.84,R$169.49,0%
+500,E1DU34,New Oriental Education Tech DRC,B3,Academic & Educational Services,Miscellaneous Educational Service Providers,R$62.27B,38.5x,0.45,R$25.29,1.8%
+501,A1GN34,Allegion,B3,Technology,Communications & Networking,R$61.83B,20.5x,3.03,R$306,0%
+502,F1FI34,F5 Networks,B3,Technology,Software & IT Services,R$61.62B,20x,0.32,R$221.76,0%
+503,E1MN34,Eastman Chemical Co,B3,Basic Materials,Chemicals,R$61.11B,13.6x,0.48,R$276,0%
+504,A1PA34,APA (SA),B3,Energy,Oil & Gas,R$59.78B,3.3x,0.04,R$160.64,0%
+505,T1FX34,Teleflex,B3,Healthcare,Healthcare Equipment & Supplies,R$59.56B,42.4x,-1.58,R$109.30,0%
+506,XPBR31,Xp DRC,B3,Financials,Investment Banking & Investment Services,R$58.19B,14x,0.65,R$108.70,0.7%
+507,H1II34,Huntington Ingalls Industries,B3,Industrials,Aerospace & Defense,R$57.85B,14.3x,0.3,R$18.66,0%
+508,RZAG11,FI nas Cadeias Prod Agroind Riza Agro FIAGRO Imob,B3,Real Estate,Residential & Commercial REITs,R$57.15B,,,R$8.48,0.9%
+509,L1KQ34,Lkq,B3,Consumer Cyclicals,Automobiles & Auto Parts,R$56.67B,14.9x,-0.52,R$226.09,0%
+510,A1EG34,Aegon NV DRC,B3,Financials,Insurance,R$56.10B,-48x,-0.56,R$34.44,2.8%
+511,Q1RV34,Qorvo,B3,Technology,Semiconductors & Semiconductor Equipment,R$55.47B,-382.4x,2.11,R$252.25,0%
+512,U1NM34,Unum Group,B3,Financials,Insurance,R$55.44B,8x,-0.58,R$326,0%
+513,R1LC34,Ralph Lauren,B3,Consumer Cyclicals,Textiles & Apparel,R$53.65B,15.4x,0.45,R$463.42,0%
+514,W1PP34,WPP,B3,Consumer Cyclicals,Media & Publishing,R$53.55B,37.8x,-0.56,R$54.35,0%
+515,P1NW34,Pinnacle West Capital,B3,Utilities,Electrical Utilities & IPPs,R$53.32B,15.9x,0.3,R$229.10,0%
+516,T1WL34,Twilio,B3,Technology,Software & IT Services,R$53.26B,-18.2x,-0.33,R$13.22,-2.1%
+517,B1SA34,Banco Santander Chile DRC,B3,Financials,Banking Services,R$51.63B,15.5x,2.19,R$56.40,3.1%
+518,USSX34,United States Steel,B3,Basic Materials,Metals & Mining,R$51.48B,16.3x,-0.29,R$232.53,0%
+519,WGBA34,Walgreens Boots Alliance DRC SA,B3,Consumer Non-Cyclicals,Food & Drug Retailing,R$51.13B,-1.6x,0.02,R$29.64,2.2%
+520,A1LB34,Albemarle,B3,Basic Materials,Chemicals,R$50.84B,-16.6x,0.15,R$17.98,8.3%
+521,A1SU34,Assurant,B3,Financials,Insurance,R$50.59B,11.8x,0.1,R$223.52,0%
+522,M1HK34,Mohawk Industries,B3,Consumer Cyclicals,Household Goods,R$50.58B,-26x,2.15,R$30.99,1.3%
+523,H1AS34,Hasbro,B3,Consumer Cyclicals,Leisure Products,R$50.44B,-8.9x,0.03,R$176.29,0%
+524,RADL3,RAIADROGASIL ON,B3,Consumer Non-Cyclicals,Food & Drug Retailing,R$50.34B,47.4x,39.05,R$29.36,-2.1%
+525,F1BH34,Fortune Brands Home Security,B3,Consumer Cyclicals,Homebuilding & Construction Supplies,R$49.93B,23.1x,-2.38,R$331.84,0%
+526,GPSI34,Gap,B3,Consumer Cyclicals,Specialty Retailers,R$49.86B,13.3x,0.01,R$133,8.9%
+527,W1IX34,Wix.Com,B3,Technology,Software & IT Services,R$49.77B,123.6x,0.58,R$29.06,0%
+528,M1KT34,Marketaxess Holdings,B3,Financials,Investment Banking & Investment Services,R$49.76B,34x,9.54,R$26.64,0%
+529,H1FC34,HollyFrontier,B3,Energy,Oil & Gas,R$49.63B,7.4x,-0.15,R$256.64,0%
+530,P1YC34,Paycom Software,B3,Technology,Software & IT Services,R$48.82B,19.1x,0.36,R$29.13,2.3%
+531,MOSC34,Mosaic BDR,B3,Basic Materials,Chemicals,R$48.35B,36.9x,-0.4,R$25.38,0.4%
+532,H1TH34,Huazhu Group,B3,Consumer Cyclicals,Hotels & Entertainment Services,R$48.35B,17.7x,0.01,R$39.48,0%
+533,L1WH34,Lamb Weston Holdings,B3,Consumer Non-Cyclicals,Food & Tobacco,R$47.57B,11.9x,-0.45,R$212.11,0%
+534,H1SI34,Henry Schein,B3,Healthcare,Healthcare Equipment & Supplies,R$47.38B,25.5x,-1.2,R$187.14,0%
+535,R1KU34,Roku,B3,Consumer Cyclicals,Media & Publishing,R$46.74B,-17x,-0.6,R$15.98,4%
+536,G1LL34,Globe Life,B3,Financials,Insurance,R$46.06B,8.3x,0.33,R$26,0%
+537,W1YN34,Wynn Resorts,B3,Consumer Cyclicals,Hotels & Entertainment Services,R$45.91B,9.8x,0,R$203.67,0%
+538,COTY34,Coty Inc BDR,B3,Consumer Non-Cyclicals,Personal & Household Products & Services,R$44.55B,39.8x,3.47,R$25.62,-0.7%
+539,RAIL3,RUMO ON NM,B3,Industrials,Freight & Logistics Services,R$44.22B,-49.6x,0.78,R$23.90,2.2%
+540,H1RB34,H R Block,B3,Consumer Non-Cyclicals,Personal & Household Products & Services,R$43.91B,13.1x,0.26,R$310,0%
+541,TIMS3,TIM PART S/A ON,B3,Technology,Telecommunications Services,R$43.47B,14.1x,0.26,R$17.99,-0.6%
+542,CXSE3,Caixa Seguridade Participacoes,B3,Financials,Insurance,R$43.23B,12.2x,8.81,R$14.15,-1.8%
+543,F1MC34,FMC,B3,Basic Materials,Chemicals,R$42.67B,5.6x,0.04,R$170.51,1.8%
+544,RENT3,LOCALIZA ON,B3,Industrials,Passenger Transportation Services,R$41.80B,27.3x,-7.9,R$39.17,-2.1%
+545,I1VZ34,Invesco,B3,Financials,Investment Banking & Investment Services,R$41.44B,-22.8x,0.14,R$88.43,0%
+546,PRIO3,Prio ON,B3,Energy,Oil & Gas,R$40.90B,7.3x,0.13,R$48.89,-1.4%
+547,EQTL3,EQUATORIAL ON,B3,Utilities,Electrical Utilities & IPPs,R$40.82B,18.4x,0.16,R$34.70,-2.1%
+548,A1SN34,Ascendis Pharma AS,B3,Healthcare,Biotechnology & Medical Research,R$40.09B,-12.7x,-1.08,R$45.10,0%
+549,C1BS34,ViacomCBS,B3,Consumer Cyclicals,Media & Publishing,R$40.05B,-1.2x,0,R$60.48,7.3%
+550,S2TA34,STAG Industrial DRC,B3,Real Estate,Residential & Commercial REITs,R$39.89B,38.2x,-9.4,R$43.49,0.2%
+551,C1MA34,Comerica,B3,Financials,Banking Services,R$39.79B,12.1x,-0.21,R$150.45,0%
+552,B1WA34,Borgwarner,B3,Consumer Cyclicals,Automobiles & Auto Parts,R$39.48B,10x,-0.4,R$171.23,0%
+553,V1IP34,Vipshop Holdings,B3,Technology,Software & IT Services,R$39.43B,7.1x,0.18,R$37,0.4%
+554,N1CL34,Norwegian Cruise Line Holdings,B3,Consumer Cyclicals,Hotels & Entertainment Services,R$39.26B,16.5x,0.11,R$89.65,6.5%
+555,BRFS3,BRF SA ON,B3,Consumer Non-Cyclicals,Food & Tobacco,R$38.99B,-73.8x,-0.86,R$23.90,1.7%
+556,CPFE3,CPFL ENERGIAON NM,B3,Utilities,Electrical Utilities & IPPs,R$38.43B,7x,-6.72,R$33.41,-1.1%
+557,N1OV34,National Oilwell,B3,Energy,Oil & Gas Related Equipment and Services,R$37.80B,7.8x,,R$96.38,0%
+558,EGIE3,ENGIE BRASILON NM,B3,Utilities,Electrical Utilities & IPPs,R$37.53B,19.2x,-0.21,R$45.97,-0.8%
+559,Z1IO34,Zions Bancorporation NA,B3,Financials,Banking Services,R$37.25B,11.1x,-0.41,R$250.10,0%
+560,TXSA34,Ternium DRC,B3,Basic Materials,Metals & Mining,R$37.04B,-9.4x,0.06,R$192.50,2.3%
+561,P2AT34,UiPath DRC,B3,,,R$36.88B,-77.4x,-1.16,R$8.09,3.8%
+562,AALL34,American Airlines DRC,B3,Industrials,Passenger Transportation Services,R$36.27B,-54.5x,0.51,R$55.46,3.4%
+563,CMIG4,Energy of Minas Gerais Prf,B3,Utilities,Electrical Utilities & IPPs,R$35.98B,5.4x,0.16,R$11.49,-4%
+564,CMIG3,Energy of Minas Gerai,B3,Utilities,Electrical Utilities & IPPs,R$35.98B,5.4x,0.16,R$13.70,-0.7%
+565,V1NO34,Vornado Realty Trust,B3,Real Estate,Residential & Commercial REITs,R$35.76B,337.5x,3.06,R$173.70,0%
+566,U2ST34,Unity Software Inc BDR,B3,Technology,Software & IT Services,R$35.32B,-7.9x,-0.29,R$4.48,3.5%
+567,GGBR4,GERDAU PN N1,B3,Basic Materials,Metals & Mining,R$35.22B,7.6x,-0.15,R$17.34,-0.3%
+568,GGBR3,GERDAU ON,B3,Basic Materials,Metals & Mining,R$35.22B,7.6x,-0.15,R$15.52,0.3%
+569,H2TA34,Healthcare Trust Of America DRC,B3,Real Estate,Residential & Commercial REITs,R$35.21B,-11.7x,0.05,R$25.05,0%
+570,ENGI4,ENERGISA PN,B3,Utilities,Electrical Utilities & IPPs,R$34.19B,13.3x,0.29,R$8.47,0.2%
+571,ENGI3,Energisa ORD,B3,Utilities,Electrical Utilities & IPPs,R$34.19B,43.4x,0.29,R$14.99,3%
+572,F1LS34,Flowserve,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$34.12B,24.4x,3.08,R$255.50,0%
+573,R1HI34,Robert Half International,B3,Industrials,Professional & Commercial Services,R$33.98B,20.9x,-0.5,R$351.10,0%
+574,RAIZ4,Raizen,B3,Energy,Oil & Gas,R$33.56B,67.3x,-0.83,R$3.27,0.6%
+575,HAPV3,Hapvida,B3,Healthcare,Healthcare Providers & Services,R$33.05B,-61.7x,-1.2,R$4.43,0.4%
+576,EMBR3,EMBRAER ON,B3,Industrials,Aerospace & Defense,R$33.03B,17.3x,0.03,R$44.85,2.1%
+577,L1MN34,Centurylink,B3,Technology,Telecommunications Services,R$31.78B,-2.7x,-0.03,R$31.40,0.4%
+578,B1IL34,Bilibili DRC SA,B3,Technology,Software & IT Services,R$30.39B,-8.1x,-0.45,R$14.70,2.4%
+579,CPLE6,COPEL Pref B,B3,Utilities,Electrical Utilities & IPPs,R$30.11B,15x,1.27,R$10.39,-1.3%
+580,CPLE3,COPEL ON,B3,Utilities,Electrical Utilities & IPPs,R$30.11B,15x,,R$9.42,-1.2%
+581,CPLE5,Companhia Paranaense de Energia,B3,Utilities,Electrical Utilities & IPPs,R$30.11B,15x,1.27,R$12,-2.3%
+582,T1AL34,TAL Education DRC,B3,Academic & Educational Services,Miscellaneous Educational Service Providers,R$29.56B,97.5x,0.74,R$4.97,-1.2%
+583,P1VH34,PVH,B3,Consumer Cyclicals,Textiles & Apparel,R$29.19B,9.6x,0.03,R$262.12,0%
+584,VBBR3,Vibra Energia,B3,Energy,Oil & Gas,R$28.82B,4.6x,0.01,R$25.83,2.3%
+585,W1HR34,Whirlpool,B3,Consumer Cyclicals,Household Goods,R$28.77B,9.9x,0.07,R$131.20,0%
+586,B2HI34,BILL Holdings DRC,B3,,,R$27.84B,-97.9x,-1.15,R$1.46,2.8%
+587,L1NC34,Lincoln National,B3,Financials,Insurance,R$27.54B,3x,0.01,R$161.28,0%
+588,CMIN3,CSN Mineracao,B3,Basic Materials,Metals & Mining,R$27.43B,5.9x,0.23,R$5.09,1.8%
+589,CCRO3,CCR SA ON,B3,Industrials,Transport Infrastructure,R$27.32B,19.2x,1.94,R$13.50,-0.2%
+590,S1EA34,Sealed Air,B3,Basic Materials,Containers & Packaging,R$26.56B,13.3x,-1.93,R$185.73,0%
+591,H1OG34,Harley-Davidson,B3,Consumer Cyclicals,Automobiles & Auto Parts,R$26.45B,7.5x,-0.81,R$200.86,0%
+592,UGPA3,ULTRAPAR ON NM,B3,Energy,Oil & Gas,R$25.91B,9.2x,0.08,R$23.77,0.7%
+593,MACY34,Macy’s,B3,Consumer Cyclicals,Diversified Retail,R$25.75B,381.8x,-3.63,R$93.10,5.8%
+594,KLBN4,KLABIN S/A PN,B3,Basic Materials,Containers & Packaging,R$25.42B,16.3x,-0.25,R$4.16,-0.5%
+595,KLBN11,KLABIN S/A UNT N2,B3,Basic Materials,Containers & Packaging,R$25.42B,16.3x,-0.25,R$20.83,-0.2%
+596,KLBN3,KLABIN S/A ON N2,B3,Basic Materials,Containers & Packaging,R$25.42B,16.3x,-0.25,R$4.22,0.5%
+597,CSAN3,COSAN ON,B3,Energy,Oil & Gas,R$25.14B,9.7x,0.02,R$13.70,1.4%
+598,RIGG34,Transocean,B3,Energy,Oil & Gas Related Equipment and Services,R$25.06B,-12.1x,-0.19,R$28.72,3.4%
+599,A1LK34,Alaska Air,B3,Industrials,Passenger Transportation Services,R$24.46B,19.8x,0.44,R$191.99,0%
+600,PAGS34,PagSeguro Digital,B3,Industrials,Professional & Commercial Services,R$24.30B,13.9x,0.7,R$15.20,5.2%
+601,S1LG34,SL Green Realty,B3,Real Estate,Residential & Commercial REITs,R$24.22B,-26.1x,-0.41,R$174.93,2.7%
+602,NEOE3,NEOENERGIA,B3,Utilities,Electrical Utilities & IPPs,R$23.51B,5.1x,2.59,R$19.09,-1.5%
+603,STOC31,StoneCo,B3,Technology,Financial Technology (Fintech) & Infrastructure,R$22.44B,12.5x,0,R$77.28,5.1%
+604,WUNI34,Western Union BDR,B3,Industrials,Professional & Commercial Services,R$21.75B,7.2x,-0.41,R$64.26,1.1%
+605,ENEV3,ENEVA ON NM,B3,Utilities,Electrical Utilities & IPPs,R$21.36B,33.8x,2.74,R$13.50,0.2%
+606,PSSA3,PORTO SEGURO ON,B3,Financials,Insurance,R$21.21B,8.6x,0.08,R$33.02,0.5%
+607,A1AP34,Advance Auto,B3,Consumer Cyclicals,Specialty Retailers,R$20.33B,173.2x,-1.78,R$21.42,3%
+608,CRFB3,Atacadao,B3,Consumer Non-Cyclicals,Food & Drug Retailing,R$20.16B,-318.3x,2.76,R$9.56,-2.2%
+609,1HYPE3,Hypera,B3,Healthcare,Pharmaceuticals,R$20.01B,10.6x,-4.72,R$31.48,0%
+610,P1RG34,Perrigo Company,B3,Healthcare,Pharmaceuticals,R$20B,-32.2x,0.4,R$144.53,0%
+611,CAPH34,Capri Holdings,B3,Consumer Cyclicals,Specialty Retailers,R$19.81B,-12.3x,0.07,R$188.86,0%
+612,NTCO3,NATURA ON,B3,Consumer Non-Cyclicals,Personal & Household Products & Services,R$19.30B,7.1x,-0.05,R$14,-5.1%
+613,J1WN34,Nordstrom,B3,Consumer Cyclicals,Diversified Retail,R$19.24B,11.6x,0.01,R$113.16,0%
+614,D1XC34,DXC Technology Co,B3,Technology,Software & IT Services,R$19.11B,46.5x,0.37,R$106.79,0%
+615,U1AI34,Under Armour,B3,Consumer Cyclicals,Textiles & Apparel,R$18.44B,-41.5x,0.32,R$51.99,0%
+616,ENMT3,Energisa MT,B3,Utilities,Electrical Utilities & IPPs,R$18.33B,12x,0.32,R$83.70,0%
+617,TRPL4,Transmissão Paulista PN,B3,Utilities,Electrical Utilities & IPPs,R$18.16B,6x,0.53,R$24.43,-1.1%
+618,TRPL3,CTEEP,B3,Utilities,Electrical Utilities & IPPs,R$18.16B,6x,0.53,R$31.90,-0.3%
+619,U2PS34,Upstart Holdings DRC,B3,,,R$17.94B,-15.8x,-0.56,R$10.16,2%
+620,GMAT3,Grupo Mateus,B3,Consumer Non-Cyclicals,Food & Drug Retailing,R$17.79B,14.2x,1.04,R$8,-0.7%
+621,CGAS3,Comgas,B3,Utilities,Natural Gas Utilities,R$17.57B,6.4x,,R$108.03,0%
+622,CGAS5,COMGAS PNA,B3,Utilities,Natural Gas Utilities,R$17.57B,6.4x,,R$113,-0.5%
+623,TOTS3,TOTVS ON,B3,Technology,Software & IT Services,R$17.25B,22.2x,0.51,R$29,-2.2%
+624,INBR32,Banco Inter BDR,B3,Financials,Banking Services,R$17.15B,26.6x,0.03,R$39.18,1.4%
+625,N1WL34,Newell Brands,B3,Consumer Cyclicals,Household Goods,R$16.72B,-11.4x,-0.74,R$37.58,0%
+626,ENMT4,Energisa Mato Grosso,B3,Utilities,Electrical Utilities & IPPs,R$16.65B,11.3x,0.32,R$73,1.4%
+627,CEGR3,Companhia Distribuidora de Gas do Rio de Janeiro C,B3,Utilities,Natural Gas Utilities,R$16.52B,,0.25,R$66.78,0%
+628,I1PG34,IPG Photonics,B3,Technology,Electronic Equipment & Parts,R$16.48B,22.3x,0.52,R$243.84,0%
+629,I1QY34,iQIYI DRC,B3,Technology,Software & IT Services,R$16.47B,15.7x,0.02,R$8.45,-1.5%
+630,M2PW34,Medical Properties Trust DRC,B3,,,R$16.23B,-1.7x,0,R$13.65,7.3%
+631,LREN3,LOJAS RENNER ON,B3,Consumer Cyclicals,Specialty Retailers,R$15.87B,13.6x,,R$16.64,2.8%
+632,S1BS34,Sibanye Stillwater DRC,B3,Basic Materials,Metals & Mining,R$15.84B,-1.4x,0,R$11.55,4.1%
+633,CIEL3,CIELO ON,B3,Industrials,Professional & Commercial Services,R$15.76B,8.6x,-0.79,R$5.84,0.5%
+634,T2ND34,Tandem Diabetes Care DRC,B3,,,R$15.70B,-21.3x,-0.45,R$16.28,7.2%
+635,EQPA7,Equatorial Para Distribuidora Enrg,B3,Utilities,Electrical Utilities & IPPs,R$15.67B,7.1x,0.21,R$8.24,0%
+636,MULT3,MULTIPLAN ON,B3,Real Estate,Real Estate Operations,R$15.41B,14x,0.49,R$26.67,-2.3%
+637,EQPA6,Equatorial Para Distribuidora de Energia Prf,B3,Utilities,Electrical Utilities & IPPs,R$15.36B,7.1x,0.21,R$8,0%
+638,EQPA5,Equatorial Para Distribuidora de Energia Pref,B3,Utilities,Electrical Utilities & IPPs,R$15.36B,7.1x,0.21,R$9,12.5%
+639,EQPA3,Equatorial Para Distribuidora de Energia,B3,Utilities,Electrical Utilities & IPPs,R$15.36B,7.1x,0.21,R$6.95,0%
+640,CSNA3,SID NACIONAL ON,B3,Basic Materials,Metals & Mining,R$15.30B,-39.5x,8.12,R$11.50,-1.7%
+641,A1TH34,Autohome DRC,B3,Consumer Cyclicals,Media & Publishing,R$14.84B,11.6x,-4.46,R$12.67,3.1%
+642,REDE3,Rede Energia,B3,Utilities,Electrical Utilities & IPPs,R$14.62B,8.4x,0.29,R$6.93,-1%
+643,A1LL34,Alliance Data,B3,Financials,Banking Services,R$14.55B,5.5x,-1.44,R$73.80,3.9%
+644,ASAI3,Sendas Distribuidora,B3,Consumer Non-Cyclicals,Food & Drug Retailing,R$14.43B,21.4x,-0.76,R$10.40,-2.5%
+645,RRRP3,3R Petroleum,B3,Energy,Oil & Gas,R$13.73B,-22.4x,0.32,R$29.30,-0.9%
+646,SMFT3,Smartfit Escola de Ginastica e Danca,B3,Consumer Cyclicals,Hotels & Entertainment Services,R$13.69B,15.9x,0.13,R$23.70,1.5%
+647,BRKM5,BRASKEM PNA,B3,Basic Materials,Chemicals,R$13.34B,-1.5x,,R$16.84,1.8%
+648,BRKM6,Braskem Pref B,B3,Basic Materials,Chemicals,R$13.34B,-1.5x,,R$13.50,0%
+649,BRKM3,BRASKEM ON,B3,Basic Materials,Chemicals,R$13.34B,-1.5x,,R$17.07,1.2%
+650,ALOS3,Allos ON,B3,Real Estate,Real Estate Operations,R$12.91B,28.3x,-0.27,R$23.21,-1.9%
+651,STBP3,Santos Brasil Participacoes,B3,Industrials,Transport Infrastructure,R$12.53B,18.3x,,R$14.46,2.5%
+652,TAEE3,TAEE,B3,Utilities,Electrical Utilities & IPPs,R$12.22B,9x,1.45,R$11.78,0.2%
+653,TAEE11,TAEE UNIT,B3,Utilities,Electrical Utilities & IPPs,R$12.22B,9x,1.45,R$35.51,0.2%
+654,BPAN12,Banco Pan Subscrição,B3,Financials,Banking Services,R$12.21B,19.4x,,R$0.03,-25%
+655,TAEE4,TAEE Pref,B3,Utilities,Electrical Utilities & IPPs,R$12.21B,9x,1.45,R$11.85,0%
+656,BPAN4,BANCO PAN SA PN,B3,Financials,Banking Services,R$12.21B,19.4x,,R$9.86,1%
+657,MRFG3,MARFRIG ON,B3,Consumer Non-Cyclicals,Food & Tobacco,R$12.13B,-10.2x,0.1,R$13.13,2.3%
+658,G1DS34,GDS Holdings,B3,Technology,Software & IT Services,R$12.13B,-2.8x,0.02,R$6.34,1.9%
+659,GGPS3,GPS Participacoes e Empreendimentos,B3,Industrials,Professional & Commercial Services,R$12.05B,17.9x,0.95,R$17.86,0.1%
+660,K1SS34,Kohls,B3,Consumer Cyclicals,Diversified Retail,R$11.66B,9x,0,R$105.94,0%
+661,EVTC31,Evertec,B3,Industrials,Professional & Commercial Services,R$11.65B,31.2x,-0.44,R$182.34,2.4%
+662,AURE3,Auren ON,B3,Utilities,Electrical Utilities & IPPs,R$11.64B,-30.1x,0.26,R$11.58,-0.5%
+663,H1BI34,HanesBrands,B3,Consumer Cyclicals,Textiles & Apparel,R$11.54B,-16x,-0.68,R$32.04,0%
+664,AMBP3,Ambipar,B3,Industrials,Professional & Commercial Services,R$11.36B,-47.8x,0.83,R$80.16,14.6%
+665,MRSA3B,MRS Logistica,SOMA,Industrials,Freight & Logistics Services,R$10.90B,7.7x,0.16,R$32.99,0%
+666,CASN3,Companhia Catarinense de Aguas e Saneamento Casan,B3,Utilities,Water & Related Utilities,R$10.86B,,-26.46,R$10.45,0%
+667,GOAU3,GERDAU MET ON,B3,Basic Materials,Metals & Mining,R$10.48B,89.5x,-0.93,R$10.37,1.2%
+668,GOAU4,GERDAU MET PN,B3,Basic Materials,Metals & Mining,R$10.48B,89.5x,-0.93,R$10.12,0.3%
+669,W1BO34,Weibo,B3,Technology,Software & IT Services,R$10.45B,7.2x,0.57,R$10.97,2.1%
+670,CEEB3,Coelba,B3,Utilities,Electrical Utilities & IPPs,R$10.37B,6x,0.66,R$39.63,0%
+671,SMTO3,SAO MARTINHO ON,B3,Consumer Non-Cyclicals,Food & Tobacco,R$10.31B,7.5x,0.15,R$29.69,-0.6%
+672,CEEB5,Coelba Pref,B3,Utilities,Electrical Utilities & IPPs,R$10.18B,6x,0.66,R$39,0%
+673,ALUP3,Alupar Invest,B3,Utilities,Electrical Utilities & IPPs,R$10.15B,13.9x,8.99,R$11.10,-1.8%
+674,ALUP4,Alupar Invest Pref,B3,Utilities,Electrical Utilities & IPPs,R$10.15B,13.9x,8.99,R$10.52,-2.1%
+675,ALUP11,Alupar Invest Unit,B3,Utilities,Electrical Utilities & IPPs,R$10.15B,13.9x,8.99,R$32.04,-2.5%
+676,P2AX34,Patria Investments DRC,B3,,,R$9.78B,22.3x,-0.73,R$32.32,0%
+677,MGLU3,MAGAZ LUIZA ON,B3,Consumer Cyclicals,Diversified Retail,R$9.72B,-16.3x,-0.66,R$13.26,4.1%
+678,MDIA3,M.DIASBRANCO ON,B3,Consumer Non-Cyclicals,Food & Tobacco,R$9.68B,10.4x,0.11,R$28.80,-0.5%
+679,L1EG34,Leggett Platt,B3,Consumer Cyclicals,Household Goods,R$9.21B,-2.1x,0,R$67.06,0%
+680,A2FY34,Afya Ltd DRC,B3,Academic & Educational Services,Professional & Business Education,R$9.12B,19.5x,0.52,R$51.80,1%
+681,VAMO3,Grupo Vamos,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$9.07B,14.4x,-1.03,R$8.24,-1%
+682,BNBR3,Banco do Nordeste do Brasil,B3,Financials,Banking Services,R$8.77B,4.2x,-6.87,R$101.50,0%
+683,FLRY3,FLEURY ON,B3,Healthcare,Healthcare Providers & Services,R$8.48B,14.3x,,R$15.58,-0.1%
+684,CSMG3,Companhia de Saneamento de Minas Gerais,B3,Utilities,Water & Related Utilities,R$8.36B,5.7x,0.16,R$22.07,-4.9%
+685,CYRE3,CYRELA REALT ON,B3,Real Estate,Real Estate Operations,R$8.31B,7x,,R$22.30,3.1%
+686,UNIP5,Unipar Carbocloro Pref,B3,Basic Materials,Chemicals,R$8.28B,11.1x,,R$50,1%
+687,UNIP6,UNIPAR PNB,B3,Basic Materials,Chemicals,R$8.28B,11.1x,,R$49.66,1.2%
+688,UNIP3,UNIPAR ON,B3,Basic Materials,Chemicals,R$8.28B,11.1x,,R$49.75,1.5%
+689,SAPR11,Parana Sanepar Unit,B3,Utilities,Water & Related Utilities,R$8.16B,5.4x,,R$28.58,-0.5%
+690,SAPR3,SANEPAR ON N2,B3,Utilities,Water & Related Utilities,R$8.16B,5.4x,,R$5.40,-0.4%
+691,SAPR4,Companhia de Saneamento,B3,Utilities,Water & Related Utilities,R$8.16B,5.4x,,R$5.76,-0.7%
+692,EKTR4,Elektro Pref,B3,Utilities,Electrical Utilities & IPPs,R$7.94B,7.9x,0.37,R$41.16,-1.5%
+693,EKTR3,Elektro Redes,B3,Utilities,Electrical Utilities & IPPs,R$7.94B,7.9x,0.37,R$40.03,0%
+694,SLCE3,SLC AGRICOLA ON,B3,Consumer Non-Cyclicals,Food & Tobacco,R$7.85B,13.1x,-0.34,R$17.80,-2.2%
+695,KNIP11,Kinea Private Equity,B3,Financials,Investment Banking & Investment Services,R$7.67B,,,R$95.74,0.4%
+696,USIM3,USIMINAS ON,B3,Basic Materials,Metals & Mining,R$7.39B,13.9x,0.13,R$6.07,2.2%
+697,USIM5,USIMINAS PNA,B3,Basic Materials,Metals & Mining,R$7.39B,13.9x,0.13,R$6.17,1.3%
+698,PORT3,Wilson Sons Holdings Brasil,B3,Industrials,Transport Infrastructure,R$7.36B,,,R$16.93,1.3%
+699,A1IV34,Apartment Investment and Management Co,B3,Real Estate,Residential & Commercial REITs,R$7.32B,-5.5x,0.2,R$47.90,-0.1%
+700,POMO4,MARCOPOLO PN,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$7.25B,7.7x,0.15,R$6.84,-1.4%
+701,USIM6,USIMINAS PNB,B3,Basic Materials,Metals & Mining,R$7.25B,14.3x,,R$14,0%
+702,POMO3,MARCOPOLO ON,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$7.25B,7.7x,0.15,R$5.39,-1.6%
+703,KNCR11,FII KINEA RI,B3,Financials,Investment Banking & Investment Services,R$7.22B,7.7x,,R$103.81,-0.2%
+704,INTB3,Intelbras Sa,B3,Technology,Communications & Networking,R$7.13B,12.4x,1.89,R$22.20,2%
+705,BRAP4,BRADESPAR PN,B3,Basic Materials,Metals & Mining,R$7.03B,3.7x,-0.08,R$18.38,1.8%
+706,BRAP3,BRADESPAR ON,B3,Basic Materials,Metals & Mining,R$7.03B,3.7x,-0.08,R$17.53,-0.2%
+707,AESB3,Aes Brasil Energia,B3,Utilities,Electrical Utilities & IPPs,R$6.86B,-50.6x,0.27,R$11.39,-0.1%
+708,CURY3,Cury On,B3,Consumer Cyclicals,Homebuilding & Construction Supplies,R$6.85B,11.7x,0.24,R$23.68,0.2%
+709,XRXB34,Xerox Corp BDR,B3,Technology,Office Equipment,R$6.85B,-11.2x,-0.22,R$55.05,0.6%
+710,IGTI11,Iguatemi Unit,B3,Real Estate,Real Estate Operations,R$6.69B,10.5x,,R$23.24,-1.2%
+711,IGTI4,Iguatemi Prf,B3,Real Estate,Real Estate Operations,R$6.69B,10.5x,,R$10.23,1.3%
+712,IGTI3,Iguatemi ON,B3,Real Estate,Real Estate Operations,R$6.69B,10.5x,,R$2.86,-3.4%
+713,T2DH34,Teladoc Health,B3,Healthcare,Healthcare Providers & Services,R$6.66B,-1.2x,-0.02,R$1.28,1.6%
+714,ODPV3,ODONTOPREV ON,B3,Healthcare,Healthcare Providers & Services,R$6.50B,12.4x,,R$11.90,2.1%
+715,WHRL4,Whirlpool Pref,B3,Consumer Cyclicals,Household Goods,R$6.42B,18.4x,2.62,R$4.45,-0.2%
+716,WHRL3,Whirlpool SA,B3,Consumer Cyclicals,Household Goods,R$6.42B,18.4x,2.62,R$4.20,0.2%
+717,RECV3,Petroreconcavo,B3,Energy,Oil & Gas,R$6.39B,11.1x,-0.26,R$22.03,1.1%
+718,VIVA3,Vivara,B3,Consumer Cyclicals,Textiles & Apparel,R$6.37B,13.5x,,R$26.88,-0.8%
+719,XPML11,XP MALLS FDO INV IMOB FII,B3,Financials,Collective Investments,R$6.25B,,,R$113.04,0%
+720,DXCO3,Dexco,B3,Basic Materials,Paper & Forest Products,R$6.22B,11.4x,-0.67,R$7.68,0.4%
+721,AZZA3,Azzas 2154,B3,Consumer Cyclicals,Textiles & Apparel,R$5.96B,14.5x,2.85,R$53.94,-2.2%
+722,TTEN3,Tres Tentos Agroindustrial,B3,Consumer Non-Cyclicals,Food & Tobacco,R$5.76B,9.3x,6.96,R$12.09,4.6%
+723,SIMH3,Simpar ON,B3,Industrials,Freight & Logistics Services,R$5.69B,-11.7x,0.04,R$6.56,0.3%
+724,SRNA3,Serena Energia ON,B3,Utilities,Electrical Utilities & IPPs,R$5.63B,20x,0,R$9.03,-0.1%
+725,GRND3,GRENDENE ON,B3,Consumer Cyclicals,Textiles & Apparel,R$5.61B,10.2x,,R$6.25,0.2%
+726,ECOR3,ECORODOVIAS ON,B3,Industrials,Transport Infrastructure,R$5.53B,6.6x,0.08,R$7.94,1.5%
+727,HGLG11,Patria Log FII Responsabilidade,B3,Financials,Collective Investments,R$5.47B,10x,,R$161.98,0.6%
+728,ABCB4,ABC BRASIL PN,B3,Financials,Banking Services,R$5.44B,5.6x,0.51,R$22.51,-0.8%
+729,S2GM34,Sigma Lithium DRC,B3,Basic Materials,Metals & Mining,R$5.38B,-137.4x,-0.86,R$17.45,7.7%
+730,BAZA3,Banco da Amazonia SA ON,B3,Financials,Banking Services,R$5.38B,4.3x,-0.25,R$96.10,0.1%
+731,ALPA4,ALPARGATAS PN,B3,Consumer Cyclicals,Textiles & Apparel,R$5.31B,-3.6x,,R$8.19,4.2%
+732,ALPA3,ALPARGATAS ON,B3,Consumer Cyclicals,Textiles & Apparel,R$5.31B,-3.6x,,R$7.99,1.6%
+733,BRSR3,BANRISUL ON N1,B3,Financials,Banking Services,R$5.15B,4.8x,0.48,R$13.26,3.5%
+734,BRSR6,BANRISUL PNB,B3,Financials,Banking Services,R$5.15B,4.8x,0.48,R$12.41,0.4%
+735,BRSR5,BANRISUL PNA,B3,Financials,Banking Services,R$5.15B,4.8x,0.48,R$17,0%
+736,R2DF34,Redfin Corp BDR,B3,Real Estate,Real Estate Operations,R$5.07B,-6.5x,-0.13,R$7,0.3%
+737,DIRR3,DIRECIONAL ON,B3,Real Estate,Real Estate Operations,R$5.02B,11.4x,0.17,R$29,0%
+738,FRAS3,Fras Le SA,B3,Consumer Cyclicals,Automobiles & Auto Parts,R$4.95B,14.6x,0.99,R$18.54,0.3%
+739,MOAR3,Monteiro Aranha,B3,Financials,Investment Banking & Investment Services,R$4.87B,5.3x,0.02,R$397.87,0%
+740,F2VR34,Fiverr International DRC,B3,Technology,Software & IT Services,R$4.68B,78.9x,0.43,R$6.64,3%
+741,LEVE3,METAL LEVE ON,B3,Consumer Cyclicals,Automobiles & Auto Parts,R$4.57B,5.5x,0.33,R$32.23,-4.3%
+742,VULC3,Vulcabras Azaleia,B3,Consumer Cyclicals,Textiles & Apparel,R$4.44B,9.3x,-0.94,R$18.10,1.3%
+743,BEEF3,MINERVA ON,B3,Consumer Non-Cyclicals,Food & Tobacco,R$4.44B,62x,-0.78,R$7.54,-0.7%
+744,GUAR3,Guararapes Confeccoes ON,B3,Consumer Cyclicals,Specialty Retailers,R$4.41B,5.9x,0.01,R$8.89,1.1%
+745,BTLG11,Btg Pactual,B3,Real Estate,Residential & Commercial REITs,R$4.41B,18.4x,,R$102.42,0.5%
+746,KNRI11,FII KINEA,B3,Real Estate,Residential & Commercial REITs,R$4.40B,13.1x,,R$155.97,0.7%
+747,MXRF11,FII MAXI REN,B3,Financials,Collective Investments,R$4.39B,10.5x,,R$10.05,0.3%
+748,MRVE3,MRV ON,B3,Real Estate,Real Estate Operations,R$4.25B,-8.8x,-2.3,R$7.55,3.7%
+749,EXCO32,Almacenes,B3,Consumer Non-Cyclicals,Food & Drug Retailing,R$4.15B,99.5x,-1.51,R$12.12,-0.7%
+750,SBFG3,Grupo SBF,B3,Consumer Cyclicals,Specialty Retailers,R$4.07B,7.5x,0.03,R$17.27,3.5%
+751,ONCO3,Oncoclinicas do Brasil Servicos Medicos,B3,Healthcare,Healthcare Providers & Services,R$3.96B,19.9x,0.12,R$6.35,0.8%
+752,TUPY3,Tupy ON,B3,Consumer Cyclicals,Automobiles & Auto Parts,R$3.92B,9.1x,-0.44,R$27.20,1.1%
+753,BSLI3,Brb Banco,B3,Financials,Banking Services,R$3.89B,17.7x,-3.64,R$10.44,-4.5%
+754,BSLI4,BRB Pref,B3,Financials,Banking Services,R$3.89B,17.7x,-3.64,R$9.60,-3.7%
+755,ORVR3,Orizon Valorizacao de Residuos,B3,Industrials,Professional & Commercial Services,R$3.83B,30.6x,0.21,R$45.95,-0.5%
+756,LOGN3,LOG-IN ON,B3,Industrials,Freight & Logistics Services,R$3.81B,185.9x,-1.93,R$35.89,0.2%
+757,GPAR3,Celgpar,B3,Utilities,Electrical Utilities & IPPs,R$3.78B,78.4x,-1.63,R$47.50,0%
+758,AURA33,Aura,B3,Basic Materials,Metals & Mining,R$3.75B,-21x,0.11,R$17.41,3.6%
+759,BMEB4,Mercantil do Brasil Pref,B3,Financials,Banking Services,R$3.73B,7.4x,,R$36.71,-1.1%
+760,BMEB3,Mercantil do Brasil,B3,Financials,Banking Services,R$3.73B,7.4x,,R$35.10,0.9%
+761,FESA3,Ferbasa,B3,Basic Materials,Metals & Mining,R$3.47B,9.4x,-0.17,R$14.18,0%
+762,FESA4,FERBASA PN,B3,Basic Materials,Metals & Mining,R$3.47B,9.4x,-0.17,R$8.34,3.2%
+763,IRBR3,IRB Brasil Resseguros,B3,Financials,Insurance,R$3.44B,24.8x,0.07,R$42.39,30.3%
+764,CAML3,Camil Alimentos,B3,Consumer Non-Cyclicals,Food & Tobacco,R$3.43B,9.2x,0.55,R$10.01,0.2%
+765,RAPT4,RANDON PART PN,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$3.39B,11.7x,,R$10.94,-1.1%
+766,RAPT3,RANDON PART ON,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$3.39B,11.7x,-0.32,R$9.02,0%
+767,VISC11,Vinci Shopping Centers FII,B3,Financials,Collective Investments,R$3.25B,,,R$112.85,-0.1%
+768,EZTC3,EZTEC ON,B3,Real Estate,Real Estate Operations,R$3.12B,11.6x,2.31,R$14.30,2.4%
+769,ARML3,Armac Locacao Logistica e Servicos,B3,Industrials,Professional & Commercial Services,R$3.12B,15.8x,0.61,R$9.02,0%
+770,XPLG11,XP LOG FII,B3,Real Estate,Residential & Commercial REITs,R$3.05B,,,R$103.31,1%
+771,K2CG34,Kingsoft Cloud Holdings DRC,B3,Technology,Software & IT Services,R$3.03B,-2.1x,-0.07,R$2.18,1.4%
+772,CBAV3,Companhia Brasileira de Aluminio,B3,Basic Materials,Metals & Mining,R$3.01B,-2.8x,0.01,R$4.70,1.7%
+773,KNHY11,KINEA HIGH YIELD CRI FII,B3,Real Estate,Residential & Commercial REITs,R$2.98B,,,R$105.80,0.1%
+774,YDUQ3,YDUQS Participacoes,B3,Academic & Educational Services,"School, College & University",R$2.94B,20x,,R$10.07,0.5%
+775,BEES4,Banestes Pref,B3,Financials,Banking Services,R$2.91B,8.6x,0.74,R$9.88,-0.5%
+776,BEES3,Banestes,B3,Financials,Banking Services,R$2.91B,8.6x,0.74,R$8.98,0.6%
+777,JHSF3,JHSF PART ON,B3,Real Estate,Real Estate Operations,R$2.90B,26.4x,0.12,R$4.30,1.9%
+778,CLSC3,De Santa Catar,B3,Utilities,Electrical Utilities & IPPs,R$2.82B,4.6x,0.34,R$71.40,1.3%
+779,CLSC4,CELESC PN,B3,Utilities,Electrical Utilities & IPPs,R$2.82B,4.6x,0.34,R$78.12,4.6%
+780,MILS3,MILLS ON,B3,Industrials,Professional & Commercial Services,R$2.81B,9x,0.88,R$11.62,-0.7%
+781,HBSA3,Hidrovias,B3,Industrials,Freight & Logistics Services,R$2.81B,-11.3x,0.16,R$3.67,-0.8%
+782,LWSA3,Lwsa,B3,Technology,Software & IT Services,R$2.81B,"1,817.1x",0.16,R$4.76,-0.2%
+783,KDIF11,Kinea Infra,B3,Financials,Collective Investments,R$2.78B,,,R$137,0.1%
+784,TGAR11,FII TG Ativo Real,B3,Real Estate,Residential & Commercial REITs,R$2.78B,,,R$118,0.2%
+785,HGBS11,CSHG Brasil Shopping,B3,Financials,Investment Banking & Investment Services,R$2.71B,8x,,R$213.50,0.2%
+786,CEAB3,C A Modas SA,B3,Consumer Cyclicals,Specialty Retailers,R$2.70B,9.9x,0.01,R$9.10,2.9%
+787,AZUL4,Azul SA Pref,B3,Industrials,Passenger Transportation Services,R$2.69B,-0.3x,-0.03,R$7.75,0%
+788,CSRN6,Companhia Energetica do Rio Grande do Norte Cosern,B3,Utilities,Electrical Utilities & IPPs,R$2.66B,4.8x,-0.38,R$16.66,0%
+789,CSRN5,Companhia Energetica do Rio Grande do Norte Cosern,B3,Utilities,Electrical Utilities & IPPs,R$2.66B,4.8x,-0.38,R$17.10,-7.6%
+790,CSRN3,Cosern,B3,Utilities,Electrical Utilities & IPPs,R$2.66B,4.8x,-0.38,R$15.85,2.5%
+791,GPRK34,GeoPark,B3,Energy,Oil & Gas,R$2.64B,4.4x,-0.09,R$49.65,-3.7%
+792,JSLG3,JSL,B3,Industrials,Freight & Logistics Services,R$2.63B,7.4x,-0.35,R$9.09,-1.7%
+793,MOVI3,Movida Participacoes,B3,Industrials,Passenger Transportation Services,R$2.63B,-4.7x,,R$7.34,-0.4%
+794,COGN3,Cogna Educacao,B3,Academic & Educational Services,"School, College & University",R$2.62B,-5x,,R$1.39,0%
+795,IRDM11,IRIDIUM RECEBÍVEIS IMOBILIÁRIOS,B3,Real Estate,Residential & Commercial REITs,R$2.62B,,,R$71.80,1.1%
+796,ELMD3,Eletromidia,B3,Consumer Cyclicals,Media & Publishing,R$2.62B,29.4x,0.61,R$18.88,0.4%
+797,CPTS11,FII Capitania Securities II,B3,Real Estate,Residential & Commercial REITs,R$2.61B,,,R$8.21,1%
+798,AGRO3,BRASILAGRO ON,B3,Consumer Non-Cyclicals,Food & Tobacco,R$2.58B,10.9x,0.04,R$25.94,-1.6%
+799,PVBI11,FII Vbi Prime Properties,B3,Real Estate,Residential & Commercial REITs,R$2.54B,,,R$94.28,0.6%
+800,COCE5,Companhia Energetica do Ceara Prf s,B3,Utilities,Electrical Utilities & IPPs,R$2.52B,6.8x,-0.28,R$31.03,-1.5%
+801,COCE3,Companhia Energetica do Ceara,B3,Utilities,Electrical Utilities & IPPs,R$2.52B,6.8x,-0.28,R$33,0%
+802,CBEE3,Ampla,B3,Utilities,Electrical Utilities & IPPs,R$2.51B,-11.7x,0.05,R$9.90,0%
+803,PLPL3,Plano And Plano On,B3,Consumer Cyclicals,Homebuilding & Construction Supplies,R$2.42B,8.4x,0.12,R$12.34,1.2%
+804,GEPA4,Rio Paranapanema Energia Pref,B3,Utilities,Electrical Utilities & IPPs,R$2.36B,7.7x,1,R$26.30,-0.5%
+805,GEPA3,Rio Paranapanema Energia,B3,Utilities,Electrical Utilities & IPPs,R$2.36B,7.7x,1,R$25.01,0%
+806,HGRU11,CSHG RENDA URBANA FII,B3,Real Estate,Residential & Commercial REITs,R$2.34B,,,R$127.27,-0.1%
+807,SHUL4,Schulz SA,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$2.34B,8.6x,,R$6.60,0.9%
+808,LOGG3,Log Commercial Properties,B3,Real Estate,Real Estate Operations,R$2.24B,8.9x,0.41,R$24.16,0.2%
+809,KNCA11,Kinea Crédito Agro,B3,Real Estate,Residential & Commercial REITs,R$2.24B,,,R$103.51,-0.1%
+810,JURO11,SPARTA INFRA FI EM COTAS DE FUNDOS INCENTIVADOS DE,B3,,,R$2.21B,,,R$107.68,0.3%
+811,RECR11,Imobiliario FII,B3,Real Estate,Residential & Commercial REITs,R$2.20B,,,R$84.04,0.8%
+812,B2YN34,Beyond Meat,B3,Consumer Non-Cyclicals,Food & Tobacco,R$2.18B,-1.3x,0.12,R$1.70,0%
+813,BMGB4,Banco BMG ON,B3,Financials,Banking Services,R$2.13B,6.3x,0.02,R$3.68,0.8%
+814,TRXF11,Fii Trx Real,B3,Real Estate,Residential & Commercial REITs,R$2.12B,,,R$105.69,-0.2%
+815,BLAU3,Blau Farmaceutica,B3,Healthcare,Pharmaceuticals,R$2.12B,9.9x,-0.31,R$12.22,2.4%
+816,DASA3,DASA ON,B3,Healthcare,Healthcare Providers & Services,R$2.09B,-2x,0.05,R$2.96,5.7%
+817,JALL3,Jalles Machado,B3,Consumer Non-Cyclicals,Food & Tobacco,R$2.05B,23.9x,-0.28,R$6.85,0.9%
+818,KEPL3,KEPLER WEBER ON,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$2B,7.5x,-0.58,R$11.25,-1.4%
+819,HSML11,HSI Malls FII,B3,Real Estate,Residential & Commercial REITs,R$1.96B,,,R$94.55,0.3%
+820,EMAE4,EMAE Pref,B3,Utilities,Electrical Utilities & IPPs,R$1.93B,10.4x,0.08,R$41.37,0.9%
+821,TFCO4,Track And Field,B3,Consumer Cyclicals,Specialty Retailers,R$1.91B,16.6x,1.13,R$12.47,1.8%
+822,DESK3,Desktop Sigmanet Comunicacao Multimidia,B3,Technology,Telecommunications Services,R$1.89B,19x,0.37,R$16.26,-0.5%
+823,RANI3,Celulose Irani,B3,Basic Materials,Containers & Packaging,R$1.89B,13.1x,-0.18,R$8.07,-0.1%
+824,SOJA3,Boa Safra Sementes,B3,Consumer Non-Cyclicals,Food & Tobacco,R$1.88B,5.8x,0.13,R$13.97,0.7%
+825,BRCO11,Bresco Logistica,B3,Financials,Collective Investments,R$1.86B,,,R$116.87,-0.1%
+826,LVBI11,FII VBI Logistico,B3,Real Estate,Residential & Commercial REITs,R$1.81B,,,R$112.77,0.3%
+827,LIGT3,LIGHT S/A ON,B3,Utilities,Electrical Utilities & IPPs,R$1.80B,-8.4x,-0.08,R$4.84,-0.2%
+828,RZTR11,FII Riza Terrax,B3,Real Estate,Residential & Commercial REITs,R$1.77B,,,R$94.42,0.3%
+829,BRIT3,Brisanet Participacoes,B3,Technology,Telecommunications Services,R$1.76B,11.6x,0.1,R$3.68,-6.6%
+830,MYPK3,IOCHP-MAXION ON,B3,Consumer Cyclicals,Automobiles & Auto Parts,R$1.73B,23.1x,,R$11.56,0.4%
+831,LAVV3,Lavvi On,B3,Real Estate,Real Estate Operations,R$1.73B,6.2x,,R$8.79,-0.4%
+832,PETZ3,Petz On,B3,Consumer Cyclicals,Specialty Retailers,R$1.72B,176.4x,-2.32,R$3.48,-8.9%
+833,PGMN3,Pague Menos,B3,Consumer Non-Cyclicals,Food & Drug Retailing,R$1.71B,16.3x,-0.36,R$3,2%
+834,IFRA11,Itau Fundo de Investimento Financeiro Classe de In,B3,Financials,Collective Investments,R$1.70B,,,R$109.53,-0.3%
+835,TGMA3,TEGMA ON,B3,Industrials,Freight & Logistics Services,R$1.69B,9.1x,1.72,R$25.59,0.1%
+836,MATD3,Hospital Mater Dei Sa,B3,Healthcare,Healthcare Providers & Services,R$1.69B,-4.7x,,R$4.53,2%
+837,TEND3,Tenda,B3,Real Estate,Real Estate Operations,R$1.68B,-47.4x,-0.51,R$13.66,3.6%
+838,SYNE3,SYN prop e tech,B3,Real Estate,Real Estate Operations,R$1.68B,143.9x,1.16,R$11.03,4.3%
+839,BCFF11,FII BTG Pactual Fundo de Fundos,B3,Real Estate,Residential & Commercial REITs,R$1.67B,6.1x,,R$8.30,2%
+840,VLID3,VALID ON,B3,Industrials,Professional & Commercial Services,R$1.66B,5.1x,0.05,R$20.70,-0.6%
+841,TVRI11,BB Progressivo II FII FII,B3,Real Estate,Residential & Commercial REITs,R$1.63B,9x,,R$102.03,0.2%
+842,PNVL3,Dimed,B3,Consumer Non-Cyclicals,Food & Drug Retailing,R$1.62B,14.4x,0.48,R$11,0.8%
+843,HFOF11,Hedge Top Fofii 3 FII,B3,Real Estate,Residential & Commercial REITs,R$1.61B,,,R$70,0%
+844,SPXS11,Hedge Top Fofii 3 FII,B3,Real Estate,Residential & Commercial REITs,R$1.61B,,,R$70,0%
+845,KNUQ11,Kinea Unique HY CDI FI Imobiliario   Unica,B3,,,R$1.60B,,,R$104.30,0%
+846,HGCR11,FII CSHG CRI,B3,Real Estate,Residential & Commercial REITs,R$1.59B,,,R$103.21,0.1%
+847,BDIF11,Btg Pactual Divida Infra Fundo,B3,Financials,Collective Investments,R$1.58B,,,R$85.22,0.1%
+848,BRBI11,Br Advisory,B3,Financials,Investment Banking & Investment Services,R$1.57B,9.3x,,R$15.09,0.6%
+849,RURA11,Fiagro Itaú Asset Rural,B3,Financials,Investment Banking & Investment Services,R$1.57B,,,R$9.88,1%
+850,PCAR3,Brasileira De Dist,B3,Consumer Non-Cyclicals,Food & Drug Retailing,R$1.57B,27.9x,,R$3.16,-1.3%
+851,VSTE3,Veste SA Estilo,B3,Consumer Cyclicals,Specialty Retailers,R$1.51B,138.5x,-1.61,R$13.28,1.4%
+852,MCCI11,Fii Maua Capital,B3,Real Estate,Residential & Commercial REITs,R$1.50B,,,R$88.75,0.5%
+853,MLAS3,Multilaser Industrial,B3,Technology,"Computers, Phones & Household Electronics",R$1.49B,-2.8x,0.09,R$1.81,-1.1%
+854,EUCA4,EUCATEX PN,B3,Consumer Non-Cyclicals,Food & Tobacco,R$1.45B,3.2x,0.06,R$15.67,2.7%
+855,EUCA3,Eucatex,B3,Basic Materials,Paper & Forest Products,R$1.45B,3.2x,0.06,R$16.25,-2.7%
+856,VGHF11,Valora Instrumentos Financeiros FII,B3,Real Estate,Residential & Commercial REITs,R$1.44B,,,R$8.80,0.3%
+857,CSED3,Cruzeiro do Sul Educacional,B3,Academic & Educational Services,"School, College & University",R$1.44B,11.3x,0.02,R$4,1.5%
+858,CEBR3,CEB,B3,Utilities,Electrical Utilities & IPPs,R$1.42B,8.2x,-0.46,R$19.82,1.9%
+859,CEBR5,Energ De Brasilia A Pref,B3,Utilities,Electrical Utilities & IPPs,R$1.42B,8.2x,-0.46,R$16.80,-0.2%
+860,CEBR6,Energ De Brasilia B Pref,B3,Utilities,Electrical Utilities & IPPs,R$1.42B,8.2x,-0.46,R$17.70,1.1%
+861,MALL11,Malls Brasil Plural Fundo De Investimento Imobilia,B3,Real Estate,Residential & Commercial REITs,R$1.41B,,,R$107.78,-0.5%
+862,VRTA11,FII FATOR VE,B3,Real Estate,Residential & Commercial REITs,R$1.39B,13.6x,,R$89.30,0.7%
+863,TASA4,Taurus Armas PN,B3,Industrials,Aerospace & Defense,R$1.39B,18.8x,-0.17,R$11.12,1%
+864,TASA3,Taurus Armas ON,B3,Industrials,Aerospace & Defense,R$1.39B,18.8x,-0.17,R$11.22,0.4%
+865,BMOB3,Bemobi Mobile Tech,B3,Technology,Software & IT Services,R$1.38B,12.1x,,R$15.98,-0.7%
+866,AALR3,Allianca Saude e Participacoes,B3,Healthcare,Healthcare Providers & Services,R$1.36B,-5x,,R$11.47,9.9%
+867,SCAR3,SAO CARLOS ON,B3,Real Estate,Real Estate Operations,R$1.36B,4.9x,0.01,R$23.50,0.4%
+868,RBRR11,FII RBR Rendimento High Grade,B3,Real Estate,Residential & Commercial REITs,R$1.36B,,,R$90.25,0.1%
+869,HGRE11,Patria Escritorios FII Responsabilidade,B3,Real Estate,Residential & Commercial REITs,R$1.36B,34.4x,,R$114.85,1%
+870,BRCR11,FII BC FUND,B3,Real Estate,Residential & Commercial REITs,R$1.35B,10.4x,,R$50.59,0.1%
+871,JSRE11,FII JS REAL,B3,Real Estate,Residential & Commercial REITs,R$1.35B,29.6x,,R$65.36,2.2%
+872,ANIM3,Anima ON,B3,Academic & Educational Services,Miscellaneous Educational Service Providers,R$1.34B,-7.2x,0.07,R$3.57,9.2%
+873,FIQE3,Unifique Telecomunicacoes,B3,Technology,Telecommunications Services,R$1.34B,8.1x,,R$3.87,2.1%
+874,VCJR11,Vectis Juros,B3,Real Estate,Residential & Commercial REITs,R$1.34B,,,R$91,-0%
+875,VILG11,VINCI LOGISTICA FII,B3,Real Estate,Residential & Commercial REITs,R$1.33B,,,R$88.55,-0.1%
+876,ALZR11,Alianza Trust Renda Imobiliaria,B3,Financials,Collective Investments,R$1.33B,,,R$108.47,0.3%
+877,RBVA11,FII Rio Bravo Rendo Varejo,B3,Real Estate,Residential & Commercial REITs,R$1.31B,6.6x,,R$105.45,0.5%
+878,CLSA3,Clear Sale,B3,Technology,Software & IT Services,R$1.31B,-52x,2.85,R$7.79,12.1%
+879,OPCT3,Oceanpact Servicos Maritimos Sa,B3,Industrials,Professional & Commercial Services,R$1.30B,55.9x,,R$6.67,1.8%
+880,EVEN3,EVEN ON,B3,Real Estate,Real Estate Operations,R$1.28B,5.8x,0.09,R$6.46,-0.2%
+881,PFIN11,Fip Perfin,B3,Financials,Collective Investments,R$1.28B,,,R$76.44,0.8%
+882,MDNE3,Moura Dubeux On,B3,Real Estate,Real Estate Operations,R$1.24B,6.2x,,R$14.95,2.1%
+883,KNSC11,Kinea Securities FI Imobiliario FII,B3,Real Estate,Residential & Commercial REITs,R$1.22B,,,R$9.16,-0.3%
+884,LAND3,TERRA SANTA ON,B3,Real Estate,Real Estate Operations,R$1.22B,36.5x,-0.49,R$12.69,-3.9%
+885,RBRY11,RBR Private Crédito Imobiliário,B3,Real Estate,Residential & Commercial REITs,R$1.21B,,,R$95.04,0%
+886,OFSA3,Ouro Fino Saude Animal Particip,B3,Healthcare,Pharmaceuticals,R$1.18B,22.1x,0.11,R$22,-1.6%
+887,GGRC11,GGR Covepi Renda FII,B3,Financials,Collective Investments,R$1.15B,,,R$10.87,0.7%
+888,GARE11,FII Guardian Real Estate,B3,Real Estate,Residential & Commercial REITs,R$1.14B,,,R$9.01,-0.2%
+889,BIOM3,Biomm On,B3,Healthcare,Biotechnology & Medical Research,R$1.12B,-9.9x,-0.61,R$8.85,1.8%
+890,TELB4,Telecomunicacoes Brasileira SA Pref,B3,Technology,Telecommunications Services,R$1.12B,-3.7x,0.04,R$9.15,-3.3%
+891,TELB3,Telebras,B3,Technology,Telecommunications Services,R$1.12B,-3.7x,0.04,R$14,0.7%
+892,VGIR11,VALORA RE III FII,B3,Real Estate,Residential & Commercial REITs,R$1.12B,,,R$9.82,0%
+893,WLMM4,WLM Industria e Comercio,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$1.10B,9.8x,-2.17,R$32.80,2.5%
+894,HSLG11,HSI Log I FI Imobiliario,B3,Real Estate,Residential & Commercial REITs,R$1.08B,,,R$85.54,0.3%
+895,PINE3,Banco Pine,B3,,,R$1.08B,4.1x,0.03,R$5.66,-0.7%
+896,PINE4,PINE PN,B3,Financials,Banking Services,R$1.08B,4.1x,0.03,R$4.58,-1.9%
+897,GPRO34,GoPro BDR,B3,Technology,"Computers, Phones & Household Electronics",R$1.06B,-0.5x,0,R$6.80,4.6%
+898,FRIO3,METALFRIO ON,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$1.06B,36.3x,0.49,R$169,0%
+899,KNOX11,Knox Debt Fundo de Investimento em Participacoes e,B3,Financials,Collective Investments,R$1.05B,,,R$104.55,-0.4%
+900,MCHY11,FI Imobiliario Maua Capital High Yield FII,B3,Real Estate,Residential & Commercial REITs,R$1.05B,,,R$9.50,0.7%
+901,XPIE11,Xp Infra,B3,Financials,Collective Investments,R$1.05B,,,R$76.19,-0.6%
+902,VGIP11,Valora Cri Indice,B3,Real Estate,Residential & Commercial REITs,R$1.04B,,,R$88.84,0.5%
+903,RBRF11,FII RBR ALPHA Fundo,B3,Financials,Collective Investments,R$1.03B,,,R$7.52,0.1%
+904,CVBI11,FII Vbi CRI,B3,Real Estate,Residential & Commercial REITs,R$1.03B,,,R$93.80,0.1%
+905,ROMI3,INDS ROMI ON,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$1.02B,7.1x,-0.2,R$10.98,0.7%
+906,WLMM3,WLM Industria e Comercio,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$1.01B,8.6x,-2.17,R$27.62,0%
+907,CVCB3T,CVC BRASIL ON NM,B3,Consumer Cyclicals,Hotels & Entertainment Services,R$1B,,,R$1.96,2.6%
+908,CVCB3,CVC BRASIL ON NM,B3,Consumer Cyclicals,Hotels & Entertainment Services,R$1B,,,R$1.96,2.6%
+909,GTWR11,Fundo Investimento Imobiliario Green Towers,B3,Real Estate,Residential & Commercial REITs,R$987.60M,,,R$82.19,-0.1%
+910,POSI3,POSITIVO INF ON,B3,Technology,"Computers, Phones & Household Electronics",R$986.29M,3.2x,0.46,R$7.03,-2.1%
+911,KORE11,Kinea Oportunidades RE FI Imobiliario,B3,,,R$983.39M,,,R$102.29,0.1%
+912,WIZC3,Wiz ON,B3,Financials,Insurance,R$965.84M,6.1x,,R$6.03,0.5%
+913,URPR11,Urca Prime,B3,Real Estate,Residential & Commercial REITs,R$953.73M,,,R$81.70,0.5%
+914,APER3,Alper Consultoria e Corretora de Seguros,B3,Financials,Insurance,R$944.30M,-37.7x,,R$46.31,-0%
+915,ZAMP3,Zamp ON,B3,Consumer Cyclicals,Hotels & Entertainment Services,R$943.09M,-9.7x,0.1,R$3.41,3%
+916,VITT3,Vittia Fertilizantes e Biologicos,B3,Basic Materials,Chemicals,R$923.77M,11.5x,-0.27,R$6.09,1.7%
+917,DEXP4,Dexxos Participacoes Pref,B3,Basic Materials,Chemicals,R$903.70M,5.1x,,R$9.32,1.4%
+918,DEXP3,Dexxos Participacoes,B3,Basic Materials,Chemicals,R$903.70M,5.1x,,R$9.62,-0.3%
+919,CRPG3,Tronox Pigmentos do Brasil,B3,Basic Materials,Chemicals,R$894.01M,213.3x,-2.3,R$33.80,0%
+920,CRPG5,Tronox Pigmentos do Brasil Prf A,B3,Basic Materials,Chemicals,R$891.68M,-7.7x,-2.3,R$28.86,0.2%
+921,CRPG6,Tronox Pigmentos do Brasil Prf s,B3,Basic Materials,Chemicals,R$891.68M,-7.7x,-2.3,R$29.64,0.2%
+922,CEED4,CEEED,B3,Utilities,Electrical Utilities & IPPs,R$889.28M,-1.9x,0.02,R$25,0%
+923,CEED3,CEEE-D ON,B3,Utilities,Electrical Utilities & IPPs,R$887.31M,-1.9x,0.02,R$13,0%
+924,TRIS3,TRISUL ON,B3,Consumer Cyclicals,Homebuilding & Construction Supplies,R$868.68M,6.8x,0.14,R$4.75,0.9%
+925,PEAB3,Alianca Bahia,B3,Consumer Non-Cyclicals,Consumer Goods Conglomerates,R$864.81M,44.5x,-5.72,R$43,0%
+926,PEAB4,Alianca da Bahia Pref,B3,Consumer Non-Cyclicals,Consumer Goods Conglomerates,R$864.81M,44.5x,,R$48.50,0%
+927,ALPK3,Allpark,B3,Industrials,Transport Infrastructure,R$850.15M,-23x,-0.31,R$3.86,-2%
+928,PQAG11,Parque Anhanguera,B3,Real Estate,Residential & Commercial REITs,R$836.44M,,,R$59.78,0%
+929,LJQQ3,Lojas Quero,B3,Consumer Cyclicals,Specialty Retailers,R$832.96M,18.9x,0.02,R$4.12,-3.5%
+930,AVLL3,Alphaville,B3,Industrials,Construction & Engineering,R$820.39M,-0.3x,-0.04,R$4.25,1.2%
+931,DMFN3,Finansinos SA Credito,B3,Financials,Banking Services,R$772.39M,13.1x,-9.81,R$12.50,-10.7%
+932,CSUD3,CSU Digital,B3,Financials,Banking Services,R$772.31M,8.1x,,R$18.74,-0.6%
+933,RVBI11,Fii Vbi Reit,B3,Real Estate,Residential & Commercial REITs,R$758.58M,,,R$74.30,0.7%
+934,XPCI11,Xp Credito,B3,Real Estate,Residential & Commercial REITs,R$752.25M,,,R$86.49,0.1%
+935,RPAD6,Alfa Holdings Pref B,B3,Financials,Banking Services,R$748.59M,46x,-0.61,R$8.73,0%
+936,RPAD3,Alfa Holdings,B3,Financials,Banking Services,R$748.59M,46x,-0.61,R$8.84,0%
+937,RPAD5,Alfa Holdings Pref A,B3,Financials,Banking Services,R$748.59M,46x,-0.61,R$8.56,0%
+938,SEER3T,Ser Educa ON,B3,Academic & Educational Services,Miscellaneous Educational Service Providers,R$746.91M,-44.3x,-0.42,R$5.82,5.6%
+939,SEER3,Ser Educa ON,B3,Academic & Educational Services,Miscellaneous Educational Service Providers,R$746.91M,-44.3x,-0.42,R$5.82,5.6%
+940,TRBL11,FII Tellus Rio Bravo Renda Logistica Fii,B3,Real Estate,Residential & Commercial REITs,R$742.41M,14.9x,,R$95.89,-0.6%
+941,MELK3,Melnick Even,B3,Consumer Cyclicals,Homebuilding & Construction Supplies,R$729.79M,7.2x,0.17,R$3.46,-3.9%
+942,VVEO3,CM Hospitalar,B3,Healthcare,Pharmaceuticals,R$726.17M,3.7x,0.05,R$2.18,-4.4%
+943,HABT11,FII Habitat II,B3,Real Estate,Residential & Commercial REITs,R$715.08M,,,R$88.39,0.4%
+944,PFRM3,PROFARMA ON,B3,Consumer Non-Cyclicals,Food & Drug Retailing,R$714.82M,7.9x,0.04,R$5.91,2.4%
+945,ALLD3,Allied Tecnologia,B3,Technology,"Computers, Phones & Household Electronics",R$709.38M,5.2x,0.03,R$7.50,-0.8%
+946,RBRP11,RBR Properties,B3,Financials,Collective Investments,R$691.29M,,,R$56.35,-0.7%
+947,PTBL3,Portobello PBG,B3,Consumer Cyclicals,Homebuilding & Construction Supplies,R$675.33M,-10.6x,0.07,R$4.76,1.7%
+948,BPML11,FI Imobiliario BTG Pactual Shoppings,B3,Real Estate,Residential & Commercial REITs,R$648.70M,,,R$86.11,-1.2%
+949,PATI3,Panatlantica,B3,Basic Materials,Metals & Mining,R$646.41M,27.5x,-0.36,R$26.90,12.1%
+950,PATI4,Panatlantica,B3,Basic Materials,Metals & Mining,R$646.41M,27.5x,-0.36,R$27.01,0%
+951,DOHL3,Dohler,B3,Consumer Cyclicals,Textiles & Apparel,R$642.29M,-23.6x,0.01,R$10.17,0%
+952,DOHL4,Dohler Pref,B3,Consumer Cyclicals,Textiles & Apparel,R$642.08M,-24x,0.01,R$4.19,0%
+953,HCTR11,Hectare Ce Fdo Inv Imob,B3,Real Estate,Residential & Commercial REITs,R$638.68M,,,R$28.90,-0.1%
+954,KFOF11,Fundo de FI Imobiliario Kinea FII,B3,Real Estate,Residential & Commercial REITs,R$629M,,,R$89.89,0.2%
+955,GSFI11,General Shopping e Outlets do Brasil Fundo de Inve,B3,Financials,Collective Investments,R$603.09M,,,R$8.01,-0.1%
+956,VIGT11,Vinci Energia,B3,Financials,Collective Investments,R$561.16M,,,R$65.90,1.9%
+957,CASH3,Meliuz,B3,Technology,Software & IT Services,R$557.15M,83.3x,,R$6.32,-1.3%
+958,LIPR3,Eletrobras Eletropar,B3,Utilities,Electrical Utilities & IPPs,R$555.07M,32.7x,-0.9,R$47.18,0%
+959,XPIN11,FII XP Industrial,B3,Real Estate,Residential & Commercial REITs,R$551.08M,,,R$77.28,0.3%
+960,GPIV33,GP Invest DRC A,B3,Financials,Investment Banking & Investment Services,R$549.24M,2.3x,0.04,R$3.82,1.6%
+961,BROF11,BRPR Corporate Offices FII,B3,,,R$546.99M,,,R$47.90,1.7%
+962,BRZP11,Brz Infra Portos,B3,Financials,Collective Investments,R$545.18M,,,R$108,-0.2%
+963,SHPH11,FII Shopping Patio Higienopolis,B3,Real Estate,Residential & Commercial REITs,R$540.75M,,,R$888,0%
+964,AERI3,Aeris,B3,Energy,Renewable Energy,R$539.48M,-3.9x,-0.12,R$10.29,16.8%
+965,HBRE3,HBR Realty Empreendimentos Imobiliarios,B3,Real Estate,Real Estate Operations,R$535.09M,5x,0.1,R$5.20,0%
+966,PRNR3,Priner Servicos Industriais SA,B3,Industrials,Professional & Commercial Services,R$535.01M,"1,172.7x",-11.7,R$12,0.8%
+967,MTSA4,METISA Pref,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$532.30M,5.3x,-0.3,R$42.95,-3.2%
+968,DEVA11,Devant Recebiveis Imobiliarios FII,B3,Real Estate,Residential & Commercial REITs,R$531.60M,,,R$37.81,-0.1%
+969,HGPO11,Patria Prime Offices FII Responsabilidade,B3,Real Estate,Residential & Commercial REITs,R$529.41M,,,R$302,-0.1%
+970,CAMB3,Cambuci SA,B3,Consumer Cyclicals,Leisure Products,R$528.43M,7x,-11.43,R$12.58,2.7%
+971,RBRL11,Rbr Log,B3,Real Estate,Residential & Commercial REITs,R$528.34M,,,R$79.19,0.2%
+972,MFII11,Fundo Investimento Imobil Merito,B3,Real Estate,Residential & Commercial REITs,R$525.93M,,,R$101,0.1%
+973,MTSA3,Metisa Metalg Tim,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$523.23M,5.5x,-0.3,R$78.55,0%
+974,BOBR4,Bombril,B3,Consumer Non-Cyclicals,Personal & Household Products & Services,R$515.81M,5.8x,0.12,R$2.18,10.1%
+975,NVHO11,Novo Horizonte,B3,Real Estate,Residential & Commercial REITs,R$515.78M,,,R$13.14,5.7%
+976,SNAG11,Suno Agro Fiagro Im Unica,B3,Real Estate,Residential & Commercial REITs,R$510M,,,R$10.28,0.8%
+977,BHIA3,Casas Bahia ON,B3,Consumer Cyclicals,Diversified Retail,R$505.53M,-0.2x,0,R$5.34,4.7%
+978,CACR11,Cartesia Recebiveis Imobiliarios FII,B3,Real Estate,Residential & Commercial REITs,R$505.20M,,,R$104.80,0.3%
+979,CGRA3,GRAZZIOTIN ON,B3,Consumer Cyclicals,Diversified Retail,R$502.86M,6.8x,-0.3,R$25.45,2.6%
+980,CGRA4,GRAZZIOTIN PN,B3,Consumer Cyclicals,Diversified Retail,R$502.86M,6.8x,-0.3,R$25.46,1%
+981,VINO11,Vinci Offices FII,B3,Real Estate,Residential & Commercial REITs,R$500.27M,,,R$6.03,-0.2%
+982,RCRB11,FII Rio Bravo Renda Corporativa,B3,Real Estate,Residential & Commercial REITs,R$496.07M,8.7x,,R$134.04,1%
+983,GOLL4,GOL PN N2,B3,Industrials,Passenger Transportation Services,R$483.43M,0.3x,0,R$1.08,-6.1%
+984,BGIP4,Banese Pref,B3,Financials,Banking Services,R$480.43M,9.7x,-0.2,R$26.43,10.1%
+985,BGIP3,Banco do Estado de Sergipe,B3,Financials,Banking Services,R$480.43M,9.7x,-0.2,R$27,10.2%
+986,TRXB11,Trx Real Estate II,B3,Real Estate,Residential & Commercial REITs,R$479.07M,,,R$149.44,0%
+987,MEAL3,International Meal Company,B3,Consumer Cyclicals,Hotels & Entertainment Services,R$470.98M,-8.6x,0.05,R$1.60,-3%
+988,SJAU11,SJ AU Logistica FII,B3,,,R$468.64M,,,R$59.50,0.7%
+989,BTAL11,FII Btg Pactual Agro Logistica,B3,Real Estate,Residential & Commercial REITs,R$466.83M,,,R$79.17,1.5%
+990,KRSA3,Kora Saude Participacoes,B3,Healthcare,Healthcare Providers & Services,R$461.09M,-4.3x,-0.24,R$0.60,0%
+991,AFLT3,Afluente Transmissao de Energia,B3,Utilities,Electrical Utilities & IPPs,R$456.73M,16.3x,2.03,R$7.24,0%
+992,QUAL3,QUALICORP ON,B3,Financials,Insurance,R$452.38M,-5.5x,0,R$1.61,1.9%
+993,ENDD11,Endurance Debt Fundo de Investimento em Participac,B3,Financials,Collective Investments,R$448.54M,,,R$109.06,-0.3%
+994,HREC11,Hedge Recebiveis Fundo de Investimento Imobiliario,B3,Real Estate,Residential & Commercial REITs,R$442.97M,,,R$8.56,-0.4%
+995,AFHI11,AF Invest Cri FII Recebiveis Imobiliarios,B3,Real Estate,Residential & Commercial REITs,R$442.76M,,,R$96.51,0.3%
+996,BCRI11,Banestes Recebiveis FII,B3,Real Estate,Residential & Commercial REITs,R$422.84M,,,R$67.50,0.2%
+997,PPEI11,Prisma Proton Energia Fundo de Investimento em Par,B3,Financials,Collective Investments,R$417.94M,,,R$95.89,1.2%
+998,TRNT11,FII Torre Norte,B3,Real Estate,Residential & Commercial REITs,R$413.23M,17.6x,,R$105,-7.1%
+999,MTRE3,Mitre Realty On,B3,Consumer Cyclicals,Homebuilding & Construction Supplies,R$412.52M,15.3x,-0.21,R$3.95,1.3%
+1000,CLIN11,Clave Indices de Precos FII,B3,,,R$412.38M,,,R$94.82,-0.1%
+1001,BAUH4,Excelsior Alimentos Pref,B3,Consumer Non-Cyclicals,Food & Tobacco,R$411.98M,21.2x,0.01,R$78.89,0%
+1002,FCFL11,Campus Faria Lima FII,B3,Real Estate,Residential & Commercial REITs,R$404.69M,,,R$116.49,-0%
+1003,FPNG11,Pedra Negra Renda Imobiliária,B3,Financials,Investment Banking & Investment Services,R$400.27M,,,R$200,0%
+1004,FZDB11,051 Agro Fazendas III Fundo de Investimento nas Ca,B3,,,R$396M,,,R$110,0%
+1005,BCIA11,Bradesco Carteira Ativa FII  ,B3,Real Estate,Residential & Commercial REITs,R$384.33M,,,R$103.34,-0.1%
+1006,RSUL4,Metalurgica Riosulense,B3,Consumer Cyclicals,Automobiles & Auto Parts,R$384.30M,7x,-0.32,R$63.76,0.7%
+1007,TEPP11,Tellus Properties FII,B3,Real Estate,Residential & Commercial REITs,R$375.97M,,,R$88.68,-0.4%
+1008,ICRI11,Itau Credito Imobiliario IPCA FII,B3,,,R$375.28M,,,R$97.12,-0.2%
+1009,DMVF3,D1000 On,B3,Consumer Non-Cyclicals,Food & Drug Retailing,R$371.93M,14x,0.38,R$7.43,1.1%
+1010,SARE11,Fii Sant Ren,B3,Real Estate,Residential & Commercial REITs,R$370.57M,,,R$40.37,0.6%
+1011,ENJU3,Enjoei Com Br,B3,Technology,Software & IT Services,R$369.03M,-6.1x,0.36,R$1.80,0%
+1012,ESPA3,MPM,B3,Consumer Non-Cyclicals,Personal & Household Products & Services,R$368.65M,-29.4x,,R$1,-2%
+1013,ETER3,ETERNIT ON,B3,Basic Materials,Construction Materials,R$367.43M,3.2x,0.07,R$6.01,-0.8%
+1014,HBTS5,Habitasul Pref,B3,Real Estate,Real Estate Operations,R$367.17M,1.3x,0,R$40.20,0%
+1015,RZAT11,Riza Arctium Real Estate FII,B3,Real Estate,Residential & Commercial REITs,R$366.74M,,,R$97.44,-0.4%
+1016,BARI11,Barigui Rendimento Imobiliários I,B3,Real Estate,Residential & Commercial REITs,R$366.10M,,,R$79.06,0.1%
+1017,TECN3,TECHNOS ON,B3,Consumer Cyclicals,Specialty Retailers,R$363M,6.4x,0.25,R$5.89,0.2%
+1018,KISU11,Kilima FI em Cotas de Fundos Imob Suno 30,B3,Real Estate,Residential & Commercial REITs,R$357.99M,,,R$8.15,0.6%
+1019,HLOG11,Hedge Logistica,B3,Real Estate,Residential & Commercial REITs,R$354.20M,,,R$83.33,-0%
+1020,VCRA11,Vectis Datagro Credito Agronegocio FIAGRO Imob,B3,Real Estate,Residential & Commercial REITs,R$354.19M,,,R$77.85,1%
+1021,FIIB11,Fundo de Investimento Imobilario Industrial do Bra,B3,Financials,Collective Investments,R$347.13M,,,R$507.20,1.1%
+1022,KCRE11,Top 7556 Fundo De Investimento Multimercado Credit,B3,Real Estate,Residential & Commercial REITs,R$342.36M,,,R$9.61,1%
+1023,PTNT4,PETTENATI PN,B3,Consumer Cyclicals,Textiles & Apparel,R$337.61M,9.6x,-0.35,R$5.99,-0.7%
+1024,PTNT3,Pettenati,B3,Consumer Cyclicals,Textiles & Apparel,R$337.61M,9.6x,-0.35,R$9.19,1.9%
+1025,ABCP11,FII ABC IMOB,B3,Financials,Investment Banking & Investment Services,R$334.91M,,,R$71.01,2%
+1026,CPTR11,Capitania Agro Strategies   Fiagro Imobiliario,B3,,,R$333.94M,,,R$8.12,0.6%
+1027,PORD11,Polo FII Recebiveis Imobiliarios II,B3,Real Estate,Residential & Commercial REITs,R$333.69M,10.3x,,R$8.94,0%
+1028,LASC11,Legatus Shoppings,B3,Real Estate,Residential & Commercial REITs,R$332.22M,,,R$112.99,0%
+1029,BODB11,Fundo De Investimento Em Quotas De Fundos De Inves,B3,Real Estate,Residential & Commercial REITs,R$331.91M,,,R$9.25,-0.2%
+1030,PNDL11,Panorama Desenvolvimento Logistico FII,B3,Real Estate,Residential & Commercial REITs,R$324.84M,,,"R$1,190",0%
+1031,XPSF11,Xp Selection,B3,Real Estate,Residential & Commercial REITs,R$320.87M,,,R$7.46,0.7%
+1032,RBED11,FII Rio Bravo Renda Educacional FII,B3,Financials,Collective Investments,R$320.73M,9.4x,,R$136.22,0.2%
+1033,EALT4,Electro Aco Altona Pref,B3,Basic Materials,Metals & Mining,R$316.79M,5x,0.11,R$14.29,1.1%
+1034,EALT3,Electro Aco Altona,B3,Basic Materials,Metals & Mining,R$316.79M,5x,0.11,R$14.48,3.4%
+1035,BPFF11,FII ABSOLUTO,B3,Real Estate,Residential & Commercial REITs,R$307.68M,5.7x,,R$68.48,0.2%
+1036,LGCP11,Logcp Inter Fundo,B3,Real Estate,Residential & Commercial REITs,R$301.33M,,,R$85.10,-0.3%
+1037,PATL11,Patria Logistica,B3,Real Estate,Residential & Commercial REITs,R$300.64M,,,R$60.20,-0.1%
+1038,AHEB5,Sao Paulo Turismo,B3,Consumer Cyclicals,Hotels & Entertainment Services,R$297.41M,2x,0.04,R$19.20,0%
+1039,AHEB3,Sao Paulo Turismo,B3,Consumer Cyclicals,Hotels & Entertainment Services,R$297.41M,2x,0.05,R$35,0%
+1040,AHEB6,Sao Paulo Turismo Prf,B3,Consumer Cyclicals,Hotels & Entertainment Services,R$297.08M,2x,0.05,R$20,0%
+1041,MBLY3,Mobly,B3,Consumer Cyclicals,Specialty Retailers,R$293.91M,-2.7x,-1.31,R$2.66,-3.6%
+1042,RECT11,FII UBS Office,B3,Real Estate,Residential & Commercial REITs,R$292.19M,,,R$34.42,0.6%
+1043,BBFO11,BB Fundo de Fundos FI Imobiliario,B3,Real Estate,Residential & Commercial REITs,R$291.88M,,,R$72.98,0.1%
+1044,LUXM4,Trevisa Invest,B3,Industrials,Freight & Logistics Services,R$290.98M,15.4x,0.21,R$14,0%
+1045,HBOR3,HELBOR ON,B3,Real Estate,Real Estate Operations,R$287.95M,5.6x,0.63,R$2.17,0%
+1046,CXCO11,Fundo De Investimento Imobiliario Caixa Imoveis,B3,Real Estate,Residential & Commercial REITs,R$283.55M,,,R$69.66,-3.6%
+1047,NGRD3,Neogrid ON,B3,Technology,Software & IT Services,R$276.51M,-44.7x,,R$1.21,0%
+1048,HTMX11,FII Hotel Maxinvest,B3,Financials,Investment Banking & Investment Services,R$271.19M,,,R$180.24,0.7%
+1049,RBRX11,RBR Plus Multiestrategia RE FII,B3,,,R$270.82M,,,R$9.09,-0.1%
+1050,MSPA3,Companhia Melhoramentos,B3,Consumer Non-Cyclicals,Personal & Household Products & Services,R$270.54M,30.3x,0.11,R$43,0%
+1051,MSPA4,Melhor Pref ,B3,Consumer Non-Cyclicals,Personal & Household Products & Services,R$270.54M,,0.11,R$37,0%
+1052,OIBR3,OI ON N1,B3,Technology,Telecommunications Services,R$268.38M,-0.1x,-0,R$4.72,9.8%
+1053,OIBR4,OI PN,B3,Technology,Telecommunications Services,R$268.38M,-0.1x,-0,R$13.20,8.7%
+1054,HPDP11,Hedge Shopping,B3,Real Estate,Residential & Commercial REITs,R$264.26M,,,R$89.56,0%
+1055,AZEV4,Azevedo & Travassos Pref,B3,Industrials,Construction & Engineering,R$262.67M,-5.4x,-0.07,R$1.37,-2.1%
+1056,AZEV3,Azevedo Travassos,B3,Industrials,Construction & Engineering,R$262.67M,-5.4x,-0.07,R$1.39,-1.4%
+1057,CEDO3,Cedro Cachoeira,B3,Consumer Cyclicals,Textiles & Apparel,R$261M,3.3x,0,R$26.10,0%
+1058,CEDO4,CEDRO PN,B3,Consumer Cyclicals,Textiles & Apparel,R$261M,3.3x,0,R$25.60,7.6%
+1059,OUJP11,Ourinvest JPP FII,B3,Real Estate,Residential & Commercial REITs,R$259.54M,,,R$79.97,-0.3%
+1060,GFSA3,GAFISA ON,B3,Consumer Cyclicals,Homebuilding & Construction Supplies,R$257.50M,-1.4x,,R$2.70,-6.3%
+1061,SNFF11,Suno Fundo de Fundos de Investimento Imobiliario,B3,Real Estate,Residential & Commercial REITs,R$251.98M,,,R$90,1.1%
+1062,LPSB3,LOPES BRASIL ON,B3,Real Estate,Real Estate Operations,R$248.49M,11.5x,0.24,R$1.79,0.6%
+1063,AGXY3,Agrogalaxy Participacoes,B3,Consumer Cyclicals,Specialty Retailers,R$247.80M,-0.4x,0,R$1.37,-7.4%
+1064,TKNO4,Tekno Pref,B3,Basic Materials,Chemicals,R$247.62M,5x,0.41,R$84,0%
+1065,LVTC3,Livetech da Bahia Industria e Comercio,B3,Technology,Integrated Hardware & Software,R$244.33M,62x,-0.9,R$3.99,3.6%
+1066,EVBI11,Vbi Consumo Essencial FII,B3,,,R$241.83M,,,R$10.01,-0.1%
+1067,G2DI33,G2D Investments,B3,Financials,Investment Banking & Investment Services,R$241.62M,-2.2x,-0.03,R$2.18,3.8%
+1068,HGFF11,Patria Imobiliario FOF FII Responsabilidade,B3,Real Estate,Residential & Commercial REITs,R$240.11M,,,R$85.40,1.9%
+1069,NINJ3,Getninjas,B3,Technology,Software & IT Services,R$240.04M,26.1x,0.17,R$4.67,-1.1%
+1070,NSLU11,FII Nossa Senhora De Lourdes,B3,Real Estate,Residential & Commercial REITs,R$237.40M,,,R$182.95,-0%
+1071,QAGR11,Quasar Agro,B3,Real Estate,Residential & Commercial REITs,R$234.86M,,,R$46.59,-0%
+1072,NEWL11,Newport Logistica FII,B3,Real Estate,Residential & Commercial REITs,R$232.79M,,,R$115.03,0.5%
+1073,FHER3,FER HERINGER ON,B3,Basic Materials,Chemicals,R$228.89M,-0.4x,0.01,R$4.25,-0.5%
+1074,MERC3,Creditaqui Financeira,B3,Financials,Banking Services,R$228.45M,,,R$15.28,0%
+1075,MERC4,Creditaqui Financeira SA   Credito Financiamento e,B3,Financials,Banking Services,R$228.45M,,,R$9.31,0%
+1076,JOPA3,Josapar Joaquim Oliveira,B3,Consumer Non-Cyclicals,Food & Tobacco,R$224.07M,21.3x,-0.33,R$21,0%
+1077,JOPA4,Josapar Joaquim Oliveira Pref,B3,Consumer Non-Cyclicals,Food & Tobacco,R$224.07M,21.3x,-0.33,R$34.98,0%
+1078,RNEW3,Renova Energia,B3,Utilities,Electrical Utilities & IPPs,R$220.38M,-5.2x,0.08,R$0.88,0%
+1079,RNEW11,RENOVA UNT,B3,Utilities,Electrical Utilities & IPPs,R$220.38M,-5.2x,0.08,R$2.65,-1.5%
+1080,RNEW4,Renova Energia Pref,B3,Utilities,Electrical Utilities & IPPs,R$220.38M,-5.2x,0.08,R$0.87,-2.3%
+1081,XPID11,XP FICFII em Infraestrutura Renda Fixa,B3,Financials,Collective Investments,R$218.26M,,,R$68.25,-1%
+1082,RBFF11,Rio Bravo IFIX,B3,Real Estate,Residential & Commercial REITs,R$216.48M,,,R$61.09,-0.5%
+1083,FATN11,BRC Renda Corporativa FII,B3,Financials,Collective Investments,R$216.27M,,,R$91.84,0.2%
+1084,HBCR11,FII Hbc Renda Urbana,B3,,,R$212.40M,,,R$135,0%
+1085,RINV11,Real Investor FII,B3,,,R$211.80M,,,R$109.20,-0.1%
+1086,VTLT11,FII Votorantim Logistica,B3,Real Estate,Residential & Commercial REITs,R$200.93M,,,R$95.40,0.4%
+1087,GAME11,FII Guardian Multiestrategia Imobiliaria I,B3,Real Estate,Residential & Commercial REITs,R$197.23M,,,R$9.12,0.3%
+1088,FLMA11,BR Capital Distribuidora de Titulos e Valores Mobi,B3,Financials,Investment Banking & Investment Services,R$195.24M,,,R$141.43,-0.5%
+1089,PQDP11,FII D PEDRO,B3,Real Estate,Residential & Commercial REITs,R$191.08M,,,"R$1,900.13",-0.9%
+1090,BIDB11,Inter Infra FIC Infra RF CP,B3,Financials,Collective Investments,R$190.84M,,,R$90.77,-0.1%
+1091,AAZQ11,Sextans FII,B3,,,R$185.81M,,,R$7.75,0.3%
+1092,TPIS3,TRIUNFO PART ON,B3,Industrials,Transport Infrastructure,R$185.22M,1.3x,0.01,R$4.23,-1.6%
+1093,IFCM3,Infracommerce CXaaS,B3,Technology,Software & IT Services,R$184.87M,-0.4x,-0.06,R$0.23,-20.7%
+1094,FVPQ11,FII VIA PARQUE SHOPPING,B3,Real Estate,Residential & Commercial REITs,R$184.78M,,,R$71.50,0%
+1095,BAHI3,Bahema,B3,Academic & Educational Services,Miscellaneous Educational Service Providers,R$184.47M,-23.5x,-0.24,R$7,7.7%
+1096,BBRC11,FII BB CORP,B3,Real Estate,Residential & Commercial REITs,R$183.63M,,,R$115.49,0.4%
+1097,RPMG3,Refinaria de Petroleos,B3,Energy,Oil & Gas,R$183.42M,-0.2x,0.04,R$2.79,5.7%
+1098,RBHG11,Rio Bravo Crédito Imobiliário,B3,Real Estate,Residential & Commercial REITs,R$182.76M,,,R$84.20,-0.1%
+1099,CPFF11,Capitania,B3,Real Estate,Residential & Commercial REITs,R$181.37M,,,R$71.23,0.3%
+1100,PLCR11,Plural Recebiveis,B3,Real Estate,Residential & Commercial REITs,R$181.07M,,,R$86.69,1%
+1101,KIVO11,FII Kilima Volcano Recebíveis Imobiliários,B3,Real Estate,Residential & Commercial REITs,R$178.26M,,,R$81.09,1.1%
+1102,VIUR11,Vinci Imoveis Urbanos FII,B3,Real Estate,Residential & Commercial REITs,R$175.15M,,,R$6.48,-0.3%
+1103,JGPX11,FI Cadeias Prod Agroindustriais JGP Credit Fiagro,B3,Real Estate,Residential & Commercial REITs,R$174.53M,,,R$82.35,1%
+1104,AGRX11,Fundo De Investimento Nas Cadeias Produtivas Agroi,B3,,,R$174.20M,,,R$9.79,0.6%
+1105,RMAI11,Reag Renda  Imobiliario FII,B3,Real Estate,Residential & Commercial REITs,R$173.73M,"-52,332.4x",,R$71.09,0%
+1106,FPAB11,FII Projeto Agua Branca,B3,Real Estate,Residential & Commercial REITs,R$172.24M,-8.5x,,R$229.65,1.3%
+1107,RBHY11,Rio Bravo Credito Imobiliario High Yield FII Unica,B3,Real Estate,Residential & Commercial REITs,R$169.54M,,,R$89.51,-0%
+1108,CXCI11,FII Caixa Carteira Imobiliaria   Unica,B3,Real Estate,Residential & Commercial REITs,R$168.67M,,,R$82.80,1%
+1109,KEVE11,Even II Kinea Fundo de Investimento Imobiliario,B3,Real Estate,Residential & Commercial REITs,R$166.57M,,,"R$1,137",0%
+1110,BRFT11,Bradesco Farmtech Fundo de Investimento nas Cadeia,B3,,,R$165.95M,,,R$83.01,-3.4%
+1111,BTRA11,FI Imobiliario BTG Pactual Terras Agricolas,B3,Real Estate,Residential & Commercial REITs,R$162.47M,,,R$48.77,1%
+1112,CXAG11,FII Caixa Agencias,B3,Real Estate,Residential & Commercial REITs,R$160.14M,,,R$76.58,-0%
+1113,CYCR11,Cyrela Credito   FII   Classe Unica,B3,Real Estate,Residential & Commercial REITs,R$159.57M,,,R$9.79,0.1%
+1114,FIGS11,General Shopping Ativo e Renda Fundo De Investimen,B3,Real Estate,Residential & Commercial REITs,R$155.84M,7.1x,,R$54.63,-0.3%
+1115,VSHO11,FII Votorantim Shopping,B3,Real Estate,Residential & Commercial REITs,R$153.21M,,,R$73,0%
+1116,TCSA3,TECNISA ON,B3,Real Estate,Real Estate Operations,R$150.18M,-1.3x,,R$2.03,-1.5%
+1117,UCAS3,UNICASA ON,B3,Consumer Cyclicals,Household Goods,R$149.36M,9.1x,-0.23,R$2.29,0.4%
+1118,PDTC3,Padtec ON,B3,Technology,Communications & Networking,R$147.81M,-35.6x,0.29,R$1.86,2.8%
+1119,MNDL3,Mundial,B3,Consumer Non-Cyclicals,Food & Tobacco,R$147.78M,-21.7x,0.21,R$14.90,6.4%
+1120,TRAD3,TC ON,B3,Academic & Educational Services,Professional & Business Education,R$145.59M,-0.7x,0,R$3.74,1.1%
+1121,BMKS3,Bicicletas Monark,B3,Consumer Cyclicals,Leisure Products,R$142.34M,9.5x,-0.22,R$313,0%
+1122,NCHB11,FII NCH Brasil Recebiveis Imobiliarios,B3,Real Estate,Residential & Commercial REITs,R$141.96M,,,R$9.31,0.2%
+1123,HUSI11,Husi Fundo,B3,Real Estate,Residential & Commercial REITs,R$140.34M,,,"R$1,217.19",0%
+1124,SADI11,Santander Papeis Imobiliários CDI,B3,Real Estate,Residential & Commercial REITs,R$140.19M,,,R$90.26,-0.3%
+1125,SAPI11,Santander Papeis Imobiliarios,B3,Real Estate,Residential & Commercial REITs,R$139.35M,,,R$91.25,1.1%
+1126,ARRI11,Reit Recebiveis,B3,Real Estate,Residential & Commercial REITs,R$138.62M,,,R$9.04,0%
+1127,RDNI3,RNI ON,B3,Consumer Cyclicals,Homebuilding & Construction Supplies,R$137.16M,-0.5x,0,R$3.25,3.5%
+1128,FLRP11,Floripa Shopping FII,B3,Real Estate,Residential & Commercial REITs,R$136.99M,14.9x,,"R$2,099.99",1.9%
+1129,AMER3,Americanas,B3,Consumer Cyclicals,Diversified Retail,R$135.38M,-0x,-0.01,R$0.14,-57.6%
+1130,XPPR11,Xp Prop,B3,Real Estate,Residential & Commercial REITs,R$135.28M,,,R$18.46,-0.2%
+1131,VCRR11,Vectis Renda Residencial FII  1,B3,Real Estate,Residential & Commercial REITs,R$129.98M,,,R$66,1.5%
+1132,SOND3,Sondotecnica Engenharia de Solos,B3,Industrials,Professional & Commercial Services,R$129.84M,28.5x,-0.32,R$39.98,0%
+1133,SOND6,Sondotecnica Pref B,B3,Industrials,Professional & Commercial Services,R$129.84M,28.5x,-0.36,R$55,0%
+1134,SOND5,Sondotecnica Pref A,B3,Industrials,Professional & Commercial Services,R$129.84M,28.5x,-0.36,R$60,0%
+1135,RBIR11,RB Cap Desenv Residencial IV FII,B3,Real Estate,Residential & Commercial REITs,R$128.33M,,,R$83.95,0%
+1136,PMAM3,PARANAPANEMA ON,B3,Basic Materials,Metals & Mining,R$127.34M,-0.1x,-0,R$2.05,-0.5%
+1137,BTML11,Barra Malls Fundo De Investimento Imobiliario,B3,,,R$126.32M,,,R$108.18,0%
+1138,SEQL3,Sequoia,B3,Industrials,Freight & Logistics Services,R$125.43M,-0.1x,0,R$5.50,-9.8%
+1139,IRIM11,Iridium FII,B3,Real Estate,Residential & Commercial REITs,R$125.39M,,,R$73.01,0.2%
+1140,CXRI11,FII Caixa Rio Bravo,B3,Financials,Investment Banking & Investment Services,R$123.95M,,,R$78.66,1%
+1141,RNGO11,FII RIONEGRO,B3,Real Estate,Residential & Commercial REITs,R$123.10M,-4.7x,,R$46,-0.6%
+1142,BPRP11,FII BRLPROP,B3,Real Estate,Residential & Commercial REITs,R$123M,,,R$106.94,-0%
+1143,BRLA11,FII BRLPROP,B3,Real Estate,Residential & Commercial REITs,R$123M,,,R$106.94,-0%
+1144,PATC11,PATRIA EDIFICIOS CORPORATIVOS FII,B3,Real Estate,Residential & Commercial REITs,R$121.78M,,,R$34.80,-0.6%
+1145,ALZM11,FII Alianza Multiestratégia,B3,Real Estate,Residential & Commercial REITs,R$119.17M,,,R$7.74,-0.3%
+1146,CTNM4,COTEMINAS PN,B3,Consumer Cyclicals,Textiles & Apparel,R$113.92M,-0.1x,,R$0.88,0%
+1147,CTNM3,COTEMINAS,B3,Consumer Cyclicals,Textiles & Apparel,R$113.92M,-0.1x,,R$7.13,0%
+1148,MNPR3,Minupar Participacoes,B3,Consumer Non-Cyclicals,Food & Tobacco,R$113.67M,276x,-0.18,R$16.20,-1.2%
+1149,HOFC11,Hedge Office Income FI Imobiliario,B3,Real Estate,Residential & Commercial REITs,R$113.37M,,,R$29.50,-1.7%
+1150,BALM4,Baumer Pref,B3,Healthcare,Healthcare Equipment & Supplies,R$112.46M,9.5x,-0.47,R$10.80,3%
+1151,BALM3,Baumer,B3,Healthcare,Healthcare Equipment & Supplies,R$112.46M,9.5x,-0.47,R$12.50,0%
+1152,CTKA4,Karsten Pref,B3,Consumer Cyclicals,Textiles & Apparel,R$109M,3x,0,R$19,22.9%
+1153,CTKA3,Karsten,B3,Consumer Cyclicals,Textiles & Apparel,R$109M,3x,0,R$20,0%
+1154,JFLL11,Jfl Living FI Imobiliario Classe Unica,B3,Real Estate,Residential & Commercial REITs,R$105.22M,,,R$70.30,0.3%
+1155,FAED11,FII Anhanguera Educacional,B3,Real Estate,Residential & Commercial REITs,R$104.89M,,,R$151.47,0.3%
+1156,OULG11,Ourinvest Logistica,B3,Real Estate,Residential & Commercial REITs,R$103.77M,,,R$29.91,-0.3%
+1157,WEST3,Westwing Comercio Varejista,B3,Consumer Cyclicals,Specialty Retailers,R$103.15M,-2.1x,-0.34,R$0.90,-3.2%
+1158,EQIR11,EQI Recebiveis Imobiliarios FI Imobiliario,B3,Financials,Investment Banking & Investment Services,R$98.40M,,,R$9.03,0.1%
+1159,ATSA11,Hedge Atrium Shopping Santo Andre FII,B3,Real Estate,Residential & Commercial REITs,R$98.06M,,,R$56,0%
+1160,BTCI11,FII BTG CRI,B3,Real Estate,Residential & Commercial REITs,R$97.64M,,,R$9.89,0.2%
+1161,CALI3,Construtora Adolpho Lindenberg,B3,Real Estate,Real Estate Operations,R$96.75M,364x,0.78,R$26,0%
+1162,HUSC11,Hospital Unimed Sul Capixaba,B3,Real Estate,Residential & Commercial REITs,R$96.52M,,,R$113.44,0%
+1163,BMIN4,Mercantil de Investimentos Pref,B3,Financials,Banking Services,R$94.67M,12.9x,-0.58,R$16,2.9%
+1164,BMIN3,Mercantil de Investimentos,B3,Financials,Banking Services,R$94.67M,12.9x,-0.58,R$19.62,0%
+1165,FISC11,SC 401,B3,Real Estate,Residential & Commercial REITs,R$94.59M,,,R$60,0%
+1166,EURO11,FII EUROPAR,B3,Financials,Investment Banking & Investment Services,R$93.69M,,,R$246.87,-0.9%
+1167,AMAR3,LOJAS MARISA ON,B3,Consumer Cyclicals,Diversified Retail,R$89.09M,-0.2x,-0.02,R$1.29,-0.8%
+1168,EPAR3,Embpar Participacoes S/A,B3,Consumer Cyclicals,Automobiles & Auto Parts,R$86.19M,9.6x,-0.11,R$5.80,0.7%
+1169,SEQR11,Sequoia III Renda Imobiliaria Fundo de Investiment,B3,Real Estate,Residential & Commercial REITs,R$86.12M,,,R$51.70,0%
+1170,INEP4,INEPAR PN,B3,Energy,Oil & Gas Related Equipment and Services,R$85.53M,0.2x,0,R$1.92,2.1%
+1171,INEP3,INEPAR ON,B3,Energy,Oil & Gas Related Equipment and Services,R$85.53M,0.2x,0,R$1.93,0%
+1172,OUFF11,FI Imobiliario - Ourinvest Fundo de Fundos,B3,Real Estate,Residential & Commercial REITs,R$84.23M,,,R$61.10,0%
+1173,OURE11,FII Ourinvest Renda Estruturada,B3,Real Estate,Residential & Commercial REITs,R$84.23M,,,R$78.20,0%
+1174,BNFS11,FII Banrisul Novas Fronteiras,B3,Real Estate,Residential & Commercial REITs,R$84.08M,,,R$120.20,0%
+1175,SHOW3,TIME FOR FUN ON,B3,Consumer Cyclicals,Hotels & Entertainment Services,R$83.59M,"3,540.5x",-36,R$1.24,-3.9%
+1176,LUGG11,Luggo Fundo,B3,Real Estate,Residential & Commercial REITs,R$83.11M,,,R$73.21,-0.4%
+1177,HCHG11,Hectare Recebiveis High Grade FII,B3,,,R$82.92M,,,R$69.60,0.7%
+1178,DVFF11,FII Devant FundoUnica,B3,Financials,Collective Investments,R$81.80M,,,R$7.58,2%
+1179,CEOC11,FII Ceo Cyrela Commercial,B3,Real Estate,Residential & Commercial REITs,R$81.22M,,,R$44.73,0.1%
+1180,BRIM11,Fii Brio Ii,B3,Real Estate,Residential & Commercial REITs,R$78.60M,,,"R$1,008",0%
+1181,MMVE11,Maresias FII,B3,Real Estate,Residential & Commercial REITs,R$77.70M,,,R$161.87,0%
+1182,BLMO11,VBI Office Fund II   FII,B3,Real Estate,Residential & Commercial REITs,R$77.60M,,,R$78,0%
+1183,RFOF11,Fii Rb Capital I,B3,Real Estate,Residential & Commercial REITs,R$76.28M,,,R$71.03,0.4%
+1184,DTCY3,Dtcom,B3,Technology,Software & IT Services,R$75.14M,-19.6x,0.02,R$6.75,-1.6%
+1185,SNID11,Suno Infra,B3,,,R$74.92M,,,R$103.27,-0.7%
+1186,JPPA11,Jpp Allocation,B3,Real Estate,Residential & Commercial REITs,R$74.12M,,,R$82.25,0.3%
+1187,RBRS11,Rio Bravo Renda Residencial FI Imobiliario,B3,Real Estate,Residential & Commercial REITs,R$73.74M,,,R$43.49,2.3%
+1188,RBRD11,RB Capital Renda II FII,B3,Real Estate,Residential & Commercial REITs,R$73.65M,,,R$39.51,-1.2%
+1189,DOTZ3,Dotz,B3,Industrials,Professional & Commercial Services,R$73.19M,-1.9x,-0.04,R$6.85,24.3%
+1190,SPTW11,FII SP DOWNT,B3,Real Estate,Residential & Commercial REITs,R$72.84M,5.1x,,R$40.51,-0.4%
+1191,EDGA11,FII Edificio Galeria,B3,Real Estate,Residential & Commercial REITs,R$71.36M,7.4x,,R$18.70,1.6%
+1192,RSID3,ROSSI RESID ON,B3,Real Estate,Real Estate Operations,R$71.32M,0.3x,0,R$3.58,-2.7%
+1193,OIAG11,Fiagro Ourinvest Innovation,B3,Real Estate,Residential & Commercial REITs,R$71.27M,,,R$7.90,0.1%
+1194,MGEL4,MANGELS INDL PN,B3,Basic Materials,Metals & Mining,R$70.56M,3.9x,-0.04,R$12,-1.6%
+1195,ALMI11,FII Torre Almirante,B3,Real Estate,Residential & Commercial REITs,R$70.04M,,,R$630,0%
+1196,NORD3,Nordon Metalg,B3,Basic Materials,Metals & Mining,R$68.66M,-5.8x,0.25,R$9.70,-6.5%
+1197,VIVR3,VIVER ON,B3,Real Estate,Real Estate Operations,R$67.82M,-0.9x,0,R$2.49,-1.6%
+1198,ITIT11,IFI-E Inter Fundo de Investimento Imobiliario,B3,Real Estate,Residential & Commercial REITs,R$67.54M,,,R$74.98,-0%
+1199,LUPA3,LUPATECH ON,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$67.41M,1.3x,0.04,R$1.58,-3.1%
+1200,VOTS11,Votorantim Securities Master,B3,Real Estate,Residential & Commercial REITs,R$67.38M,,,R$80,-1.7%
+1201,PNPR11,Panorama Properties Fundo,B3,Real Estate,Residential & Commercial REITs,R$67.17M,,,R$75.53,0%
+1202,IBCR11,Fundo De Investimento Imobiliario De Cri Integral ,B3,Real Estate,Residential & Commercial REITs,R$66.13M,,,R$68.99,-0%
+1203,PLAS3,PLASCAR PART ON,B3,Consumer Cyclicals,Automobiles & Auto Parts,R$65.73M,-0.5x,0.06,R$5.29,-3.8%
+1204,WPLZ11,FII Shopping West Plaza,B3,Financials,Investment Banking & Investment Services,R$65.53M,,,R$59.36,6%
+1205,VIFI11,Fii Vinci If,B3,Real Estate,Residential & Commercial REITs,R$65.12M,,,R$8.06,0.1%
+1206,SNSY3,Sansuy,B3,Basic Materials,Chemicals,R$63.22M,-0.9x,-0.01,R$11.90,-5.8%
+1207,SNSY5,Sansuy,B3,Basic Materials,Chemicals,R$63.22M,-0.9x,-0.01,R$5.80,-0.9%
+1208,JFEN3,JOAO FORTES ON,B3,Real Estate,Real Estate Operations,R$61.59M,-0.1x,0,R$0.24,-4%
+1209,ITIP11,IFI-D Inter Fundo de Investimento Imobiliario,B3,Real Estate,Residential & Commercial REITs,R$59.92M,,,R$80,-0.1%
+1210,CNES11,FII Cenesp,B3,Real Estate,Residential & Commercial REITs,R$59.64M,,,R$1.50,-0.7%
+1211,NEWU11,Newport Renda Urbana,B3,Real Estate,Residential & Commercial REITs,R$59.29M,,,R$79.90,-1%
+1212,CARE11,Brazilian Graveyard and Death Care Services FII,B3,Real Estate,Residential & Commercial REITs,R$58.30M,0x,,R$1.64,1.9%
+1213,HCRI11,FII Hospital da Crianca,B3,Real Estate,Residential & Commercial REITs,R$57.40M,-38.4x,,R$286.98,1.8%
+1214,CRFF11,Caixa Rio Bravo Fundo de Fundos de Investimento Im,B3,Real Estate,Residential & Commercial REITs,R$53.54M,,,R$77.59,0%
+1215,NAVT11,Navi Imobiliario FOF,B3,Real Estate,Residential & Commercial REITs,R$52.47M,,,R$87,1.5%
+1216,CTSA4,Santanense Pref,B3,Consumer Cyclicals,Textiles & Apparel,R$51.83M,-0.5x,0.03,R$1.36,0.7%
+1217,CTSA3,Santanense,B3,Consumer Cyclicals,Textiles & Apparel,R$51.83M,-0.5x,0.03,R$2.79,-2.1%
+1218,RCSL3,Recrusul,B3,Consumer Cyclicals,Automobiles & Auto Parts,R$49.02M,-6.2x,-0.08,R$2.81,-3.4%
+1219,RCSL4,Recrusul Pref,B3,Consumer Cyclicals,Automobiles & Auto Parts,R$49.02M,-6.2x,-0.08,R$0.83,-2.3%
+1220,TORD11,Tordesilhas EI,B3,Real Estate,Residential & Commercial REITs,R$48.37M,,,R$1.36,-1.4%
+1221,ATOM3,Atom Participacoes,B3,Technology,Telecommunications Services,R$47.37M,2.4x,0.01,R$1.99,0%
+1222,APTO11,Navi Residencial FII,B3,Real Estate,Residential & Commercial REITs,R$43.95M,,,R$9.50,-0.3%
+1223,HOOT4,Hoteis Othon,B3,Consumer Cyclicals,Hotels & Entertainment Services,R$43.73M,0.8x,-0.01,R$2.20,-7.6%
+1224,ATMP3,ATMA Participacoes,B3,Industrials,Professional & Commercial Services,R$42.73M,0.1x,0,R$1.62,1.3%
+1225,BIME11,Brio Multiestratégia Fundo,B3,Real Estate,Residential & Commercial REITs,R$42.15M,,,R$7.22,0.1%
+1226,RBLG11,RB Capital Logistico FI Imobiliario FII,B3,Real Estate,Residential & Commercial REITs,R$42.11M,,,R$65,-1.2%
+1227,CBOP11,FII Castello Branco Office,B3,Real Estate,Residential & Commercial REITs,R$39.70M,,,R$28.06,-0.5%
+1228,VVCR11,V2 Recebiveis Imobiliarios,B3,Financials,Collective Investments,R$37.36M,,,R$9.95,0%
+1229,RRCI11,Rb Capital Recebiveis Imobiliarios Fundo de Invest,B3,Real Estate,Residential & Commercial REITs,R$36.71M,,,R$76.45,0.3%
+1230,LFTT11,Loft II Fdo de,B3,Real Estate,Residential & Commercial REITs,R$32.02M,,,R$16.50,3.1%
+1231,RCFF11,Fii Rbr Feed,B3,Real Estate,Residential & Commercial REITs,R$31.99M,,,R$90,-9.1%
+1232,ESTR3,Manufatura de Brinquedos Estrela,B3,Consumer Cyclicals,Leisure Products,R$31.85M,-0.9x,-0.03,R$7.60,0%
+1233,ESTR4,Brinquedos Estrela,B3,Consumer Cyclicals,Leisure Products,R$31.63M,-0.9x,-0.03,R$2.07,0%
+1234,CORN11,BB INDICE FUTURO DE MILHO B3,B3,,,R$28.28M,,,R$6.04,-0.2%
+1235,CTXT11,FII Centro Textil Internacional,B3,Real Estate,Residential & Commercial REITs,R$27.95M,-4.3x,,R$8.19,-1.9%
+1236,FIVN11,FII Vida Nova,B3,Real Estate,Residential & Commercial REITs,R$26.36M,,,R$2.74,1.5%
+1237,LSPA11,FII Leste Riva Equity Preferencial I,B3,Real Estate,Residential & Commercial REITs,R$25.64M,,,R$63.19,-0.3%
+1238,MGHT11,FII Mogno Hoteis,B3,Real Estate,Residential & Commercial REITs,R$24.98M,,,R$18.44,-3%
+1239,MFAI11,Fii Meritofa,B3,Real Estate,Residential & Commercial REITs,R$24.91M,,,R$65.32,2.1%
+1240,BICR11,Inter Titulos,B3,Real Estate,Residential & Commercial REITs,R$24.45M,,,R$47.03,-3.8%
+1241,FMOF11,FII Memorial Office,B3,Real Estate,Residential & Commercial REITs,R$24.38M,,,R$48,0%
+1242,TXRX4,Textil Renauxview Pref,B3,Consumer Cyclicals,Textiles & Apparel,R$20.40M,1.9x,0,R$2.38,3.9%
+1243,TXRX3,Textil Renauxview,B3,Consumer Cyclicals,Textiles & Apparel,R$20.14M,1.9x,0,R$9.50,0%
+1244,XPCM11,FII XP MACAE,B3,Real Estate,Residential & Commercial REITs,R$19.92M,0.4x,,R$8.17,1.1%
+1245,GSHP3,GENERALSHOPP ON,B3,Real Estate,Real Estate Operations,R$19.69M,-3.4x,-0.03,R$10.50,0%
+1246,MWET4,Wetzel Pref,B3,Basic Materials,Metals & Mining,R$19.27M,-0.7x,0,R$9.34,0%
+1247,MWET3,Wetzel,B3,Basic Materials,Metals & Mining,R$19.27M,-0.7x,0,R$9.41,0%
+1248,HAGA4,Haga Pref,B3,Consumer Cyclicals,Homebuilding & Construction Supplies,R$18.76M,3.8x,-0.13,R$1.15,-1.7%
+1249,HAGA3,Haga Industria Comercio,B3,Consumer Cyclicals,Homebuilding & Construction Supplies,R$18.76M,3.8x,-0.13,R$2.40,0.4%
+1250,HETA4,Hercules Pref,B3,Consumer Cyclicals,Household Goods,R$18.20M,,0.21,R$5.21,0%
+1251,TEKA3,TEKA PN,B3,Consumer Cyclicals,Textiles & Apparel,R$17.53M,-0.1x,-0.09,R$42.50,0%
+1252,TEKA4,TEKA PN Pref,B3,Consumer Cyclicals,Textiles & Apparel,R$17.53M,-0.1x,-0.09,R$31,0%
+1253,SGPS3,SPRINGS ON,B3,Consumer Cyclicals,Textiles & Apparel,R$17.50M,-0x,,R$1.75,0%
+1254,BDLL4,Bardella Pref,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$17.03M,-0.2x,0,R$9.09,-1.2%
+1255,BDLL3,Mecanicas,B3,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",R$17.03M,-0.2x,0,R$13.01,0%
+1256,PDGR3,PDG REALT ON,B3,Financials,Investment Holding Companies,R$14M,0x,0,R$0.18,-5.3%
+1257,FSRF11,Fdo Inv Setorial FL E Ref Fiset FL Ref,B3,,,R$13.94M,,,R$0.16,-11.1%
+1258,HGIC11,HGI Creditos Imobiliarios FII,B3,Real Estate,Residential & Commercial REITs,R$13.61M,,,R$99,2.1%
+1259,PRSV11,FII Presidente Vargas,B3,Real Estate,Residential & Commercial REITs,R$12.28M,21.7x,,R$60,1.9%
+1260,CXTL11,FII Caixa TRX Logistica Renda,B3,Real Estate,Residential & Commercial REITs,R$12.05M,-4.3x,,R$224.88,-0.4%
+1261,OSXB3,OSX BRASIL ON,B3,Energy,Oil & Gas Related Equipment and Services,R$11.68M,-0x,0,R$3.65,-1.9%
+1262,SCPF11,SCP FII,B3,Real Estate,Residential & Commercial REITs,R$11.38M,,,R$2.71,0.4%
+1263,SLED3,BOVESPA:SLED3,B3,Consumer Cyclicals,Media & Publishing,R$11.12M,0.5x,,R$3.21,0%
+1264,SLED4,BOVESPA:SLED4,B3,Consumer Cyclicals,Media & Publishing,R$11.12M,0.5x,,R$1.60,0%
+1265,NEXP3,Nexpe Participacoes,B3,Real Estate,Real Estate Operations,R$10.58M,-0.1x,,R$4.11,-1.2%
+1266,PABY11,FII Panamby,B3,Real Estate,Residential & Commercial REITs,R$10.08M,19.4x,,R$13.29,-3.1%
+1267,PLRI11,Polo FII Recebiveis Imobiliarios I,B3,Financials,Collective Investments,R$9.47M,,,R$9.92,-0.8%
+1268,RBVO11,FII RIOBCRI2,B3,Real Estate,Residential & Commercial REITs,R$9.38M,4.4x,,R$18.30,9.4%
+1269,PPLA11,PPLA Participations Unt,B3,Financials,Investment Banking & Investment Services,R$8.58M,"3,050x",0,R$3.05,8.9%
+1270,KNRE11,FII KII REAL,B3,Real Estate,Residential & Commercial REITs,R$7.42M,,,R$0.42,5%
+1271,BLUR11,Fundo de Investimento Imboiliario Blue Recebiveis ,B3,Real Estate,Residential & Commercial REITs,R$7.11M,,,R$79,0%
+1272,RNDP11,FII BB R PAP,B3,Real Estate,Residential & Commercial REITs,R$6.66M,,,R$62,-1.5%
+1273,HRDF11,Hedge Realty,B3,Real Estate,Residential & Commercial REITs,R$4.86M,,,R$3.20,0%
+1274,HGAG11,High Fundo de Investimento Agro FIAGRO Imobiliario,B3,,,R$4.54M,,,R$18.30,0%
+1275,FSTU11,Fuente Internacional de Servicios para Turistas,B3,,,R$4.52M,,,R$0.36,0%
+1276,REIT11,Socopa FII,B3,Real Estate,Residential & Commercial REITs,R$4.08M,,,R$155.01,0%
+1277,MAPT3,Cemepe Investimentos,B3,Financials,Investment Holding Companies,R$3.87M,-22.3x,-1.41,R$4.21,0%
+1278,MAPT4,Cemepe Pref ,B3,Financials,Investment Holding Companies,R$3.87M,-22.3x,-1.41,R$5.20,-7%
+1279,EGYR11,Energy Resort FII,B3,Real Estate,Residential & Commercial REITs,R$3.06M,,,R$4.06,-1%
+1280,FSPE11,FI Setoriais Fiset Pesca,B3,Financials,Collective Investments,R$1.31M,,,R$0.28,0%
+1281,RCFA11,Grupo RCFA,B3,Real Estate,Residential & Commercial REITs,R$586.38K,,,R$1.01,0%
+1282,RBDS11,FII RB Capital Desenvolvimento Residencial II,B3,Financials,Investment Banking & Investment Services,R$379.57K,,,R$3,0%
+1283,BBGO11,BB Fundo de Investimento de Crédito Fiagro Imobili,B3,Real Estate,Residential & Commercial REITs,,,,R$81.67,0.1%
+1284,MAXR11,Max Retail FII,B3,Real Estate,Residential & Commercial REITs,,,,R$78.49,0.6%
+1285,HAAA11,Hedge Aaa FII,B3,,,,,,R$34.51,0%
+1286,LIFE11,Life Capital Partners FI Imobiliarios,B3,,,,,,R$10.50,-0.5%
+1287,TSER11,Tishman Speyer Renda Corporativa FII   Unica,B3,,,,,,R$100,0%
+1288,HCST11,Hectare CE  FI Imobiliario,B3,Real Estate,Residential & Commercial REITs,,,,R$50,0%
+1289,RZAK11,Riza Akin Fundo de Investimento Imobiliario FII,B3,Real Estate,Residential & Commercial REITs,,,,R$82.25,-0.4%
+1290,BDIV11,BTG PACTUAL INFRAESTRUTURA DIVIDENDOS FUNDO DE INV,B3,Financials,Collective Investments,,,,R$122.88,0.2%
+1291,HUCG11,FII Hospital Unimed Campina Grande,B3,Real Estate,Residential & Commercial REITs,,,,R$85.89,3%
+1292,WHGR11,WHG RE FI Imobiliario FII Classe Un,B3,Real Estate,Residential & Commercial REITs,,,,R$9.69,-0.1%
+1293,HOSI11,Fii Housi,B3,Real Estate,Residential & Commercial REITs,,,,R$95.01,0.4%
+1294,NEXG11,Nex Credito Agro Fundo de Investimento nas Cadeias,B3,,,,,,R$111,0.9%
+1295,FGAA11,FG/Agro FI Cad Prod,B3,Real Estate,Residential & Commercial REITs,,,,R$8.60,0.2%
+1296,LSAG11,Leste Fiagro Imobiliário,B3,Real Estate,Residential & Commercial REITs,,,,R$86.48,1.2%
+1297,IDGR11,FII de Unidades Autonomas II,B3,Real Estate,Residential & Commercial REITs,,,,R$7.50,0%
+1298,JSAF11,FII JS Ativos Financeiros,B3,Real Estate,Residential & Commercial REITs,,,,R$99.96,1%
+1299,RELG11,Fundo de Investimento Imobiliario Rec Logistica,B3,Real Estate,Residential & Commercial REITs,,,,R$59.27,0.7%
+1300,GCRA11,Galapagos Rcbvs do Agro Fiagro Imobiliario,B3,Real Estate,Residential & Commercial REITs,,,,R$58.85,-0.2%
+1301,LSAG11,Leste Fiagro Imobiliário,B3,Real Estate,Residential & Commercial REITs,,,,R$86.48,1.2%
+1302,HDOF11,Hedge Paladin Design Offices Fundo,B3,Real Estate,Residential & Commercial REITs,,,,R$96,0%
+1303,JSAF11,FII JS Ativos Financeiros,B3,Real Estate,Residential & Commercial REITs,,,,R$99.96,1%
+1304,RELG11,Fundo de Investimento Imobiliario Rec Logistica,B3,Real Estate,Residential & Commercial REITs,,,,R$59.27,0.7%
+1305,VCRI11,FII Vinci Credit Securities,B3,Real Estate,Residential & Commercial REITs,,,,R$8.55,0.2%
+1306,SNCI11,FII Suno Recebíveis Imobiliários,B3,Real Estate,Residential & Commercial REITs,,,,R$97.89,0.6%
+1307,GCRA11,Galapagos Rcbvs do Agro Fiagro Imobiliario,B3,Real Estate,Residential & Commercial REITs,,,,R$58.85,-0.2%
+1308,HSRE11,HSI Renda Imobiliaria FII,B3,,,,,,R$99.98,-0%
+1309,FGAA11,FG/Agro FI Cad Prod,B3,Real Estate,Residential & Commercial REITs,,,,R$8.60,0.2%
+1310,LIFE11,Life Capital Partners FI Imobiliarios,B3,,,,,,R$10.50,-0.5%
+1311,BTAG11,Fiagro BTG Pactual Crédito Agrícola,B3,Real Estate,Residential & Commercial REITs,,,,R$88.83,2.9%
+1312,CPTI11,Capitania Infra FICF,B3,Financials,Collective Investments,,,,R$96,-0.1%
+1313,NEXG11,Nex Credito Agro Fundo de Investimento nas Cadeias,B3,,,,,,R$111,0.9%
+1314,WHGR11,WHG RE FI Imobiliario FII Classe Un,B3,Real Estate,Residential & Commercial REITs,,,,R$9.69,-0.1%
+1315,MAXR11,Max Retail FII,B3,Real Estate,Residential & Commercial REITs,,,,R$78.49,0.6%
+1316,HAAA11,Hedge Aaa FII,B3,,,,,,R$34.51,0%
+1317,BDIV11,BTG PACTUAL INFRAESTRUTURA DIVIDENDOS FUNDO DE INV,B3,Financials,Collective Investments,,,,R$122.88,0.2%
+1318,VGIA11,Valora CRA,B3,Real Estate,Residential & Commercial REITs,,,,R$8.31,1.7%
+1319,RECX11,Fundo de Investimento Imobiliario  Rec Fundo de Fu,B3,Real Estate,Residential & Commercial REITs,,,,R$65,0%
+1320,AIEC11,Autonomy Edificios,B3,Real Estate,Residential & Commercial REITs,,,,R$55,0.8%
+1321,HOSI11,Fii Housi,B3,Real Estate,Residential & Commercial REITs,,,,R$95.01,0.4%
+1322,IDGR11,FII de Unidades Autonomas II,B3,Real Estate,Residential & Commercial REITs,,,,R$7.50,0%
+1323,EGAF11,Ecoagro I FI Cadeias Prod Agroindust Fiagro Imobil,B3,,,,,,R$91.80,0.3%

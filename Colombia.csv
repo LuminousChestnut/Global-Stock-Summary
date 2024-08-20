@@ -1,0 +1,45 @@
+1,ECO,Ecopetrol,Colombia,Energy,Oil & Gas,COP 83.88T,5x,-0.11,"COP 2,040",-3.3%
+2,BIC,BanColombia,Colombia,Financials,Banking Services,COP 34.82T,5.8x,-0.84,"COP 36,200",0.4%
+3,BIC_p1,Bancolombia Pf,Colombia,Financials,Banking Services,COP 34.82T,5.8x,-0.85,"COP 34,100",1.1%
+4,NCH,Nutresa,Colombia,Consumer Non-Cyclicals,Food & Tobacco,COP 25.23T,43.4x,-1.19,"COP 55,120",-2.4%
+5,GEB,Grupo Energia Bogota,Colombia,Utilities,Natural Gas Utilities,COP 22.17T,8.3x,-0.52,"COP 2,415",-1.2%
+6,ISA,Interconnection Electric,Colombia,Utilities,Electrical Utilities & IPPs,COP 20.36T,8.9x,-0.63,"COP 18,380",5.3%
+7,ARG,Grupo Argos,Colombia,Basic Materials,Construction Materials,COP 14.51T,3.4x,0.01,"COP 16,820",-1.1%
+8,ARG_p,Grupo Argos Pref,Colombia,Basic Materials,Construction Materials,COP 14.51T,3.4x,,"COP 11,780",1.6%
+9,SIS_p,Grupo de Inversiones Suramericana Prf,Colombia,Financials,Insurance,COP 13.70T,2.4x,0.01,"COP 22,960",0.6%
+10,SIS,Suramericana,Colombia,Financials,Insurance,COP 13.70T,2.4x,0.01,"COP 30,500",0%
+11,BHI,BAC Holding International,Colombia,Financials,Banking Services,COP 12.62T,8.7x,0.08,COP 292,2.1%
+12,CCB_p,Cementos Argos Pf,Colombia,Basic Materials,Construction Materials,COP 10.05T,20.3x,,"COP 7,950",4.6%
+13,CCB,Cemargos,Colombia,Basic Materials,Construction Materials,COP 10.05T,1.8x,0.01,"COP 8,740",1.2%
+14,GAA,Grupoaval,Colombia,Financials,Banking Services,COP 9.78T,22.9x,-0.37,COP 412,-3.5%
+15,GAA_p,Aval Acciones y Valores Pref,Colombia,Financials,Banking Services,COP 9.78T,22.9x,,COP 423,2.4%
+16,DVI_p,Banco Davivienda Pf,Colombia,Financials,Banking Services,COP 8.96T,-9.9x,0.06,"COP 18,380",2.7%
+17,BBO,Banco De Bogota,Colombia,Financials,Banking Services,COP 8.88T,13.3x,-0.41,"COP 25,000",0.1%
+18,PMG,Promigas,Colombia,Utilities,Natural Gas Utilities,COP 8.78T,8.2x,0.35,"COP 7,740",3.2%
+19,CFV_p,Corporacion Financiera Colombiana,Colombia,Financials,Investment Banking & Investment Services,COP 4.86T,9.9x,-0.14,"COP 12,260",-0.3%
+20,CFV,Colombiana,Colombia,Financials,Investment Banking & Investment Services,COP 4.86T,9.9x,-0.14,"COP 13,300",1.1%
+21,SCA,Grupo Bolivar,Colombia,Financials,Banking Services,COP 4.50T,-123.3x,1.14,"COP 56,860",1.5%
+22,CEL,Celsia,Colombia,Utilities,Electrical Utilities & IPPs,COP 4.49T,23.4x,,"COP 4,210",1.2%
+23,PORT,Sociedad Portafolio,Colombia,Financials,Investment Banking & Investment Services,COP 3.25T,9.8x,,COP 119.04,0.1%
+24,IMI,Almacenes Exito,Colombia,Consumer Non-Cyclicals,Food & Drug Retailing,COP 3.03T,99.5x,-1.46,"COP 2,335",1.1%
+25,BGA_p,Banco Bilbao Vizcaya Argentaria Prf,Colombia,Financials,Banking Services,COP 2.81T,250.8x,-2.61,COP 350,0%
+26,BGA,Banco Bilbao Vizcaya Argentaria Colombia,Colombia,Financials,Banking Services,COP 2.73T,250.7x,-2.61,COP 190,0%
+27,SPR,Administradora de Fondos de,Colombia,,,COP 2.31T,8.1x,-0.33,"COP 80,000",0%
+28,BOC,Banco de Occidente SA,Colombia,Financials,Banking Services,COP 2.06T,5.6x,-0.21,"COP 13,200",0%
+29,TPL,Organizacion Terpel SA,Colombia,Energy,Oil & Gas,COP 1.60T,4.1x,0.06,"COP 8,800",1.7%
+30,BPO,Banco Popular,Colombia,,,COP 1.55T,-3.9x,0.01,COP 200,-9.1%
+31,MAS,Mineros SA,Colombia,Basic Materials,Metals & Mining,COP 980.14B,13.2x,0.03,"COP 3,270",0%
+32,BVC,Bolsa De Valores De Colombia,Colombia,Financials,Investment Banking & Investment Services,COP 676.54B,10.2x,0.07,"COP 11,180",0.2%
+33,CLM,Colombina,Colombia,,,COP 545.82B,4.4x,0.15,"COP 1,450",0%
+34,APR,Acerias Paz del Rio,Colombia,Basic Materials,Metals & Mining,COP 521.59B,-15.1x,0.15,COP 7,-6.5%
+35,VLL,Banco Comercial AV Villas,Colombia,Financials,Banking Services,COP 456.23B,-1.7x,0,"COP 2,010",0.5%
+36,LVS_p,Banco Comercial AV Villas Prf,Colombia,Financials,Banking Services,COP 456.23B,-1.7x,0,"COP 4,500",0%
+37,CON,Construcciones el Condor SA,Colombia,Industrials,Construction & Engineering,COP 338.88B,-1.4x,0.01,COP 590,15.7%
+38,CIC,Conconcret,Colombia,Industrials,Construction & Engineering,COP 335.74B,-71.5x,0.59,COP 296,2.8%
+39,ETB,Etb,Colombia,Technology,Telecommunications Services,COP 289.37B,-7.8x,0.04,COP 81.50,1.9%
+40,ENK,Enka de Colombia SA,Colombia,Basic Materials,Chemicals,COP 182.49B,13.3x,-0.44,COP 15.50,0%
+41,BMC,BMC Bolsa Mercantil de Colombia,Colombia,,,COP 115.44B,,-0.18,"COP 1,950",0%
+42,CTJ,Coltejer,Colombia,Consumer Cyclicals,Textiles & Apparel,COP 105B,-12.3x,-0.13,"COP 1,500",50%
+43,VAL,Valores Simesa,Colombia,Financials,Banking Services,COP 55.12B,2.4x,0,"COP 2,650",0%
+44,MCS,Manufacturas de Cemento,Colombia,Basic Materials,Construction Materials,COP 27.97B,,,"COP 20,000",0%
+45,FHT,Fabricato SA,Colombia,Consumer Cyclicals,Textiles & Apparel,COP 27.61B,-0.2x,0,COP 3,4.9%

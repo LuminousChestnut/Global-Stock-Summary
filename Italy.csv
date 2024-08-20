@@ -1,0 +1,460 @@
+1,ENEI,Enel,Milan,Utilities,Electrical Utilities & IPPs,€65.91B,13.5x,0.12,€6.49,-0.3%
+2,ISP,Intesa Sanpaolo,Milan,Financials,Banking Services,€62.48B,7.7x,0.2,€3.49,0.6%
+3,CRDI,UniCredit,Milan,Financials,Banking Services,€55.11B,5.9x,0.15,€35.05,1.2%
+4,STLAM,Stellantis NV,Milan,Consumer Cyclicals,Automobiles & Auto Parts,€54.90B,3.3x,-0.13,€14.10,1.6%
+5,ENI,Eni SpA,Milan,Energy,Oil & Gas,€45.46B,11.9x,-0.21,€14.33,-0.2%
+6,GASI,Assicurazioni Generali,Milan,Financials,Insurance,€34.95B,9.9x,-0.61,€22.68,1%
+7,PRY,Prysmian,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€17.60B,31.5x,-1.24,€60.64,1.4%
+8,PST,Poste Italiane,Milan,Industrials,Freight & Logistics Services,€15.61B,8.7x,1.96,€12.06,1.3%
+9,TRN,Terna,Milan,Utilities,Electrical Utilities & IPPs,€15.42B,15.1x,0.87,€7.68,0.4%
+10,SRG,Snam,Milan,Energy,Oil & Gas Related Equipment and Services,€14.78B,13.8x,0.24,€4.41,0.5%
+11,MONC,Moncler SpA,Milan,Consumer Cyclicals,Textiles & Apparel,€14.33B,22.1x,1.18,€52.96,0.9%
+12,TENR,Tenaris,Milan,Energy,Oil & Gas Related Equipment and Services,€14.08B,5.9x,-0.23,€12.70,-0.5%
+13,LDOF,Leonardo,Milan,Industrials,Aerospace & Defense,€12.96B,13.1x,0.82,€22.52,3.2%
+14,MDBI,Mediobanca,Milan,Financials,Banking Services,€11.70B,9.2x,0.34,€14.09,0.7%
+15,RECI,Recordati,Milan,Healthcare,Pharmaceuticals,€10.24B,26.5x,-68.28,€49.96,0.3%
+16,INWT,Inwit,Milan,Technology,Telecommunications Services,€9.77B,28x,2.01,€10.48,1.2%
+17,CPRI,Campari,Milan,Consumer Non-Cyclicals,Beverages,€9.63B,28.1x,-4.04,€8.01,0.9%
+18,BAMI,Banco Bpm,Milan,Financials,Banking Services,€8.75B,7x,,€5.82,0.3%
+19,FBK,FinecoBank,Milan,Financials,Banking Services,€8.75B,14x,,€14.31,0.2%
+20,BMED,Banca Mediolanum,Milan,Financials,Banking Services,€7.70B,8.4x,0.19,€10.40,0.8%
+21,NEXII,Nexi,Milan,Industrials,Professional & Commercial Services,€7.43B,-7.1x,,€5.87,0.9%
+22,EDNn,Edison RSP,Milan,Utilities,Multiline Utilities,€7.34B,13.3x,,€1.55,0.7%
+23,EMII,Bper Banca,Milan,Financials,Banking Services,€6.76B,4.4x,0.04,€4.78,1.7%
+24,UNPI,Unipol Gruppo,Milan,Financials,Insurance,€6.46B,5.4x,0.05,€9.01,0.9%
+25,BMPS,BCA MPS,Milan,Financials,Banking Services,€6.46B,2.5x,0.01,€5.13,-0.4%
+26,AMPF,Amplifon,Milan,Healthcare,Healthcare Equipment & Supplies,€6.41B,39.4x,-5.64,€28.38,0%
+27,A2,A2A,Milan,Utilities,Electrical Utilities & IPPs,€6.29B,7.2x,0.05,€2.01,1%
+28,BZU,Buzzi Unicem,Milan,Basic Materials,Construction Materials,€6.19B,6.5x,0.33,€33.92,1.1%
+29,BCU,Brunello Cucinelli,Milan,Consumer Cyclicals,Textiles & Apparel,€5.74B,49.8x,1.17,€84.60,0.7%
+30,PIRC,Pirelli & C,Milan,Consumer Cyclicals,Automobiles & Auto Parts,€5.30B,11.4x,1.42,€5.30,0.4%
+31,DIAS,Diasorin,Milan,Healthcare,Healthcare Equipment & Supplies,€5.30B,33x,-5.23,€99.44,-0.4%
+32,TLITn,Telecom Italia RSP,Milan,Technology,Telecommunications Services,€4.93B,-3.3x,,€0.25,4.1%
+33,TLIT,Telecom Italia,Milan,Technology,Telecommunications Services,€4.93B,-3.3x,,€0.23,4.6%
+34,REY,Reply,Milan,Technology,Software & IT Services,€4.90B,23.3x,2.63,€131.50,1.2%
+35,HRA,Hera,Milan,Utilities,Multiline Utilities,€4.84B,11.9x,2.16,€3.36,0.6%
+36,SPMIr,Saipem Pref,Milan,Energy,Oil & Gas Related Equipment and Services,€4.74B,15.4x,0.04,€101,0%
+37,SPMI,Saipem,Milan,Energy,Oil & Gas Related Equipment and Services,€4.74B,15.4x,0.04,€1.99,0%
+38,TPRO,Technoprobe,Milan,Technology,Semiconductors & Semiconductor Equipment,€4.67B,45.9x,-2.36,€7.17,0.7%
+39,BGN,Banca Generali,Milan,Financials,Banking Services,€4.43B,12.1x,,€38.82,1.1%
+40,DLG,De Longhi,Milan,Consumer Cyclicals,Household Goods,€4.09B,16.3x,,€27.18,0%
+41,IG,Italgas,Milan,Utilities,Natural Gas Utilities,€4.03B,8.7x,1.29,€4.97,0.6%
+42,ITPG,Interpump,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€3.98B,16.8x,-0.82,€37.22,0.5%
+43,ACE,ACEA,Milan,Utilities,Multiline Utilities,€3.55B,11x,0.31,€16.69,0.1%
+44,ERG,ERG,Milan,Utilities,Electrical Utilities & IPPs,€3.43B,15x,0.04,€23.42,0.9%
+45,BRBI,Freni Brembo,Milan,Consumer Cyclicals,Automobiles & Auto Parts,€3.29B,11.1x,-2.04,€10.18,2.1%
+46,EMBI,Credito Emiliano,Milan,Financials,Banking Services,€3.24B,5.5x,,€9.61,0.8%
+47,SOLS,Sol,Milan,Basic Materials,Chemicals,€3.17B,21.6x,2.36,€34.95,1%
+48,AZMT,Azimut Holding,Milan,Financials,Investment Banking & Investment Services,€3.01B,5.5x,0.17,€21.26,1%
+49,BPSI,Banca Popolare Sondrio,Milan,Financials,Banking Services,€2.95B,5.7x,0.12,€6.55,2.7%
+50,LTMC,Lottomatica,Milan,Consumer Cyclicals,Hotels & Entertainment Services,€2.83B,50.9x,-1.69,€11.23,0.7%
+51,IREE,Iren,Milan,Utilities,Multiline Utilities,€2.38B,9.4x,,€1.85,-1.1%
+52,MTCM,Maire,Milan,Industrials,Construction & Engineering,€2.36B,14.4x,0.21,€7.21,-0.1%
+53,IVG,Iveco NV,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€2.34B,10.1x,-0.52,€8.73,0.1%
+54,WBDn,Webuild SpA Pref,Milan,Industrials,Construction & Engineering,€2.31B,13.7x,,€9.95,0%
+55,WBD,Webuild,Milan,Industrials,Construction & Engineering,€2.31B,13.7x,0.02,€2.31,0.4%
+56,DANI,Danieli & C,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€2.14B,10x,,€32.95,-0.6%
+57,DANIn,Danieli & C RSP,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€2.14B,10x,,€24.85,-1.4%
+58,ENAV,Enav,Milan,Industrials,Transport Infrastructure,€2.10B,17.1x,0.45,€3.87,0.8%
+59,DNR,Industrie De Nora,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€1.98B,8.9x,0.06,€9.96,0.5%
+60,CRLI,Carel Industries,Milan,Technology,Electronic Equipment & Parts,€1.87B,29.8x,-1.67,€16.60,2.2%
+61,TGYM,Technogym,Milan,Consumer Cyclicals,Leisure Products,€1.85B,24x,1.63,€9.28,1.1%
+62,MFEB,MFE MEDIAFOREUROPE NV B,Milan,Consumer Cyclicals,Media & Publishing,€1.83B,10.3x,,€3.86,-1.5%
+63,MFEA,MFE MEDIAFOREUROPE A,Milan,Consumer Cyclicals,Media & Publishing,€1.83B,10.3x,,€2.85,0.7%
+64,BFF,BFF Bank,Milan,Financials,Banking Services,€1.81B,10.4x,,€9.67,0.9%
+65,FCT,Fincantieri,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€1.58B,-14.6x,-0.65,€4.92,0.4%
+66,SCFG,Salcef,Milan,Industrials,Construction & Engineering,€1.56B,23.8x,3.42,€25.60,0.4%
+67,TIP,Tamburi Investment,Milan,Financials,Investment Banking & Investment Services,€1.52B,18.3x,-0.42,€9.17,0.9%
+68,SRS,Saras,Milan,Energy,Oil & Gas,€1.52B,5.1x,0.23,€1.60,0%
+69,ICOS,Intercos,Milan,Consumer Non-Cyclicals,Personal & Household Products & Services,€1.51B,33.5x,-2.68,€15.64,-0.5%
+70,CEMI,Cementir Holding,Milan,Basic Materials,Construction Materials,€1.50B,7.1x,-10.77,€9.62,1.5%
+71,SES,SESA,Milan,Technology,Integrated Hardware & Software,€1.49B,18.9x,-2.54,€96.45,1.1%
+72,ANIM,Anima Holding SpA,Milan,Financials,Investment Banking & Investment Services,€1.49B,7.5x,0.08,€4.79,2.6%
+73,RWAY,Rai Way SpA,Milan,Technology,Telecommunications Services,€1.33B,14.9x,1.62,€4.96,1.6%
+74,MOL,Moltiply,Milan,Financials,Banking Services,€1.32B,38x,,€35.20,0%
+75,ARIS,Ariston Holding NV,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€1.30B,23.3x,-0.32,€3.72,1.4%
+76,SNL,Sanlorenzo,Milan,Consumer Cyclicals,Leisure Products,€1.30B,13x,0.57,€37.20,3.6%
+77,SFER,Salvatore Ferragamo,Milan,Consumer Cyclicals,Textiles & Apparel,€1.20B,130.1x,-1.89,€7.24,-0.7%
+78,ITMI,Italmobiliare,Milan,Consumer Non-Cyclicals,Food & Tobacco,€1.18B,10x,0.02,€28,1.3%
+79,GVS,Gvs,Milan,Healthcare,Healthcare Equipment & Supplies,€1.13B,58.5x,1.12,€6.47,0.9%
+80,BFG,BF Holding,Milan,Consumer Non-Cyclicals,Food & Tobacco,€1.11B,"1,060x",-11.47,€4.24,-1.4%
+81,IF,Banca IFIS,Milan,Financials,Banking Services,€1.07B,6.6x,,€20.34,1.5%
+82,ZV,Zignago Vetro,Milan,Basic Materials,Containers & Packaging,€948.73M,12.9x,8.23,€10.72,2.3%
+83,COME,Comer Industries,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€931.31M,12x,-0.59,€32.50,1.9%
+84,YACHT,Ferretti,Milan,Consumer Cyclicals,Leisure Products,€917.01M,11.1x,0.38,€2.78,2.2%
+85,JUVE,Juventus,Milan,Consumer Cyclicals,Hotels & Entertainment Services,€905.34M,-3.2x,0.23,€2.39,9.6%
+86,PIA,Piaggio&C,Milan,Consumer Cyclicals,Automobiles & Auto Parts,€889.77M,11.4x,-0.45,€2.51,0.4%
+87,PHIL,Philogen SpA,Milan,Healthcare,Biotechnology & Medical Research,€878.31M,-135.9x,9.07,€21.80,0%
+88,ARN,Alerion,Milan,Utilities,Electrical Utilities & IPPs,€844.83M,24.8x,-0.43,€15.78,0%
+89,B7C,D'Amico,Milan,Energy,Oil & Gas Related Equipment and Services,€773.37M,4x,7.1,€6.42,1.1%
+90,ELEN,El En,Milan,Healthcare,Healthcare Equipment & Supplies,€756.62M,15.6x,,€9.45,0.9%
+91,MARR,Marr,Milan,Consumer Non-Cyclicals,Food & Drug Retailing,€725.19M,15.8x,0.43,€11.18,2%
+92,PVNA,Piovan,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€695.31M,12.7x,0.45,€13.60,0%
+93,CALI,Caltagirone,Milan,Basic Materials,Construction Materials,€684.68M,5x,0.47,€5.70,1.4%
+94,IVS,IVS Group SA,Milan,Consumer Non-Cyclicals,Food & Drug Retailing,€647.62M,40.3x,,€7.16,0.3%
+95,MOED,Mondadori Editore,Milan,Consumer Cyclicals,Media & Publishing,€643.95M,10.6x,,€2.47,0.8%
+96,CEMB,Cembre,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€624.03M,15.4x,,€37.15,1.6%
+97,DESI,Banco Di Desio E Brianza,Milan,Financials,Banking Services,€622.10M,2.6x,,€4.63,0.4%
+98,OVS,OVS SPA,Milan,Consumer Cyclicals,Textiles & Apparel,€616.17M,12.9x,0.31,€2.50,1.6%
+99,CIRI,CIR old,Milan,Consumer Cyclicals,Automobiles & Auto Parts,€586.05M,4.6x,0.04,€0.57,0%
+100,ASCI,Ascopiave,Milan,Utilities,Natural Gas Utilities,€577.89M,13.7x,0.14,€2.67,1.1%
+101,EGLA,Eurogroup Laminations,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€551.43M,9.3x,-0.73,€3.39,-0.3%
+102,LUVE,LU-VE,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€536.28M,18.1x,,€24.15,0.2%
+103,WIIT,Wiit,Milan,Technology,Software & IT Services,€531.95M,48.6x,0.87,€20.40,1.2%
+104,TNXT,Tinexta,Milan,Technology,Software & IT Services,€521.72M,25.5x,-0.31,€11.38,0.4%
+105,DGV,Digital Value,Milan,Technology,Software & IT Services,€509.72M,13.1x,1.02,€50.80,-0.2%
+106,NWLF,Newlat Food,Milan,Consumer Non-Cyclicals,Food & Tobacco,€508.90M,41.2x,2.44,€12.34,-1%
+107,GPI,GPI,Milan,Technology,Software & IT Services,€479.15M,48.6x,-7.04,€12.20,0.3%
+108,PHNU,Pharmanutra,Milan,Healthcare,Pharmaceuticals,€470.17M,44x,-1.27,€48.90,0.4%
+109,TISGR,Italian Sea Group Srl,Milan,Consumer Cyclicals,Leisure Products,€466.40M,12.4x,0.22,€8.80,1.2%
+110,GHC,Garofalo Health,Milan,Healthcare,Healthcare Providers & Services,€442.88M,21.3x,,€5,-1.6%
+111,FILA,F.I.L.A,Milan,Industrials,Professional & Commercial Services,€438.79M,2.5x,0,€8.65,0%
+112,SFLG,Safilo Group,Milan,Consumer Cyclicals,Textiles & Apparel,€434.09M,210.4x,-2.59,€1.05,1.9%
+113,AC5,Acinque,Milan,Utilities,Multiline Utilities,€389.75M,33.5x,-0.96,€1.98,0%
+114,ILTY,illimity Bank,Milan,Financials,Banking Services,€371.58M,5.1x,-0.25,€4.48,0%
+115,DAL,Datalogic,Milan,Technology,Office Equipment,€344.41M,52.6x,-0.48,€6.42,1.3%
+116,GTHS,Greenthesis,Milan,Industrials,Professional & Commercial Services,€343.57M,22.8x,-1.76,€2.28,0%
+117,RCSM,Rizzoli Corriere della Sera Mediagroup,Milan,Consumer Cyclicals,Media & Publishing,€330.26M,6.3x,,€0.75,0%
+118,NBAA,Nb Aurora,Milan,Financials,Investment Banking & Investment Services,€326.95M,6.8x,0.06,€13.32,0%
+119,NXTGE,Next Geosolutions Europe,Milan,Basic Materials,Metals & Mining,€325.50M,11.5x,,€7,0%
+120,AVI,Avio,Milan,Industrials,Aerospace & Defense,€322.93M,49.8x,0.04,€12.78,1.3%
+121,IOT,Seco SpA,Milan,Technology,Semiconductors & Semiconductor Equipment,€311.27M,31.7x,,€2.35,4.4%
+122,ADB,Aeroporto Guglielmo Marconi di Bolo,Milan,Industrials,Transport Infrastructure,€281.06M,14.7x,0.24,€7.78,-0.3%
+123,CAI,Cairo Communication,Milan,Consumer Cyclicals,Media & Publishing,€280.93M,6.6x,0.4,€2.09,1%
+124,TXTS,TXT,Milan,Technology,Software & IT Services,€280.90M,16.5x,0.5,€24,1%
+125,DEX,Dexelance,Milan,Consumer Cyclicals,Household Goods,€270.76M,8.8x,0.02,€10.10,1%
+126,FIMI,Fiera Milano,Milan,Industrials,Professional & Commercial Services,€257.18M,6.1x,0.03,€3.62,0.8%
+127,BSS,Biesse,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€241.96M,-78.3x,0.7,€8.83,0.3%
+128,TYA,Toscana Aeroporti,Milan,Industrials,Transport Infrastructure,€238.23M,13.9x,0.34,€12.80,0%
+129,PRT,Esprinet,Milan,Technology,"Computers, Phones & Household Electronics",€237.84M,-16.6x,0.12,€4.81,1.5%
+130,SGFI,Sogefi,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€233.93M,1.4x,0.01,€1.97,2.1%
+131,IGD,IGD,Milan,Real Estate,Residential & Commercial REITs,€231.17M,-3.4x,-0.12,€2.10,0.5%
+132,UNIR,UniEuro,Milan,Consumer Cyclicals,Specialty Retailers,€227.69M,-16.2x,,€11.20,-0.2%
+133,SABF,Sabaf,Milan,Consumer Cyclicals,Household Goods,€220.90M,26.5x,,€17.75,1.4%
+134,REVOI,Revo,Milan,Financials,Insurance,€218.24M,11.3x,0.59,€9.20,-0.2%
+135,ORSO,Orsero,Milan,Consumer Non-Cyclicals,Food & Drug Retailing,€217.35M,5.6x,0.7,€12.90,1.7%
+136,ANV,Antares Vision,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€214.63M,-2.2x,0,€3.04,0%
+137,SERK,Seri Industrial,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€208.36M,-17.2x,0.13,€3.86,0.5%
+138,RWY,ReWay,Milan,Industrials,Construction & Engineering,€201.75M,14.5x,,€5.24,0%
+139,FF,Fine Foods Pharma,Milan,Consumer Non-Cyclicals,Food & Tobacco,€200.27M,-59.3x,,€8.18,2%
+140,ITWB,Italian Wine Brands SpA,Milan,Consumer Non-Cyclicals,Beverages,€195.41M,11.9x,0.26,€20.80,0%
+141,EQUI,Equita,Milan,Financials,Investment Banking & Investment Services,€190.49M,12x,-4.11,€3.83,1.9%
+142,CNS,Civitanavi Systems,Milan,Industrials,Aerospace & Defense,€189.79M,41.5x,-1.08,€6.18,3%
+143,IEG,Italian Exhibition Group,Milan,Industrials,Professional & Commercial Services,€188.77M,8.2x,0.09,€6.18,2%
+144,PWS,Powersoft,Milan,Consumer Cyclicals,Media & Publishing,€187.96M,14.7x,0.18,€15,-0.7%
+145,IMSI,IMMSI,Milan,Consumer Cyclicals,Automobiles & Auto Parts,€186.27M,12.4x,-0.24,€0.55,1.9%
+146,ALA,Ala SpA,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€186.02M,19.1x,0.69,€20.60,1%
+147,FUMA,Franchi Umberto Marmi SpA,Milan,Consumer Cyclicals,Household Goods,€183.88M,14x,-0.58,€5.60,-1.8%
+148,FNMI,FNM,Milan,Industrials,Passenger Transportation Services,€182.66M,2.3x,,€0.42,0%
+149,KME,KME SpA,Milan,Basic Materials,Metals & Mining,€172.08M,-6.3x,0.01,€0.89,0%
+150,KMEn,KME SpA Prf,Milan,Basic Materials,Metals & Mining,€172.08M,-6.3x,0.01,€1.35,-1.5%
+151,YRM,Rosetti Marino SpA,Milan,Energy,Oil & Gas Related Equipment and Services,€166.44M,24.6x,0.46,€43.80,0%
+152,37B,B&C Speakers,Milan,Technology,"Computers, Phones & Household Electronics",€164.05M,12.6x,-1.65,€15,-0.3%
+153,INTD,Intred,Milan,Technology,Telecommunications Services,€157.73M,19.3x,-3.45,€9.92,1.2%
+154,EM,Emak,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€156.81M,13.7x,-0.31,€0.96,0%
+155,BCNT,Basicnet,Milan,Consumer Cyclicals,Specialty Retailers,€155.08M,7.9x,-0.31,€3.15,-0.3%
+156,GEO,Geox,Milan,Consumer Cyclicals,Textiles & Apparel,€150.95M,-12.1x,,€0.58,1.7%
+157,FOPE,Fope,Milan,Consumer Cyclicals,Textiles & Apparel,€146.87M,14.5x,-2.22,€27.20,0%
+158,MASIA,Masi Agricola SpA,Milan,Consumer Non-Cyclicals,Beverages,€145.64M,-112.9x,,€4.53,6.8%
+159,SBC,Sicily By Car,Milan,Industrials,Passenger Transportation Services,€144.34M,9.1x,,€4.44,0.9%
+160,CY4,Cy4gate,Milan,Technology,Software & IT Services,€143.12M,-12.1x,0.01,€6.19,3.3%
+161,ECNL,Aquafil,Milan,Consumer Cyclicals,Textiles & Apparel,€140.33M,-4.3x,,€2.81,1.4%
+162,GENFIN,GeneralFinance,Milan,Financials,Banking Services,€140.25M,8.5x,,€11.10,0%
+163,EXAI,ExpertAi,Milan,Technology,Software & IT Services,€138.57M,-9.6x,-0.21,€1.42,0%
+164,DHH,Dominion Hosting Holding,Milan,Industrials,Professional & Commercial Services,€137.99M,39.1x,1.54,€27.20,-3.6%
+165,DIB,Digital Bros,Milan,Technology,Software & IT Services,€135.66M,-16.8x,0.12,€9.51,4.5%
+166,ABP,Azienda Bresciana Petroli Nocivelli SpA,Milan,Industrials,Construction & Engineering,€132.15M,11.8x,1.89,€4.34,0.9%
+167,CYB,Cyberoo,Milan,Technology,Software & IT Services,€129.43M,33.3x,0.89,€3.14,-1.9%
+168,DOVA,DoValue,Milan,Financials,Banking Services,€129.35M,-20.1x,0.05,€1.67,-2.9%
+169,PRO,Banca Profilo,Milan,Financials,Banking Services,€129.30M,10.9x,,€0.20,0%
+170,CED,Caltagirone Editore,Milan,Consumer Cyclicals,Media & Publishing,€129.22M,8.2x,0.09,€1.21,0.8%
+171,EVS,Eviso,Milan,Utilities,Electrical Utilities & IPPs,€126.66M,58.3x,,€5.24,-0.4%
+172,MTTI,Mittel,Milan,Financials,Investment Holding Companies,€126.50M,2.5x,0,€1.55,-0.6%
+173,MED,Medica,Milan,Healthcare,Biotechnology & Medical Research,€125.85M,42.4x,-1.33,€29.80,0%
+174,SOME,Somec,Milan,Consumer Cyclicals,Homebuilding & Construction Supplies,€123.30M,-10.6x,0.02,€17.90,1.4%
+175,ABIT,Abitare In,Milan,Real Estate,Real Estate Operations,€119.65M,27.3x,,€4.53,4.1%
+176,GFRN,Gefran,Milan,Technology,Electronic Equipment & Parts,€116.06M,10.1x,-1.21,€8.06,1.3%
+177,OMR,Omer Spa,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€114.54M,13.4x,14.59,€4,1%
+178,BSTA,Banca Sistema Spa,Milan,Financials,Banking Services,€114.44M,6.7x,,€1.43,0.7%
+179,AIW,Almawave SpA,Milan,Technology,Software & IT Services,€113.93M,13.6x,0.29,€3.80,1.9%
+180,RFG,Racing Force,Milan,Consumer Cyclicals,Leisure Products,€112.50M,22.5x,,€4.11,0%
+181,AGP,Altea Green Power,Milan,Energy,Renewable Energy,€110.63M,20.8x,,€6.39,1.1%
+182,ELC,Elica,Milan,Consumer Cyclicals,Household Goods,€108.69M,44x,-0.55,€1.76,0%
+183,INDB,Indel B,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€107.96M,10.8x,-0.52,€20.40,1%
+184,TSL,Tessellis,Milan,Technology,Telecommunications Services,€107.88M,-1.5x,-0.28,€0.46,0%
+185,RLT,Relatech,Milan,Technology,Software & IT Services,€107.87M,29.1x,0.28,€2.52,-0.4%
+186,GSP,Gas Plus,Milan,Energy,Oil & Gas,€107.63M,2.2x,0,€2.47,1.6%
+187,UD,Unidata,Milan,Technology,Telecommunications Services,€106.07M,6.6x,,€3.50,1.7%
+188,VALS,Valsoia,Milan,Consumer Non-Cyclicals,Food & Tobacco,€103.61M,13.2x,,€9.62,-1%
+189,PQ,Piquadro,Milan,Consumer Cyclicals,Textiles & Apparel,€99.11M,9.5x,0.15,€2.10,0.5%
+190,INCI,Innovatec,Milan,Industrials,Professional & Commercial Services,€92.68M,956x,-14.96,€0.96,0%
+191,GROWE,Growens,Milan,Technology,Software & IT Services,€92.08M,1.8x,-0.01,€7.26,0%
+192,DTH,Defence Tech Holding,Milan,Technology,Software & IT Services,€90.42M,25.1x,,€3.54,1.7%
+193,PTRN,Pattern,Milan,Consumer Cyclicals,Textiles & Apparel,€85.04M,4.1x,0.01,€5.90,0%
+194,MSTN,Misitano Stracuzzi,Milan,,,€83.87M,,,€2.79,1.1%
+195,TFI,Trevi Fin Industriale,Milan,Industrials,Construction & Engineering,€83.66M,4.3x,,€0.27,3.8%
+196,INTM,Intermonte Partners Sim,Milan,Financials,Investment Banking & Investment Services,€79.39M,30.5x,-0.66,€2.48,0.8%
+197,IB,Iniziative Bresciane Inbre,Milan,Industrials,Construction & Engineering,€74.93M,20x,0.02,€14.40,0%
+198,DS,Directa SIM,Milan,Financials,Investment Banking & Investment Services,€71.06M,8.3x,0.21,€3.79,0%
+199,EDAC,Ediliziacrobatica,Milan,Industrials,Construction & Engineering,€70.36M,11.4x,-0.2,€8.38,0.2%
+200,CFL_t,Cofle,Milan,Consumer Cyclicals,Automobiles & Auto Parts,€69.17M,82.2x,-0.97,€4.78,0.8%
+201,CFL,Cofle,Milan,Consumer Cyclicals,Automobiles & Auto Parts,€69.17M,82.2x,-0.97,€4.78,0.8%
+202,FAET,FAE Technology,Milan,Technology,Electronic Equipment & Parts,€68.35M,17.4x,,€3.88,1.8%
+203,NR,Next Re SIIQ,Milan,Real Estate,Residential & Commercial REITs,€68.16M,-22.8x,-0.44,€3.10,-4.9%
+204,ALKE,Alkemy,Milan,Consumer Cyclicals,Media & Publishing,€68.05M,19.6x,,€12.30,0%
+205,ENRY,Energy,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€65.97M,13.4x,-0.16,€1.22,2.5%
+206,AEF,Aeffe,Milan,Consumer Cyclicals,Textiles & Apparel,€65.75M,-1.6x,0.02,€0.67,0%
+207,OS,Officina Stellare,Milan,Technology,Communications & Networking,€64.08M,30.7x,,€10.60,0%
+208,RES,Recupero Etico Sostenibile,Milan,Industrials,Professional & Commercial Services,€63.66M,31.6x,,€5.95,0.9%
+209,MGS,Magis,Milan,Basic Materials,Chemicals,€62.03M,8.3x,,€12.60,1.6%
+210,PNNI,Pininfarina,Milan,Consumer Cyclicals,Automobiles & Auto Parts,€60.57M,-10.3x,0.03,€0.77,4.1%
+211,FCHT,Franchetti,Milan,Industrials,Construction & Engineering,€60.05M,23.6x,,€7.50,1.4%
+212,ILP,ILPRA,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€59.93M,11.7x,-2.5,€5.05,1%
+213,RDUE,ERREDUE,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€58.75M,17.8x,,€9.40,-1%
+214,ENVT,Enervit,Milan,Consumer Non-Cyclicals,Food & Tobacco,€57.67M,14.9x,-0.83,€3.24,2.9%
+215,LR,Landi Renzo,Milan,Consumer Cyclicals,Automobiles & Auto Parts,€57.60M,-1.7x,0.02,€0.26,0%
+216,OLI,Olidata,Milan,Technology,Integrated Hardware & Software,€57.10M,28.1x,0.05,€0.50,0%
+217,SCK,Sciuker Frames,Milan,Consumer Cyclicals,Homebuilding & Construction Supplies,€56.45M,3x,,€2.53,5.4%
+218,SPN,Spindox SpA,Milan,Technology,Software & IT Services,€56.39M,121.4x,,€10.30,0%
+219,IRC,IRCE,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€55.07M,7x,-0.32,€2.08,0%
+220,RATI,Ratti,Milan,Consumer Cyclicals,Textiles & Apparel,€54.70M,-29.1x,0.17,€2,0%
+221,SERIT,Servizi Italia,Milan,Industrials,Professional & Commercial Services,€53.91M,9.6x,-1.77,€1.85,-1.1%
+222,CELL,Cellularline,Milan,Consumer Cyclicals,Specialty Retailers,€53.02M,15.7x,,€2.53,0%
+223,STAR7,Star7,Milan,Industrials,Professional & Commercial Services,€52.20M,29.8x,-0.54,€5.80,-4.9%
+224,ZUCI,Zucchi,Milan,Consumer Cyclicals,Textiles & Apparel,€52.18M,14x,,€2.06,0.5%
+225,MARE,Mare Engineering,Milan,Technology,Software & IT Services,€51.21M,21.2x,-0.58,€4.25,1.7%
+226,LAZI,Lazio,Milan,Consumer Cyclicals,Hotels & Entertainment Services,€49.99M,1.6x,0.01,€0.74,1.4%
+227,FICP,First Capital,Milan,Financials,Investment Banking & Investment Services,€48.70M,18.4x,0.14,€16.70,4.4%
+228,TALEA,Talea,Milan,Technology,Software & IT Services,€48.55M,-4.8x,0.01,€7.10,4.7%
+229,TES,Tesmec,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€48.32M,-27x,,€0.08,0%
+230,BIFIRE,Bifire,Milan,Basic Materials,Containers & Packaging,€48.27M,6.3x,0.13,€2.80,-2.1%
+231,GMN,Gentili Mosconi,Milan,Consumer Cyclicals,Textiles & Apparel,€48.26M,9.4x,-0.09,€2.54,1.6%
+232,CMLA,Comal,Milan,Industrials,Construction & Engineering,€46.35M,9.7x,0.48,€3.54,0%
+233,TPSG,Technical Publications,Milan,Industrials,Professional & Commercial Services,€46.32M,13.8x,-2.78,€6.45,4%
+234,S24,Il Sole 24 Ore,Milan,Consumer Cyclicals,Media & Publishing,€46.29M,8.8x,-0.51,€0.71,1.4%
+235,BE,Beghelli,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€45.82M,-4.9x,-0.59,€0.23,4.5%
+236,KK,Kruso Kapital,Milan,Financials,Banking Services,€45.53M,15.8x,,€1.85,0%
+237,SHE,Shedir Pharma,Milan,Healthcare,Pharmaceuticals,€45M,7.6x,-1.48,€3.96,0%
+238,BTGI,Bastogi,Milan,Real Estate,Real Estate Operations,€44.85M,12.2x,-0.16,€0.40,2.5%
+239,NOVAM,Novamarine,Milan,,,€44.35M,,,€3.58,0%
+240,ESAU,Esautomotion,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€43.40M,11.1x,-0.67,€3.65,-0.8%
+241,NDT,Neodecortech,Milan,Basic Materials,Paper & Forest Products,€43.27M,92.3x,-1.03,€3.14,0%
+242,RN,Risanamento,Milan,Real Estate,Real Estate Operations,€43.22M,-1.3x,0.03,€0.02,0%
+243,GBUSS,Gibus,Milan,Consumer Cyclicals,Homebuilding & Construction Supplies,€43.03M,11.8x,-0.19,€8.62,0%
+244,HZY,Homizy,Milan,Consumer Cyclicals,Homebuilding & Construction Supplies,€42.87M,115.8x,0.17,€3.90,0%
+245,IGV,I Grandi Viaggi,Milan,Consumer Cyclicals,Hotels & Entertainment Services,€42.36M,16.6x,0.14,€0.89,2.3%
+246,SVSB,Svas Biosana,Milan,Healthcare,Healthcare Equipment & Supplies,€42.11M,8.1x,,€7.80,0.7%
+247,S3D,Solid World,Milan,Technology,Electronic Equipment & Parts,€41.48M,115.8x,0.02,€2.52,2.4%
+248,E5T,Eurotech,Milan,Technology,"Computers, Phones & Household Electronics",€41.06M,-5.5x,0.01,€1.16,10.4%
+249,ECECOP,WisdomTree Copper - EUR Daily Hedged,Milan,Financials,Investment Banking & Investment Services,€40.53M,,,€6.96,0.3%
+250,USEU,WisdomTree Short USD Long EUR,Milan,Financials,Investment Banking & Investment Services,€40.50M,,,€30.29,0.7%
+251,CUBE,Cube Labs,Milan,Financials,Investment Banking & Investment Services,€39.76M,344.1x,,€2.20,0%
+252,BRUI,Brioschi,Milan,Real Estate,Real Estate Operations,€39.73M,-24.6x,0.09,€0.05,0%
+253,RDF,Redelfi,Milan,Industrials,Professional & Commercial Services,€39.27M,14.6x,,€4.45,7.2%
+254,PLC,PLC SpA,Milan,Energy,Renewable Energy,€38.94M,50.5x,0.13,€1.50,3.4%
+255,ATON,Aton Green Storage SpA,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€38.63M,10.3x,,€5.15,0%
+256,PAL,Palingeo,Milan,Industrials,Construction & Engineering,€38.62M,4.5x,,€5.96,0%
+257,FVIR,Fervi,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€38.34M,9.8x,1.14,€15.10,0%
+258,RMT,Riba Mundo Tecnologia SL,Milan,Technology,Financial Technology (Fintech) & Infrastructure,€37.72M,47.4x,-0.61,€16.40,0%
+259,CLII,Centrale del Latte,Milan,Consumer Non-Cyclicals,Food & Tobacco,€37.52M,11.4x,0.01,€2.68,-0.7%
+260,CIRC,Circle,Milan,Industrials,Professional & Commercial Services,€35.53M,22.1x,0.25,€7.74,0.8%
+261,VLT,Valtecne,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€35.44M,10.9x,,€5.80,0%
+262,DBA,DBA,Milan,Industrials,Construction & Engineering,€34.44M,10x,,€3.09,2.3%
+263,ESPE,Espe,Milan,,,€34.36M,21.6x,,€2.90,-2%
+264,CULT,Culti Milano,Milan,Consumer Non-Cyclicals,Personal & Household Products & Services,€34.34M,24.7x,-1,€12.60,0%
+265,SITT,SIT,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€34.03M,-1.5x,,€1.40,-4.1%
+266,CREG,Creactives,Milan,Technology,Software & IT Services,€33.67M,-45x,-2.11,€2.70,0%
+267,RNV,Imprendiroma,Milan,Consumer Cyclicals,Homebuilding & Construction Supplies,€33.38M,1.8x,,€2.98,0.7%
+268,PLTA,Planetel,Milan,Technology,Telecommunications Services,€33.01M,31x,-4.05,€4.86,-2.8%
+269,ABCB,ABC,Milan,Financials,Investment Banking & Investment Services,€32.96M,-132.8x,,€3.32,0%
+270,MAPS,Maps,Milan,Technology,Software & IT Services,€32.94M,33x,,€2.48,-0.4%
+271,LDB,Lindbergh,Milan,Industrials,Professional & Commercial Services,€32.30M,27.9x,0.86,€3.80,0%
+272,RFLTC,Redfish Longterm Capital,Milan,Financials,Investment Holding Companies,€32.26M,-23.7x,,€1.25,0%
+273,PMTI,Promotica,Milan,Consumer Cyclicals,Media & Publishing,€31.56M,9.8x,4.03,€1.85,0%
+274,BRGI,Borgosesia,Milan,Financials,Investment Banking & Investment Services,€31.49M,6.1x,-0.21,€0.66,1.5%
+275,3USS,WisdomTree S&P 500 3x Daily Short,Milan,Financials,Investment Banking & Investment Services,€31.12M,,,€19.68,-3.4%
+276,BIA,Bialetti Industrie,Milan,Consumer Cyclicals,Household Goods,€30.61M,-10.4x,-0.14,€0.20,-4.9%
+277,HFARM,H-Farm SpA,Milan,Financials,Investment Banking & Investment Services,€30.12M,-3.1x,,€0.15,0%
+278,ICF,Industrie Chimiche Forestali SpA,Milan,Basic Materials,Chemicals,€30.07M,13.9x,-0.43,€4.46,0.4%
+279,GABI,Gabetti Property,Milan,Real Estate,Real Estate Operations,€29.56M,25.8x,,€0.49,0%
+280,ELES,Eles,Milan,Technology,Semiconductors & Semiconductor Equipment,€28.90M,33.5x,7.46,€1.64,0.6%
+281,GRN,Green Oleo,Milan,,,€28.47M,5.5x,,€0.88,-3.3%
+282,DGT,Digitouch SPA,Milan,Consumer Cyclicals,Media & Publishing,€27.61M,14.2x,,€2.03,0.5%
+283,COSMO,Farmacosmo,Milan,Consumer Cyclicals,Diversified Retail,€27.56M,-9.6x,,€0.71,-1.4%
+284,EUJP,WisdomTree Long JPY Short EUR,Milan,Financials,Investment Banking & Investment Services,€27.51M,,,€30.61,-0.5%
+285,QFMRB,Fondo Mediolanum Real Estate,Milan,Financials,Collective Investments,€27.29M,,,€1.24,0.8%
+286,CDGI,Casta Diva,Milan,Consumer Cyclicals,Media & Publishing,€26.92M,16.5x,2.22,€1.34,-0.7%
+287,ECECRD,WisdomTree WTI Crude Oil - EUR Daily Hedged,Milan,Financials,Investment Banking & Investment Services,€26.30M,,,€2.71,-0.7%
+288,MARPZ,Marzocchi Pompe,Milan,Consumer Cyclicals,Automobiles & Auto Parts,€25.68M,8.7x,0.16,€3.96,0%
+289,ISCC,Integrated System Credit Consulting Fintech,Milan,Technology,Financial Technology (Fintech) & Infrastructure,€25.67M,-8.3x,0,€1.99,2.1%
+290,ACQ,Acquazzurra SpA,Milan,Consumer Cyclicals,Media & Publishing,€25.45M,235.1x,,€9.90,0%
+291,EBUL,WisdomTree Gold - EUR Daily Hedged,Milan,Financials,Investment Banking & Investment Services,€25.14M,,,€8.89,-0.7%
+292,PSQ,Pasquarelli Auto,Milan,,,€24.83M,5.8x,-0.06,€1,4.2%
+293,ECKS,Ecosuntek SpA,Milan,Energy,Renewable Energy,€24.67M,12.5x,-0.2,€14.40,0.7%
+294,NSP,Neosperience,Milan,Technology,Software & IT Services,€24.51M,89.1x,-1.96,€1.18,0%
+295,VNT,Vantea Smart SpA,Milan,Technology,Software & IT Services,€24.08M,41.8x,0.29,€1.89,0.5%
+296,DATR,Datrix,Milan,Technology,Software & IT Services,€23.97M,-7.8x,0.18,€1.44,0.7%
+297,ESVR,WisdomTree Silver - EUR Daily Hedged,Milan,Financials,Investment Banking & Investment Services,€23.58M,,,€4.69,-0.4%
+298,RETI,Reti SpA,Milan,Technology,Software & IT Services,€23.46M,15.7x,0.31,€1.90,1.6%
+299,ECMB,Ecomembrane,Milan,Industrials,Construction & Engineering,€23.40M,20.3x,,€5.45,-1.8%
+300,LFG,Leone Film Group SpA,Milan,Consumer Cyclicals,Media & Publishing,€23.25M,-30.5x,0.23,€1.65,-1.8%
+301,GRALA,Grifal,Milan,Basic Materials,Containers & Packaging,€22.99M,25.9x,0.25,€2.02,-2.4%
+302,NVPP,Nvp,Milan,Consumer Cyclicals,Media & Publishing,€22.49M,44.3x,1.34,€2.96,0%
+303,UBM,Ulisse Biomed Spa,Milan,Healthcare,Biotechnology & Medical Research,€22.46M,-5.2x,0.12,€1.03,0%
+304,CORE,Allcore,Milan,Industrials,Professional & Commercial Services,€22.44M,17.9x,,€1.51,0%
+305,CLED,Class Editori,Milan,Consumer Cyclicals,Media & Publishing,€22.40M,27.1x,,€0.08,0%
+306,IMD,IMD International Medical Devices,Milan,Healthcare,Healthcare Equipment & Supplies,€22.17M,9.7x,,€1.28,0%
+307,EGLB,EGlobe,Milan,,,€21.95M,13.7x,,€1.23,0%
+308,GCOM,Giglio.Com SpA,Milan,Consumer Cyclicals,Specialty Retailers,€21.89M,-11.9x,-0.52,€1.77,0%
+309,SIAV,Siav,Milan,Technology,Software & IT Services,€21.31M,-80.7x,0.61,€2.38,0%
+310,PORTO,Portobello,Milan,Consumer Cyclicals,Diversified Retail,€21.07M,-0.3x,0,€3.97,0.2%
+311,TB,Triboo,Milan,Consumer Cyclicals,Media & Publishing,€20.31M,-4.7x,0.01,€0.73,2.8%
+312,DOXE,Doxee,Milan,Technology,Software & IT Services,€20.06M,-3.5x,0,€1.75,0%
+313,HIA,Health Italia,Milan,Healthcare,Healthcare Providers & Services,€19.73M,11.9x,-0.2,€105.50,-0.5%
+314,IDNTT,Id Entity,Milan,Consumer Cyclicals,Media & Publishing,€19.38M,18.2x,1.04,€2.64,0%
+315,GGTV,Giglio Group SpA,Milan,Industrials,Diversified Industrial Goods Wholesale,€19.36M,-4.9x,,€0.58,1.8%
+316,CLAB,Clabo SPA,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€19.34M,"-2,030x",32.93,€2.03,0.5%
+317,MFTC,Matica Fintec,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€19.25M,8.3x,-0.55,€1.76,1.2%
+318,BELLN,Bellini Nautica,Milan,Consumer Cyclicals,Leisure Products,€19.14M,50.2x,,€3,1.4%
+319,TRWL,TraWell,Milan,Industrials,Transport Infrastructure,€18.84M,16.4x,0.14,€7.48,1.1%
+320,LS,Lemon Sistemi,Milan,,,€18.56M,11.6x,,€2.16,0%
+321,EAV,Emma Villas,Milan,Real Estate,Real Estate Operations,€18.54M,20.1x,,€2.66,0%
+322,NUSC,Nusco,Milan,Consumer Cyclicals,Homebuilding & Construction Supplies,€18.26M,8.2x,0.05,€0.92,-1.1%
+323,EUKE,Eukedos,Milan,Healthcare,Healthcare Providers & Services,€18.19M,33.3x,1.32,€0.80,-2.4%
+324,YOLO,Yolo,Milan,Financials,Insurance,€18.09M,,0.08,€1.43,3.6%
+325,NPI,Notorious,Milan,Consumer Cyclicals,Media & Publishing,€17.83M,9.1x,-0.16,€0.81,0%
+326,POZ,Pozzi Milano,Milan,Consumer Cyclicals,Media & Publishing,€17.39M,17x,,€0.50,0%
+327,VIMI,Vimi Fasteners,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€17.37M,9x,0.75,€1.29,-0.8%
+328,EBRT,WisdomTree Brent Crude Oil - EUR Daily Hedged,Milan,Financials,Investment Banking & Investment Services,€17.33M,,,€5.43,-0.9%
+329,LASIA,La Sia,Milan,Industrials,Construction & Engineering,€16.89M,8.5x,,€2.98,0%
+330,FOS,Fos,Milan,Technology,Software & IT Services,€16.67M,13x,-2.71,€2.48,-3.1%
+331,NRST,Neurosoft,Milan,Technology,Software & IT Services,€15.73M,12.3x,34.36,€0.62,3.3%
+332,IE,Iervolino,Milan,Consumer Cyclicals,Media & Publishing,€15.71M,299.3x,,€0.44,0%
+333,TCMA,Tecma,Milan,Consumer Cyclicals,Homebuilding & Construction Supplies,€15.67M,-2.2x,-1.83,€1.82,-5.2%
+334,LON,Longino & Cardenal,Milan,Consumer Non-Cyclicals,Food & Drug Retailing,€15.13M,-28.8x,-0.5,€2.42,0%
+335,LCMG,Lucisano Media Group,Milan,Consumer Cyclicals,Media & Publishing,€14.86M,2.9x,0.04,€1,0%
+336,ELSA,Elsa Solutions,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€14.36M,11x,,€3.90,1.6%
+337,OSA,Osai Automation System SpA,Milan,Technology,Semiconductors & Semiconductor Equipment,€14.36M,-3.1x,0,€0.89,2.3%
+338,GISM,Gismondi 1754,Milan,Consumer Cyclicals,Textiles & Apparel,€14.14M,425.3x,-4.36,€3.47,-0.3%
+339,GML,GM Leather,Milan,Consumer Cyclicals,Textiles & Apparel,€13.93M,6.9x,4.98,€1.24,-0.8%
+340,SOFT,Softlab,Milan,Technology,Software & IT Services,€13.86M,-36.8x,0.41,€1.03,0%
+341,SOTR,Sostravel.Com,Milan,Technology,Software & IT Services,€13.84M,11.7x,,€1.05,1.9%
+342,DIT,Destination Italia,Milan,Consumer Cyclicals,Hotels & Entertainment Services,€13.82M,-6.8x,0.08,€0.75,7.1%
+343,1CALL,MeglioQuesto SpA,Milan,Industrials,Professional & Commercial Services,€13.77M,-2.9x,,€0.22,0%
+344,ITWY,It Way,Milan,Technology,Software & IT Services,€13.70M,-57.2x,,€1.32,1.5%
+345,1TIME,Compagnia dei Caraibi SpA,Milan,Consumer Non-Cyclicals,Food & Drug Retailing,€13.42M,-1x,0,€0.94,0%
+346,ABTG,Alfio Bardolla,Milan,Consumer Non-Cyclicals,Personal & Household Products & Services,€13.30M,26.7x,0.15,€2.54,-0.8%
+347,SMN,Simone,Milan,,,€13.24M,5.1x,,€1.77,-2.2%
+348,ABIS,Arterra Bio,Milan,Healthcare,Biotechnology & Medical Research,€13.18M,12.2x,,€1.98,0%
+349,CLFF,Caleffi,Milan,Consumer Cyclicals,Textiles & Apparel,€13.15M,6.8x,-0.34,€0.85,0%
+350,TKOF,Take Off,Milan,Consumer Cyclicals,Specialty Retailers,€13.09M,13.1x,-0.18,€0.84,0%
+351,3EML,WisdomTree Emerging Markets 3x Daily Leveraged,Milan,Financials,Banking Services,€12.78M,,,€64.89,-0.5%
+352,CVG,Convergenze ,Milan,Utilities,Multiline Utilities,€12.67M,24.7x,0.15,€1.69,0%
+353,IVN,Ivision Tech,Milan,,,€12.56M,215.6x,,€1.61,-3.6%
+354,CSP,CSP International,Milan,Consumer Cyclicals,Textiles & Apparel,€12.23M,104.7x,-1.5,€0.31,0%
+355,AUMI,Autostrade Meridionali,Milan,Industrials,Construction & Engineering,€11.73M,8x,,€2.68,0.7%
+356,CFVT,Confinvest,Milan,Financials,Investment Banking & Investment Services,€11.62M,34.7x,-1.54,€1.65,-4.1%
+357,FDE,Frendy Energy,Milan,Utilities,Electrical Utilities & IPPs,€11.57M,65x,0.52,€0.19,0%
+358,WEBO,Websolute,Milan,Consumer Cyclicals,Media & Publishing,€11.55M,-18x,5.06,€1.18,0%
+359,ELG,Eligo,Milan,Technology,Software & IT Services,€11.34M,-4.5x,,€1.81,0%
+360,DART,DeodatoGallery,Milan,,,€11.34M,520x,,€0.36,0%
+361,MTV,Mondo TV,Milan,Consumer Cyclicals,Media & Publishing,€11.22M,11.5x,,€0.17,0%
+362,FZTC,Finanza Tech SB,Milan,Industrials,Professional & Commercial Services,€11.20M,24.4x,,€0.84,1.2%
+363,CLNBB,Cleanbnb,Milan,Real Estate,Real Estate Operations,€10.43M,39.2x,,€1.21,0%
+364,ALW,algoWatt,Milan,Technology,Software & IT Services,€10.40M,1.3x,,€0.23,0%
+365,PAG,Porto Aviation,Milan,,,€10.39M,48.3x,,€4.36,12.4%
+366,TNX,Tenax International SpA,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€10.09M,13.6x,0.14,€2.74,0%
+367,ESI,Esi,Milan,Industrials,Construction & Engineering,€9.96M,,,€1.34,0%
+368,SOGES,SOGES GROUP,Milan,Consumer Cyclicals,Hotels & Entertainment Services,€9.71M,21.8x,,€1.89,0%
+369,VNE,Vne,Milan,Industrials,Professional & Commercial Services,€9.68M,-8.9x,0,€2.62,0%
+370,SAC,Saccheria F lli Franceschetti,Milan,Basic Materials,Containers & Packaging,€9.57M,8.5x,-0.72,€1.08,0%
+371,POPR,Poligrafici Printing,Milan,Industrials,Professional & Commercial Services,€9.57M,6.4x,,€0.31,0%
+372,VLC,Valica,Milan,,,€9.52M,459.7x,,€4.66,0%
+373,ERFO,Laboratorio Farmaceutico Erfo,Milan,Healthcare,Pharmaceuticals,€9.46M,16.5x,-1.1,€1.10,8.9%
+374,RADIC,Radici Pietro,Milan,Consumer Cyclicals,Household Goods,€9.25M,20.1x,0.14,€1.05,-0.9%
+375,ZEST,Zest SpA,Milan,Financials,Investment Banking & Investment Services,€9.18M,-2.9x,,€0.16,0%
+376,GELE,Gel,Milan,Utilities,Water & Related Utilities,€9.07M,44.3x,-0.64,€1.33,0%
+377,4AIM,4Aim Societa di Investimento,Milan,Financials,Banking Services,€9.04M,-1x,0,€182,0%
+378,EDII,Monrif,Milan,Consumer Cyclicals,Media & Publishing,€8.76M,-4.8x,,€0.04,0%
+379,METM,MetExtra,Milan,Industrials,Professional & Commercial Services,€8.68M,3.7x,-0.29,€2.06,-5.5%
+380,LITX,Litix,Milan,,,€8.62M,11.9x,,€1.31,2.4%
+381,SF,SIF Italia,Milan,Real Estate,Real Estate Operations,€8.10M,33.8x,-0.39,€1.14,-0.9%
+382,COPR,Conafi Prestito,Milan,Financials,Banking Services,€8.02M,-4.3x,-0.1,€0.22,0%
+383,EXEC,Execus,Milan,,,€8M,101.6x,-1.65,€1.25,-2.3%
+384,MTFR,Mondo TV France,Milan,Consumer Cyclicals,Media & Publishing,€7.90M,-5.3x,0.04,€0.02,0%
+385,HQF,High Quality Food,Milan,Consumer Non-Cyclicals,Food & Tobacco,€7.74M,12.6x,,€0.69,-1.4%
+386,FDA,Fidia,Milan,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",€7.52M,-1.3x,0.05,€0.24,-4%
+387,BWZ,Beewize,Milan,Consumer Cyclicals,Media & Publishing,€7.21M,-4.9x,-0.17,€0.64,-1.5%
+388,SCM,Solutions Capital Management,Milan,Financials,Investment Banking & Investment Services,€7.02M,-26.8x,-0.4,€3.14,0%
+389,PRSM,PRISMI,Milan,Technology,Software & IT Services,€6.97M,-0.3x,,€0.06,0%
+390,AEDES,Aedes Ligure per Imprese e Costruzioni,Milan,Real Estate,Residential & Commercial REITs,€6.72M,-3.6x,,€0.21,0%
+391,MTSI,Mit Abbreviabile,Milan,Financials,Investment Banking & Investment Services,€6.62M,-17.1x,,€3.18,0%
+392,SEIFT,Societa Editoriale Il,Milan,Consumer Cyclicals,Media & Publishing,€6.54M,2x,0.07,€0.29,0%
+393,ENER,Enertronica,Milan,Energy,Renewable Energy,€6.52M,-0.4x,,€0.84,0%
+394,AGU,Arras,Milan,,,€6.38M,-2.7x,-0.03,€0.93,0%
+395,COPE,Copernico,Milan,Financials,Investment Banking & Investment Services,€6.18M,67.9x,0.09,€3.22,4.5%
+396,ALFO,Alfonsino,Milan,Industrials,Freight & Logistics Services,€6.13M,,-0.15,€0.45,-2.2%
+397,ALFO_t,Alfonsino,Milan,Industrials,Freight & Logistics Services,€6.13M,,-0.15,€0.45,-2.2%
+398,AAT,Aatech,Milan,Technology,Financial Technology (Fintech) & Infrastructure,€5.96M,,,€0.98,0%
+399,DOTS,Dotstay,Milan,,,€5.76M,,,€2.28,5.6%
+400,EVAS,Askoll Eva,Milan,Consumer Cyclicals,Automobiles & Auto Parts,€5.75M,-1.9x,,€0.22,-4.4%
+401,YKY,Yakkyo,Milan,Technology,Financial Technology (Fintech) & Infrastructure,€5.49M,84x,,€1,0%
+402,ICC,International Care,Milan,Industrials,Professional & Commercial Services,€5.24M,-6.7x,,€1.10,0%
+403,SGCO,Sg Company,Milan,Consumer Cyclicals,Media & Publishing,€5.21M,13.2x,,€0.22,0%
+404,TLSA,Telesia,Milan,Consumer Cyclicals,Media & Publishing,€5.17M,-16.7x,,€1.97,0%
+405,GAMB,Gambero Rosso SpA,Milan,Industrials,Professional & Commercial Services,€5.11M,4.4x,-0.16,€0.35,0%
+406,EUSE,WisdomTree Long SEK Short EUR,Milan,Financials,Investment Banking & Investment Services,€4.88M,,,€38.51,-0.1%
+407,AGAT,Agatos,Milan,Industrials,Construction & Engineering,€4.87M,-0.7x,0.01,€0.24,0%
+408,FCM,Friulchem,Milan,Healthcare,Pharmaceuticals,€4.80M,167.9x,,€0.80,0%
+409,U24,Ucapital24,Milan,Technology,Software & IT Services,€4.55M,-2.7x,-0.04,€0.24,0%
+410,ENGS,WisdomTree Natural Gas - EUR Daily Hedged,Milan,Financials,Investment Banking & Investment Services,€4.34M,,,€0.28,0%
+411,PFIN,Premia Finance SpA Societa di Mediazione Creditizi,Milan,Financials,Banking Services,€4.23M,-289.5x,2.21,€1.10,0%
+412,TDE,Trendevice,Milan,Consumer Cyclicals,Specialty Retailers,€4.10M,,,€0.21,0%
+413,RCKT,Rocket Sharing,Milan,Technology,Software & IT Services,€4.08M,-3.6x,,€0.33,0%
+414,MONNA,Monnalisa,Milan,Consumer Cyclicals,Textiles & Apparel,€3.97M,-0.6x,0.01,€0.76,2.7%
+415,GSRE,G Rent SpA,Milan,Real Estate,Real Estate Operations,€3.90M,-3.6x,0.42,€0.64,1.6%
+416,AMBA,Ambromobiliare,Milan,Financials,Investment Banking & Investment Services,€3.46M,-11.9x,-0.43,€1.27,3.2%
+417,CFM,CrowdFundMe,Milan,Financials,Investment Banking & Investment Services,€3.46M,,,€2.02,3.1%
+418,EUUS,WisdomTree Long USD Short EUR,Milan,Financials,Investment Banking & Investment Services,€3.26M,,,€56.81,-0.7%
+419,EPRB,Eprcomunicazione,Milan,Consumer Cyclicals,Media & Publishing,€3.06M,20.5x,,€1.09,0%
+420,VE,Visibilia Editore,Milan,Consumer Cyclicals,Media & Publishing,€2.86M,-0.8x,0.03,€0.38,0%
+421,EWAT,WisdomTree Wheat - EUR Daily Hedged,Milan,Financials,Investment Banking & Investment Services,€2.84M,,,€2.25,0.9%
+422,EGN,Egomnia,Milan,,,€2.71M,,,€0,0%
+423,MPT,Impianti,Milan,,,€2.64M,13.3x,,€0.34,-2.9%
+424,MEV,Mevim,Milan,Real Estate,Real Estate Operations,€2.30M,-0.1x,,€0.75,0%
+425,BIRO,Estrima,Milan,Consumer Cyclicals,Automobiles & Auto Parts,€2.05M,-0.2x,0,€0.41,0%
+426,TMPGP,Tmp,Milan,Consumer Cyclicals,Media & Publishing,€2.02M,147.8x,,€1.21,0%
+427,TWEP,Tweppy,Milan,Technology,Software & IT Services,€1.86M,-4.4x,,€0.80,6.7%
+428,3SNL,GraniteShares 3x Short Enel Daily,Milan,Financials,Investment Banking & Investment Services,€1.66M,,,€1.66,0.6%
+429,NTW,Netweek,Milan,Consumer Cyclicals,Media & Publishing,€1.58M,-0.1x,0,€0.03,0%
+430,EEMS,EEMS,Milan,Utilities,Natural Gas Utilities,€1.45M,-0.1x,0.04,€0.18,5.8%
+431,BIE,Bioera,Milan,Consumer Non-Cyclicals,Food & Tobacco,€1.36M,-0.2x,,€0.07,0%
+432,GBSE,WisdomTree Physical Gold - EUR Daily Hedged,Milan,Financials,Investment Banking & Investment Services,€1.12M,,,€13.57,-0.7%
+433,BES,Bestbe Holding,Milan,,,€993.58K,-0.3x,,€0.010,0%
+434,4AIM2,4Aim Societa di Investimento per Azioni a Capitale,Milan,Financials,Banking Services,€677.76K,,,€169.44,0%
+435,3BUS,WisdomTree Bund 10Y 3x Daily Short,Milan,Financials,Investment Banking & Investment Services,€621.01K,,,€58.73,-0.1%
+436,EUAU,WisdomTree Long AUD Short EUR,Milan,Financials,Investment Banking & Investment Services,€479.83K,,,€49.93,-0.6%
+437,FNX,Fenix Ent,Milan,Consumer Cyclicals,Media & Publishing,€470.28K,-0x,,€0.002,0%
+438,ILLA,ILLA SpA,Milan,Consumer Cyclicals,Household Goods,€359.86K,0x,,€0.00010,0%
+439,2TRV,WisdomTree STOXX Europe Travel & Leisure 2x Daily ,Milan,Financials,Banking Services,€356.69K,,,€23.11,6.5%
+440,CHEU,WisdomTree Short CHF Long EUR,Milan,Financials,Investment Banking & Investment Services,€282.17K,,,€27.94,0.5%
+441,EPH,EPH SpA,Milan,Technology,Software & IT Services,€65.56K,,,€0.006,0%
+442,3SPO,GraniteShares 3x Short Spotify Daily,Milan,Financials,Investment Banking & Investment Services,€45.93K,,,€22.97,0.6%
+443,3LCR,GraniteShares 3x Long UniCredit Daily,Milan,Financials,Investment Banking & Investment Services,€43.31K,,,€21.66,3.7%
+444,EUNO,WisdomTree Long NOK Short EUR,Milan,Financials,Investment Banking & Investment Services,,,,€35.24,0.3%
+445,WS5X,WisdomTree EURO STOXX 50,Milan,Financials,Investment Banking & Investment Services,,,,€33.14,0.9%
+446,QQQ3,WisdomTree NASDAQ 100 3x Daily Leveraged,Milan,Financials,Investment Banking & Investment Services,,,,€175.04,1.7%
+447,E9IA,ENovia,Milan,Technology,Software & IT Services,,-1x,,,0%
+448,3BRS,WisdomTree Brent Crude Oil 3x Daily Short,Milan,Financials,Investment Banking & Investment Services,,,,€0.71,1.4%
+449,QQQS,WisdomTree NASDAQ 100 3x Daily Short,Milan,Financials,Investment Banking & Investment Services,,,,€8.09,-3.3%
+450,3LCO,GraniteShares 3x Long Coinbase Daily,Milan,Financials,Investment Banking & Investment Services,,,,€9.75,-0.5%
+451,3SPP,GraniteShares 3x Short PayPal Daily,Milan,Financials,Banking Services,,,,€4.56,-2.4%
+452,EUS5,WisdomTree Long USD Short EUR 5x Daily,Milan,Financials,Investment Banking & Investment Services,,,,€101.36,-3.3%
+453,AIGS,WisdomTree Softs,Milan,Financials,Investment Banking & Investment Services,,,,€4.97,-0.4%
+454,WSPX,WisdomTree S&P 500,Milan,Financials,Investment Banking & Investment Services,,,,€29.56,0.1%
+455,3LMI,GraniteShares 3x Long MicroStrategy Daily,Milan,Financials,Investment Banking & Investment Services,,,,€24.07,-6.9%
+456,2SZM,GraniteShares 2x Short Zoom Daily,Milan,Financials,Investment Banking & Investment Services,,,,€6.98,-1.4%
+457,3EMS,WisdomTree Emerging Markets 3x Daily Short,Milan,Financials,Investment Banking & Investment Services,,,,€4.20,-1.9%
+458,2OIG,WisdomTree STOXX Europe Oil & Gas 2x Daily Short,Milan,,,,,,€11.09,0.2%
+459,3SEN,GraniteShares 3x Short Eni Daily,Milan,Financials,Investment Banking & Investment Services,,,,€20.57,0.3%
+460,3DES,WisdomTree DAX 3x Daily Short,Milan,Financials,Investment Banking & Investment Services,,,,€0.50,-2%

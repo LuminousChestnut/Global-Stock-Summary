@@ -1,0 +1,1955 @@
+1,CBAPL,Commonwealth Bank Australia,Sydney,Financials,Banking Services,A$226.95B,18.3x,-33.84,A$134.90,0.5%
+2,CBA,Commonwealth Bank Australia,Sydney,Financials,Banking Services,A$226.95B,18.3x,-33.84,A$134.90,0.5%
+3,CBAPJ,Commonwealth Bank of Australia,Sydney,Financials,Banking Services,A$224.41B,23.9x,,A$103.32,0.4%
+4,BHP,BHP Group Ltd,Sydney,Basic Materials,Metals & Mining,A$198.99B,17.8x,-0.25,A$39.21,-1%
+5,RIO,Rio Tinto Ltd,Sydney,Basic Materials,Metals & Mining,A$175.84B,10.8x,0.39,A$108.40,-3.6%
+6,CSL,CSL,Sydney,Healthcare,Pharmaceuticals,A$145.12B,36.3x,2.5,A$301.12,0.1%
+7,NAB,National Australia Bank,Sydney,Financials,Banking Services,A$110.78B,16.2x,-8.58,A$35.94,0.4%
+8,NABPH,National Australia Bank Prf,Sydney,Financials,Banking Services,A$110.10B,17.2x,,A$106.10,0.2%
+9,WBC,Westpac Banking,Sydney,Financials,Banking Services,A$99.47B,15.7x,5.53,A$29.30,1.6%
+10,NEM,Newmont DRC,Sydney,Basic Materials,Metals & Mining,A$85.20B,-25.4x,0.27,A$74.39,0.9%
+11,WES,Wesfarmers,Sydney,Consumer Cyclicals,Diversified Retail,A$84.67B,33.6x,-51.25,A$74.79,1.9%
+12,MQGPC,Macquarie Pref C,Sydney,,,A$75.81B,22.7x,,A$102.79,-0%
+13,MQGPE,Macquarie Group Prf,Sydney,,,A$75.81B,22.7x,,A$103.51,0%
+14,MQGPD,Macquarie Pref,Sydney,,,A$75.81B,22.7x,,A$105.86,-0%
+15,MQG,Macquarie,Sydney,Financials,Investment Banking & Investment Services,A$75.81B,22.7x,-0.7,A$208.45,1.3%
+16,GMG,Goodman Group,Sydney,Real Estate,Residential & Commercial REITs,A$66.16B,269.4x,-2.89,A$34.71,-1.3%
+17,SQ2,Block,Sydney,Industrials,Professional & Commercial Services,A$57.90B,56.3x,0.1,A$94.49,-0.9%
+18,FMG,Fortescue Metals,Sydney,Basic Materials,Metals & Mining,A$51.83B,6x,-24.79,A$16.82,-2.9%
+19,RMD,Resmed DRC,Sydney,Healthcare,Healthcare Equipment & Supplies,A$49.29B,32x,2.29,A$33.71,1.2%
+20,WDS,Woodside Energy,Sydney,Energy,Oil & Gas,A$48.51B,19.4x,-0.24,A$25.52,0.1%
+21,WOW,Woolworths,Sydney,Consumer Non-Cyclicals,Food & Drug Retailing,A$41.80B,"-4,890x",51.53,A$34.30,0.7%
+22,TCL,Transurban Group,Sydney,Industrials,Transport Infrastructure,A$41.43B,125.6x,0.3,A$13.37,1.1%
+23,ALL,Aristocrat Leisure,Sydney,Consumer Cyclicals,Hotels & Entertainment Services,A$34.09B,23.1x,0.51,A$54.10,1%
+24,WTC,Wisetech Global,Sydney,Technology,Software & IT Services,A$30.94B,139x,-38.21,A$93.09,-0.5%
+25,REA,Rea Group,Sydney,Technology,Software & IT Services,A$27.53B,91.2x,-5.88,A$208.36,-0.7%
+26,STO,Santos,Sydney,Energy,Oil & Gas,A$24.85B,11.7x,-0.37,A$7.67,-0.9%
+27,COL,Coles Group,Sydney,Consumer Non-Cyclicals,Food & Drug Retailing,A$24.50B,23.5x,-2.62,A$18.43,0.9%
+28,QBE,Qbe Insurance Group,Sydney,Financials,Insurance,A$24.25B,9.4x,0.1,A$16.15,-0.2%
+29,NWSLV,News Corp DRC B,Sydney,Consumer Cyclicals,Media & Publishing,A$23.74B,,0.77,A$40,0%
+30,NWS,News Corp B DRC,Sydney,Consumer Cyclicals,Media & Publishing,A$23.74B,,0.77,A$42.86,-1%
+31,AMC,Amcor,Sydney,Basic Materials,Containers & Packaging,A$23.28B,23.7x,-0.76,A$16.14,-0.1%
+32,COH,Cochlear,Sydney,Healthcare,Healthcare Equipment & Supplies,A$22.12B,58.6x,1.87,A$313,-7.3%
+33,SUN,Suncorp,Sydney,Financials,Insurance,A$21.73B,18.4x,0.42,A$17.01,0.4%
+34,BXB,Brambles,Sydney,Basic Materials,Containers & Packaging,A$21.45B,18.5x,0.83,A$15.47,1.4%
+35,JHX,James Hardie Industries,Sydney,Basic Materials,Construction Materials,A$21.07B,,31.97,A$48.96,0.2%
+36,XRO,Xero,Sydney,Technology,Software & IT Services,A$21.02B,132.2x,0.51,A$137.90,1.9%
+37,IAG,Insurance Australia Group,Sydney,Financials,Insurance,A$17.70B,22.5x,1.31,A$7.30,0.7%
+38,FPH,Fisher&Paykel Healthcare,Sydney,Healthcare,Healthcare Equipment & Supplies,A$17.52B,144.4x,-3.03,A$29.89,1.9%
+39,SCG,Scentre,Sydney,Real Estate,Real Estate Operations,A$17.49B,99.4x,-2.4,A$3.37,-1.8%
+40,REH,Reece,Sydney,Consumer Cyclicals,Homebuilding & Construction Supplies,A$17.09B,40.2x,47.83,A$26.47,1.4%
+41,ORG,Origin Energy,Sydney,Utilities,Electrical Utilities & IPPs,A$16.49B,10x,0.04,A$9.60,-9.4%
+42,CPU,Computershare,Sydney,Industrials,Professional & Commercial Services,A$16.34B,31.4x,1.12,A$27.72,3.1%
+43,NST,Northern Star Resources,Sydney,Basic Materials,Metals & Mining,A$16.13B,22x,,A$14.14,-0.7%
+44,MEZ,Meridian Energy Ltd,Sydney,Utilities,Electrical Utilities & IPPs,A$15.92B,205.3x,-2.14,A$6.19,6.4%
+45,SVW,Seven Group Holdings,Sydney,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",A$15.86B,31.9x,0.12,A$39.06,-0.3%
+46,URW,Unibail Rodamco Westfield,Sydney,Real Estate,Residential & Commercial REITs,A$15.65B,-9.2x,1.54,A$5.61,0.9%
+47,PME,Pro Medicus Ltd,Sydney,Healthcare,Healthcare Equipment & Supplies,A$15.50B,178.3x,5.23,A$149.02,5.7%
+48,LNW,Light Wonder DRC,Sydney,Consumer Cyclicals,Hotels & Entertainment Services,A$13.68B,30x,-1.61,A$155.05,-1.1%
+49,CAR,Carsales.Com,Sydney,Technology,Software & IT Services,A$13.65B,53.2x,-0.88,A$36.36,2.1%
+50,SHL,Sonic Healthcare,Sydney,Healthcare,Healthcare Providers & Services,A$13.42B,26.1x,-0.52,A$27.94,0.8%
+51,S32,South32,Sydney,Basic Materials,Metals & Mining,A$13.31B,-11x,0.08,A$2.92,0.3%
+52,ASX,ASX,Sydney,Financials,Investment Banking & Investment Services,A$12.48B,26.3x,0.62,A$64,0.9%
+53,SOL,Washington H Soul Pattinson,Sydney,Financials,Investment Holding Companies,A$12.46B,20.4x,-0.45,A$34.52,-0.1%
+54,AAI,Alcoa DRC,Sydney,,,A$12.13B,-10.1x,-0.23,A$47.06,-0.8%
+55,PFP,Propel Funeral Partners,Sydney,Consumer Non-Cyclicals,Personal & Household Products & Services,A$11.43B,40.3x,-4.28,A$5.96,-0.7%
+56,TLC,Lottery,Sydney,Consumer Cyclicals,Hotels & Entertainment Services,A$10.88B,35.9x,-9.29,A$4.87,-0.4%
+57,SGP,Stockland Corp,Sydney,Real Estate,Real Estate Operations,A$10.82B,44.8x,-0.63,A$4.55,1.3%
+58,MPL,Medibank Private Ltd,Sydney,Financials,Insurance,A$10.75B,15.6x,0.15,A$3.90,-0.5%
+59,RHC,Ramsay Health Care,Sydney,Healthcare,Healthcare Providers & Services,A$10.74B,12.6x,0.25,A$47,3.5%
+60,RHCPA,Ramsay Health Care Pref,Sydney,Healthcare,Healthcare Providers & Services,A$10.74B,12.6x,,A$106.11,-0.1%
+61,APA,APA Group,Sydney,Utilities,Natural Gas Utilities,A$10.20B,8.6x,0.03,A$7.90,-0.1%
+62,NXT,Nextdc,Sydney,Technology,Software & IT Services,A$10.12B,-182.6x,0.21,A$16.93,0.5%
+63,TWE,Treasury Wine Estates,Sydney,Consumer Non-Cyclicals,Beverages,A$9.91B,38x,-1.26,A$12.35,2%
+64,EDV,Endeavour Group,Sydney,Consumer Non-Cyclicals,Food & Drug Retailing,A$9.78B,18.2x,-3.32,A$5.48,0.4%
+65,VCX,Vicinity Centres,Sydney,Real Estate,Residential & Commercial REITs,A$9.72B,30.8x,-0.53,A$2.13,0.5%
+66,QAN,Qantas Airways,Sydney,Industrials,Passenger Transportation Services,A$9.66B,6.4x,0.03,A$6.03,0.3%
+67,IFT,Infratil,Sydney,Financials,Investment Banking & Investment Services,A$9.45B,10.2x,0.64,A$9.81,2.3%
+68,YAL,Yancoal Australia,Sydney,Energy,Coal,A$9.17B,5.1x,-0.1,A$6.95,-2.9%
+69,AFI,Australian Foundation,Sydney,Financials,Investment Banking & Investment Services,A$9.09B,30.7x,,A$7.25,-0.3%
+70,GPT,GPT Group,Sydney,Real Estate,Residential & Commercial REITs,A$8.82B,-36.8x,0.24,A$4.64,1.1%
+71,MIN,Mineral Resources,Sydney,Basic Materials,Metals & Mining,A$8.81B,29.1x,-0.55,A$44.93,-3%
+72,ORI,Orica,Sydney,Basic Materials,Chemicals,A$8.74B,16.1x,0.2,A$17.90,0.2%
+73,BSL,Bluescope Steel,Sydney,Basic Materials,Metals & Mining,A$8.72B,10.7x,-0.22,A$19.95,0.5%
+74,TPG,TPG Telecom,Sydney,Technology,Telecommunications Services,A$8.46B,175.8x,-1.88,A$4.56,0.2%
+75,MCY,Mercury NZ,Sydney,Utilities,Electrical Utilities & IPPs,A$8.36B,243.5x,-2.79,A$6,3.3%
+76,JBH,JB Hi-Fi,Sydney,Consumer Cyclicals,Specialty Retailers,A$8.28B,18.9x,-0.78,A$75.91,-0.5%
+77,PLS,Pilbara Minerals Ltd,Sydney,Basic Materials,Metals & Mining,A$8.14B,5.9x,-0.37,A$2.74,-3.9%
+78,GQG,GQG Partners DRC,Sydney,Financials,Investment Banking & Investment Services,A$8.03B,20.6x,0.94,A$2.85,4.8%
+79,DXS,Dexus,Sydney,Real Estate,Residential & Commercial REITs,A$7.89B,-5.1x,0.02,A$7.36,1.2%
+80,EVN,Evolution Mining,Sydney,Basic Materials,Metals & Mining,A$7.84B,18.5x,-0.9,A$3.97,-2.2%
+81,MGR,Mirvac Group,Sydney,Real Estate,Residential & Commercial REITs,A$7.77B,-9.6x,0.03,A$1.97,0.5%
+82,AGL,AGL Energy,Sydney,Utilities,Multiline Utilities,A$7.74B,10.8x,0.13,A$11.57,4.6%
+83,ALD,Ampol,Sydney,Energy,Oil & Gas,A$7.62B,14.9x,-0.45,A$31.62,-1.1%
+84,WOR,Worley Ltd,Sydney,Industrials,Construction & Engineering,A$7.51B,30.9x,0.01,A$14.24,-0.1%
+85,SEK,Seek,Sydney,Industrials,Professional & Commercial Services,A$7.44B,-121.1x,-0.82,A$21.04,3.3%
+86,ALX,Atlas Arteria,Sydney,Industrials,Transport Infrastructure,A$7.44B,23.4x,,A$5.20,1.4%
+87,ALQ,ALS,Sydney,Industrials,Professional & Commercial Services,A$7.40B,567.8x,-5.94,A$15.27,-0.3%
+88,CSC,Capstone Copper DRC,Sydney,,,A$7.36B,-219.9x,-5.24,A$9.50,-0.1%
+89,TNE,Technology One,Sydney,Technology,Software & IT Services,A$7.29B,66.4x,5.05,A$22.40,2.1%
+90,SPK,Spark New Zealand,Sydney,Technology,Telecommunications Services,A$7.27B,19.3x,-0.31,A$4.03,1.8%
+91,SDF,Steadfast Group,Sydney,Financials,Insurance,A$7.06B,32.9x,1.18,A$6.42,-1.1%
+92,BEN,Bendigo & Adelaide Bank,Sydney,Financials,Banking Services,A$6.91B,13x,0.47,A$12.22,0.6%
+93,BENPH,Bendigo and Adelaide Bank Prf,Sydney,Financials,Banking Services,A$6.91B,13x,,A$105.55,-0.1%
+94,ARG,Argo Investments,Sydney,Financials,Investment Banking & Investment Services,A$6.86B,27.1x,-3.53,A$8.97,-0.9%
+95,CWY,Cleanaway Waste,Sydney,Industrials,Professional & Commercial Services,A$6.67B,141.9x,-3.32,A$3,2%
+96,QUB,Qube,Sydney,Industrials,Transport Infrastructure,A$6.66B,39.4x,-8.67,A$3.78,-0.3%
+97,CEN,Contact Energy Ltd,Sydney,Utilities,Electrical Utilities & IPPs,A$6.39B,23.9x,0.04,A$8.10,2.7%
+98,AZJ,Aurizon Holdings,Sydney,Industrials,Freight & Logistics Services,A$6.30B,15.5x,0.59,A$3.43,1.8%
+99,TLX,Telix Pharma,Sydney,Healthcare,Biotechnology & Medical Research,A$6.16B,186.8x,1.35,A$18.41,-0.1%
+100,WHC,Whitehaven Coal,Sydney,Energy,Coal,A$6.13B,5.2x,-0.09,A$7.33,-4.9%
+101,HVN,Harvey Norman Holdings,Sydney,Consumer Cyclicals,Diversified Retail,A$6.06B,16.3x,-0.31,A$4.85,-1.4%
+102,CHC,Charter Hall Group,Sydney,Real Estate,Real Estate Operations,A$5.86B,88.9x,-0.99,A$12.45,2.5%
+103,LYC,Lynas Rare Earths,Sydney,Basic Materials,Metals & Mining,A$5.77B,28.6x,-0.45,A$6.17,0.2%
+104,IPL,Incitec Pivot,Sydney,Basic Materials,Chemicals,A$5.65B,97.7x,0.42,A$2.92,-1%
+105,VUK,Virgin Money,Sydney,Financials,Banking Services,A$5.42B,11.6x,-0.3,A$4.18,0%
+106,NWL,Netwealth Group,Sydney,Financials,Investment Banking & Investment Services,A$5.31B,60.7x,2.57,A$21.84,5.6%
+107,PMV,Premier Investments,Sydney,Consumer Cyclicals,Specialty Retailers,A$5.16B,18.7x,-2.34,A$32.34,0.4%
+108,NXG,Nexgen Energy DRC,Sydney,Energy,Uranium,A$5.04B,49.8x,0.24,A$9,1.5%
+109,CGF,Challenger,Sydney,Financials,Insurance,A$5.01B,38.6x,0,A$7.35,1.7%
+110,VEA,Viva Energy,Sydney,Energy,Oil & Gas,A$4.94B,"1,570x",-13.16,A$3.11,-0.6%
+111,FLT,Flight Centre,Sydney,Consumer Cyclicals,Hotels & Entertainment Services,A$4.49B,28.3x,0.15,A$20.48,0.3%
+112,LLC,Lend Lease Group,Sydney,Real Estate,Real Estate Operations,A$4.29B,-18.9x,0.02,A$6.28,0.3%
+113,BRG,Breville Group,Sydney,Consumer Cyclicals,Household Goods,A$4.20B,36.4x,6.61,A$29.26,0.9%
+114,LTM,Arcadium Lithium DRC,Sydney,Basic Materials,Chemicals,A$4.20B,9.8x,,A$3.83,-3.8%
+115,NHC,New Hope Corporation,Sydney,Energy,Coal,A$4.16B,6.3x,-0.14,A$4.94,-2.6%
+116,IEL,Idp Education Ltd,Sydney,Academic & Educational Services,Professional & Business Education,A$4.14B,25.2x,1.11,A$14.89,0.4%
+117,BOQPF,Bank of Queensland Prf,Sydney,Financials,Banking Services,A$4.10B,15.3x,,A$104.30,0.2%
+118,BOQ,Bank Of Queensland.,Sydney,Financials,Banking Services,A$4.10B,15.3x,0.09,A$6.25,0.9%
+119,BOQPE,Bank Queensland Pref,Sydney,Financials,Banking Services,A$4.10B,15.3x,,A$101.63,0%
+120,HUB,Hub24 Ltd,Sydney,Financials,Investment Banking & Investment Services,A$4.01B,90.6x,0.93,A$49.38,1%
+121,BKW,Brickworks,Sydney,Basic Materials,Construction Materials,A$3.99B,-337.3x,5.1,A$26.30,0.6%
+122,360,Life360,Sydney,Technology,Software & IT Services,A$3.96B,-77.2x,-1.78,A$17.94,0.8%
+123,AUB,AUB Group Ltd,Sydney,Financials,Insurance,A$3.93B,30.6x,0.4,A$33.73,-0.8%
+124,MTS,Metcash,Sydney,Consumer Non-Cyclicals,Food & Drug Retailing,A$3.92B,13.9x,-4.01,A$3.59,0.6%
+125,ANN,Ansell,Sydney,Healthcare,Healthcare Equipment & Supplies,A$3.90B,21.6x,-0.85,A$26.92,0.1%
+126,LOV,Lovisa Holdings Ltd,Sydney,Consumer Cyclicals,Specialty Retailers,A$3.84B,51.4x,10.94,A$35.14,1.5%
+127,IGO,IGO Ltd,Sydney,Basic Materials,Metals & Mining,A$3.77B,16.8x,-0.24,A$4.97,-1.2%
+128,SFR,Sandfire Resources,Sydney,Basic Materials,Metals & Mining,A$3.73B,-31.8x,0.1,A$8.22,0%
+129,VNT,Ventia Services,Sydney,Industrials,Construction & Engineering,A$3.69B,18.4x,-17.01,A$4.40,0.7%
+130,RWC,Reliance Worldwide,Sydney,Consumer Cyclicals,Homebuilding & Construction Supplies,A$3.67B,19.8x,-1.77,A$4.72,0.2%
+131,SUL,Super Retail Group,Sydney,Consumer Cyclicals,Specialty Retailers,A$3.59B,12.5x,-2.87,A$15.94,-1.2%
+132,NHF,NIB Holdings,Sydney,Financials,Insurance,A$3.53B,16.4x,0.38,A$7.29,1%
+133,PNI,Pinnacle Investment,Sydney,Financials,Investment Banking & Investment Services,A$3.42B,37.7x,2.22,A$17.29,0.3%
+134,AMP,AMP,Sydney,Financials,Investment Banking & Investment Services,A$3.39B,33.6x,,A$1.31,0%
+135,AMPPB,AMP Prf,Sydney,Financials,Investment Banking & Investment Services,A$3.39B,33.6x,,A$104.42,0.2%
+136,NIC,Nickel Mines,Sydney,Basic Materials,Metals & Mining,A$3.38B,14.4x,-0.45,A$0.79,1.9%
+137,PRU,Perseus Mining,Sydney,Basic Materials,Metals & Mining,A$3.37B,7.1x,0.14,A$2.47,-0.4%
+138,NSR,National Storage,Sydney,Real Estate,Residential & Commercial REITs,A$3.33B,90.2x,-6.82,A$2.43,1.3%
+139,ARB,ARB Corporation,Sydney,Consumer Cyclicals,Automobiles & Auto Parts,A$3.32B,36x,-4.17,A$40.28,0.2%
+140,ORA,Orora,Sydney,Basic Materials,Containers & Packaging,A$3.31B,16.5x,-0.58,A$2.46,2.9%
+141,DOW,Downer Edi,Sydney,Industrials,Construction & Engineering,A$3.29B,-8.3x,0.02,A$4.90,0.2%
+142,WEB,Webjet,Sydney,Consumer Cyclicals,Hotels & Entertainment Services,A$3.21B,43.4x,0.12,A$8.23,1%
+143,GYG,Guzman Y Gomez,Sydney,,,A$3.06B,-1.7x,,A$30.30,0.5%
+144,DMP,Domino'S Pizza Enterprises,Sydney,Consumer Cyclicals,Hotels & Entertainment Services,A$3.02B,85.2x,-0.68,A$33.10,-0.1%
+145,PDN,Paladin Energy,Sydney,Energy,Uranium,A$3.02B,39.3x,0.16,A$10.14,0.8%
+146,BFL,BSP Financial,Sydney,Financials,Banking Services,A$2.99B,8x,-0.48,A$6.41,0.2%
+147,HMC,HMC Capital,Sydney,Real Estate,Real Estate Operations,A$2.99B,35.8x,,A$8.01,1%
+148,BPT,Beach Energy,Sydney,Energy,Oil & Gas,A$2.95B,-6.3x,0.16,A$1.29,-0.8%
+149,CIA,Champion Iron Ltd,Sydney,Basic Materials,Metals & Mining,A$2.90B,8.8x,0.13,A$5.61,-2.4%
+150,SMR,Stanmore Coal,Sydney,Energy,Coal,A$2.88B,4x,-0.11,A$3.17,-6.2%
+151,DEG,De Grey Mining,Sydney,Basic Materials,Metals & Mining,A$2.88B,-103x,4.53,A$1.21,-1.2%
+152,APE,AP Eagers,Sydney,Consumer Cyclicals,Specialty Retailers,A$2.69B,9.4x,-1.05,A$10.43,0.3%
+153,WGX,Westgold Resources,Sydney,Basic Materials,Metals & Mining,A$2.67B,22.3x,0.23,A$2.87,-1.4%
+154,CLW,Charter Hall Long,Sydney,Real Estate,Residential & Commercial REITs,A$2.67B,-4.5x,0.03,A$3.69,0.3%
+155,HDN,Homeco Daily,Sydney,Real Estate,Residential & Commercial REITs,A$2.61B,31.8x,6.59,A$1.27,1.6%
+156,BWP,BWP Trust,Sydney,Real Estate,Residential & Commercial REITs,A$2.58B,13.3x,1.1,A$3.64,0.8%
+157,RGN,Region Re Unt,Sydney,Real Estate,Residential & Commercial REITs,A$2.58B,-40.4x,0.78,A$2.22,0.4%
+158,SNZ,Summerset Group,Sydney,Healthcare,Healthcare Providers & Services,A$2.54B,6.4x,0.1,A$10.80,-0.5%
+159,GMD,Genesis Minerals,Sydney,Basic Materials,Metals & Mining,A$2.47B,-21.9x,-0.78,A$2.18,-0.9%
+160,ZIP,Zip,Sydney,Financials,Banking Services,A$2.46B,-25.7x,-0.41,A$1.93,2.7%
+161,FBU,Fletcher Building,Sydney,Consumer Cyclicals,Homebuilding & Construction Supplies,A$2.44B,119.1x,-1.13,A$3.14,3.6%
+162,EMR,Emerald Resources NL,Sydney,Basic Materials,Metals & Mining,A$2.40B,28.6x,0.47,A$3.77,4.4%
+163,PXA,PEXA Group,Sydney,Technology,Software & IT Services,A$2.38B,-79x,0.27,A$13.59,1.1%
+164,ILU,Iluka Resources,Sydney,Basic Materials,Metals & Mining,A$2.35B,6.9x,-0.17,A$5.49,-1.3%
+165,PPT,Perpetual,Sydney,Financials,Investment Banking & Investment Services,A$2.35B,34.1x,-0.71,A$21,0.1%
+166,RMS,Ramelius Resources,Sydney,Basic Materials,Metals & Mining,A$2.35B,27.4x,0.1,A$2.04,0.5%
+167,RED,Red 5,Sydney,Basic Materials,Metals & Mining,A$2.33B,23x,0.29,A$0.34,-2.8%
+168,CDA,Codan,Sydney,Technology,Electronic Equipment & Parts,A$2.28B,30.6x,-3.28,A$12.62,1.6%
+169,MAQ,Macquarie Telecom,Sydney,Technology,Telecommunications Services,A$2.27B,84.8x,1.39,A$87.92,-1.2%
+170,CMM,Capricorn Metals,Sydney,Basic Materials,Metals & Mining,A$2.23B,119.2x,-1.54,A$5.93,-0.5%
+171,GNE,Genesis Energy Ltd,Sydney,Utilities,Electrical Utilities & IPPs,A$2.22B,27x,-0.4,A$2.09,2.4%
+172,PSI,PSC Insurance Group Ltd,Sydney,Financials,Insurance,A$2.22B,34.1x,0.36,A$6.07,0%
+173,MXT,Metrics Master Unt,Sydney,Financials,Collective Investments,A$2.20B,11.6x,,A$2.07,1%
+174,CRN,Coronado Global,Sydney,Basic Materials,Metals & Mining,A$2.18B,-53.6x,0.52,A$1.32,-1.9%
+175,MFF,MFF Capital,Sydney,Financials,Investment Banking & Investment Services,A$2.18B,4.9x,,A$3.76,0%
+176,NEC,Nine Entertainment,Sydney,Consumer Cyclicals,Media & Publishing,A$2.14B,22.3x,-0.36,A$1.35,0.7%
+177,INA,Ingenia Communities,Sydney,Real Estate,Real Estate Operations,A$2.09B,28.4x,-1.52,A$5.11,0.4%
+178,SGM,Sims Metal Management,Sydney,Basic Materials,Metals & Mining,A$2.06B,14.1x,-0.2,A$10.75,0.5%
+179,CQR,Charter Hall Retail Reit,Sydney,Real Estate,Residential & Commercial REITs,A$2.05B,-15.9x,0.12,A$3.54,1.1%
+180,DRR,Deterra Royalties,Sydney,Basic Materials,Metals & Mining,A$2.02B,12.6x,-1.77,A$3.70,0.3%
+181,GNC,Graincorp,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$2.01B,20.4x,-0.28,A$9.03,0%
+182,CIP,Centuria Industrial Reit Unt,Sydney,Real Estate,Residential & Commercial REITs,A$2.01B,41.6x,0.25,A$3.16,1.3%
+183,TUA,Tuas,Sydney,Technology,Telecommunications Services,A$2B,-121.3x,-3.28,A$4.17,-2.1%
+184,NEU,Neuren Pharma,Sydney,Healthcare,Biotechnology & Medical Research,A$1.99B,12.6x,0,A$15.61,0.1%
+185,CU6,Clarity Pharmaceuticals,Sydney,Healthcare,Biotechnology & Medical Research,A$1.96B,-42.2x,1.43,A$6.30,1.3%
+186,DHG,Domain Australia,Sydney,Technology,Software & IT Services,A$1.94B,53.1x,1.37,A$3.09,2%
+187,LSF,L1 Long Short Fund,Sydney,Financials,Investment Banking & Investment Services,A$1.94B,22x,-0.56,A$3.10,-1%
+188,SIG,Sigma Pharma,Sydney,Healthcare,Pharmaceuticals,A$1.93B,308.8x,3.61,A$1.23,-1.6%
+189,GOR,Gold Road Resources,Sydney,Basic Materials,Metals & Mining,A$1.92B,16.6x,0.24,A$1.77,0%
+190,IRE,Iress,Sydney,Technology,Financial Technology (Fintech) & Infrastructure,A$1.90B,-13.8x,0.04,A$10.49,1%
+191,LTR,Liontown Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$1.89B,-35.9x,0.19,A$0.78,-2.5%
+192,MFG,Magellan Financial Group,Sydney,Financials,Investment Banking & Investment Services,A$1.89B,9.3x,-2.07,A$10.44,7.6%
+193,CTD,Corporate Travel,Sydney,Consumer Cyclicals,Hotels & Entertainment Services,A$1.88B,17.1x,0.06,A$12.93,1.5%
+194,IFL,Insignia Financial,Sydney,Financials,Investment Banking & Investment Services,A$1.86B,-42.4x,0.23,A$2.78,0.4%
+195,EVT,EVT Ltd,Sydney,Consumer Cyclicals,Hotels & Entertainment Services,A$1.85B,49.7x,-0.72,A$11.46,2.9%
+196,DDR,Dicker Data,Sydney,Technology,"Computers, Phones & Household Electronics",A$1.82B,22.2x,2.36,A$10.09,-2.7%
+197,PNV,Polynovo,Sydney,Healthcare,Healthcare Equipment & Supplies,A$1.75B,"1,260x",8.57,A$2.52,-2%
+198,ZIM,Zimplats Holdings,Sydney,Basic Materials,Metals & Mining,A$1.74B,31x,-0.35,A$16.15,2.1%
+199,MP1,Megaport Ltd,Sydney,Technology,Software & IT Services,A$1.74B,207.5x,1.68,A$10.88,-0.5%
+200,GOZ,Growthpoint Properties,Sydney,Real Estate,Residential & Commercial REITs,A$1.73B,-6.8x,0.01,A$2.29,0.9%
+201,BGL,Bellevue Gold,Sydney,Basic Materials,Metals & Mining,A$1.72B,-150.6x,-2.74,A$1.35,-1.8%
+202,WLE,Wam Leaders,Sydney,Financials,Investment Banking & Investment Services,A$1.71B,25.6x,,A$1.25,-0.4%
+203,WPR,Waypoint REIT,Sydney,Real Estate,Residential & Commercial REITs,A$1.71B,-21.6x,0.13,A$2.56,0.8%
+204,AIZ,Air New Zealand,Sydney,Industrials,Passenger Transportation Services,A$1.70B,5.8x,0.02,A$0.50,-1%
+205,WAM,Wam Capital Ltd,Sydney,Financials,Investment Banking & Investment Services,A$1.69B,8.4x,,A$1.52,0%
+206,BAP,Bapcor,Sydney,Consumer Cyclicals,Automobiles & Auto Parts,A$1.68B,17.2x,-0.8,A$4.95,0.2%
+207,RDX,Redox,Sydney,Basic Materials,Chemicals,A$1.67B,42.6x,0.81,A$3.17,-0.3%
+208,NWH,NRW Holdings,Sydney,Industrials,Construction & Engineering,A$1.59B,18x,4.34,A$3.50,9.7%
+209,ARF,Arena Group,Sydney,Real Estate,Residential & Commercial REITs,A$1.57B,30.8x,-0.42,A$4.06,3.3%
+210,DBI,Dalrymple Bay Infrastructure,Sydney,Industrials,Transport Infrastructure,A$1.56B,20.1x,2.88,A$3.13,-0.6%
+211,WAF,West African Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$1.56B,9.8x,-0.96,A$1.40,2.2%
+212,JLG,Johns Lyng,Sydney,Industrials,Construction & Engineering,A$1.55B,33.3x,2.53,A$5.57,-0.5%
+213,AOV,Amotiv,Sydney,Consumer Cyclicals,Automobiles & Auto Parts,A$1.51B,15.3x,0.14,A$10.65,0.6%
+214,NUF,Nufarm,Sydney,Basic Materials,Chemicals,A$1.51B,-282.1x,3.06,A$3.96,-9.9%
+215,JDO,Judo Capital Holdings,Sydney,Financials,Banking Services,A$1.50B,18.9x,0.22,A$1.36,0.7%
+216,IPH,IPH,Sydney,Industrials,Professional & Commercial Services,A$1.50B,24.8x,-7.65,A$6.05,0.7%
+217,SGR,Star Entertainment,Sydney,Consumer Cyclicals,Hotels & Entertainment Services,A$1.49B,-0.8x,-0.02,A$0.52,-1%
+218,SSR,Ssr,Sydney,Basic Materials,Metals & Mining,A$1.49B,-2.1x,0,A$7.35,-1.1%
+219,ING,Inghams Group,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$1.45B,13.6x,0.02,A$3.91,2.4%
+220,SDR,Siteminder,Sydney,Technology,Software & IT Services,A$1.43B,-34.2x,-1.63,A$5.19,0%
+221,ELD,Elders,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$1.43B,22.2x,-0.48,A$9.06,-0.2%
+222,SPR,Spartan Resources,Sydney,Basic Materials,Metals & Mining,A$1.43B,-39.1x,-0.61,A$1.29,1.6%
+223,KAR,Karoon Gas Australia,Sydney,Energy,Oil & Gas,A$1.40B,2.9x,0.01,A$1.75,-1.1%
+224,KLS,Kelsian,Sydney,Industrials,Passenger Transportation Services,A$1.37B,43.2x,-0.9,A$5.09,0.8%
+225,BKI,BKI Investment,Sydney,Financials,Investment Banking & Investment Services,A$1.37B,21.3x,-1.51,A$1.70,-2.3%
+226,RSG,Resolute Mining,Sydney,Basic Materials,Metals & Mining,A$1.36B,13.6x,0.06,A$0.63,-0.8%
+227,MGH,MAAS Group Holdings,Sydney,Industrials,Construction & Engineering,A$1.35B,18.8x,-12.97,A$4.14,-1%
+228,TAH,Tabcorp Holdings,Sydney,Consumer Cyclicals,Hotels & Entertainment Services,A$1.35B,-2.1x,0.02,A$0.59,-0.8%
+229,BGA,Bega Cheese,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$1.33B,-6.3x,0,A$4.38,-0.2%
+230,TPW,Temple & Webster Group Ltd,Sydney,Consumer Cyclicals,Specialty Retailers,A$1.32B,844.8x,84.01,A$11.25,-6.9%
+231,AUI,Australian United Investment,Sydney,Financials,Investment Banking & Investment Services,A$1.31B,26.2x,-0.78,A$10.60,1.2%
+232,APM,APM Human Services International,Sydney,Industrials,Professional & Commercial Services,A$1.31B,17.4x,-0.39,A$1.44,0.7%
+233,CNI,Centuria Capital,Sydney,Financials,Investment Banking & Investment Services,A$1.30B,112.7x,-2.33,A$1.57,0.6%
+234,MAC,Metals Acquisition DRC,Sydney,Basic Materials,Metals & Mining,A$1.28B,-2.8x,0.2,A$17.19,-2.7%
+235,DTL,Data#3,Sydney,Technology,Software & IT Services,A$1.28B,31x,1.68,A$8.25,-0.4%
+236,REG,Regis Healthcare Ltd,Sydney,Healthcare,Healthcare Providers & Services,A$1.27B,-85.6x,-1.1,A$4.27,3.4%
+237,OCL,Objective Corp Ltd,Sydney,Technology,Software & IT Services,A$1.23B,45.6x,1.92,A$12.88,2.9%
+238,NCK,Nick Scali,Sydney,Consumer Cyclicals,Specialty Retailers,A$1.23B,14.6x,-0.84,A$14.51,-1.3%
+239,AX1,Accent Group Ltd,Sydney,Consumer Cyclicals,Specialty Retailers,A$1.22B,16.6x,-3.06,A$2.16,0.9%
+240,RRL,Regis Resources,Sydney,Basic Materials,Metals & Mining,A$1.22B,-14.3x,0.14,A$1.63,-0.6%
+241,MMS,Mcmillan Shakespeare,Sydney,Financials,Banking Services,A$1.20B,35x,-0.31,A$17.21,0.7%
+242,MAD,Mader Group,Sydney,Industrials,Professional & Commercial Services,A$1.20B,27.9x,0.83,A$6.27,4.5%
+243,LFSPA,Latitude Holdings Prf,Sydney,Financials,Banking Services,A$1.20B,-8.9x,0.02,A$96.01,0.2%
+244,BOE,Boss Resources Ltd,Sydney,Energy,Uranium,A$1.19B,14.2x,0.04,A$2.90,0.7%
+245,PWH,PWR Holdings Ltd,Sydney,Consumer Cyclicals,Automobiles & Auto Parts,A$1.17B,51.6x,3.89,A$11.75,0.4%
+246,MND,Monadelphous,Sydney,Industrials,Construction & Engineering,A$1.17B,21.2x,4.34,A$12.02,2.3%
+247,LFG,Liberty,Sydney,Financials,Banking Services,A$1.13B,8x,-0.29,A$3.72,0%
+248,DUI,Diversified United Investment,Sydney,Financials,Investment Banking & Investment Services,A$1.13B,28.7x,,A$5.27,1.2%
+249,HLI,Helia,Sydney,Financials,Insurance,A$1.13B,4.6x,0.07,A$3.88,0.3%
+250,MSB,Mesoblast,Sydney,Healthcare,Biotechnology & Medical Research,A$1.12B,-7.1x,-0.39,A$0.98,-1%
+251,GEM,G8 Education,Sydney,Consumer Non-Cyclicals,Personal & Household Products & Services,A$1.12B,20x,0.34,A$1.39,1.1%
+252,WTM,Waratah Minerals,Sydney,Basic Materials,Metals & Mining,A$1.12B,1.4x,0.01,A$0.40,-1.2%
+253,SNL,Supply Network Ltd,Sydney,Consumer Cyclicals,Automobiles & Auto Parts,A$1.11B,36.4x,1.29,A$26.05,-1.1%
+254,CMW,Cromwell Property,Sydney,Real Estate,Real Estate Operations,A$1.10B,-1.9x,0,A$0.41,-1.2%
+255,SIQ,Smartgroup Corporation Ltd,Sydney,Industrials,Professional & Commercial Services,A$1.08B,17.4x,3.34,A$8.29,0.6%
+256,RPL,Regal Partners,Sydney,Financials,Investment Banking & Investment Services,A$1.07B,667.9x,-7.23,A$3.35,-0.3%
+257,CCP,Credit Corp Group,Sydney,Financials,Banking Services,A$1.06B,20.8x,-0.48,A$15.55,-1.3%
+258,HLS,Primary Health Care,Sydney,Healthcare,Healthcare Providers & Services,A$1.06B,-0.9x,0,A$1.45,2.5%
+259,SKC,Skycity Entertainment,Sydney,Consumer Cyclicals,Hotels & Entertainment Services,A$1.06B,156.7x,-2.33,A$1.40,-1.1%
+260,SGF,SG Fleet Group Ltd,Sydney,Industrials,Professional & Commercial Services,A$1.06B,13.4x,1.64,A$3.10,-0.3%
+261,NXL,Nuix,Sydney,Technology,Software & IT Services,A$1.06B,-43.8x,-3.38,A$3.34,2.4%
+262,CKF,Collins Foods,Sydney,Consumer Cyclicals,Hotels & Entertainment Services,A$1.04B,13.6x,0.04,A$8.87,0.2%
+263,LIC,Lifestyle Comnts,Sydney,Real Estate,Real Estate Operations,A$1.03B,18.8x,-1.26,A$8.48,-3.8%
+264,PGF,PM Cap Global Opportunities,Sydney,Financials,Investment Banking & Investment Services,A$1.03B,10.4x,,A$2.18,0%
+265,IMD,Imdex,Sydney,Basic Materials,Metals & Mining,A$1.03B,35.3x,-0.83,A$2.03,-4.7%
+266,CQE,Charter Hall Education,Sydney,Real Estate,Residential & Commercial REITs,A$997.41M,-50.4x,-1.37,A$2.69,4.3%
+267,DRO,DroneShield,Sydney,Industrials,Aerospace & Defense,A$981.07M,56.8x,0.1,A$1.11,-5.6%
+268,DYL,Deep Yellow,Sydney,Energy,Uranium,A$972.37M,-67.5x,-6.22,A$1,0.5%
+269,ABG,Abacus Property,Sydney,Real Estate,Residential & Commercial REITs,A$965.15M,-4.8x,0.02,A$1.09,1.9%
+270,JIN,Jumbo Interactive,Sydney,Consumer Cyclicals,Hotels & Entertainment Services,A$956.49M,27.7x,3.41,A$15.23,0.5%
+271,GTK,Gentrack Group Ltd,Sydney,Technology,Software & IT Services,A$947.97M,137.6x,-5.14,A$9.19,-1.1%
+272,UOS,United Overseas Australia,Sydney,Real Estate,Real Estate Operations,A$942.39M,11.4x,0.78,A$0.57,0%
+273,A4N,Alpha HPA Ltd,Sydney,Basic Materials,Chemicals,A$939.43M,-35.7x,0.15,A$0.82,-1.2%
+274,ABB,Aussie Broadband,Sydney,Technology,Telecommunications Services,A$916.11M,31.1x,0.51,A$3.10,0%
+275,VSL,Vulcan Steel,Sydney,Basic Materials,Metals & Mining,A$909.35M,16.4x,-0.3,A$7.15,3.3%
+276,DXI,Dexus Industria REIT Unt,Sydney,Real Estate,Residential & Commercial REITs,A$904.22M,-260.9x,-4.23,A$2.86,1.1%
+277,PL8,Platoome Maximiser,Sydney,Financials,Investment Banking & Investment Services,A$902.11M,14.4x,0.08,A$1.20,-2.8%
+278,BGP,Briscoe Group,Sydney,Consumer Cyclicals,Specialty Retailers,A$894.63M,12.1x,-2.51,A$3.80,0%
+279,PRN,Perenti Global Ltd,Sydney,Basic Materials,Metals & Mining,A$894.34M,5.9x,0.08,A$0.96,0.5%
+280,OBM,Ora Banda Mining,Sydney,Basic Materials,Metals & Mining,A$892.53M,-61x,-0.67,A$0.49,7.8%
+281,EQT,EQT Holdings,Sydney,Financials,Investment Banking & Investment Services,A$885.72M,37x,5.72,A$33.23,-1.5%
+282,WA1,WA1 Resources,Sydney,Basic Materials,Metals & Mining,A$885.42M,-289.5x,-51,A$13.47,-0.2%
+283,HSN,Hansen Tech,Sydney,Technology,Software & IT Services,A$871.09M,19.7x,0.69,A$4.29,0.2%
+284,ASB,Austal,Sydney,Industrials,Aerospace & Defense,A$855.94M,158x,-1.94,A$2.37,-0.6%
+285,NAN,Nanosonics,Sydney,Healthcare,Healthcare Equipment & Supplies,A$851.42M,54x,1.08,A$2.80,-0.7%
+286,ADT,Adriatic Metals,Sydney,Basic Materials,Metals & Mining,A$848.51M,-17x,-0.47,A$2.62,-1.9%
+287,NGI,Navigator Global,Sydney,Financials,Investment Banking & Investment Services,A$845.36M,28.1x,-0.72,A$1.73,-5.2%
+288,SSM,Service Stream,Sydney,Industrials,Construction & Engineering,A$827.11M,36.1x,0.23,A$1.35,2.3%
+289,RFF,Rural Funds Group,Sydney,Real Estate,Residential & Commercial REITs,A$816.79M,8x,-0.15,A$2.11,1%
+290,AAC,Australian Agricultural,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$813.74M,-8.5x,0,A$1.36,-0.4%
+291,DJW,Djerriwarrh Investments,Sydney,Financials,Investment Banking & Investment Services,A$794.24M,20.5x,,A$3,-0.3%
+292,CIN,Carlton Investments,Sydney,Financials,Investment Banking & Investment Services,A$793.19M,20.8x,,A$29.99,0%
+293,SLC,Superloop Ltd,Sydney,Technology,Telecommunications Services,A$791.69M,-18.6x,-0.88,A$1.57,-0.6%
+294,WGB,WAM Global,Sydney,Financials,Investment Banking & Investment Services,A$784.86M,7.8x,,A$2.21,0%
+295,OML,oOh!Media Ltd,Sydney,Consumer Cyclicals,Media & Publishing,A$783.93M,23.2x,1.23,A$1.47,0.7%
+296,GDG,Generation Develop,Sydney,Financials,Collective Investments,A$774.68M,64.6x,0.17,A$2.64,0%
+297,AD8,Audinate,Sydney,Technology,Electronic Equipment & Parts,A$742.99M,45.2x,0.07,A$8.98,-0.2%
+298,FPR,Fleetpartners,Sydney,Financials,Banking Services,A$733.21M,10.3x,3.19,A$3.17,-2.5%
+299,KKC,Kkr Credit,Sydney,Financials,Collective Investments,A$728.93M,6x,,A$2.25,-0.4%
+300,COF,Centuria Metropolitan,Sydney,Real Estate,Residential & Commercial REITs,A$727.56M,-4.2x,0.01,A$1.22,-2.4%
+301,KLL,Kalium Lakes,Sydney,Basic Materials,Chemicals,A$727.34M,-0.3x,,A$0.03,0%
+302,MOT,Metrics Unt,Sydney,Financials,Collective Investments,A$722.79M,10.4x,,A$2.18,0%
+303,PGC,Paragon Care Ltd,Sydney,Healthcare,Healthcare Equipment & Supplies,A$720.06M,3.2x,,A$0.43,-1.2%
+304,QRI,Qualitas Real Estate,Sydney,Financials,Banking Services,A$715.78M,11.6x,,A$1.62,0.6%
+305,MAF,MA Financial,Sydney,Financials,Investment Banking & Investment Services,A$713.53M,24.8x,-0.69,A$4.40,-1.1%
+306,CUV,Clinuvel Pharmaceuticals,Sydney,Healthcare,Pharmaceuticals,A$700.09M,25.2x,1.58,A$13.96,-1.4%
+307,VUL,Vulcan Energy,Sydney,Basic Materials,Metals & Mining,A$699.12M,-13.4x,-1.61,A$3.73,-2.1%
+308,RIC,Ridley Corp,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$697.99M,16.6x,4.05,A$2.20,-2.2%
+309,PMT,Patriot Battery Metals DRC,Sydney,Basic Materials,Metals & Mining,A$692.66M,220x,2.17,A$0.48,-1.5%
+310,HCW,Healthco Healthcare and Wellness Reit Unt,Sydney,Real Estate,Residential & Commercial REITs,A$688.09M,98.2x,-0.6,A$1.23,0.4%
+311,BCI,BC Iron,Sydney,Basic Materials,Metals & Mining,A$686.53M,60x,0.72,A$0.23,0%
+312,GCI,Gryphon Capital Income Trust,Sydney,Financials,Collective Investments,A$686.22M,11.8x,,A$2.04,0%
+313,BOT,Botanix Pharma,Sydney,Healthcare,Pharmaceuticals,A$678.76M,-53.6x,-1.71,A$0.38,2.7%
+314,MYR,Myer Holdings,Sydney,Consumer Cyclicals,Diversified Retail,A$677.57M,14.5x,-0.33,A$0.81,0%
+315,VGL,Vista,Sydney,Technology,Software & IT Services,A$660.74M,-95.5x,-2.11,A$2.73,-2.5%
+316,HPI,Hotel Property,Sydney,Real Estate,Residential & Commercial REITs,A$658.77M,30.5x,-0.43,A$3.36,-0.9%
+317,QAL,Qualitas,Sydney,Financials,Investment Banking & Investment Services,A$652.85M,28.7x,,A$2.30,3.1%
+318,WHFPB,Whitefield Pref B,Sydney,Financials,Investment Holding Companies,A$652.73M,31.8x,3.07,A$100,0%
+319,WHF,Whitefield,Sydney,Financials,Investment Holding Companies,A$652.73M,31.8x,3.07,A$5.49,0%
+320,GWA,GWA Group Ltd,Sydney,Consumer Cyclicals,Homebuilding & Construction Supplies,A$652.40M,14.4x,0.79,A$2.46,0%
+321,IFM,Infomedia,Sydney,Technology,Software & IT Services,A$648.66M,66.3x,22.89,A$1.73,2.4%
+322,CBO,Cobram Estate Olives,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$643.75M,79.6x,0.21,A$1.63,5.8%
+323,PPM,Pepper Money,Sydney,Financials,Banking Services,A$631.44M,5.8x,-0.23,A$1.46,2.8%
+324,PNR,Pantoro,Sydney,Basic Materials,Metals & Mining,A$626.04M,-8.3x,-0.18,A$0.10,-6.7%
+325,MIR,Mirrabooka Investments,Sydney,Financials,Investment Banking & Investment Services,A$616.72M,56.8x,-9.7,A$3.19,0.9%
+326,HM1,Hearts Minds,Sydney,Financials,Investment Banking & Investment Services,A$609.09M,26.8x,0.2,A$2.65,-1.1%
+327,C79,Chrysos,Sydney,Basic Materials,Metals & Mining,A$607.06M,-296.8x,-6.62,A$5.19,-1.7%
+328,LLL,Leo Lithium,Sydney,Basic Materials,Metals & Mining,A$605.08M,,3.55,A$0.51,0%
+329,MAH,Macmahon Holdings,Sydney,Basic Materials,Metals & Mining,A$598.99M,8.5x,0.17,A$0.29,0%
+330,PPC,Peet,Sydney,Real Estate,Real Estate Operations,A$590.88M,11.8x,-0.5,A$1.25,-1.2%
+331,PTM,Platinum Asset Management,Sydney,Financials,Investment Banking & Investment Services,A$587.75M,7.5x,9.58,A$1.03,2%
+332,OPH,Ophir High Conviction Fund,Sydney,Financials,Collective Investments,A$583.21M,10.3x,,A$2.62,1.5%
+333,RF1,Regal Investment Fund,Sydney,Financials,Investment Banking & Investment Services,A$583.08M,9.9x,,A$3.06,-1%
+334,IDX,Integral Diagnostics Ltd,Sydney,Healthcare,Healthcare Providers & Services,A$582.45M,-10x,0.03,A$2.49,0.4%
+335,BVS,Bravura Solutions,Sydney,Technology,Software & IT Services,A$564.93M,-5.6x,-0.08,A$1.25,0.4%
+336,PAC,Pacific Current Group,Sydney,Financials,Investment Banking & Investment Services,A$561.12M,93.5x,0.78,A$10.70,-0.5%
+337,BLX,Beacon Lighting Group Ltd,Sydney,Consumer Cyclicals,Specialty Retailers,A$560.29M,16.5x,-0.75,A$2.46,5.1%
+338,OPT,Opthea,Sydney,Healthcare,Biotechnology & Medical Research,A$553.99M,-0.9x,-2.13,A$0.45,2.3%
+339,IPX,IperionX Limited,Sydney,Basic Materials,Metals & Mining,A$553.26M,-14.8x,-0.59,A$2.12,-4.5%
+340,BRE,Brazilian Rare Earths,Sydney,Basic Materials,Metals & Mining,A$552.25M,-8x,0.02,A$2.26,-2.6%
+341,WTN,Winton Land,Sydney,Real Estate,Real Estate Operations,A$550.42M,16.2x,-0.37,A$2,0%
+342,COE,Cooper Energy,Sydney,Energy,Oil & Gas,A$549.13M,-3.9x,0,A$0.20,-4.7%
+343,RUL,RPMGlobal Holdings,Sydney,Technology,Software & IT Services,A$548.32M,62.4x,0.21,A$2.47,-2.4%
+344,LYL,Lycopodium,Sydney,Industrials,Construction & Engineering,A$546.43M,9.4x,0.12,A$13.76,0.9%
+345,PCI,Perpetual Credit Income Trust,Sydney,Financials,Collective Investments,A$541.83M,11.5x,,A$1.12,0.4%
+346,PDI,Predictive Discovery,Sydney,Basic Materials,Metals & Mining,A$540.71M,-73.3x,-1.05,A$0.22,15.4%
+347,CAT,Catapult Group International,Sydney,Technology,Electronic Equipment & Parts,A$539.42M,-20.4x,-0.44,A$2.16,-1.8%
+348,MVF,Monash IVF Group Ltd,Sydney,Healthcare,Healthcare Providers & Services,A$538.86M,22.1x,0.52,A$1.38,-0.4%
+349,SGLLV,Ricegrowers B,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$538.74M,13.9x,0.56,A$8.21,0.6%
+350,FCL,Fineos Corp Holdings,Sydney,Technology,Software & IT Services,A$531.16M,-22.7x,-0.38,A$1.54,-1.6%
+351,VG1,VGI Partners,Sydney,Financials,Investment Banking & Investment Services,A$530.36M,8.5x,0.04,A$1.88,0.8%
+352,DVP,Develop Global,Sydney,Basic Materials,Metals & Mining,A$525.14M,-25.6x,0.87,A$2.03,0%
+353,CVL,Civmec,Sydney,Industrials,Construction & Engineering,A$520.80M,8.5x,1.25,A$1.08,0%
+354,LRS,Latin Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$513.03M,-22.5x,0.19,A$0.19,54.2%
+355,CTT,Cettire,Sydney,Consumer Cyclicals,Specialty Retailers,A$510.92M,26.4x,0.03,A$1.29,2.4%
+356,FGG,Future Generation Global,Sydney,Financials,Investment Banking & Investment Services,A$509.65M,9.1x,,A$1.28,-0.4%
+357,ACL,Australian Clinical Labs,Sydney,Healthcare,Healthcare Providers & Services,A$509.28M,30.8x,-0.4,A$2.60,2.4%
+358,SHV,Select Harvests,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$502.39M,-24.1x,-0.32,A$4.21,1%
+359,STX,Strike Energy Ltd,Sydney,Energy,Oil & Gas,A$501.44M,175x,2.41,A$0.18,-2.7%
+360,SXG,Southern Cross Gold,Sydney,Basic Materials,Metals & Mining,A$494.37M,-26.3x,0.57,A$2.29,-6.4%
+361,OFX,OFX Group,Sydney,Industrials,Professional & Commercial Services,A$492.73M,15.7x,,A$2.06,0.5%
+362,IMM,Immutep,Sydney,Healthcare,Biotechnology & Medical Research,A$484.35M,-8.8x,-1.33,A$0.34,1.5%
+363,FGX,Future Generation,Sydney,Financials,Investment Banking & Investment Services,A$483.67M,10.5x,,A$1.19,0.9%
+364,PYC,PYC Therapeutics Ltd,Sydney,Healthcare,Biotechnology & Medical Research,A$480.61M,-17.2x,-1.33,A$0.10,-4.8%
+365,AQZ,Alliance Aviation,Sydney,Industrials,Passenger Transportation Services,A$477.38M,8.5x,0.01,A$3,1.4%
+366,IPG,IPD,Sydney,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",A$470.38M,23.8x,1.38,A$4.55,0%
+367,TBN,Tamboran Resources,Sydney,Energy,Oil & Gas,A$469.40M,-8x,-2.05,A$0.16,-3%
+368,UNI,Universal Store,Sydney,Consumer Cyclicals,Specialty Retailers,A$467.23M,15.4x,11.88,A$6.10,0.2%
+369,LOT,Lotus Resources,Sydney,Energy,Uranium,A$463.44M,-31.3x,-1.23,A$0.25,4.2%
+370,BFG,Bell Financial Group,Sydney,Financials,Investment Banking & Investment Services,A$461.87M,19.1x,-3.74,A$1.44,-1.7%
+371,PIC,Perpetual Equity,Sydney,Financials,Investment Banking & Investment Services,A$458.76M,26.3x,,A$1.20,0%
+372,CYL,Catalyst Metals Ltd,Sydney,Basic Materials,Metals & Mining,A$458.34M,-21.6x,0.05,A$2,-4.3%
+373,SXE,Southern Cross Electrical,Sydney,Industrials,Construction & Engineering,A$457.99M,23.3x,7.2,A$1.75,0.3%
+374,TYR,Tyro Payments,Sydney,Industrials,Professional & Commercial Services,A$456.41M,51.5x,0.24,A$0.89,2.3%
+375,SRG,SRG Global,Sydney,Industrials,Construction & Engineering,A$453.56M,17.3x,-3.88,A$0.87,-0.6%
+376,ASG,Autosports Group,Sydney,Consumer Cyclicals,Specialty Retailers,A$436.17M,6.6x,-2.88,A$2.17,2.4%
+377,AEF,Australian Ethical Invest,Sydney,Financials,Investment Banking & Investment Services,A$434.21M,40.1x,0.27,A$3.85,2.1%
+378,SST,Steamships Trading,Sydney,Industrials,Freight & Logistics Services,A$434.12M,19.4x,69.44,A$14,0%
+379,AFG,Australian Finance Group Ltd,Sydney,Financials,Banking Services,A$433.23M,14.4x,-5.26,A$1.60,0.6%
+380,KGN,Kogan.com,Sydney,Consumer Cyclicals,Diversified Retail,A$428.63M,67.6x,0.54,A$4.27,1.2%
+381,MYS,Mystate,Sydney,Financials,Banking Services,A$426.92M,11.8x,-4.77,A$3.87,0.3%
+382,APZ,Aspen Group Unit,Sydney,Real Estate,Real Estate Operations,A$426.09M,7.2x,-0.2,A$2.13,7%
+383,KSC,K & S Corporation,Sydney,Industrials,Freight & Logistics Services,A$424.23M,15.4x,1.28,A$3.10,0%
+384,PMC,Platinum Capital,Sydney,Financials,Collective Investments,A$423.94M,25.6x,,A$1.43,0.4%
+385,GNP,Genusplus,Sydney,Industrials,Construction & Engineering,A$419.43M,23.6x,0.56,A$2.31,-2.1%
+386,BMN,Bannerman Energy,Sydney,Energy,Uranium,A$419.22M,-47.1x,1.18,A$2.39,-0.8%
+387,SRV,Servcorp,Sydney,Real Estate,Real Estate Operations,A$418.29M,26x,-0.57,A$4.25,3.2%
+388,SKO,Serko,Sydney,Technology,Software & IT Services,A$412.16M,-28x,-0.58,A$3.30,-1.5%
+389,MGX,Mount Gibson Iron,Sydney,Basic Materials,Metals & Mining,A$411.80M,2.9x,0.01,A$0.34,-6.9%
+390,JMS,Jupiter Mines,Sydney,Basic Materials,Metals & Mining,A$411.71M,8.9x,,A$0.21,-10.6%
+391,CWP,Cedar Woods Properties,Sydney,Real Estate,Real Estate Operations,A$408.80M,16.1x,-0.74,A$4.92,-1.4%
+392,EHL,Emeco,Sydney,Industrials,Professional & Commercial Services,A$408.27M,7x,0.13,A$0.80,0%
+393,FSF,Fonterra Shareholders,Sydney,Financials,Investment Banking & Investment Services,A$408.16M,,,A$3.80,0.3%
+394,MAUCA,Magnetic Resources NL,Sydney,Basic Materials,Metals & Mining,A$401.19M,-25x,1.25,A$1.17,-2.5%
+395,MAU,Magnetic Resources NL,Sydney,Basic Materials,Metals & Mining,A$400.67M,-38.9x,1.25,A$1.55,-0.2%
+396,ERA,Energy Resources Of Australia,Sydney,Energy,Uranium,A$398.67M,-0.3x,0,A$0.02,0%
+397,ALI,Argo Global,Sydney,Financials,Investment Banking & Investment Services,A$394.67M,88.4x,,A$2.22,1.4%
+398,CVW,Clearview Wealth,Sydney,Financials,Insurance,A$392.96M,111.3x,-0.25,A$0.60,2.6%
+399,WMI,WAM Microcap,Sydney,Financials,Investment Banking & Investment Services,A$391.75M,17.3x,,A$1.42,1.1%
+400,IMU,Imugene Ltd,Sydney,Healthcare,Biotechnology & Medical Research,A$389.51M,-4.1x,0.05,A$0.05,-1.9%
+401,TWR,Tower,Sydney,Financials,Insurance,A$385.18M,10.7x,0.05,A$1.01,-1.5%
+402,DXC,Convenience Retail,Sydney,Real Estate,Residential & Commercial REITs,A$384.34M,-697.5x,0.55,A$2.79,0.2%
+403,WBT,Weebit Nano,Sydney,Technology,Semiconductors & Semiconductor Equipment,A$383.50M,-9.1x,0.28,A$2.03,-1.5%
+404,RDY,Readytech,Sydney,Technology,Software & IT Services,A$378.68M,59.2x,0.99,A$3.12,-1.3%
+405,ADH,Adairs Ltd,Sydney,Consumer Cyclicals,Specialty Retailers,A$375.57M,11.1x,-0.32,A$2.14,-2.3%
+406,CHN,Chalice Mining,Sydney,Basic Materials,Metals & Mining,A$374.63M,-6.1x,-0.43,A$0.96,-2.5%
+407,ARU,Arafura Resources,Sydney,Basic Materials,Metals & Mining,A$371.85M,-2.7x,0.03,A$0.16,0%
+408,SVM,Sovereign Metals,Sydney,Basic Materials,Metals & Mining,A$367.50M,-77.5x,-1.14,A$0.62,-0.8%
+409,HLO,Helloworld,Sydney,Consumer Cyclicals,Hotels & Entertainment Services,A$363.81M,11x,-0.15,A$2.26,-1.7%
+410,FFM,Firefly Metals,Sydney,Basic Materials,Metals & Mining,A$362.93M,-8.1x,0.06,A$0.75,1.3%
+411,KPG,Kelly Partners,Sydney,Industrials,Professional & Commercial Services,A$359.60M,100.8x,-5.96,A$8,0%
+412,AMH,AMCIL Ltd,Sydney,Financials,Investment Banking & Investment Services,A$356.40M,46.9x,-23.47,A$1.13,2.3%
+413,DUG,Dug Tech,Sydney,Technology,Software & IT Services,A$354.37M,55.4x,0.15,A$3.04,1.3%
+414,KCN,Kingsgate Consolidated,Sydney,Basic Materials,Metals & Mining,A$353.12M,20.2x,0.15,A$1.37,2.2%
+415,HTA,Hutchison Telecom,Sydney,Technology,Telecommunications Services,A$352.89M,-2.9x,-0.05,A$0.03,0%
+416,BRN,Brainchip Holdings,Sydney,Technology,Software & IT Services,A$352.65M,-7.7x,0.29,A$0.18,2.9%
+417,PAI,Platinum Asia Investments Ltd,Sydney,Financials,Investment Banking & Investment Services,A$352.41M,-190.6x,-2.01,A$0.95,0%
+418,TEA,Tasmea,Sydney,,,A$352.03M,16.5x,,A$1.58,-1.6%
+419,SKT,Sky Network Television,Sydney,Consumer Cyclicals,Media & Publishing,A$351.07M,7.6x,1.16,A$2.53,-0.4%
+420,RXM,Rex Minerals,Sydney,Basic Materials,Metals & Mining,A$350.63M,-14.2x,-1.43,A$0.45,0%
+421,RMC,Resimac,Sydney,Financials,Banking Services,A$348M,7.3x,-0.16,A$0.87,-2.3%
+422,PE1,Pengana Private Equity,Sydney,Financials,Collective Investments,A$346.70M,23.2x,,A$1.25,0.4%
+423,QOR,Qoria,Sydney,Technology,Software & IT Services,A$340.36M,,-0.76,A$0.32,8.3%
+424,ANG,Austin Engineering,Sydney,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",A$337.27M,22.7x,0.48,A$0.58,-4.1%
+425,CDP,Carindale Property Trust,Sydney,Real Estate,Residential & Commercial REITs,A$335.28M,-470x,4.96,A$4.23,-1.9%
+426,IGL,Ive Group Ltd,Sydney,Consumer Cyclicals,Media & Publishing,A$334.14M,22.2x,-0.5,A$2.19,1.4%
+427,EOS,Electro Optic Systems Holdings,Sydney,Industrials,Aerospace & Defense,A$333.81M,-8.4x,-0.13,A$1.73,1.2%
+428,MLX,Metals X,Sydney,Basic Materials,Metals & Mining,A$330.77M,22.8x,-0.27,A$0.37,0%
+429,GRR,Grange Resources,Sydney,Basic Materials,Metals & Mining,A$329.84M,2.2x,-0.19,A$0.28,-6.6%
+430,RG8,Regal Asian Investments,Sydney,Financials,Investment Banking & Investment Services,A$329.61M,61.4x,,A$2,1.3%
+431,EBR,Ebr Systems DRC,Sydney,Healthcare,Healthcare Equipment & Supplies,A$328.16M,-5.3x,-5.28,A$1.15,8%
+432,REP,RAM Essential Services Property Fund Unt,Sydney,Real Estate,Residential & Commercial REITs,A$325.64M,-18x,,A$0.65,1.6%
+433,MYX,Mayne Pharma,Sydney,Healthcare,Pharmaceuticals,A$324.59M,-1.3x,0,A$3.99,0.5%
+434,ACF,Acrow Formwork,Sydney,Industrials,Professional & Commercial Services,A$324M,11.6x,0.43,A$1.08,0.9%
+435,GDI,GDI Property Group,Sydney,Real Estate,Real Estate Operations,A$321.84M,100x,0.14,A$0.60,0%
+436,DUR,Duratec,Sydney,Industrials,Construction & Engineering,A$320.40M,12.6x,0.24,A$1.28,-0.8%
+437,HZN,Horizon Oil,Sydney,Energy,Oil & Gas,A$316.49M,4.7x,0.21,A$0.19,-2.6%
+438,RHI,Red Hill Iron,Sydney,Basic Materials,Metals & Mining,A$314.87M,-129.2x,1.71,A$4.90,-2.6%
+439,CAJ,Capitol Health,Sydney,Healthcare,Healthcare Providers & Services,A$314.30M,49.2x,0.35,A$0.29,-1.7%
+440,WC8,Wildcat Resources,Sydney,Basic Materials,Metals & Mining,A$313.71M,-79.4x,0.28,A$0.26,0%
+441,AGI,Ainsworth Game Technology,Sydney,Consumer Cyclicals,Hotels & Entertainment Services,A$309.85M,-48.4x,0.21,A$0.94,1.6%
+442,AVR,Anteris Technologies Ltd,Sydney,Healthcare,Healthcare Equipment & Supplies,A$308.62M,-3.5x,0.15,A$15,0%
+443,STP,Step One Clothing,Sydney,Consumer Cyclicals,Specialty Retailers,A$305.80M,30.2x,0.39,A$1.81,1.7%
+444,AMI,Aurelia Metals,Sydney,Basic Materials,Metals & Mining,A$304.48M,-10.6x,-0.14,A$0.17,-2.8%
+445,NVX,Novonix,Sydney,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",A$303.03M,-4.3x,-0.21,A$0.62,0.8%
+446,GNG,GR Engineering Services Ltd,Sydney,Industrials,Construction & Engineering,A$302.94M,10.2x,-0.94,A$1.80,-3.5%
+447,OMH,OM Holdings,Sydney,Basic Materials,Metals & Mining,A$301.91M,10.6x,-0.16,A$0.40,0%
+448,PWR,Peter Warren Automotive Holdings,Sydney,Consumer Cyclicals,Specialty Retailers,A$300.15M,7x,-0.25,A$1.75,0%
+449,EML,EML Payments,Sydney,Industrials,Professional & Commercial Services,A$300.12M,-1.8x,0.05,A$0.80,-7%
+450,AFP,AFT Pharmaceuticals,Sydney,Healthcare,Pharmaceuticals,A$296.77M,21x,0.46,A$2.83,-4.1%
+451,3PL,3P Learning Ltd,Sydney,Technology,Software & IT Services,A$294.74M,-51.4x,0.21,A$1.08,0.5%
+452,LAU,Lindsay Australia Ltd,Sydney,Industrials,Freight & Logistics Services,A$290.56M,7.9x,0.16,A$0.92,0%
+453,PGH,Pact Group Holdings,Sydney,Basic Materials,Containers & Packaging,A$289.20M,10.2x,0.21,A$0.82,0%
+454,KSL,Kina Securities Ltd,Sydney,Financials,Banking Services,A$286M,7.1x,-0.7,A$0.99,1%
+455,PSQ,Pacific Smiles Group Ltd,Sydney,Healthcare,Healthcare Providers & Services,A$284.85M,43.5x,0.11,A$1.78,-0.3%
+456,CVN,Carnarvon Petroleum,Sydney,Energy,Oil & Gas,A$282.68M,-53.3x,-0.91,A$0.16,-5.9%
+457,INR,Ioneer,Sydney,Basic Materials,Metals & Mining,A$280.49M,-39.7x,-0.89,A$0.12,-4%
+458,PEN,Peninsula Energy,Sydney,Energy,Uranium,A$280.45M,-8.3x,0.16,A$0.09,1.2%
+459,SFC,Schaffer Corporation Ltd,Sydney,Consumer Cyclicals,Automobiles & Auto Parts,A$279.74M,16.2x,-0.64,A$20.60,0%
+460,EEG,Empire Energy,Sydney,Energy,Oil & Gas,A$279.72M,-9.5x,0.05,A$0.29,0%
+461,PIA,Pengana International Equities,Sydney,Financials,Investment Banking & Investment Services,A$276.42M,6.4x,0.04,A$1.08,-0.9%
+462,WQG,WCM Global,Sydney,Financials,Investment Banking & Investment Services,A$276.16M,7.3x,0.04,A$1.57,2.3%
+463,SMP,SmartPay,Sydney,Industrials,Professional & Commercial Services,A$273.59M,36.1x,-56.28,A$1.15,0.9%
+464,SMI,Santana Minerals Ltd,Sydney,Basic Materials,Metals & Mining,A$272.61M,-31.3x,0.08,A$1.34,0.7%
+465,RAC,Race Oncology,Sydney,Healthcare,Biotechnology & Medical Research,A$271.77M,-23.1x,9.18,A$1.57,0.6%
+466,BSE,Base Resources,Sydney,Basic Materials,Metals & Mining,A$268.33M,-3.5x,0.02,A$0.22,-4.3%
+467,FID,Fiducian Group Ltd,Sydney,Financials,Investment Banking & Investment Services,A$261.89M,19.2x,1.43,A$8.37,13.9%
+468,OBL,Omni Bridgeway Ltd,Sydney,Financials,Banking Services,A$259.98M,-7.1x,-0.17,A$0.94,1.1%
+469,SYA,Sayona Mining Ltd,Sydney,Basic Materials,Metals & Mining,A$257.33M,-8.3x,-0.32,A$0.02,-4%
+470,GDC,Global Data Centre Investment Fund Unt,Sydney,,,A$257.32M,9.8x,,A$3.35,0.6%
+471,29M,29Metals,Sydney,Basic Materials,Metals & Mining,A$256.18M,-0.5x,0,A$0.37,0%
+472,DXB,Dimerix,Sydney,Healthcare,Biotechnology & Medical Research,A$253.30M,-15.1x,-0.71,A$0.46,3.4%
+473,ALK,Alkane Resources,Sydney,Basic Materials,Metals & Mining,A$250.45M,8.4x,-0.24,A$0.42,-3.4%
+474,QIP,QANTM Intellectual,Sydney,Consumer Cyclicals,Media & Publishing,A$249.74M,20.5x,0.35,A$1.74,0%
+475,VEE,VEEM,Sydney,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",A$248.46M,41.9x,0.37,A$1.83,0.5%
+476,MDR,Medadvisor,Sydney,Healthcare,Healthcare Equipment & Supplies,A$248.08M,-28.4x,0.73,A$0.46,0%
+477,DSE,Dropsuite,Sydney,Technology,Software & IT Services,A$247.31M,152.6x,31.03,A$3.54,1.7%
+478,MMI,Metro Mining,Sydney,Basic Materials,Metals & Mining,A$243.53M,-14x,-0.21,A$0.04,2.4%
+479,ATA,Atturra,Sydney,Technology,Software & IT Services,A$242.54M,21.9x,-2.07,A$0.78,-0.6%
+480,SVR,Solvar,Sydney,Financials,Banking Services,A$240.64M,6.9x,-0.21,A$1.15,0%
+481,PLY,Playside Studios,Sydney,Technology,Software & IT Services,A$239.06M,39.3x,0.01,A$0.60,1.7%
+482,ONE,Oneview Healthcare,Sydney,Technology,Software & IT Services,A$238.75M,-14.2x,-3.97,A$0.35,1.4%
+483,HUM,Humm Group Ltd,Sydney,Financials,Banking Services,A$233.33M,-10.7x,0.01,A$0.48,0%
+484,SWM,Seven West Media,Sydney,Consumer Cyclicals,Media & Publishing,A$231.91M,5.3x,-0.05,A$0.15,-3.2%
+485,FRI,Finbar Group,Sydney,Consumer Cyclicals,Homebuilding & Construction Supplies,A$231.30M,45x,0.12,A$0.85,-3.4%
+486,MEI,Meteoric Resources NL,Sydney,Basic Materials,Metals & Mining,A$230.73M,-3.1x,0.01,A$0.10,5.3%
+487,SVL,Silver Mines Ltd,Sydney,Basic Materials,Metals & Mining,A$230.73M,-76.5x,-1.1,A$0.16,0%
+488,LGI,Lgi Ltd,Sydney,Energy,Renewable Energy,A$230.60M,36.8x,3.74,A$2.72,4.6%
+489,WAX,WAM Research Ltd,Sydney,Financials,Investment Banking & Investment Services,A$229.58M,9.7x,,A$1.12,-0.9%
+490,GDF,Garda Diversified Property Fund,Sydney,Real Estate,Residential & Commercial REITs,A$228.32M,-5.5x,0.01,A$1.14,-0.9%
+491,SYR,Syrah Resources,Sydney,Basic Materials,Metals & Mining,A$222.50M,-1.1x,0.01,A$0.22,-4.4%
+492,AND,Ansarada Group,Sydney,Technology,Software & IT Services,A$221.56M,-248x,-1.17,A$2.48,0%
+493,STK,Strickland Metals Ltd,Sydney,Basic Materials,Metals & Mining,A$220.44M,-20x,0.16,A$0.10,0%
+494,MHJ,Michael Hill,Sydney,Consumer Cyclicals,Specialty Retailers,A$219.24M,16.8x,-0.23,A$0.57,2.7%
+495,GRX,GreenX Metals,Sydney,Energy,Coal,A$218.24M,-52.7x,2.1,A$0.78,0%
+496,CEH,Coast Entertainment Holdings,Sydney,Consumer Cyclicals,Hotels & Entertainment Services,A$217.90M,-18.4x,,A$0.50,1%
+497,URF,US Masters Residential Property,Sydney,Real Estate,Residential & Commercial REITs,A$217.62M,-11.9x,,A$0.31,0%
+498,GVF,Global Value Fund Ltd,Sydney,Financials,Investment Banking & Investment Services,A$215.11M,11.9x,,A$1.23,-1.6%
+499,ECF,Elanor Commercial,Sydney,Real Estate,Residential & Commercial REITs,A$213.68M,-7x,0.03,A$0.67,-0.7%
+500,A1N,ARN Media,Sydney,Consumer Cyclicals,Media & Publishing,A$213.27M,,-0.23,A$0.69,3%
+501,PLL,Piedmont Lithium,Sydney,Basic Materials,Metals & Mining,A$213.09M,-3.6x,0.02,A$0.11,-4.3%
+502,AOF,Australian Unity Office,Sydney,Real Estate,Residential & Commercial REITs,A$212.88M,-6.7x,,A$1.29,0%
+503,AYUPA,Australian Unity Prf,Sydney,Healthcare,Healthcare Providers & Services,A$212.05M,-6.9x,,A$79.80,-0%
+504,CDM,Cadence Capital Ltd,Sydney,Financials,Investment Banking & Investment Services,A$209.99M,-22.9x,,A$0.70,-1.4%
+505,PPS,Praemium Ltd,Sydney,Technology,Financial Technology (Fintech) & Infrastructure,A$209.68M,21.8x,-0.27,A$0.44,2.3%
+506,COG,COG Financial Services,Sydney,Financials,Banking Services,A$208.79M,22.9x,-0.41,A$1.07,-0.3%
+507,FEX,Fenix Resources,Sydney,Basic Materials,Metals & Mining,A$208.39M,4.9x,-0.24,A$0.30,-9.1%
+508,D2O,Duxton Water,Sydney,Financials,Collective Investments,A$207.94M,27.7x,-0.78,A$1.33,2.3%
+509,BDM,Burgundy Diamond Mines,Sydney,Basic Materials,Metals & Mining,A$206.09M,-96x,-1.09,A$0.14,3.6%
+510,RNU,Renascor Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$205.85M,82x,0.56,A$0.08,0%
+511,ENR,Encounter Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$205.58M,-41.4x,-1.56,A$0.46,-5.2%
+512,FHE,Frontier Energy Ltd,Sydney,Utilities,Electrical Utilities & IPPs,A$204.62M,65.7x,0.74,A$0.45,2.3%
+513,BIS,Bisalloy Steel Group Ltd,Sydney,Basic Materials,Metals & Mining,A$203.09M,14.5x,-14.86,A$4.28,-4%
+514,APX,Appen Ltd,Sydney,Technology,Software & IT Services,A$202.93M,-0.7x,-0.02,A$0.91,-4.2%
+515,AII,Almonty Industries DRC,Sydney,Basic Materials,Metals & Mining,A$202.26M,-15.8x,-0.61,A$0.80,4.6%
+516,CGS,CogState Ltd,Sydney,Healthcare,Biotechnology & Medical Research,A$201.52M,26.3x,0.39,A$1.19,0%
+517,ABA,Auswide Bank,Sydney,Financials,Banking Services,A$201.44M,10.6x,-0.32,A$4.44,4.7%
+518,SHA,SHAPE Australia,Sydney,Industrials,Construction & Engineering,A$201.24M,15.6x,0.13,A$2.40,-1%
+519,SPZ,Smart Parking Ltd,Sydney,Industrials,Transport Infrastructure,A$201.10M,30x,0.04,A$0.57,-6.5%
+520,WAR,Wam Strategic Value,Sydney,Financials,Investment Banking & Investment Services,A$197.24M,12.9x,,A$1.10,0.5%
+521,QGL,Quantum Graphite,Sydney,Basic Materials,Metals & Mining,A$194.92M,-51.4x,-2.55,A$0.57,0.9%
+522,BBN,Baby Bunting Group Ltd,Sydney,Consumer Cyclicals,Specialty Retailers,A$193.59M,19.5x,-0.53,A$1.44,5.9%
+523,XRF,XRF Scientific Ltd,Sydney,Technology,Office Equipment,A$193.13M,23x,1.29,A$1.38,-2.5%
+524,TBR,Tribune Resources,Sydney,Basic Materials,Metals & Mining,A$191.51M,27.6x,1.08,A$3.65,-4.9%
+525,WMA,Wam Alternative Assets,Sydney,Financials,Investment Banking & Investment Services,A$189M,68.9x,,A$0.96,0%
+526,COI,Comet Ridge Ltd,Sydney,Energy,Oil & Gas,A$188.33M,-18.9x,-1.08,A$0.17,-2.9%
+527,NDO,Nido Education,Sydney,Consumer Non-Cyclicals,Personal & Household Products & Services,A$187.83M,-6.2x,0.11,A$0.86,3.6%
+528,COS,Cosol,Sydney,Industrials,Professional & Commercial Services,A$187.66M,22.3x,0.86,A$1.07,0.7%
+529,KED,Keypath Education International,Sydney,Technology,Software & IT Services,A$185.71M,-12.9x,-0.21,A$0.87,0%
+530,4DX,4Dmedical,Sydney,Healthcare,Healthcare Equipment & Supplies,A$184.74M,-5.6x,-0.85,A$0.45,0%
+531,RFG,Retail Food Group,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$184.22M,-74x,0.53,A$0.08,4.2%
+532,ARX,Aroa Biosurgery,Sydney,Healthcare,Healthcare Equipment & Supplies,A$184.15M,-18.8x,0.01,A$0.54,-1.9%
+533,TCG,Turaco Gold,Sydney,Basic Materials,Metals & Mining,A$183.82M,-25.5x,-0.65,A$0.24,-4.9%
+534,EMV,EMvision Medical Devices,Sydney,Healthcare,Healthcare Equipment & Supplies,A$181.96M,-49.1x,-1.87,A$2.15,4.9%
+535,AKP,Audio Pixels,Sydney,Technology,"Computers, Phones & Household Electronics",A$181.10M,-12.4x,0.03,A$6.20,0%
+536,WAT,Waterco Ltd,Sydney,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",A$179.35M,14x,4.52,A$5.10,0%
+537,BWN,Bhagwan Marine,Sydney,,,A$178.88M,,,A$0.66,1.5%
+538,LGL,Lynch Group Holdings,Sydney,Consumer Cyclicals,Specialty Retailers,A$178.83M,-9x,0.02,A$1.40,-4.4%
+539,CVC,CVC,Sydney,Financials,Banking Services,A$178.74M,13.9x,0.03,A$1.53,0%
+540,TTT,Titomic,Sydney,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",A$178.60M,-6.7x,-0.19,A$0.17,-10.5%
+541,3DA,Amaero Intl,Sydney,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",A$176.58M,-11.8x,-0.42,A$0.32,-3.1%
+542,BOC,Bougainville Copper,Sydney,Basic Materials,Metals & Mining,A$176.47M,-54.7x,2.85,A$0.44,-3.3%
+543,BCK,Brockman Mining Ltd,Sydney,Basic Materials,Metals & Mining,A$176.32M,-24.5x,0.53,A$0.02,0%
+544,BTI,Bailador Technology Inv,Sydney,Financials,Investment Banking & Investment Services,A$175.90M,0.1x,0.01,A$1.19,-0.8%
+545,LTP,LTR Pharma,Sydney,Healthcare,Biotechnology & Medical Research,A$175.67M,,,A$1.38,9.5%
+546,AMA,AMA Group,Sydney,Consumer Non-Cyclicals,Personal & Household Products & Services,A$175M,-0.4x,-0.1,A$0.05,2.3%
+547,SKS,SKS Technologies Group,Sydney,Industrials,Construction & Engineering,A$173.85M,77.8x,8.75,A$1.55,-2.8%
+548,NZM,NZME,Sydney,Consumer Cyclicals,Media & Publishing,A$173.61M,14.9x,-0.35,A$0.94,-1.6%
+549,FND,Findi,Sydney,Technology,Software & IT Services,A$172.27M,47x,0.8,A$3.38,-4.5%
+550,IMB,Intelligent Monitoring,Sydney,Industrials,Professional & Commercial Services,A$172.03M,-7.3x,-6.06,A$0.57,-0.9%
+551,SBM,St Barbara,Sydney,Basic Materials,Metals & Mining,A$171.77M,-2.7x,-0.01,A$0.21,-2.3%
+552,TLG,Talga Group,Sydney,Basic Materials,Metals & Mining,A$171.35M,-4.2x,-0.22,A$0.42,-7.7%
+553,CTM,Centaurus Metals Ltd,Sydney,Basic Materials,Metals & Mining,A$171.19M,-3.7x,-0.38,A$0.35,-4.1%
+554,EGH,Eureka Group Holdings Ltd,Sydney,Real Estate,Real Estate Operations,A$170.16M,9.1x,0.45,A$0.56,5.2%
+555,AVJ,Avjennings,Sydney,Real Estate,Real Estate Operations,A$170.15M,14.5x,-0.33,A$0.31,0%
+556,FBR,FBR,Sydney,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",A$169.55M,-4.8x,-0.59,A$0.04,-5.1%
+557,A1M,AIC Mines Ltd,Sydney,Basic Materials,Metals & Mining,A$169M,72.5x,,A$0.29,1.7%
+558,GSS,Genetic Signatures Ltd,Sydney,Healthcare,Healthcare Equipment & Supplies,A$167.67M,-5.9x,0.08,A$0.73,-3.3%
+559,OIL,Optiscan Imaging Ltd,Sydney,Healthcare,Healthcare Equipment & Supplies,A$167.07M,-25x,16.7,A$0.20,0%
+560,CYG,Coventry Group,Sydney,Basic Materials,Metals & Mining,A$163.51M,231.7x,-3.2,A$1.40,0.7%
+561,VYS,Vysarn Ltd,Sydney,Industrials,Construction & Engineering,A$163.26M,16.5x,0.01,A$0.38,-3.8%
+562,TRJ,Trajan Group Holdings,Sydney,Technology,Office Equipment,A$162.11M,-87.5x,0.67,A$1.12,4.7%
+563,PBH,Pointsbet Holdings,Sydney,Consumer Cyclicals,Hotels & Entertainment Services,A$160.70M,-2.9x,-0.03,A$0.47,-2.6%
+564,TER,Terracom,Sydney,Energy,Coal,A$160.19M,1.4x,-0.02,A$0.19,-2.5%
+565,WGN,Wagners,Sydney,Basic Materials,Construction Materials,A$159.48M,20.6x,0.11,A$0.85,-0.6%
+566,FDV,Frontier Digital,Sydney,Technology,Software & IT Services,A$158.25M,-17.5x,-0.83,A$0.37,1.4%
+567,CYC,Cyclopharm Ltd,Sydney,Healthcare,Healthcare Equipment & Supplies,A$157.81M,-27.8x,-1.14,A$1.41,-1%
+568,AIS,Aeris Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$157.71M,-1.2x,0.09,A$0.17,-2.9%
+569,SSG,Shaver Shop,Sydney,Consumer Non-Cyclicals,Personal & Household Products & Services,A$156.56M,9.8x,-1.06,A$1.20,0.8%
+570,AGE,Alligator Energy Ltd,Sydney,Energy,Uranium,A$154.79M,-40x,3.15,A$0.04,5.3%
+571,CLG,Close The Loop,Sydney,Industrials,Professional & Commercial Services,A$154.24M,11.4x,-6.1,A$0.29,0%
+572,NTU,Northern Minerals,Sydney,Basic Materials,Metals & Mining,A$153.80M,-5.2x,0.14,A$0.03,-7.1%
+573,HPG,Hipages,Sydney,Technology,Software & IT Services,A$152.81M,"2,857.1x",27.97,A$1.13,-0.9%
+574,RHK,Red Hawk Mining,Sydney,Basic Materials,Metals & Mining,A$152.46M,-17.7x,0.14,A$0.74,-5.1%
+575,DGL,DGL Group,Sydney,Basic Materials,Chemicals,A$152.27M,10.6x,-0.2,A$0.53,-0.9%
+576,FWD,Fleetwood Corporation,Sydney,Consumer Cyclicals,Homebuilding & Construction Supplies,A$151.56M,22.9x,0.13,A$1.61,0%
+577,DNK,Danakali Ltd,Sydney,Basic Materials,Chemicals,A$151.02M,1.1x,0.03,A$0.41,0%
+578,CRD,Conrad Asia,Sydney,Energy,Oil & Gas,A$150.81M,-10.5x,-0.19,A$0.85,1.2%
+579,CXL,Calix,Sydney,Basic Materials,Chemicals,A$149.83M,-5.7x,0.17,A$0.84,1.2%
+580,BC8,Black Cat Syndicate,Sydney,Basic Materials,Metals & Mining,A$149.80M,-19.7x,-1.17,A$0.34,1.5%
+581,CAA,Capral,Sydney,Basic Materials,Metals & Mining,A$149.18M,4.9x,-0.2,A$8.60,-3.2%
+582,LAM,Laramide Resources Ltd,Sydney,Energy,Uranium,A$148.23M,-25x,0.01,A$0.56,0%
+583,ALA,Arovella Therapeutics,Sydney,Healthcare,Biotechnology & Medical Research,A$147.25M,-11.5x,-2.16,A$0.14,-3.6%
+584,KP2,Kore Potash DRC,Sydney,Basic Materials,Chemicals,A$146.17M,-19.8x,-2.98,A$0.03,-3%
+585,NAM,Namoi Cotton,Sydney,Consumer Cyclicals,Textiles & Apparel,A$145.77M,20.9x,0.37,A$0.71,-0.7%
+586,SXL,Southern Cross Media,Sydney,Consumer Cyclicals,Media & Publishing,A$145.14M,19x,0.19,A$0.61,-0.8%
+587,BRI,Big River Industries,Sydney,Basic Materials,Paper & Forest Products,A$140.81M,8.4x,-0.24,A$1.65,0%
+588,RLT,RENERGEN,Sydney,Energy,Oil & Gas,A$140.31M,-15.4x,0.04,A$1,0.5%
+589,CLX,CTI Logistics,Sydney,Industrials,Freight & Logistics Services,A$139.99M,9.6x,-0.31,A$1.75,2.6%
+590,M7T,Mach7 Tech,Sydney,Healthcare,Healthcare Equipment & Supplies,A$139.92M,-25.4x,0.6,A$0.58,-1.7%
+591,4DS,4DS Memory,Sydney,Technology,"Computers, Phones & Household Electronics",A$139.31M,-29.6x,-0.81,A$0.08,1.3%
+592,EZL,Euroz,Sydney,Financials,Investment Banking & Investment Services,A$139.03M,19.4x,-0.29,A$0.89,-0.6%
+593,STA,Strandline,Sydney,Basic Materials,Metals & Mining,A$138.94M,-1x,0,A$0.09,0%
+594,PCL,Pancontinental Oil&Gas,Sydney,Energy,Oil & Gas,A$138.24M,-73.1x,0.84,A$0.02,-11.1%
+595,BKY,Berkeley Energy,Sydney,Basic Materials,Metals & Mining,A$138.20M,-34.4x,0.03,A$0.31,0%
+596,VVA,Viva Leisure,Sydney,Consumer Cyclicals,Hotels & Entertainment Services,A$136.83M,36.3x,0.02,A$1.35,-0.4%
+597,EOL,Energy One Ltd,Sydney,Technology,Software & IT Services,A$136.52M,109.5x,-1.75,A$4.39,-0.4%
+598,RIM,Rimfire Pacific Mining NL,Sydney,Basic Materials,Metals & Mining,A$135.37M,-60x,1.35,A$0.06,0%
+599,SFX,Sheffield Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$134.23M,-11x,0.07,A$0.34,6.3%
+600,GHY,Gold Hydrogen,Sydney,Energy,Renewable Energy,A$134.18M,,,A$0.80,-4.2%
+601,IRI,Integrated Research,Sydney,Technology,Software & IT Services,A$134.10M,-6.1x,0.01,A$0.77,3.4%
+602,CCV,Cash Converters International,Sydney,Consumer Cyclicals,Specialty Retailers,A$133.73M,7.2x,0.06,A$0.22,2.4%
+603,TGP,360 Capital Group,Sydney,Financials,Investment Banking & Investment Services,A$132.73M,-5.1x,0.01,A$0.58,-0.9%
+604,LIN,Lindian Resources,Sydney,Basic Materials,Metals & Mining,A$132.59M,-23x,-1.04,A$0.12,0%
+605,EXR,Elixir Energy,Sydney,Energy,Oil & Gas,A$131.61M,-55x,-3.87,A$0.11,0%
+606,SEC,Spheria Emerging,Sydney,Financials,Investment Banking & Investment Services,A$130.95M,9.4x,0.05,A$2.19,0.5%
+607,ARR,American Rare Earths Ltd,Sydney,Basic Materials,Metals & Mining,A$130.03M,-18.9x,0.2,A$0.26,1.9%
+608,X64,Ten Sixty Four,Sydney,Basic Materials,Metals & Mining,A$129.85M,6x,,A$0.57,0%
+609,AVL,Australian Vanadium,Sydney,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",A$129.25M,-7.5x,0.18,A$0.01,0%
+610,VLS,Vita Life Sciences,Sydney,Healthcare,Pharmaceuticals,A$128.95M,13.6x,0.54,A$2.29,0%
+611,WOT,WOTSO Property Unt,Sydney,Real Estate,Residential & Commercial REITs,A$128.93M,-13.8x,0.1,A$0.80,4.6%
+612,HFR,Highfield Resources Ltd,Sydney,Basic Materials,Chemicals,A$127.46M,-10.5x,0.11,A$0.32,-1.5%
+613,NWF,Newfield Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$126.99M,-9x,0.01,A$0.14,0%
+614,ENN,Elanor Investors Group,Sydney,Consumer Cyclicals,Hotels & Entertainment Services,A$126.97M,-3.7x,0.05,A$0.86,-2.3%
+615,EGL,The Environmental Group Ltd,Sydney,Industrials,Professional & Commercial Services,A$126.97M,38.2x,1.12,A$0.34,1.5%
+616,TRS,The Reject Shop,Sydney,Consumer Cyclicals,Diversified Retail,A$126.87M,12.7x,-3.6,A$3.50,3.2%
+617,ART,Airtasker,Sydney,Technology,Software & IT Services,A$126.82M,-31.8x,-0.34,A$0.28,0%
+618,AUCDA,Ausgold Ltd,Sydney,Basic Materials,Metals & Mining,A$126.48M,-20.9x,1.65,A$0.32,-8.4%
+619,IMR,Imricor Medical,Sydney,Healthcare,Healthcare Equipment & Supplies,A$126.19M,-2.7x,0.18,A$0.51,2%
+620,ASN,Anson Resources,Sydney,Basic Materials,Metals & Mining,A$125.34M,-12x,0.57,A$0.10,0%
+621,AKM,Aspire Mining,Sydney,Energy,Coal,A$124.37M,-13.3x,0.01,A$0.25,-7.4%
+622,TPC,TPC Consolidated,Sydney,Utilities,Multiline Utilities,A$124.20M,14.1x,-0.29,A$11,0%
+623,KOV,Korvest Ltd,Sydney,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",A$124.13M,11.1x,-7.24,A$10.57,-5.6%
+624,NZK,New Zealand King Salmon,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$123.78M,4.8x,0,A$0.23,0%
+625,NOL,NobleOak Life,Sydney,Financials,Insurance,A$123.53M,16x,-0.65,A$1.45,1.4%
+626,PLT,Plenti,Sydney,Financials,Banking Services,A$122.72M,-8.2x,1.23,A$0.70,0%
+627,ZER,Zeta Resources Ltd,Sydney,Financials,Collective Investments,A$121.99M,-4.2x,,A$0.23,-8%
+628,MCA,Murray Cod AU,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$121.61M,-8.9x,0.22,A$0.12,0%
+629,DRX,Diatreme Resources Ltd,Sydney,Basic Materials,Construction Materials,A$121.14M,8.7x,0.07,A$0.03,0%
+630,JYC,Joyce Corporation Ltd,Sydney,Consumer Cyclicals,Specialty Retailers,A$120.05M,12.7x,25.34,A$4.07,1%
+631,SHJ,Shine Corporate,Sydney,Consumer Non-Cyclicals,Personal & Household Products & Services,A$119.40M,-17.6x,0.13,A$0.69,4.5%
+632,EVO,Embark Education,Sydney,Consumer Non-Cyclicals,Personal & Household Products & Services,A$118.86M,14.3x,0.12,A$0.75,-0.7%
+633,SLH,Silk Logistics Holdings,Sydney,Industrials,Freight & Logistics Services,A$118.65M,7.8x,-0.3,A$1.46,0.3%
+634,TOP,Thorney Opportunities Ltd,Sydney,Financials,Investment Banking & Investment Services,A$118.48M,8.4x,,A$0.65,-3%
+635,BBT,Bluebet Holdings,Sydney,Consumer Cyclicals,Hotels & Entertainment Services,A$117.96M,-1.9x,0.24,A$0.21,-4.8%
+636,HCH,Hot Chili,Sydney,Basic Materials,Metals & Mining,A$117.34M,-12.5x,0.18,A$0.77,-3.1%
+637,CCR,Credit Clear,Sydney,Technology,Financial Technology (Fintech) & Infrastructure,A$117.02M,-16.3x,-0.34,A$0.29,3.6%
+638,CAM,Clime Capital Ltd,Sydney,Financials,Investment Banking & Investment Services,A$115.83M,25.2x,,A$0.81,-0.6%
+639,LCY,Legacy Iron Ore,Sydney,Basic Materials,Metals & Mining,A$115.70M,-15x,0.02,A$0.01,0%
+640,PRG,PRL Global,Sydney,,,A$115.58M,8.4x,-0.23,A$0.97,-4.9%
+641,IVZ,Invictus Energy,Sydney,Energy,Oil & Gas,A$115.25M,-13.3x,0.28,A$0.08,2.6%
+642,GOW,Gowing Bros,Sydney,Consumer Cyclicals,Specialty Retailers,A$113.46M,-29.7x,0.16,A$2.14,0%
+643,IPD,Impedimed,Sydney,Healthcare,Healthcare Equipment & Supplies,A$113.29M,-5.6x,-0.37,A$0.06,-1.8%
+644,ATR,Astron Corporation,Sydney,Basic Materials,Metals & Mining,A$113.23M,-5.5x,0.07,A$0.62,0%
+645,HGO,Hillgrove Resources,Sydney,Basic Materials,Metals & Mining,A$113.16M,-5.4x,0.07,A$0.05,0%
+646,EGG,Enero Group,Sydney,Consumer Cyclicals,Media & Publishing,A$112.51M,3.7x,0.19,A$1.25,-1.2%
+647,RCE,Recce,Sydney,Healthcare,Pharmaceuticals,A$112.33M,-7.5x,-0.59,A$0.49,1%
+648,PIQ,Proteomics Intl Labs,Sydney,Healthcare,Biotechnology & Medical Research,A$111.35M,-16x,2.25,A$0.85,-2.3%
+649,CLB,Candy Club,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$110.40M,2.7x,0.3,A$0.05,0%
+650,TGF,Tribeca Global,Sydney,Financials,Investment Banking & Investment Services,A$110.31M,-5.2x,-0.19,A$1.40,-2.1%
+651,KKO,Kinetiko Energy Ltd,Sydney,Energy,Oil & Gas,A$110.31M,-11x,-2.39,A$0.08,-6.1%
+652,DRA,DRA Global,Sydney,Industrials,Construction & Engineering,A$109.77M,5.2x,0.03,A$1.98,0%
+653,BUB,Bubs Australia,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$109.73M,-1.3x,0.08,A$0.13,0%
+654,FLC,Fluence,Sydney,Utilities,Water & Related Utilities,A$108.10M,-2.9x,-0.45,A$0.10,5%
+655,CAY,Canyon Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$108.09M,-19.5x,-0.47,A$0.08,-1.3%
+656,AGN,Argenica Therapeutics,Sydney,Healthcare,Biotechnology & Medical Research,A$107.62M,-17.6x,6.7,A$0.85,-2.9%
+657,CPV,ClearVue Technologies,Sydney,Basic Materials,Chemicals,A$107.04M,-8.1x,0.08,A$0.44,2.3%
+658,IOD,Iodm,Sydney,Technology,Software & IT Services,A$106.86M,-43.8x,-58.32,A$0.17,-2.8%
+659,MXI,Maxiparts,Sydney,Consumer Cyclicals,Automobiles & Auto Parts,A$106.45M,42x,-0.26,A$1.93,-2%
+660,ATG,Articore,Sydney,Technology,Software & IT Services,A$106.40M,-5.4x,-0.09,A$0.39,0%
+661,SDI,SDI Ltd,Sydney,Healthcare,Healthcare Equipment & Supplies,A$106.38M,13.2x,1.28,A$0.90,0.6%
+662,EXP,Experience,Sydney,Consumer Cyclicals,Hotels & Entertainment Services,A$106.04M,-443.2x,-4.19,A$0.14,3.7%
+663,FSA,FSA Group,Sydney,Financials,Banking Services,A$105.57M,13x,-0.28,A$0.87,0%
+664,BIO,Biome Australia,Sydney,Healthcare,Pharmaceuticals,A$105.54M,-44.2x,-1.4,A$0.51,4.1%
+665,RYD,Ryder Capital Ltd,Sydney,Financials,Investment Banking & Investment Services,A$105.34M,61.2x,,A$1.28,-6.2%
+666,WIA,WIA Gold,Sydney,Basic Materials,Metals & Mining,A$104.74M,-39x,-2.54,A$0.10,0%
+667,SNC,Sandon Capital Investments,Sydney,Financials,Investment Banking & Investment Services,A$104.12M,5.7x,0.04,A$0.73,1.4%
+668,PAN,Panoramic Resources,Sydney,Basic Materials,Metals & Mining,A$103.94M,-2.2x,,A$0.04,0%
+669,WR1,Winsome Resources,Sydney,Basic Materials,Metals & Mining,A$103.84M,-27.3x,-0.33,A$0.50,4.2%
+670,GLB,Globe International Ltd,Sydney,Consumer Cyclicals,Textiles & Apparel,A$103.66M,15.6x,1.63,A$2.50,0%
+671,MLG,MLG OZ,Sydney,Basic Materials,Metals & Mining,A$103.33M,24.4x,-1.01,A$0.71,1.4%
+672,CUP,Countplus,Sydney,Consumer Non-Cyclicals,Personal & Household Products & Services,A$103.09M,11.7x,0.06,A$0.63,1.6%
+673,EP1,E P Financial,Sydney,Financials,Investment Banking & Investment Services,A$103.08M,-2.3x,0,A$0.45,0%
+674,MRL,Mayur Resources,Sydney,Basic Materials,Metals & Mining,A$103.03M,-7.6x,-0.15,A$0.26,4%
+675,HNG,Hancock Gore,Sydney,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",A$102.18M,7.7x,0.17,A$0.31,1.6%
+676,TWD,Tamawood Ltd,Sydney,Consumer Cyclicals,Homebuilding & Construction Supplies,A$101.77M,21.4x,0.11,A$2.70,0%
+677,AEE,Aura Energy Ltd,Sydney,Energy,Uranium,A$100.95M,-11.8x,-1.06,A$0.13,4%
+678,ALC,Alcidion,Sydney,Technology,Software & IT Services,A$100.69M,-18.5x,0.07,A$0.07,-4%
+679,MDX,Mindax,Sydney,Basic Materials,Metals & Mining,A$100.39M,-16.7x,0.05,A$0.05,-2%
+680,ARA,Ariadne Australia Ltd,Sydney,Financials,Investment Banking & Investment Services,A$99.67M,-127.5x,1.01,A$0.51,0%
+681,SND,Saunders International Ltd,Sydney,Industrials,Construction & Engineering,A$98.48M,9.4x,0.88,A$0.84,0%
+682,M4M,Macro Metals,Sydney,Basic Materials,Metals & Mining,A$97.19M,-27x,-0.86,A$0.03,-7.1%
+683,CKA,Cokal Ltd,Sydney,Basic Materials,Metals & Mining,A$97.11M,-6.6x,3.74,A$0.09,-4.4%
+684,VNL,Vinyl,Sydney,Technology,Software & IT Services,A$96.98M,-4x,1.25,A$0.10,-4%
+685,CD3,CD Pvt Equity Fund III Unt,Sydney,Financials,Investment Banking & Investment Services,A$96.52M,42.1x,,A$1.34,2.7%
+686,TGM,Theta Gold Mines,Sydney,Basic Materials,Metals & Mining,A$96.26M,-8.4x,-0.37,A$0.14,0%
+687,LIS,LiS Energy,Sydney,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",A$96.03M,-22.8x,-1.51,A$0.14,-6.7%
+688,ABY,Adore Beauty,Sydney,Consumer Cyclicals,Diversified Retail,A$95.84M,170.4x,2.18,A$1.07,4.9%
+689,ORN,Orion Gold NL,Sydney,Basic Materials,Metals & Mining,A$95.68M,-7.5x,,A$0.01,-6.7%
+690,IKE,Ikegps Group,Sydney,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",A$95.42M,-7x,0.07,A$0.60,0.9%
+691,SMN,Structural Monitoring Systems PLC,Sydney,Industrials,Aerospace & Defense,A$94.78M,-27.3x,-0.88,A$0.69,0%
+692,BTR,Brightstar Resources,Sydney,Basic Materials,Metals & Mining,A$94.54M,-5.7x,0.09,A$0.02,0%
+693,BTH,Bigtincan Holdings,Sydney,Technology,Software & IT Services,A$94.49M,-11.3x,-0.11,A$0.12,0%
+694,XAM,Xanadu Mines,Sydney,Basic Materials,Metals & Mining,A$94.38M,-11x,0.32,A$0.05,-0.9%
+695,CAI,Calidus,Sydney,Basic Materials,Metals & Mining,A$93.68M,-3.7x,0.27,A$0.12,0%
+696,DLI,Delta Lithium,Sydney,Basic Materials,Metals & Mining,A$93.47M,-21x,-0.41,A$0.21,0%
+697,ARL,Ardea Resources,Sydney,Basic Materials,Metals & Mining,A$91.85M,-14.5x,-1.15,A$0.45,1.1%
+698,BET,Betmakers Technology,Sydney,Consumer Cyclicals,Hotels & Entertainment Services,A$90.72M,-2.7x,-0.04,A$0.09,3.3%
+699,VHM,VHM,Sydney,Basic Materials,Construction Materials,A$90.67M,-8.1x,-0.16,A$0.44,2.3%
+700,ECL,Excelsior Capital,Sydney,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",A$89.88M,8.8x,1.18,A$3.10,0%
+701,MSV,Mitchell Services,Sydney,Basic Materials,Metals & Mining,A$89.84M,7.6x,0,A$0.41,-1.2%
+702,MTO,MotorCycle,Sydney,Consumer Cyclicals,Specialty Retailers,A$89.67M,3.9x,-1.39,A$1.22,3%
+703,5EA,5E Advanced Materials DRC,Sydney,Basic Materials,Metals & Mining,A$88.62M,-0.9x,0.02,A$0.14,-3.6%
+704,SDV,Scidev,Sydney,Industrials,Professional & Commercial Services,A$88.28M,-232.5x,2.19,A$0.47,0%
+705,DEV,DevEx Resources,Sydney,Basic Materials,Metals & Mining,A$88.24M,-8x,-0.26,A$0.20,0%
+706,BBL,Brisbane Broncos Ltd,Sydney,Consumer Cyclicals,Hotels & Entertainment Services,A$87.75M,15.7x,0.21,A$0.89,-3.8%
+707,TZN,Terramin Australia.,Sydney,Basic Materials,Metals & Mining,A$86.78M,-13.7x,-0.91,A$0.04,-2.4%
+708,CHL,Camplify Holdings,Sydney,Technology,Software & IT Services,A$86.52M,-25.7x,-0.32,A$1.23,1.2%
+709,BCN,Beacon Minerals Ltd,Sydney,Basic Materials,Metals & Mining,A$86.41M,7.7x,-0.37,A$0.02,-4.2%
+710,ST1,Spirit Telecom,Sydney,Technology,Software & IT Services,A$86.10M,-5.3x,-0.11,A$0.06,-3.1%
+711,TTM,Titan Minerals Ltd,Sydney,Basic Materials,Metals & Mining,A$85.50M,-30.5x,0.01,A$0.45,-3.2%
+712,BMT,Beamtree Holdings,Sydney,Technology,Software & IT Services,A$85.27M,-9.7x,-0.68,A$0.31,3.4%
+713,HIT,Hitech Group Australia Ltd,Sydney,Industrials,Professional & Commercial Services,A$85.02M,14.1x,0.56,A$2.01,0%
+714,EZZ,EZZ Life Science Holdings,Sydney,Healthcare,Pharmaceuticals,A$84.39M,27.6x,0.59,A$1.95,1.8%
+715,AR1,Austral Resources Australia,Sydney,Basic Materials,Metals & Mining,A$84.35M,8x,0.07,A$0.16,0%
+716,RND,Rand Mining Ltd,Sydney,Basic Materials,Metals & Mining,A$84.18M,11x,-0.49,A$1.48,0%
+717,AIM,AiMedia Technologies,Sydney,Technology,Software & IT Services,A$83.53M,-22.3x,1.71,A$0.44,10%
+718,ASM,Australian Strategic,Sydney,Basic Materials,Metals & Mining,A$83.38M,-10.1x,-0.13,A$0.46,-2.1%
+719,QPM,Queensland Pacific Metals,Sydney,Basic Materials,Metals & Mining,A$83.20M,-1.1x,-0.29,A$0.03,-5.9%
+720,MAP,Microba Life Sciences,Sydney,Healthcare,Healthcare Providers & Services,A$82.85M,-3.4x,0.13,A$0.20,8.1%
+721,RDG,Resource Development Group,Sydney,Industrials,Construction & Engineering,A$82.62M,5.6x,0.09,A$0.03,0%
+722,LMG,Latrobe Magnesium Ltd,Sydney,Basic Materials,Metals & Mining,A$82.18M,-8.8x,0.09,A$0.04,7.8%
+723,SEG,Sports Entertainment Group,Sydney,Consumer Cyclicals,Media & Publishing,A$81.73M,-8x,0,A$0.29,0%
+724,TVN,Tivan,Sydney,Basic Materials,Metals & Mining,A$81.19M,-9.8x,0.21,A$0.05,-9.4%
+725,LBL,LaserBond Ltd,Sydney,Basic Materials,Metals & Mining,A$81.15M,17.4x,1.35,A$0.69,-1.4%
+726,MYG,Mayfield Group Holdings,Sydney,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",A$80.95M,11.1x,0,A$0.88,0%
+727,IMA,Image Resources NL,Sydney,Basic Materials,Metals & Mining,A$80.79M,-18x,0.12,A$0.07,4.3%
+728,EIQ,ECHOIQ LIMITED,Sydney,Healthcare,Healthcare Equipment & Supplies,A$80.65M,-11.5x,-0.81,A$0.15,7.1%
+729,PAA,PharmAust Ltd,Sydney,Healthcare,Pharmaceuticals,A$80.23M,-8.5x,0.01,A$0.17,-2.9%
+730,CLV,Clover Corporation Ltd,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$80.16M,43.6x,-0.56,A$0.48,-1%
+731,TOT,360 Capital Total Return Fund,Sydney,Financials,Collective Investments,A$79.41M,-1.9x,0.01,A$0.37,0%
+732,LRK,Lark Distilling Co Ltd,Sydney,Consumer Non-Cyclicals,Beverages,A$79.05M,-14.2x,0.08,A$0.95,-1%
+733,CVV,Caravel Minerals Ltd,Sydney,Basic Materials,Metals & Mining,A$78.64M,-6.3x,-0.45,A$0.15,0%
+734,HZR,Hazer Group Ltd,Sydney,Industrials,Professional & Commercial Services,A$78.24M,-3.2x,0.03,A$0.34,0%
+735,GTN,Gtn,Sydney,Consumer Cyclicals,Media & Publishing,A$77.88M,19x,0.41,A$0.39,2.6%
+736,SOM,SomnoMed Ltd,Sydney,Healthcare,Healthcare Equipment & Supplies,A$77.80M,-2.9x,0.09,A$0.36,0%
+737,AHC,Austco Healthcare,Sydney,Healthcare,Healthcare Equipment & Supplies,A$77.57M,30.7x,-4.11,A$0.22,0%
+738,ASL,Andean Silver,Sydney,Basic Materials,Metals & Mining,A$77.56M,-7.2x,0.06,A$0.66,-2.2%
+739,PPE,People Infrastructure,Sydney,Industrials,Professional & Commercial Services,A$77.31M,7.5x,-0.12,A$0.75,-5.1%
+740,BSA,BSA Ltd,Sydney,Industrials,Construction & Engineering,A$77.26M,9.1x,0.04,A$1.07,1.9%
+741,ACE,Acusensus,Sydney,Technology,Communications & Networking,A$77.11M,"1,057.2x",-9.58,A$0.64,4.1%
+742,PAR,Paradigm Biopharmaceuticals Ltd,Sydney,Healthcare,Biotechnology & Medical Research,A$77.08M,-1x,0.03,A$0.22,0%
+743,EQR,EQ Resources,Sydney,Basic Materials,Metals & Mining,A$76.74M,-7x,36.89,A$0.04,-7.9%
+744,FLN,Freelancer,Sydney,Industrials,Professional & Commercial Services,A$76.68M,-170x,-2.09,A$0.17,-2.8%
+745,PER,Percheron Therapeutics,Sydney,Healthcare,Biotechnology & Medical Research,A$76.63M,-5.3x,0.23,A$0.08,2.5%
+746,OCC,Orthocell Ltd,Sydney,Healthcare,Biotechnology & Medical Research,A$76.50M,-9.9x,-0.7,A$0.37,1.4%
+747,NTI,Neurotech Intl,Sydney,Healthcare,Healthcare Equipment & Supplies,A$76.30M,-12.5x,-0.71,A$0.08,1.4%
+748,CVBZZ,Curvebeam AI,Sydney,Healthcare,Healthcare Equipment & Supplies,A$75.23M,,0,A$0,
+749,SSL,Sietel Ltd,Sydney,Real Estate,Real Estate Operations,A$75.19M,60.2x,-1.23,A$9.39,0%
+750,SRX,Sierra Rutile Holdings,Sydney,Basic Materials,Metals & Mining,A$74.28M,-2.2x,0.02,A$0.17,0%
+751,MAY,Melbana Energy,Sydney,Energy,Oil & Gas,A$74.14M,-22x,-1.01,A$0.02,0%
+752,JGH,Jade Gas Holdings,Sydney,Energy,Oil & Gas,A$74.11M,-15.7x,43.05,A$0.05,0%
+753,RCT,Reef Casino Trust,Sydney,Real Estate,Real Estate Operations,A$73.21M,13.6x,-0.35,A$2.94,0%
+754,MAM,Microequities Asset Management,Sydney,Financials,Investment Banking & Investment Services,A$72.62M,12.6x,0.22,A$0.56,0%
+755,AW1,American West Metals,Sydney,Basic Materials,Metals & Mining,A$72.48M,-2.7x,-0.12,A$0.14,-3.6%
+756,MCE,Matrix Composites&Engineering,Sydney,Energy,Oil & Gas Related Equipment and Services,A$72.45M,-13.2x,0.09,A$0.33,1.5%
+757,BWF,BlackWall Property Funds Ltd,Sydney,Financials,Investment Banking & Investment Services,A$72.16M,5.6x,0.09,A$0.43,1.2%
+758,GLN,Galan Lithium,Sydney,Basic Materials,Metals & Mining,A$72.16M,-5x,0.21,A$0.14,7.7%
+759,AQC,Australian Pacific Coal,Sydney,Energy,Coal,A$72.06M,-6.8x,-0.11,A$0.14,-12.9%
+760,SIO,Simonds Group Ltd,Sydney,Consumer Cyclicals,Homebuilding & Construction Supplies,A$71.98M,-8.7x,-0.08,A$0.20,-2.4%
+761,GEN,Genmin,Sydney,Basic Materials,Metals & Mining,A$71.95M,-2x,0.08,A$0.10,-4.8%
+762,MME,Moneyme,Sydney,Financials,Banking Services,A$71.56M,5.1x,0.06,A$0.09,1.1%
+763,AGC,Australian Gold Copper,Sydney,Basic Materials,Metals & Mining,A$70.56M,-10.3x,-1.38,A$0.31,10.7%
+764,ACW,Actinogen Medical,Sydney,Healthcare,Biotechnology & Medical Research,A$70.51M,-3.4x,0.57,A$0.03,8%
+765,APW,Aims Property,Sydney,Real Estate,Residential & Commercial REITs,A$69.89M,4.1x,,A$1.57,0%
+766,PNC,Pioneer Credit Ltd,Sydney,Financials,Banking Services,A$69.86M,35.7x,0.41,A$0.46,-8%
+767,CUE,CUE Energy Resources,Sydney,Energy,Oil & Gas,A$69.84M,4x,0.17,A$0.10,0%
+768,ACQ,Acorn Capital Invest Fund,Sydney,Financials,Investment Banking & Investment Services,A$69.45M,800x,,A$0.79,-1.9%
+769,CNB,Carnaby Resources,Sydney,Basic Materials,Metals & Mining,A$68.77M,-4.4x,0.34,A$0.41,3.8%
+770,NXS,Next Science,Sydney,Healthcare,Pharmaceuticals,A$68.66M,-2.6x,0.19,A$0.24,2.1%
+771,SHM,Shriro Holdings Ltd,Sydney,Consumer Cyclicals,Household Goods,A$68.46M,9.1x,-0.21,A$0.71,1.4%
+772,PCG,Pengana Capital Group Ltd,Sydney,Financials,Investment Banking & Investment Services,A$68.44M,-41x,0.27,A$0.82,-1.8%
+773,BKT,Black Rock Mining Ltd,Sydney,Basic Materials,Metals & Mining,A$67.61M,-5.5x,9.59,A$0.05,0%
+774,AAL,Alfabs Australia,Sydney,,,A$67.35M,,,A$0.23,-4.3%
+775,AAR,Astral Resources NL,Sydney,Basic Materials,Metals & Mining,A$67.33M,-18.3x,-1.36,A$0.07,0%
+776,GO2,GO2 People,Sydney,Industrials,Professional & Commercial Services,A$67.20M,,0.05,A$0.67,0%
+777,DBF,Duxton Broadacre Farms,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$67.18M,-11.4x,-0.74,A$1.60,0%
+778,AHX,Apiam Animal Health Ltd,Sydney,Healthcare,Healthcare Providers & Services,A$67.13M,24.7x,-0.42,A$0.37,0%
+779,WKT,Walkabout Resources,Sydney,Basic Materials,Metals & Mining,A$67.13M,-9.1x,-1.62,A$0.10,0%
+780,AZL,Arizona Lithium,Sydney,Basic Materials,Metals & Mining,A$67.11M,-1.9x,0.03,A$0.02,6.7%
+781,LSX,Lion Selection Group Ltd,Sydney,Basic Materials,Metals & Mining,A$67.05M,-118.8x,,A$0.47,0%
+782,RTH,Ras Technology Holdings,Sydney,Technology,Software & IT Services,A$66.88M,-53x,-1.43,A$1.48,0.3%
+783,ATC,Altech Chemicals Ltd,Sydney,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",A$66.71M,-0.6x,0,A$0.04,-4.9%
+784,MEK,MEEKA GOLD LIMITED,Sydney,Basic Materials,Metals & Mining,A$66.67M,-30.4x,-0.62,A$0.05,-3.7%
+785,RVT,Richmond Vanadium Technology,Sydney,Energy,Uranium,A$66.55M,-32.3x,-0.64,A$0.32,6.7%
+786,NSC,NAOS Small Cap,Sydney,Financials,Investment Banking & Investment Services,A$66.08M,122.5x,,A$0.49,-2%
+787,MCP,Mcpherson'S Ltd,Sydney,Consumer Non-Cyclicals,Personal & Household Products & Services,A$65.50M,-22.8x,0.09,A$0.46,2.3%
+788,AVH,Avita Therapeutics,Sydney,Healthcare,Biotechnology & Medical Research,A$65.04M,-0.9x,0.08,A$2.68,-6.3%
+789,IRD,Iron Road,Sydney,Basic Materials,Metals & Mining,A$64.91M,-78x,-1.33,A$0.08,-4.9%
+790,KIN,Kin Mining NL,Sydney,Basic Materials,Metals & Mining,A$64.80M,-6.9x,-0.46,A$0.05,-3.6%
+791,REX,Regional Express Holdings,Sydney,Industrials,Passenger Transportation Services,A$64.46M,2.3x,0.02,A$0.56,0%
+792,AMN,Agrimin Ltd,Sydney,Basic Materials,Chemicals,A$64.08M,-22.8x,0.07,A$0.19,0%
+793,CVB,Curvebeam LLC,Sydney,,,A$64.03M,92.6x,0.05,A$0.20,-2.5%
+794,JAT,Jatcorp,Sydney,Consumer Non-Cyclicals,Food & Drug Retailing,A$63.70M,-153x,-0.8,A$0.75,4.9%
+795,DRE,Dreadnought Resources,Sydney,Basic Materials,Metals & Mining,A$63.46M,-8.5x,0.13,A$0.02,6.3%
+796,IVR,Investigator Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$63.36M,-20x,-0.55,A$0.04,0%
+797,CEL,Challenger Exploration,Sydney,Basic Materials,Metals & Mining,A$63.14M,1x,-0.41,A$0.05,2.3%
+798,DME,Dome Gold Mines Ltd,Sydney,Basic Materials,Metals & Mining,A$63.14M,-28.3x,-1.15,A$0.17,0%
+799,TOKXX,Tolu Minerals,Sydney,Basic Materials,Metals & Mining,A$62.66M,,,A$0,
+800,CZR,Czr Resources,Sydney,Basic Materials,Metals & Mining,A$62.66M,7x,0.03,A$0.26,0%
+801,RDN,Raiden,Sydney,Basic Materials,Metals & Mining,A$62.53M,-23x,-0.37,A$0.02,0%
+802,BOL,Boom Logistics,Sydney,Industrials,Professional & Commercial Services,A$62.53M,-30x,0.13,A$0.14,0%
+803,MNB,Minbos Resources Ltd,Sydney,Basic Materials,Chemicals,A$62.38M,-7.1x,0.31,A$0.07,-1.4%
+804,SUV,Suvo Strategic Minerals,Sydney,Basic Materials,Construction Materials,A$61.94M,-5.4x,0.09,A$0.06,6.9%
+805,IIQ,Inoviq,Sydney,Healthcare,Biotechnology & Medical Research,A$61.75M,-8.1x,-0.14,A$0.56,-2.6%
+806,AXE,Archer Exploration Ltd,Sydney,Technology,Semiconductors & Semiconductor Equipment,A$61.16M,-7.3x,-0.19,A$0.23,-2.1%
+807,PEX,Peel Mining Ltd,Sydney,Basic Materials,Metals & Mining,A$61.01M,-52.5x,-0.84,A$0.10,0%
+808,ZEO,Zeotech,Sydney,Basic Materials,Metals & Mining,A$60.96M,-8.4x,0.1,A$0.03,0%
+809,KGL,KGL Resources,Sydney,Basic Materials,Metals & Mining,A$60.92M,-23.5x,,A$0.09,0%
+810,BRU,Buru Energy,Sydney,Energy,Oil & Gas,A$60.42M,-11.3x,-0.13,A$0.09,-1.1%
+811,WAA,Wam Active Ltd,Sydney,Financials,Investment Banking & Investment Services,A$60M,8.4x,0.05,A$0.79,-1.3%
+812,GL1,Global Lithium Resources,Sydney,Basic Materials,Metals & Mining,A$59.94M,-30.9x,-0.83,A$0.23,0%
+813,COV,Cleo Diagnostics,Sydney,Healthcare,Healthcare Equipment & Supplies,A$59.75M,,,A$0.44,-6.4%
+814,CAF,Centrepoint Alliance Ltd,Sydney,Financials,Investment Banking & Investment Services,A$59.66M,7.3x,-0.63,A$0.30,1.7%
+815,RKN,Reckon,Sydney,Technology,Software & IT Services,A$59.48M,12.2x,-0.14,A$0.52,-4.5%
+816,SM1,Synlait Milk,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$59.02M,-0.6x,0,A$0.28,0.9%
+817,LKO,Lakes Oil NL,Sydney,Energy,Oil & Gas,A$58.76M,-0x,,A$0.001,0%
+818,AL3,Aml3d,Sydney,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",A$58.76M,-7.7x,-2.83,A$0.16,0%
+819,DSK,Dusk,Sydney,Consumer Non-Cyclicals,Personal & Household Products & Services,A$58.53M,5.8x,-0.15,A$0.96,2.1%
+820,MWY,Midway,Sydney,Basic Materials,Paper & Forest Products,A$58.52M,-7.6x,0.5,A$0.67,0%
+821,EGN,Engenco,Sydney,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",A$58.42M,6.4x,0.01,A$0.19,0%
+822,AGY,Argosy Minerals Ltd,Sydney,Basic Materials,Metals & Mining,A$58.24M,-4.8x,0,A$0.04,2.6%
+823,PRO,Prophecy Int,Sydney,Technology,Software & IT Services,A$58.16M,-28.4x,-0.81,A$0.80,0%
+824,MCM,MC Mining,Sydney,Energy,Coal,A$57.96M,-3.8x,-0.06,A$0.14,0%
+825,88E,88 Energy,Sydney,Energy,Oil & Gas,A$57.87M,-2x,-0.05,A$0.002,0%
+826,IDA,Indiana Resources,Sydney,Basic Materials,Metals & Mining,A$57.73M,-13x,0.13,A$0.09,0%
+827,OEL,Otto Energy,Sydney,Energy,Oil & Gas,A$57.54M,-1.6x,0.01,A$0.01,-7.7%
+828,RXL,Rox Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$57.22M,-3.4x,-0.2,A$0.14,0%
+829,CCA,ChimpChange,Sydney,Technology,Software & IT Services,A$57.12M,-15.1x,-0.3,A$0.09,-1.1%
+830,NTD,NTAW Holdings,Sydney,Consumer Cyclicals,Automobiles & Auto Parts,A$57.01M,9.7x,0.07,A$0.43,0%
+831,HAV,Havilah Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$57M,20x,0.01,A$0.18,0%
+832,ADX,Adx Energy Ltd,Sydney,Energy,Oil & Gas,A$56.87M,-9.1x,0.24,A$0.10,0%
+833,LKE,Lake Resources NL,Sydney,Basic Materials,Metals & Mining,A$56.73M,-0.7x,0,A$0.03,0%
+834,VMT,Vmoto Ltd,Sydney,Consumer Cyclicals,Automobiles & Auto Parts,A$56.71M,5.3x,-0.25,A$0.14,-3.6%
+835,MYE,Metarock,Sydney,Energy,Coal,A$56.71M,92.5x,1.59,A$0.19,0%
+836,PH2,Pure Hydrogen,Sydney,Energy,Renewable Energy,A$56.51M,-12.6x,0.05,A$0.16,3.2%
+837,SB2,Salter Brothers Emerging,Sydney,Financials,Investment Banking & Investment Services,A$56.27M,-7.2x,-2.1,A$0.65,-1.5%
+838,PSC,Prospect Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$55.98M,-8.6x,0.11,A$0.10,0%
+839,PEK,Peak Resources,Sydney,Basic Materials,Metals & Mining,A$55.95M,-1.4x,0.02,A$0.21,0%
+840,JAN,Janison Education,Sydney,Technology,Software & IT Services,A$55.54M,-3.8x,0.34,A$0.22,-4.3%
+841,BLG,BluGlass Ltd,Sydney,Technology,Semiconductors & Semiconductor Equipment,A$54.82M,-3.8x,-1.22,A$0.03,0%
+842,MVP,Medical Developments,Sydney,Healthcare,Pharmaceuticals,A$54.77M,-2.1x,0,A$0.46,-3.2%
+843,3DP,Pointerra,Sydney,Technology,Software & IT Services,A$54.75M,-8.4x,0.14,A$0.07,3.1%
+844,EBG,Eumundi,Sydney,Consumer Cyclicals,Hotels & Entertainment Services,A$54.69M,94.6x,-1.13,A$1.13,0%
+845,AMS,Atomos,Sydney,Technology,"Computers, Phones & Household Electronics",A$54.61M,-0.9x,-0.04,A$0.05,7.1%
+846,SS1,Sun Silver,Sydney,Basic Materials,Metals & Mining,A$54.36M,,,A$0.41,0%
+847,AHL,Adrad Holdings,Sydney,Consumer Cyclicals,Automobiles & Auto Parts,A$54.06M,8.1x,0.33,A$0.68,2.3%
+848,PCK,PainChek,Sydney,Technology,Software & IT Services,A$53.98M,-5.5x,13.61,A$0.03,-5.7%
+849,OMA,Omega Oil Gas,Sydney,Energy,Oil & Gas Related Equipment and Services,A$53.94M,-5x,-0.21,A$0.20,5.3%
+850,KSN,Kingston Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$53.73M,3x,0.01,A$0.08,4.1%
+851,CMP,Compumedics Ltd,Sydney,Healthcare,Healthcare Equipment & Supplies,A$53.29M,36.3x,0.37,A$0.29,0%
+852,EUR,European Lithium,Sydney,Basic Materials,Metals & Mining,A$53.13M,-6.3x,-0.16,A$0.04,-2.6%
+853,ELS,Elsight,Sydney,Technology,Software & IT Services,A$52.97M,-9.3x,-0.55,A$0.35,1.4%
+854,PFG,Prime Financial Group,Sydney,Industrials,Professional & Commercial Services,A$52.70M,15.4x,-0.59,A$0.22,2.4%
+855,EYE,Nova Eye Medical,Sydney,Healthcare,Healthcare Equipment & Supplies,A$52.68M,-2.8x,0.61,A$0.23,0%
+856,DCG,Decmil Group,Sydney,Industrials,Construction & Engineering,A$52.54M,-37.3x,-0.44,A$0.30,0%
+857,BRK,Brookside Energy,Sydney,Energy,Oil & Gas,A$52.50M,3.7x,-0.83,A$0.01,0%
+858,TIG,Tigers Realm Coal Ltd,Sydney,Energy,Coal,A$52.27M,1x,-0.1,A$0.004,0%
+859,S2R,S2 Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$52.08M,-6.4x,4,A$0.12,4.5%
+860,SEQ,Sequoia Financial,Sydney,Financials,Investment Banking & Investment Services,A$52.07M,2.3x,-0.05,A$0.41,-1.2%
+861,EVS,Envirosuite,Sydney,Technology,Software & IT Services,A$52M,-5.1x,-0.18,A$0.04,0%
+862,DTZ,Dotz Nano,Sydney,Technology,Electronic Equipment & Parts,A$51.85M,-4.5x,0.4,A$0.10,0%
+863,MEC,Morphic Ethical Equities,Sydney,Financials,Investment Banking & Investment Services,A$51.83M,9.7x,,A$0.99,0%
+864,EPY,Earlypay,Sydney,Financials,Banking Services,A$51.82M,-190x,1.11,A$0.19,-2.6%
+865,AZY,Antipa Minerals Ltd,Sydney,Basic Materials,Metals & Mining,A$51.81M,-11x,-0.44,A$0.01,0%
+866,IDT,IDT Australia Ltd,Sydney,Healthcare,Biotechnology & Medical Research,A$51.55M,-5.4x,-0.24,A$0.12,4.3%
+867,HAS,Hastings Rare Metals Ltd,Sydney,Basic Materials,Metals & Mining,A$51.54M,-2.5x,-0.21,A$0.28,-1.8%
+868,CD2,CD Equity Fund II Pvt Unt,Sydney,Financials,Investment Banking & Investment Services,A$51.33M,4.8x,,A$0.93,-1.1%
+869,BCB,Bowen Coking,Sydney,Basic Materials,Metals & Mining,A$51.29M,,0,A$0.02,-11.1%
+870,IBC,Ironbark Capital Ltd,Sydney,Financials,Investment Banking & Investment Services,A$51.10M,15.5x,,A$0.48,0%
+871,FAL,Falcon Metals,Sydney,Basic Materials,Metals & Mining,A$50.45M,-2.5x,0.13,A$0.28,-3.5%
+872,MNS,Magnis Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$50.38M,-4.2x,-0.05,A$0.04,0%
+873,STN,Saturn Metals,Sydney,Basic Materials,Metals & Mining,A$50.34M,-8.6x,0.34,A$0.18,0%
+874,BGD,Barton Gold Holdings,Sydney,Basic Materials,Metals & Mining,A$50.29M,-6.8x,0.06,A$0.25,4.2%
+875,USL,Unico Silver,Sydney,Basic Materials,Metals & Mining,A$50.17M,-2.2x,0.03,A$0.17,-1.5%
+876,ADN,Andromeda Metals,Sydney,Basic Materials,Metals & Mining,A$49.73M,-5.3x,0.91,A$0.02,0%
+877,LV1,Live Verdure,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$49.67M,-6.8x,0.25,A$0.41,3.8%
+878,FSI,Flagship Investments Ltd,Sydney,Financials,Investment Banking & Investment Services,A$49.39M,-21.7x,0.12,A$1.91,0%
+879,TEK,Thorney Tech,Sydney,Financials,Investment Banking & Investment Services,A$49.24M,-1.9x,-0.03,A$0.13,4.2%
+880,AVG,Australian Vintage,Sydney,Consumer Non-Cyclicals,Beverages,A$48.60M,-6.9x,0.06,A$0.15,-3.2%
+881,PPK,PPK Group Ltd,Sydney,Basic Materials,Chemicals,A$48.44M,-5.3x,-0.09,A$0.53,8.2%
+882,PRL,Province Resources,Sydney,Basic Materials,Metals & Mining,A$48.44M,-8.2x,-0.48,A$0.04,0%
+883,5GN,5G Networks,Sydney,,,A$48.31M,-2.1x,-2.12,A$0.15,0%
+884,POL,Polymetals Resources,Sydney,Basic Materials,Metals & Mining,A$47.47M,-3.8x,0.01,A$0.25,-2%
+885,TVL,Touch Ventures,Sydney,Financials,Investment Banking & Investment Services,A$47.46M,-3.1x,-0.04,A$0.07,4.5%
+886,ADO,Anteo Diagnostics,Sydney,Healthcare,Biotechnology & Medical Research,A$46.90M,-3.6x,1.46,A$0.02,5.3%
+887,EDC,Eildon Capital,Sydney,Real Estate,Real Estate Operations,A$46.29M,-39.2x,0.22,A$0.98,0%
+888,E25,Element 25,Sydney,Basic Materials,Metals & Mining,A$46.18M,-1.5x,0.05,A$0.21,-4.5%
+889,AV1,Adveritas,Sydney,Technology,Software & IT Services,A$45.75M,-2.8x,-1.39,A$0.06,0%
+890,FAR,FAR,Sydney,Energy,Oil & Gas,A$45.74M,-7.1x,-0.62,A$0.50,1%
+891,TOU,Tlou Energy Ltd,Sydney,Energy,Oil & Gas,A$45.72M,-9x,-0.26,A$0.04,0%
+892,KYP,Kinatico,Sydney,Industrials,Professional & Commercial Services,A$45.53M,26.3x,0.16,A$0.10,0%
+893,VIT,Vitura Health,Sydney,Healthcare,Pharmaceuticals,A$45.49M,5.4x,-0.54,A$0.09,13.8%
+894,NWC,New World Cobalt,Sydney,Basic Materials,Metals & Mining,A$45.44M,-17x,-9.73,A$0.02,0%
+895,EGR,EcoGraf,Sydney,Basic Materials,Chemicals,A$45.40M,-7.5x,-0.25,A$0.10,0%
+896,WA8,Warriedar Resources,Sydney,Basic Materials,Metals & Mining,A$45.03M,-1.1x,0.03,A$0.06,1.8%
+897,ANO,Advance Nanotek,Sydney,Consumer Non-Cyclicals,Personal & Household Products & Services,A$44.96M,42.3x,-0.76,A$0.72,0%
+898,MKT,Market Herald,Sydney,Technology,Software & IT Services,A$44.94M,-28x,-3.01,A$0.14,0%
+899,IXU,IXUP,Sydney,Technology,Software & IT Services,A$44.88M,-2.6x,-0.06,A$0.03,11.5%
+900,BDX,BCAL Diagnostics,Sydney,Healthcare,Healthcare Equipment & Supplies,A$44.72M,-6.4x,-20.29,A$0.12,-4%
+901,G1A,Galena Mining,Sydney,Basic Materials,Metals & Mining,A$44.40M,-0.9x,,A$0.06,0%
+902,CYM,Cyprium Metals,Sydney,Basic Materials,Metals & Mining,A$44.25M,-1.5x,-0.05,A$0.03,3.6%
+903,AIQ,Alternative Investment Trust,Sydney,Financials,Investment Banking & Investment Services,A$44.24M,-242.5x,2.25,A$1.46,-1.4%
+904,MFD,Mayfield Childcare,Sydney,Consumer Non-Cyclicals,Personal & Household Products & Services,A$44.09M,-30.7x,0.24,A$0.68,0%
+905,VMS,Venture Minerals,Sydney,Basic Materials,Metals & Mining,A$43.91M,-6x,-0.15,A$0.02,-5.6%
+906,HMY,Harmoney,Sydney,Financials,Banking Services,A$43.84M,-7.7x,-0.15,A$0.45,4.7%
+907,RTG,RTG Mining Inc,Sydney,Basic Materials,Metals & Mining,A$43.65M,-5.1x,-0.17,A$0.04,0%
+908,MEU,Marmota Energy Ltd,Sydney,Basic Materials,Metals & Mining,A$43.46M,-125.8x,-5.75,A$0.04,0%
+909,MMA,Maronan Metals,Sydney,Basic Materials,Metals & Mining,A$43.27M,-4.5x,0.15,A$0.23,-4.3%
+910,SPX,Spenda Ltd,Sydney,Technology,Software & IT Services,A$43.24M,-3.3x,-0.04,A$0.010,0%
+911,LML,Lincoln Minerals Ltd,Sydney,Basic Materials,Metals & Mining,A$43.17M,,-0.23,A$0.006,-8.3%
+912,LRV,Larvotto Resources,Sydney,Basic Materials,Metals & Mining,A$43.11M,-1.2x,0.06,A$0.13,-8.9%
+913,OJC,Original Juice,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$42.96M,-6.9x,0.13,A$0.14,0%
+914,AUE,Aurum Resources,Sydney,Basic Materials,Metals & Mining,A$42.95M,-10x,-0.4,A$0.33,-10.8%
+915,OAU,Ora Gold,Sydney,Basic Materials,Metals & Mining,A$42.85M,-6x,-0.2,A$0.006,10%
+916,AVC,Auctus Alternative,Sydney,Financials,Investment Banking & Investment Services,A$42.56M,-24.1x,0.06,A$0.53,0%
+917,TSO,Tesoro Resources,Sydney,Basic Materials,Metals & Mining,A$42.38M,-28x,-0.49,A$0.03,-3.6%
+918,TLM,Talisman Mining,Sydney,Basic Materials,Metals & Mining,A$42.37M,-22.5x,0.11,A$0.22,2.3%
+919,FFI,FFI Holdings Ltd,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$42.37M,14.3x,0.03,A$3.93,0.3%
+920,BEZ,Besra Gold Inc,Sydney,Basic Materials,Metals & Mining,A$42.29M,-2.3x,0,A$0.10,0%
+921,CHW,Chilwa Minerals,Sydney,Basic Materials,Metals & Mining,A$41.97M,-14.9x,,A$0.65,7.5%
+922,VBC,Verbrec Ltd,Sydney,Industrials,Construction & Engineering,A$41.86M,-4.8x,0.18,A$0.14,3.6%
+923,AME,Alto Metals,Sydney,Basic Materials,Metals & Mining,A$41.85M,-14.5x,-2.73,A$0.06,1.8%
+924,UBI,Universal Biosensors,Sydney,Healthcare,Healthcare Equipment & Supplies,A$41.73M,-2.8x,-0.08,A$0.14,3.6%
+925,SOV,Sovereign Cloud,Sydney,Technology,Software & IT Services,A$41.71M,-0.3x,-0.08,A$0.26,0%
+926,OSL,Oncosil Medical Ltd,Sydney,Healthcare,Biotechnology & Medical Research,A$41.62M,-1.7x,-0.09,A$0.01,20%
+927,BBC,BNK Banking,Sydney,Financials,Banking Services,A$41.55M,-13.5x,0.12,A$0.35,0%
+928,SNT,Syntara,Sydney,Healthcare,Pharmaceuticals,A$41.29M,-2.1x,,A$0.03,0%
+929,HRN,Horizon Gold,Sydney,Basic Materials,Metals & Mining,A$41.28M,-12.9x,0.03,A$0.28,0%
+930,TNC,True North Copper,Sydney,Basic Materials,Metals & Mining,A$41.19M,-0.6x,,A$0.04,-2.5%
+931,WZR,WISR,Sydney,Financials,Banking Services,A$41.19M,-5x,-0.09,A$0.03,0%
+932,FEG,Far East Gold,Sydney,Basic Materials,Metals & Mining,A$40.78M,-837.7x,3.71,A$0.16,3.3%
+933,WRK,WRKR,Sydney,Technology,Software & IT Services,A$40.69M,-10.7x,0.96,A$0.03,0%
+934,SWP,Swoop Holdings,Sydney,Technology,Telecommunications Services,A$40.59M,-1.1x,0,A$0.19,0%
+935,PVE,PO Valley Energy,Sydney,Energy,Oil & Gas,A$40.56M,21x,0.27,A$0.04,-5.4%
+936,SOP,Synertec Corporation,Sydney,Industrials,Construction & Engineering,A$40.51M,-4.9x,0.3,A$0.08,0%
+937,ATP,Atlas Pearls and Perfumes,Sydney,Consumer Cyclicals,Textiles & Apparel,A$40.20M,1.6x,0,A$0.09,-2.1%
+938,IPT,Impact Minerals Ltd,Sydney,Basic Materials,Metals & Mining,A$39.77M,-4.3x,0.04,A$0.01,3.8%
+939,LEL,Lithium Energy,Sydney,Basic Materials,Metals & Mining,A$39.76M,-20.8x,-0.19,A$0.35,0.7%
+940,VMM,Viridis Mining and Minerals,Sydney,Basic Materials,Metals & Mining,A$39.55M,-8.7x,0.06,A$0.62,3.3%
+941,AVD,Avada,Sydney,Industrials,Construction & Engineering,A$39.49M,13.1x,0.1,A$0.47,0%
+942,NMT,Neometals,Sydney,Basic Materials,Metals & Mining,A$39.26M,-0.8x,0.01,A$0.06,-1.6%
+943,CCX,City Chic Collective,Sydney,Consumer Cyclicals,Specialty Retailers,A$39.26M,-0.3x,0,A$0.10,5%
+944,IXR,Ionic Rare Earths Ltd,Sydney,Basic Materials,Metals & Mining,A$38.96M,-1.4x,0.01,A$0.007,-12.5%
+945,RDM,Red Metal Ltd,Sydney,Basic Materials,Metals & Mining,A$38.96M,-5.6x,0.19,A$0.13,0%
+946,DDB,Dynamic Drill,Sydney,Basic Materials,Metals & Mining,A$38.93M,5.3x,0.01,A$0.28,0%
+947,RWL,Rubicon Water,Sydney,Utilities,Water & Related Utilities,A$38.83M,-5.3x,0.06,A$0.23,-2.2%
+948,NGE,NGE Capital,Sydney,Financials,Investment Banking & Investment Services,A$38.58M,3.3x,0.01,A$1.09,3.3%
+949,STM,Sunstone Metals,Sydney,Basic Materials,Metals & Mining,A$38.52M,-16x,-0.35,A$0.010,0%
+950,KAT,Katana Capital Ltd,Sydney,Financials,Investment Banking & Investment Services,A$38.49M,17.5x,0.11,A$1.21,0%
+951,MX1,Micro X Ltd,Sydney,Healthcare,Healthcare Equipment & Supplies,A$38.39M,-2.4x,0.28,A$0.07,0%
+952,MTC,Metalstech,Sydney,Basic Materials,Metals & Mining,A$38.39M,-5.9x,0.08,A$0.19,0%
+953,DNA,Donaco Int,Sydney,Consumer Cyclicals,Hotels & Entertainment Services,A$38.28M,6x,0.06,A$0.03,6.9%
+954,CSS,Clean Seas,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$38.25M,-2x,0.01,A$0.19,0%
+955,SRL,Sunrise Energy Metals,Sydney,Basic Materials,Metals & Mining,A$37.90M,-4.4x,-0.92,A$0.45,7.1%
+956,LRT,Lowell Resources Fund,Sydney,Financials,Investment Banking & Investment Services,A$37.89M,4x,,A$1.10,0%
+957,RAU,Resouro Strategic Metals,Sydney,Basic Materials,Metals & Mining,A$37.58M,-7.3x,-0.2,A$0.42,-1.2%
+958,SPL,Starpharma Holdings,Sydney,Healthcare,Pharmaceuticals,A$37.53M,-4.6x,-0.11,A$0.09,0%
+959,YRL,Yandal Resources,Sydney,Basic Materials,Metals & Mining,A$37.49M,-140x,-1.86,A$0.14,0%
+960,ASH,Ashley Services Group Ltd,Sydney,Industrials,Professional & Commercial Services,A$37.43M,6.2x,-0.13,A$0.26,0%
+961,FML,Focus Minerals,Sydney,Basic Materials,Metals & Mining,A$37.25M,-13.5x,-0.37,A$0.13,-7.1%
+962,DGH,Desane Group Holdings Ltd,Sydney,Real Estate,Real Estate Operations,A$37.23M,13.6x,0.02,A$0.90,0%
+963,ATX,Amplia Therapeutics,Sydney,Healthcare,Biotechnology & Medical Research,A$37.02M,-5.9x,-0.28,A$0.14,-3.6%
+964,CTP,Central Petroleum,Sydney,Energy,Oil & Gas,A$37.01M,2.2x,0.01,A$0.05,0%
+965,RAD,Radiopharm Theranostics,Sydney,Healthcare,Pharmaceuticals,A$37.01M,-0.3x,0.02,A$0.04,0%
+966,NVO,Novo Resources DRC,Sydney,Basic Materials,Metals & Mining,A$36.98M,-0.8x,-0.05,A$0.12,21%
+967,TGN,Tungsten Mining NL,Sydney,Basic Materials,Metals & Mining,A$36.96M,-9.4x,0.7,A$0.05,-4.2%
+968,CTE,Cryosite Ltd,Sydney,Healthcare,Healthcare Providers & Services,A$36.61M,23.4x,0.92,A$0.75,0%
+969,SIH,Sihayo Gold,Sydney,Basic Materials,Metals & Mining,A$36.61M,-8x,-0.22,A$0.003,0%
+970,MPX,Mustera Property Group Ltd,Sydney,Real Estate,Real Estate Operations,A$36.56M,-5.7x,0.06,A$0.25,0%
+971,DCC,Digitalx,Sydney,Technology,Software & IT Services,A$36.39M,-8.4x,-0.2,A$0.04,-2.3%
+972,CSX,Cleanspace,Sydney,Healthcare,Healthcare Equipment & Supplies,A$36.37M,-4.4x,-0.14,A$0.48,1.1%
+973,ADA,Adacel Tech Ltd,Sydney,Technology,Software & IT Services,A$36.21M,-15x,0.09,A$0.47,-9.5%
+974,DEM,De.mem,Sydney,Utilities,Water & Related Utilities,A$36.17M,-10.4x,-0.79,A$0.13,-7.4%
+975,SPD,Southern Palladium,Sydney,Basic Materials,Metals & Mining,A$36.12M,-4.7x,-0.17,A$0.38,-5.6%
+976,CYP,Cynata Therapeutics Ltd,Sydney,Healthcare,Biotechnology & Medical Research,A$36.11M,-2.4x,0.11,A$0.20,-2.4%
+977,FLX,Felix Group,Sydney,Technology,Software & IT Services,A$35.79M,-5.1x,-0.32,A$0.18,2.9%
+978,GDA,Good Drinks Australia,Sydney,Consumer Non-Cyclicals,Beverages,A$35.68M,-40x,0.21,A$0.27,-1.8%
+979,WWI,West Wits Mining Ltd,Sydney,Basic Materials,Metals & Mining,A$35.58M,-15x,-0.29,A$0.01,7.1%
+980,I88,Infini Resources,Sydney,Energy,Uranium,A$35.42M,-14.6x,,A$0.60,3.4%
+981,RZI,Raiz Invest,Sydney,Technology,Software & IT Services,A$35.32M,-8.2x,-0.14,A$0.37,0%
+982,TAM,Tanami Gold Nl,Sydney,Basic Materials,Metals & Mining,A$35.25M,-7.5x,0.28,A$0.03,3.4%
+983,ETM,Greenland Minerals&Energy,Sydney,Basic Materials,Metals & Mining,A$35.22M,-6.3x,-5,A$0.03,0%
+984,NCC,NAOS Emerging Opportunities,Sydney,Financials,Investment Banking & Investment Services,A$35.05M,-6.5x,,A$0.47,-4%
+985,NCCGA,NAOS Emerging Opportunities Prf,Sydney,Financials,Investment Banking & Investment Services,A$35.05M,-6.5x,,A$82.51,0%
+986,K2F,K2FLY,Sydney,Technology,Software & IT Services,A$34.72M,-6.6x,0.06,A$0.19,0%
+987,RSH,Respiri,Sydney,Healthcare,Healthcare Equipment & Supplies,A$34.69M,-3.9x,-0.52,A$0.03,-6.9%
+988,PTX,Prescient Therapeutics Ltd,Sydney,Healthcare,Biotechnology & Medical Research,A$34.63M,-4.2x,0.2,A$0.04,-2.3%
+989,VTM,Victory Goldfields,Sydney,Basic Materials,Metals & Mining,A$34.32M,-9x,0.21,A$0.41,6.6%
+990,TIP,Teaminvest Private Group,Sydney,Financials,Investment Banking & Investment Services,A$34.10M,8.2x,0.05,A$1.24,-1.8%
+991,DUB,Dubber Corp,Sydney,Technology,Software & IT Services,A$34.05M,-0.2x,-0.01,A$0.04,0%
+992,XF1,Xref,Sydney,Industrials,Professional & Commercial Services,A$34.03M,-5.6x,0.01,A$0.18,0%
+993,GFL,Global Masters Closed,Sydney,Financials,Investment Banking & Investment Services,A$33.56M,-38.6x,,A$3.13,1%
+994,NHE,Noble Helium,Sydney,Basic Materials,Chemicals,A$33.23M,-6.5x,-0.31,A$0.08,12.7%
+995,TBA,Tombola Gold,Sydney,Basic Materials,Metals & Mining,A$33.13M,,,A$0.03,0%
+996,HYT,Hyterra,Sydney,Energy,Renewable Energy,A$33.13M,-15.1x,-0.23,A$0.03,-5.9%
+997,LM8,Lunnon Metals,Sydney,Basic Materials,Metals & Mining,A$33.03M,-1.4x,0.04,A$0.15,0%
+998,NVA,Nova Minerals,Sydney,Basic Materials,Metals & Mining,A$32.88M,-1.9x,-0.03,A$0.14,0%
+999,HMX,Hammer Metals Ltd,Sydney,Basic Materials,Metals & Mining,A$32.80M,-37x,-1.06,A$0.04,0%
+1000,AWJ,Auric Mining,Sydney,Basic Materials,Metals & Mining,A$32.68M,24x,0.13,A$0.24,6.8%
+1001,MLM,Metallica Minerals,Sydney,Basic Materials,Metals & Mining,A$32.64M,-17x,-0.45,A$0.03,0%
+1002,KAU,Kaiser Reef,Sydney,Basic Materials,Metals & Mining,A$32.62M,-8.4x,0.05,A$0.16,0%
+1003,CXM,Centrex Metals,Sydney,Basic Materials,Chemicals,A$32.57M,-1.7x,-0.05,A$0.04,-4.7%
+1004,FGR,First Graphene,Sydney,Basic Materials,Metals & Mining,A$32.30M,-5.1x,-0.38,A$0.05,-1%
+1005,AMX,Aerometrex,Sydney,Basic Materials,Metals & Mining,A$32.26M,-11.1x,0.08,A$0.34,0%
+1006,WNX,Wellnex Life,Sydney,Healthcare,Pharmaceuticals,A$32.24M,-0.6x,0.06,A$0.02,0%
+1007,EQN,Barrick Resources,Sydney,Basic Materials,Metals & Mining,A$32.20M,-13.9x,1.75,A$0.26,-1.9%
+1008,NOU,Noumi,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$31.87M,-0.6x,-0.01,A$0.12,0%
+1009,JPR,Jupiter Energy,Sydney,Energy,Oil & Gas,A$31.84M,-25x,0.39,A$0.03,0%
+1010,RMY,RMA Global,Sydney,Technology,Software & IT Services,A$31.80M,-8.1x,-0.2,A$0.06,0%
+1011,AMD,Arrow Minerals,Sydney,Basic Materials,Metals & Mining,A$31.62M,-9.9x,-0.49,A$0.003,-16.7%
+1012,GAL,Galileo Mining,Sydney,Basic Materials,Metals & Mining,A$31.62M,-20x,7.01,A$0.16,0%
+1013,ATM,Aneka Tambang Tbk PT DRC,Sydney,Basic Materials,Metals & Mining,A$31.60M,11.5x,-0.33,A$1.03,0%
+1014,CLA,Celsius Resources,Sydney,Basic Materials,Metals & Mining,A$31.56M,-4.3x,0.37,A$0.01,-7.7%
+1015,TOE,Toro Energy,Sydney,Energy,Uranium,A$31.27M,-3.3x,-0.09,A$0.26,-3.6%
+1016,EWC,Energy World Corporation,Sydney,Utilities,Electrical Utilities & IPPs,A$30.79M,-6.6x,-0.1,A$0.010,0%
+1017,FCT,Firstwave Cloud,Sydney,Technology,Software & IT Services,A$30.78M,-2.6x,0.07,A$0.02,0%
+1018,ODA,Orcoda,Sydney,Industrials,Freight & Logistics Services,A$30.45M,20x,0.08,A$0.18,0%
+1019,MI6,Minerals 260,Sydney,Basic Materials,Metals & Mining,A$30.42M,-2.3x,0.03,A$0.11,-15.4%
+1020,TI1,Tombador Iron,Sydney,Basic Materials,Metals & Mining,A$30.22M,-1.4x,0.04,A$0.01,0%
+1021,B4P,Beforepay,Sydney,Technology,Software & IT Services,A$30.20M,"-1,230x",-12.17,A$0.70,7.8%
+1022,WTL,Wt Financial Group Ltd,Sydney,Financials,Investment Banking & Investment Services,A$30.19M,7.4x,0.25,A$0.09,4.7%
+1023,SWF,SelfWealth,Sydney,Financials,Investment Banking & Investment Services,A$30.19M,18.6x,0.13,A$0.13,-3.7%
+1024,PPL,Pureprofile Ltd,Sydney,Consumer Cyclicals,Media & Publishing,A$30.14M,-26x,-1,A$0.03,8.3%
+1025,AVA,Ava Risk,Sydney,Technology,Communications & Networking,A$30.13M,-8.8x,0,A$0.10,-4.5%
+1026,CAE,Cannindah Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$30.06M,-17.3x,-1.3,A$0.05,0%
+1027,AXI,Axiom Properties Ltd,Sydney,Real Estate,Real Estate Operations,A$29.86M,-12x,0.77,A$0.07,4.3%
+1028,JRV,Jervois Mining Ltd,Sydney,Basic Materials,Metals & Mining,A$29.73M,-0.1x,0,A$0.01,-8.3%
+1029,NGY,Nuenergy Gas Ltd,Sydney,Energy,Oil & Gas,A$29.62M,-20x,1.46,A$0.02,0%
+1030,LGP,Little Green Pharma,Sydney,Healthcare,Pharmaceuticals,A$29.57M,-3.7x,-0.13,A$0.09,-5.1%
+1031,SIX,Sprintex Ltd,Sydney,Consumer Cyclicals,Automobiles & Auto Parts,A$29.46M,-3.5x,-0.24,A$0.05,10.2%
+1032,ERM,Emmerson Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$29.41M,-7.7x,0.6,A$0.05,0%
+1033,KRM,Kingsrose Mining,Sydney,Basic Materials,Metals & Mining,A$29.35M,-9.8x,-0.17,A$0.04,0%
+1034,TSI,Top Shelf International Holdings,Sydney,Consumer Non-Cyclicals,Beverages,A$29.26M,-0.3x,-0.04,A$0.09,0%
+1035,GBR,Great Boulder Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$29.17M,-6.9x,-3.52,A$0.05,-2%
+1036,AGR,Aguia Resources,Sydney,Basic Materials,Chemicals,A$29.17M,-6x,-1.84,A$0.02,-4%
+1037,SRZ,Stellar Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$29.13M,-5x,-0.22,A$0.01,-6.3%
+1038,LEG,Legend Mining Ltd,Sydney,Basic Materials,Metals & Mining,A$29.09M,-11x,0.07,A$0.010,-9.1%
+1039,SGQ,St George Mining Ltd,Sydney,Basic Materials,Metals & Mining,A$28.67M,-2.3x,-5.2,A$0.03,-3.3%
+1040,STG,Straker Translations,Sydney,Industrials,Professional & Commercial Services,A$28.63M,-14.9x,-0.59,A$0.44,-1.1%
+1041,NML,Navarre Minerals,Sydney,Basic Materials,Metals & Mining,A$28.56M,-1.5x,,A$0.02,0%
+1042,NXD,Nexted,Sydney,Academic & Educational Services,Professional & Business Education,A$28.49M,10x,0.05,A$0.13,4%
+1043,MPA,Mad Paws Holdings,Sydney,Consumer Cyclicals,Specialty Retailers,A$28.44M,-4.3x,-0.1,A$0.07,-2.9%
+1044,GAP,Gale Pacific Ltd,Sydney,Consumer Cyclicals,Household Goods,A$28.40M,-33.3x,0.34,A$0.10,-4.8%
+1045,COB,Cobalt Blue,Sydney,Basic Materials,Metals & Mining,A$28.31M,-4.2x,-0.2,A$0.07,-1.4%
+1046,HRZ,Horizon M. Ltd.,Sydney,Basic Materials,Metals & Mining,A$28.30M,-20x,-0.22,A$0.04,2.6%
+1047,IR1,IRIS Metals,Sydney,Basic Materials,Metals & Mining,A$28.11M,-1.8x,0.28,A$0.19,-8.3%
+1048,G6M,Group 6 Metals,Sydney,Basic Materials,Metals & Mining,A$28.11M,-1.4x,-0.08,A$0.03,-3.4%
+1049,SNS,Sensen Networks,Sydney,Technology,Software & IT Services,A$28M,-5.1x,-0.09,A$0.04,0%
+1050,TYP,Tryptamine Therapeutics,Sydney,Healthcare,Biotechnology & Medical Research,A$27.81M,-0.4x,-0.22,A$0.02,-5%
+1051,TMK,TMK Energy,Sydney,Energy,Oil & Gas,A$27.69M,-4x,-0.23,A$0.004,0%
+1052,UBN,Urbanise,Sydney,Technology,Software & IT Services,A$27.60M,-5.7x,-0.41,A$0.42,0%
+1053,BPH,BPH Energy Ltd,Sydney,Healthcare,Biotechnology & Medical Research,A$27.54M,24x,0.19,A$0.02,4.5%
+1054,ROG,Red Sky Energy,Sydney,Energy,Oil & Gas,A$27.11M,-17x,-2.61,A$0.006,0%
+1055,SRT,Strata Investment Holdings,Sydney,Financials,Investment Banking & Investment Services,A$27.11M,,0.16,A$0.17,3.1%
+1056,AEV,Avenira Ltd,Sydney,Basic Materials,Construction Materials,A$27.04M,-10x,-0.17,A$0.010,0%
+1057,GBE,Globe Metals & Mining,Sydney,Basic Materials,Metals & Mining,A$26.97M,-6.5x,0.66,A$0.04,0%
+1058,CDO,Cadence Opportunities Fund,Sydney,Financials,Investment Banking & Investment Services,A$26.89M,-25.6x,-0.37,A$1.72,0%
+1059,A3D,Aurora Labs,Sydney,Technology,Electronic Equipment & Parts,A$26.85M,-6.2x,-0.38,A$0.07,2.8%
+1060,RHT,Resonance Health Ltd,Sydney,Healthcare,Healthcare Equipment & Supplies,A$26.81M,-30x,12.99,A$0.06,0%
+1061,ABV,Advanced Braking Technology,Sydney,Consumer Cyclicals,Automobiles & Auto Parts,A$26.79M,17.5x,0.68,A$0.07,0%
+1062,LBT,LBT Innovations Ltd,Sydney,Healthcare,Biotechnology & Medical Research,A$26.65M,-0.4x,0.01,A$0.02,3.1%
+1063,KTG,K-Tig Ltd,Sydney,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",A$26.62M,-1.8x,,A$0.14,0%
+1064,RTR,Rumble Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$26.48M,-4.3x,0.11,A$0.04,-2.7%
+1065,RFX,RedFlow Ltd,Sydney,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",A$26.43M,-1x,0.15,A$0.10,0%
+1066,NUC,Nuchev,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$26.34M,-1.7x,-0.07,A$0.18,0%
+1067,ICI,iCandy Interactive,Sydney,Technology,Software & IT Services,A$26.33M,-2x,0,A$0.02,-4.8%
+1068,CG1,Carbonxt,Sydney,Basic Materials,Chemicals,A$26.26M,-3.4x,-0.54,A$0.08,0%
+1069,KAI,Kairos Minerals,Sydney,Basic Materials,Metals & Mining,A$26.21M,-10x,-0.28,A$0.010,0%
+1070,HCL,Highcom,Sydney,Industrials,Aerospace & Defense,A$26.18M,-1.9x,0.01,A$0.26,4%
+1071,CIW,Clime Investment Management,Sydney,Financials,Investment Banking & Investment Services,A$26.06M,-6.1x,0,A$0.34,0%
+1072,HE8,Helios Energy,Sydney,Energy,Oil & Gas,A$26.04M,-5.5x,-0.12,A$0.01,0%
+1073,MAG,Magmatic Resources,Sydney,Basic Materials,Metals & Mining,A$25.86M,-3.1x,-0.84,A$0.06,-3.1%
+1074,ANL,Amani Gold,Sydney,Basic Materials,Metals & Mining,A$25.74M,-1x,0.02,A$0.001,0%
+1075,MRC,Mineral Commodities Ltd,Sydney,Basic Materials,Metals & Mining,A$25.60M,-1.2x,-0.05,A$0.03,0%
+1076,JAL,Jameson Resources Ltd,Sydney,Energy,Coal,A$25.43M,-11x,0.23,A$0.05,5.8%
+1077,NOX,Noxopharm,Sydney,Healthcare,Pharmaceuticals,A$25.42M,-2.1x,-0.09,A$0.09,-6.4%
+1078,CXZ,Connexion Media Ltd,Sydney,Technology,Software & IT Services,A$25.41M,6.4x,0.01,A$0.03,0%
+1079,VR8,Vanadium Resources,Sydney,Basic Materials,Metals & Mining,A$25.32M,-7.5x,0.06,A$0.05,0%
+1080,ECP,ECP Emerging Growth,Sydney,Financials,Investment Banking & Investment Services,A$25.31M,4.5x,,A$1.38,-1.4%
+1081,DOC,Doctor Care Anywhere,Sydney,Technology,Software & IT Services,A$24.94M,-1.5x,-0.03,A$0.07,0%
+1082,ARV,Artemis Resources,Sydney,Basic Materials,Metals & Mining,A$24.92M,-13x,-0.12,A$0.01,20%
+1083,PWN,Parkway Minerals,Sydney,Industrials,Professional & Commercial Services,A$24.90M,-17.5x,-0.47,A$0.009,0%
+1084,TCO,Transmetro,Sydney,Consumer Cyclicals,Hotels & Entertainment Services,A$24.89M,16.8x,-0.26,A$1.86,0%
+1085,LIT,Lithium Australia,Sydney,Basic Materials,Metals & Mining,A$24.81M,-2.6x,-0.05,A$0.02,0%
+1086,BB1,BlinkLab,Sydney,,,A$24.79M,-27.5x,,A$0.23,-8%
+1087,LGM,Legacy Minerals Holdings,Sydney,Basic Materials,Metals & Mining,A$24.78M,-18.8x,-1.05,A$0.23,-2.1%
+1088,WAK,WA Kaolin,Sydney,Basic Materials,Construction Materials,A$24.58M,-2.3x,-0.23,A$0.05,0%
+1089,INF,Infinity Lithium,Sydney,Basic Materials,Metals & Mining,A$24.52M,-5.9x,-0.34,A$0.05,1.9%
+1090,WCN,White Cliff Minerals,Sydney,Basic Materials,Metals & Mining,A$24.44M,-15x,-0.39,A$0.01,0%
+1091,GWR,GWR Group Ltd,Sydney,Basic Materials,Metals & Mining,A$24.41M,-1.6x,0.07,A$0.08,-7.3%
+1092,AUQ,Alara Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$24.41M,-11.3x,0.77,A$0.03,0%
+1093,BIT,Biotron Ltd,Sydney,Healthcare,Biotechnology & Medical Research,A$24.36M,-6.8x,0.07,A$0.03,3.8%
+1094,ELE,Elmore,Sydney,Basic Materials,Metals & Mining,A$24.27M,-0.3x,,A$0.005,0%
+1095,QFE,Quickfee,Sydney,Technology,Financial Technology (Fintech) & Infrastructure,A$24.21M,-3.1x,-0.09,A$0.07,0%
+1096,PGY,Pilot Energy,Sydney,Energy,Oil & Gas,A$24.03M,-5.7x,-0.13,A$0.02,6.3%
+1097,MGT,Magnetite Mines,Sydney,Basic Materials,Metals & Mining,A$24.02M,-3.5x,0.53,A$0.23,-2.1%
+1098,PHX,Pharmx Tech,Sydney,Technology,Software & IT Services,A$23.94M,-10x,-0.15,A$0.04,-2.4%
+1099,FPC,Fat Prophets Global,Sydney,Financials,Investment Banking & Investment Services,A$23.89M,133.3x,,A$0.83,0%
+1100,PNX,PNX Metals,Sydney,Basic Materials,Metals & Mining,A$23.88M,-19.5x,0.51,A$0.004,0%
+1101,WMG,Western Mines Group,Sydney,Basic Materials,Metals & Mining,A$23.87M,-7.8x,69.72,A$0.28,-5.1%
+1102,LRL,Labyrinth Resources,Sydney,Basic Materials,Metals & Mining,A$23.82M,-0.8x,-0.11,A$0.01,0%
+1103,KM1,Kali Metals,Sydney,Basic Materials,Metals & Mining,A$23.78M,,,A$0.17,0%
+1104,QHL,Quickstep Holdings Ltd,Sydney,Industrials,Aerospace & Defense,A$23.67M,-6.6x,-0.14,A$0.33,0%
+1105,AAM,Aumega Metals,Sydney,Basic Materials,Metals & Mining,A$23.67M,-3.8x,,A$0.05,0%
+1106,AYA,Artrya,Sydney,Healthcare,Healthcare Providers & Services,A$23.61M,-1.6x,-0.07,A$0.32,6.7%
+1107,SEN,Senetas Corporation,Sydney,Technology,Software & IT Services,A$23.57M,-2.3x,0.13,A$0.02,6.3%
+1108,BAS,Bass Strait Oil Co Ltd,Sydney,Energy,Oil & Gas,A$23.52M,53.6x,0.08,A$0.08,1.3%
+1109,AXN,Alliance Nickel,Sydney,Basic Materials,Metals & Mining,A$23.23M,-4.6x,0.01,A$0.03,0%
+1110,TDO,3D Oil Ltd,Sydney,Energy,Oil & Gas,A$23.20M,7x,0.02,A$0.07,0%
+1111,MBH,Maggie Beer Holdings,Sydney,Consumer Cyclicals,Specialty Retailers,A$23.02M,-2x,-0.29,A$0.07,0%
+1112,GC1,Glennon Small Companies Ltd,Sydney,Financials,Investment Banking & Investment Services,A$22.90M,3.7x,,A$0.46,-4.2%
+1113,GC1PA,Glennon Small Companies Prf,Sydney,Financials,Investment Banking & Investment Services,A$22.90M,,,A$10.25,0%
+1114,AHI,Advanced Human Imaging,Sydney,Technology,Software & IT Services,A$22.73M,-1.2x,0.04,A$0.09,0%
+1115,XRG,xReality,Sydney,Consumer Cyclicals,Hotels & Entertainment Services,A$22.68M,-8.2x,-0.14,A$0.04,2.5%
+1116,ASP,Aspermont,Sydney,Consumer Cyclicals,Media & Publishing,A$22.63M,-9x,0.07,A$0.009,0%
+1117,MKR,Manuka Res,Sydney,Basic Materials,Metals & Mining,A$22.61M,-2x,-0.02,A$0.03,10.3%
+1118,VRS,Veris,Sydney,Industrials,Professional & Commercial Services,A$22.41M,44x,-0.37,A$0.04,2.3%
+1119,TCF,360 Capital Enhanced,Sydney,Financials,Investment Banking & Investment Services,A$22.31M,12x,,A$5.40,-0.5%
+1120,AFA,ASF Group Ltd,Sydney,Real Estate,Real Estate Operations,A$22.19M,-2.8x,0.07,A$0.03,0%
+1121,UNT,Unith,Sydney,Technology,Software & IT Services,A$22.10M,-20x,-0.26,A$0.02,5.6%
+1122,NAC,NAOS Absolute Opportunities,Sydney,Financials,Investment Banking & Investment Services,A$22.05M,6.4x,,A$0.51,-2.8%
+1123,QEM,QEM,Sydney,Energy,Uranium,A$21.95M,-4.4x,10.93,A$0.14,0%
+1124,SGI,Stealth Global,Sydney,Industrials,Diversified Industrial Goods Wholesale,A$21.93M,17.3x,1.18,A$0.19,2.7%
+1125,NUH,Nuheara,Sydney,Technology,"Computers, Phones & Household Electronics",A$21.91M,-1x,,A$0.08,0%
+1126,IMC,Immuron Ltd,Sydney,Healthcare,Pharmaceuticals,A$21.89M,-5.7x,0.21,A$0.10,-4%
+1127,IME,ImExHS,Sydney,Healthcare,Healthcare Equipment & Supplies,A$21.86M,-4.8x,0.3,A$0.48,0%
+1128,BRX,Belararox,Sydney,Basic Materials,Metals & Mining,A$21.73M,-5.5x,-0.17,A$0.28,3.7%
+1129,TKM,Trek Metals,Sydney,Basic Materials,Metals & Mining,A$21.57M,-9.4x,-0.17,A$0.04,0%
+1130,IAM,Income Asset Management,Sydney,Financials,Investment Banking & Investment Services,A$21.51M,-1.9x,0.66,A$0.06,0%
+1131,CWX,Carawine Resources,Sydney,Basic Materials,Metals & Mining,A$21.49M,-15.2x,-0.3,A$0.09,0%
+1132,BVR,Bellavista Resources,Sydney,Basic Materials,Metals & Mining,A$21.49M,-5.1x,2.81,A$0.26,2%
+1133,TRP,Tissue Repair,Sydney,Healthcare,Biotechnology & Medical Research,A$21.47M,-4.2x,-0.18,A$0.41,6.5%
+1134,HCF,H G High Conviction,Sydney,,,A$21.43M,9.4x,,A$0.86,0%
+1135,HIO,Hawsons Iron,Sydney,Basic Materials,Metals & Mining,A$21.39M,-2.6x,0.03,A$0.02,-8.7%
+1136,ATH,Alterity Therapeutics,Sydney,Healthcare,Biotechnology & Medical Research,A$21.28M,-0.8x,-0.08,A$0.004,-12.5%
+1137,GPR,Geopacific Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$20.98M,-1.5x,-0.02,A$0.02,0%
+1138,CXU,Cauldron Energy Ltd,Sydney,Energy,Uranium,A$20.85M,-5.7x,-0.14,A$0.02,-10.5%
+1139,CSE,Copper Strike Ltd,Sydney,Basic Materials,Metals & Mining,A$20.81M,-12.9x,-1.24,A$0.16,0%
+1140,VRC,Volt Resources,Sydney,Basic Materials,Metals & Mining,A$20.79M,-2x,-0.42,A$0.004,33.3%
+1141,CCM,Cadoux,Sydney,Basic Materials,Construction Materials,A$20.77M,-8x,-0.2,A$0.06,0%
+1142,TOR,Torque Metals,Sydney,Basic Materials,Metals & Mining,A$20.67M,-5.3x,-2.2,A$0.11,-4.5%
+1143,SHN,Sunshine Gold,Sydney,Basic Materials,Metals & Mining,A$20.64M,-3.3x,0.09,A$0.01,8.3%
+1144,AR9,Archtis,Sydney,Technology,Software & IT Services,A$20.64M,-3.5x,-0.13,A$0.07,2.9%
+1145,EVZ,EVZ,Sydney,Industrials,Construction & Engineering,A$20.59M,10.6x,0.24,A$0.17,3%
+1146,D3E,D3 Energy,Sydney,Energy,Oil & Gas,A$20.54M,,,A$0.17,0%
+1147,AYI,A1 Investments & Resources,Sydney,Financials,Investment Banking & Investment Services,A$20.53M,-21.3x,,A$0,0%
+1148,CY5,Cygnus Gold,Sydney,Basic Materials,Metals & Mining,A$20.52M,-0.9x,0.01,A$0.06,0%
+1149,HAW,Hawthorn Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$20.44M,30.5x,-0.71,A$0.06,0%
+1150,TM1,Terra Metals,Sydney,Basic Materials,Metals & Mining,A$20.41M,0.2x,0.1,A$0.04,-4.4%
+1151,EMC,Everest Metals Corporation,Sydney,Basic Materials,Metals & Mining,A$20.41M,-8.3x,-3.71,A$0.12,-4%
+1152,BML,Boab Metals,Sydney,Basic Materials,Metals & Mining,A$20.36M,-2.8x,-0.19,A$0.09,6.8%
+1153,LCE,London City Equities Ltd,Sydney,Financials,Investment Banking & Investment Services,A$20.35M,130x,-2.26,A$0.65,0%
+1154,BMR,Ballymore Resources,Sydney,Basic Materials,Metals & Mining,A$20.32M,-25.5x,-1.04,A$0.12,0%
+1155,ARD,Argent Minerals Ltd,Sydney,Basic Materials,Metals & Mining,A$20.21M,-7x,-0.14,A$0.01,0%
+1156,SOR,Strategic Elements Ltd,Sydney,Financials,Investment Banking & Investment Services,A$20.16M,-7.2x,-0.42,A$0.04,0%
+1157,ELT,Elementos,Sydney,Basic Materials,Metals & Mining,A$19.91M,-9.6x,-3.24,A$0.10,0%
+1158,MGL,Magontec Ltd,Sydney,Basic Materials,Metals & Mining,A$19.91M,41.7x,-0.44,A$0.25,0%
+1159,IVX,Invion Ltd,Sydney,Healthcare,Biotechnology & Medical Research,A$19.91M,-14.2x,-0.91,A$0.003,-25%
+1160,AKG,Academies Australasia Group,Sydney,Academic & Educational Services,"School, College & University",A$19.89M,-2x,0.01,A$0.15,0%
+1161,LPE,Locality Planning Energy,Sydney,Utilities,Electrical Utilities & IPPs,A$19.82M,-4.2x,0,A$0.11,0%
+1162,EM2,Eagle Mountain Mining,Sydney,Basic Materials,Metals & Mining,A$19.64M,-1.7x,-0.03,A$0.05,0%
+1163,GT1,Green Technology Metals,Sydney,Basic Materials,Metals & Mining,A$19.63M,-4.2x,0.05,A$0.06,1.6%
+1164,BNZ,Benz Mining,Sydney,Basic Materials,Metals & Mining,A$19.62M,-4.4x,-0.11,A$0.14,0%
+1165,VRX,VRX Silica,Sydney,Basic Materials,Metals & Mining,A$19.48M,-4.1x,1.6,A$0.03,-6.1%
+1166,ECS,ECS Botanics Holdings,Sydney,Healthcare,Healthcare Providers & Services,A$19.33M,7.5x,0.01,A$0.02,0%
+1167,CCG,CommsChoice,Sydney,Technology,Software & IT Services,A$19.32M,-12.5x,0.01,A$0.05,-9.1%
+1168,LDX,Lumos Diagnostics Holdings,Sydney,Healthcare,Healthcare Equipment & Supplies,A$19.25M,-1.3x,-0.02,A$0.04,-2.5%
+1169,WWG,Wiseway,Sydney,Industrials,Freight & Logistics Services,A$19.24M,19.2x,0.17,A$0.12,0%
+1170,FRB,Firebird Metals,Sydney,Basic Materials,Metals & Mining,A$19.22M,-2.8x,0.06,A$0.13,-7.4%
+1171,JLL,Jindalee Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$19.21M,-4.2x,-0.58,A$0.27,0%
+1172,ESK,Etherstack,Sydney,Technology,Software & IT Services,A$19.12M,19.8x,-0.31,A$0.14,0%
+1173,TIA,Tian AN AU,Sydney,Real Estate,Real Estate Operations,A$19.05M,3.4x,0.03,A$0.22,0%
+1174,NOR,Norwood Systems,Sydney,Technology,Software & IT Services,A$19.01M,-8x,3.61,A$0.04,-2.4%
+1175,PXX,Polarx,Sydney,Basic Materials,Metals & Mining,A$19M,-3.6x,0.05,A$0.009,12.5%
+1176,FZR,Fitzroy River,Sydney,Energy,Oil & Gas,A$18.89M,87.5x,-1.27,A$0.17,0%
+1177,SKY,Planet Gas Ltd,Sydney,Basic Materials,Metals & Mining,A$18.87M,-1.5x,0.01,A$0.03,0%
+1178,G50,G50 Corp,Sydney,Basic Materials,Metals & Mining,A$18.74M,-3.6x,0.12,A$0.16,0%
+1179,BTN,Butn,Sydney,Financials,Banking Services,A$18.72M,-1.1x,-0.12,A$0.07,0%
+1180,SPN,Sparc Technologies,Sydney,Basic Materials,Chemicals,A$18.70M,-3.6x,-0.07,A$0.17,-10.5%
+1181,WLD,Wellard Ltd,Sydney,Industrials,Freight & Logistics Services,A$18.59M,-1.3x,0,A$0.04,2.6%
+1182,CBE,Cobre,Sydney,Basic Materials,Metals & Mining,A$18.58M,,-0.27,A$0.05,-2%
+1183,KME,Kip McGrath Education,Sydney,Academic & Educational Services,Miscellaneous Educational Service Providers,A$18.47M,15.5x,-0.58,A$0.32,0%
+1184,FHS,Freehill Mining,Sydney,Basic Materials,Metals & Mining,A$18.47M,-6x,-0.15,A$0.006,0%
+1185,SUH,Southern Hemi Mining,Sydney,Basic Materials,Metals & Mining,A$18.41M,-3.7x,-0.22,A$0.03,4%
+1186,SHG,Singular Health Group,Sydney,Healthcare,Healthcare Equipment & Supplies,A$18.40M,-3.6x,-0.11,A$0.09,0%
+1187,PAM,Pan Asia Metals,Sydney,Basic Materials,Metals & Mining,A$18.37M,-4.9x,0.06,A$0.11,6.1%
+1188,ACR,Acrux,Sydney,Healthcare,Pharmaceuticals,A$18.32M,-31.5x,-0.28,A$0.06,0%
+1189,TAL,Talius,Sydney,Technology,Software & IT Services,A$18.23M,,-0.61,A$0.008,0%
+1190,VR1,Vection Technologies,Sydney,Technology,Software & IT Services,A$18.03M,-1.6x,-0.1,A$0.02,-5.9%
+1191,EMB,Embelton Ltd,Sydney,Consumer Cyclicals,Specialty Retailers,A$17.93M,15.6x,0.53,A$8.31,0%
+1192,ADY,Admiralty Resources,Sydney,Basic Materials,Metals & Mining,A$17.92M,-5.5x,-0.21,A$0.01,-4.5%
+1193,MAN,Mandrake Resources,Sydney,Basic Materials,Metals & Mining,A$17.89M,-111.4x,-1.17,A$0.03,3.4%
+1194,MM8,Medallion Metals,Sydney,Basic Materials,Metals & Mining,A$17.85M,-4x,-0.09,A$0.05,-6.9%
+1195,SGA,Sarytogan Graphite,Sydney,Basic Materials,Metals & Mining,A$17.79M,-16.9x,-0.28,A$0.12,0%
+1196,VML,Vital Metals,Sydney,Basic Materials,Metals & Mining,A$17.69M,-0.4x,0,A$0.002,-33.3%
+1197,RPM,RPM Automotive Group,Sydney,Consumer Non-Cyclicals,Personal & Household Products & Services,A$17.66M,6.4x,-0.2,A$0.07,0%
+1198,SUM,Summit Minerals,Sydney,Basic Materials,Metals & Mining,A$17.65M,-391.1x,,A$0.22,2.3%
+1199,AC8,Auscann Group,Sydney,Healthcare,Pharmaceuticals,A$17.62M,-1.6x,-0.03,A$0.04,0%
+1200,CAG,Cape Range,Sydney,Technology,Software & IT Services,A$17.56M,-30.8x,-2.12,A$0.19,8.8%
+1201,COD,Coda,Sydney,Basic Materials,Metals & Mining,A$17.53M,-2.5x,-0.07,A$0.10,0%
+1202,XTC,XTC Lithium,Sydney,Basic Materials,Metals & Mining,A$17.53M,-0x,,A$0.001,0%
+1203,LAT,Latitude 66,Sydney,Basic Materials,Metals & Mining,A$17.45M,-2.1x,,A$0.10,3.2%
+1204,AEI,Aeris Environmental Ltd,Sydney,Industrials,Professional & Commercial Services,A$17.44M,-3.8x,-0.13,A$0.07,-1.4%
+1205,AUK,Aumake,Sydney,Consumer Non-Cyclicals,Food & Drug Retailing,A$17.23M,-4x,-0.09,A$0.008,0%
+1206,ALR,Altair Minerals,Sydney,Basic Materials,Metals & Mining,A$17.19M,-2x,0.11,A$0.004,0%
+1207,CST,Castile Res,Sydney,Basic Materials,Metals & Mining,A$17.18M,-30.3x,-0.36,A$0.07,-4.2%
+1208,RHY,Rhythm Biosciences,Sydney,Healthcare,Biotechnology & Medical Research,A$17.18M,-1.7x,0.53,A$0.07,-4.2%
+1209,VIG,Victor Group Holdings Ltd,Sydney,Technology,Software & IT Services,A$17.17M,-15x,0.1,A$0.03,0%
+1210,CCO,Calmer Co International,Sydney,Healthcare,Pharmaceuticals,A$17.17M,-1x,-0.05,A$0.008,0%
+1211,AMO,Ambertech Ltd,Sydney,Technology,"Computers, Phones & Household Electronics",A$17.17M,6x,0.37,A$0.18,-5.3%
+1212,EQX,Equatorial Resources,Sydney,Basic Materials,Metals & Mining,A$17.09M,-4.8x,0.08,A$0.13,0%
+1213,ODY,Odyssey Energy Ltd,Sydney,Basic Materials,Metals & Mining,A$17.08M,-5x,-0.07,A$0.02,35.7%
+1214,SCL,Schrole,Sydney,Technology,Software & IT Services,A$17.08M,-7.9x,0.79,A$0.47,0%
+1215,SLS,Solstice Minerals,Sydney,Basic Materials,Metals & Mining,A$17.06M,-2.3x,-0.12,A$0.17,0%
+1216,CDX,Cardiex,Sydney,Healthcare,Healthcare Equipment & Supplies,A$17.06M,-0.9x,-0.04,A$0.06,-1.7%
+1217,LVH,LiveHire,Sydney,Technology,Software & IT Services,A$17M,-1.3x,-0.03,A$0.05,2.2%
+1218,CDD,Cardno,Sydney,Industrials,Construction & Engineering,A$16.99M,1.5x,-0.03,A$0.44,7.3%
+1219,PIL,Peppermint Innovation,Sydney,Technology,Software & IT Services,A$16.97M,-8x,-0.72,A$0.008,7.1%
+1220,ZNC,Zenith Minerals Ltd,Sydney,Basic Materials,Metals & Mining,A$16.91M,-1.8x,0.03,A$0.05,11.6%
+1221,BLU,Blue Energy,Sydney,Energy,Oil & Gas,A$16.66M,-1.1x,0,A$0.009,-10%
+1222,SOC,Soco,Sydney,Technology,Software & IT Services,A$16.61M,32.9x,-0.65,A$0.11,-8.3%
+1223,BUR,Burley Minerals,Sydney,Basic Materials,Metals & Mining,A$16.54M,-1x,0.01,A$0.11,0%
+1224,NGX,NGX Ltd,Sydney,Basic Materials,Metals & Mining,A$16.31M,-3.3x,,A$0.17,-5.6%
+1225,E33,East 33,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$16.28M,-0.8x,-0.05,A$0.02,0%
+1226,CNQ,Clean Teq Water,Sydney,Industrials,Construction & Engineering,A$16.25M,-4.3x,-0.11,A$0.23,-2.2%
+1227,S66,Star Combo Pharma,Sydney,Consumer Cyclicals,Specialty Retailers,A$16.21M,24x,0.34,A$0.12,0%
+1228,CND,Condor Energy,Sydney,Energy,Oil & Gas,A$16.18M,-2.5x,-0.04,A$0.03,-3.6%
+1229,ACU,Acumentis,Sydney,Real Estate,Real Estate Operations,A$16.17M,9.1x,0.04,A$0.07,0%
+1230,FNR,Far Northern Resources,Sydney,Basic Materials,Metals & Mining,A$16.03M,,,A$0.20,0%
+1231,5GG,Pentanet,Sydney,Technology,Telecommunications Services,A$16.03M,-2.7x,-0.05,A$0.04,0%
+1232,SPQ,Superior Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$16.01M,-8x,0.11,A$0.008,0%
+1233,NOV,Novatti Group,Sydney,Technology,Financial Technology (Fintech) & Infrastructure,A$16.01M,-0.6x,0.02,A$0.05,-8.2%
+1234,CHM,Chimeric Therapeutics,Sydney,Healthcare,Biotechnology & Medical Research,A$15.96M,-0.8x,-0.03,A$0.02,-5.6%
+1235,LOM,Lucapa Diamond Co Ltd,Sydney,Basic Materials,Metals & Mining,A$15.96M,-1.2x,-0.08,A$0.05,1.9%
+1236,AUN,Aurumin,Sydney,Basic Materials,Metals & Mining,A$15.95M,-2.6x,-0.07,A$0.04,0%
+1237,HPR,High Peak Royalties Ltd,Sydney,Energy,Oil & Gas,A$15.81M,38x,0.34,A$0.08,0%
+1238,FPP,Fat Prophets Global Property Fund,Sydney,Real Estate,Residential & Commercial REITs,A$15.69M,6.3x,,A$0.70,0%
+1239,TON,Triton Minerals,Sydney,Basic Materials,Metals & Mining,A$15.68M,-5x,-15.27,A$0.010,0%
+1240,DGR,DGR Global Ltd,Sydney,Basic Materials,Metals & Mining,A$15.66M,-0.4x,0,A$0.01,-6.3%
+1241,AJX,Alexium International Group,Sydney,Basic Materials,Chemicals,A$15.62M,-1.7x,-0.12,A$0.010,0%
+1242,PET,Phoslock Environmental,Sydney,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",A$15.61M,-1.6x,,A$0.03,0%
+1243,MPP,Metro Performance Glass,Sydney,Consumer Cyclicals,Homebuilding & Construction Supplies,A$15.57M,-0.6x,0,A$0.08,0%
+1244,FRM,Farm Pride Foods Ltd,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$15.53M,-5.3x,-0.06,A$0.10,6.4%
+1245,14D,1414 Degrees,Sydney,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",A$15.48M,-7.8x,0.03,A$0.06,-3%
+1246,FSG,Field Solutions,Sydney,Technology,Telecommunications Services,A$15.47M,-3.3x,0.02,A$0.02,-4.8%
+1247,CAN,Cann Group,Sydney,Healthcare,Healthcare Providers & Services,A$15.42M,-0.5x,-0.02,A$0.03,-2.9%
+1248,RXH,Rewardle Holdings Ltd,Sydney,Technology,Software & IT Services,A$15.34M,2.5x,,A$0.03,0%
+1249,AON,Apollo Minerals Ltd,Sydney,Basic Materials,Metals & Mining,A$15.32M,-3.7x,-0.2,A$0.02,20%
+1250,WSI,Weststar Industrial,Sydney,Industrials,Construction & Engineering,A$15.31M,14.4x,-0.19,A$0.13,0%
+1251,HMG,Hamelin Gold,Sydney,Basic Materials,Metals & Mining,A$15.28M,-10.8x,-0.93,A$0.11,8.3%
+1252,CBL,Control Bionics,Sydney,Healthcare,Healthcare Equipment & Supplies,A$15.28M,-1.5x,-0.11,A$0.08,-8.4%
+1253,KRR,King River Resources,Sydney,Basic Materials,Metals & Mining,A$15.28M,10x,0.04,A$0.010,0%
+1254,ANX,Anax Metals,Sydney,Basic Materials,Metals & Mining,A$15.24M,-3.1x,0.26,A$0.02,10.5%
+1255,MEM,Memphasys,Sydney,Healthcare,Healthcare Equipment & Supplies,A$15.21M,-2.8x,0.07,A$0.01,10%
+1256,GLE,GLG Corp Ltd,Sydney,Consumer Cyclicals,Textiles & Apparel,A$15.19M,-2.6x,0.01,A$0.20,0%
+1257,KNI,Kuniko,Sydney,Basic Materials,Metals & Mining,A$15.18M,-4x,0.05,A$0.17,0%
+1258,GMN,Gold Mountain,Sydney,Basic Materials,Metals & Mining,A$15.11M,-4x,-0.08,A$0.004,0%
+1259,MDC,Medlab Clinical Ltd,Sydney,Healthcare,Biotechnology & Medical Research,A$15.07M,-3.8x,-0.07,A$6.60,0%
+1260,RRR,Revolver Resources Holdings,Sydney,Basic Materials,Metals & Mining,A$15.06M,-4.4x,-0.11,A$0.06,0%
+1261,VEN,Vintage Energy,Sydney,Energy,Oil & Gas,A$15.03M,-0.3x,0.01,A$0.010,11.1%
+1262,GAS,State Gas,Sydney,Energy,Oil & Gas Related Equipment and Services,A$15.01M,-13.5x,0.02,A$0.05,0%
+1263,CCE,Carnegie Clean,Sydney,Utilities,Electrical Utilities & IPPs,A$15.01M,-10x,-0.48,A$0.04,2.5%
+1264,BPP,Babylon Pump,Sydney,Industrials,Professional & Commercial Services,A$15M,10x,3.28,A$0.005,-16.7%
+1265,CTO,Citigold Corporation,Sydney,Basic Materials,Metals & Mining,A$15M,-5x,0.24,A$0.005,0%
+1266,INV,Investsmart Group,Sydney,Financials,Investment Banking & Investment Services,A$14.98M,-10.5x,0.12,A$0.10,0%
+1267,KPO,Kalina Power,Sydney,Financials,Investment Banking & Investment Services,A$14.92M,-2x,0.26,A$0.005,25%
+1268,SES,Secos Group Ltd,Sydney,Basic Materials,Chemicals,A$14.92M,-1.9x,0.04,A$0.03,8.7%
+1269,G11,G11 Resources,Sydney,Basic Materials,Metals & Mining,A$14.91M,-8x,-40.42,A$0.02,-5.9%
+1270,REZ,Resources Energy Group Ltd,Sydney,Basic Materials,Metals & Mining,A$14.87M,-3.8x,0.02,A$0.02,4.3%
+1271,LEX,Lefroy Exploration,Sydney,Basic Materials,Metals & Mining,A$14.85M,-3.7x,,A$0.08,8.4%
+1272,POS,Poseidon Nickel,Sydney,Basic Materials,Metals & Mining,A$14.85M,-0.3x,0,A$0.003,-25%
+1273,OLH,Oldfields Holdings Ltd,Sydney,Consumer Cyclicals,Homebuilding & Construction Supplies,A$14.84M,-3.3x,0.06,A$0.07,0%
+1274,ASE,Astute Metals NL,Sydney,Basic Materials,Construction Materials,A$14.84M,-5.8x,-0.14,A$0.04,6.1%
+1275,AXL,Axel REE,Sydney,Financials,Banking Services,A$14.83M,,,A$0.09,9.4%
+1276,QML,QMines,Sydney,Basic Materials,Metals & Mining,A$14.81M,-2.4x,-0.11,A$0.05,-7.4%
+1277,ZGL,Zicom Group,Sydney,Energy,Oil & Gas Related Equipment and Services,A$14.80M,-1.9x,-0.08,A$0.07,0%
+1278,EGY,Energy Tech,Sydney,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",A$14.77M,-0.9x,-0.12,A$0.04,0%
+1279,RVS,Revasum,Sydney,Technology,Semiconductors & Semiconductor Equipment,A$14.73M,-1.1x,,A$0.12,0%
+1280,CC9,Chariot,Sydney,Basic Materials,Metals & Mining,A$14.73M,-2.4x,0.02,A$0.10,2%
+1281,EMD,Emyria,Sydney,Healthcare,Healthcare Providers & Services,A$14.72M,-1.3x,0.04,A$0.04,-2.8%
+1282,ATV,ActivePort,Sydney,Technology,Software & IT Services,A$14.63M,158.3x,1.05,A$0.04,-4.3%
+1283,SFG,Seafarms,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$14.60M,-1.5x,-0.02,A$0.003,0%
+1284,FTL,Firetail Resources,Sydney,Basic Materials,Metals & Mining,A$14.57M,-3.1x,-0.19,A$0.07,-2.8%
+1285,LSA,Lachlan Star,Sydney,Basic Materials,Metals & Mining,A$14.53M,-13.4x,0.17,A$0.09,28.6%
+1286,TMS,Tennant Minerals NL,Sydney,Basic Materials,Metals & Mining,A$14.52M,-3.2x,-0.25,A$0.02,-5%
+1287,EMN,Euro Manganese,Sydney,Basic Materials,Metals & Mining,A$14.50M,-0.9x,0.41,A$0.04,-18.2%
+1288,AZI,Alta Zinc,Sydney,Basic Materials,Metals & Mining,A$14.48M,-4.1x,-0.09,A$0.03,0%
+1289,BUX,Buxton Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$14.38M,-2.6x,0.02,A$0.07,0%
+1290,GSN,Great Southern Mining,Sydney,Basic Materials,Metals & Mining,A$14.37M,-5.7x,0.21,A$0.02,0%
+1291,BSX,Blackstone Minerals,Sydney,Basic Materials,Metals & Mining,A$14.21M,-0.5x,-0.02,A$0.03,0%
+1292,FRX,Flexiroam Ltd,Sydney,Technology,Telecommunications Services,A$14.20M,-4.5x,,A$0.02,5.9%
+1293,MHI,Merchant House International,Sydney,Consumer Cyclicals,Textiles & Apparel,A$14.14M,-1.9x,-0.24,A$0.15,0%
+1294,MAT,Matsa Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$14.13M,-1.9x,0.02,A$0.03,0%
+1295,FGH,Foresta Holdings,Sydney,Basic Materials,Chemicals,A$14.13M,-2x,-0.1,A$0.006,-25%
+1296,GUE,Global Uranium Enrichment,Sydney,Basic Materials,Metals & Mining,A$14.08M,-4.5x,-0.11,A$0.05,-1.9%
+1297,FCG,Freedom Care Holdings,Sydney,Healthcare,Healthcare Providers & Services,A$14.08M,,,A$0.13,0%
+1298,FCGZZ,Freedom Care Holdings,Sydney,Healthcare,Healthcare Providers & Services,A$14.08M,,,A$0,
+1299,HHR,Hartshead Resources NL,Sydney,Energy,Oil & Gas,A$14.07M,5x,0.04,A$0.005,-9.1%
+1300,FFG,Fatfish Internet Group Ltd,Sydney,Financials,Investment Banking & Investment Services,A$14.07M,-5x,-0.07,A$0.01,0%
+1301,EME,Energy Metals Ltd,Sydney,Energy,Uranium,A$14.05M,-36.5x,-0.94,A$0.08,4.1%
+1302,NXM,Nexus Minerals Ltd,Sydney,Basic Materials,Metals & Mining,A$14.01M,-3x,-0.04,A$0.04,-2.7%
+1303,PTL,Prestal Holdings,Sydney,Technology,Software & IT Services,A$13.98M,27.3x,0.01,A$0.08,-1.2%
+1304,EXT,Excite Tech Services,Sydney,Technology,Software & IT Services,A$13.98M,-4.5x,-0.09,A$0.009,0%
+1305,EOF,Ecofibre,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$13.89M,-0.2x,0,A$0.04,0%
+1306,ETR,Entyr,Sydney,Industrials,Professional & Commercial Services,A$13.88M,-1.8x,-0.03,A$0.007,0%
+1307,EDU,EDU Holdings,Sydney,Academic & Educational Services,Professional & Business Education,A$13.88M,-4.7x,-0.1,A$0.08,0%
+1308,IND,Indus Energy NL,Sydney,Basic Materials,Chemicals,A$13.88M,-11.8x,-0.38,A$0.19,8.8%
+1309,BCC,Beam Com,Sydney,Technology,Communications & Networking,A$13.83M,20x,2.37,A$0.17,3.1%
+1310,KBC,Keybridge Capital,Sydney,Financials,Investment Banking & Investment Services,A$13.83M,3.8x,0.03,A$0.06,0%
+1311,KLI,Killi Resources,Sydney,Basic Materials,Metals & Mining,A$13.83M,-1.4x,-0.1,A$0.12,0%
+1312,MLS,Metals Australia,Sydney,Basic Materials,Metals & Mining,A$13.82M,-19x,-0.29,A$0.02,-5%
+1313,BNR,Bulletin Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$13.80M,-11.5x,0.13,A$0.05,0%
+1314,ASV,Asset Vision,Sydney,Technology,Software & IT Services,A$13.79M,-19x,-0.33,A$0.02,5.6%
+1315,LYN,Lycaon Resources,Sydney,Basic Materials,Metals & Mining,A$13.78M,-15.5x,0.08,A$0.26,0%
+1316,CAV,Carnavale Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$13.69M,-20x,-0.37,A$0.004,-11.1%
+1317,X2M,X2M Connect,Sydney,Technology,Software & IT Services,A$13.66M,-1.2x,-0.08,A$0.04,0%
+1318,POD,Podium Minerals,Sydney,Basic Materials,Metals & Mining,A$13.64M,-3.9x,-0.07,A$0.03,-6.3%
+1319,Z2U,Zoom2u Technologies,Sydney,Technology,Software & IT Services,A$13.57M,-3.3x,-0.08,A$0.07,0%
+1320,IG6,International Graphite,Sydney,Basic Materials,Metals & Mining,A$13.55M,-7.2x,0.2,A$0.07,1.5%
+1321,PR2,Piche Resources,Sydney,Basic Materials,Metals & Mining,A$13.54M,-7.3x,,A$0.11,0%
+1322,EPM,Eclipse Metals Ltd,Sydney,Basic Materials,Metals & Mining,A$13.51M,-6x,0.08,A$0.006,0%
+1323,1AI,Algorae Pharmaceuticals,Sydney,Healthcare,Biotechnology & Medical Research,A$13.50M,-8x,-0.19,A$0.008,6.7%
+1324,DKM,Duketon Mining Ltd,Sydney,Basic Materials,Metals & Mining,A$13.47M,-2.9x,-0.17,A$0.11,0%
+1325,PPG,Pro Pac Packaging,Sydney,Basic Materials,Containers & Packaging,A$13.44M,-2.8x,-0.01,A$0.08,0%
+1326,AT1,Atomo,Sydney,Healthcare,Healthcare Equipment & Supplies,A$13.42M,-2.1x,-0.08,A$0.02,4.8%
+1327,RNT,RENT.COM.AU Ltd,Sydney,Real Estate,Real Estate Operations,A$13.40M,-2.6x,0.38,A$0.02,0%
+1328,GUL,Gullewa Ltd,Sydney,Basic Materials,Metals & Mining,A$13.31M,7.2x,0.01,A$0.06,0%
+1329,EPX,EP T Global,Sydney,Technology,Software & IT Services,A$13.26M,-1.6x,-0.05,A$0.02,0%
+1330,ATU,Atrum Coal,Sydney,Basic Materials,Metals & Mining,A$13.26M,-1.3x,-0.04,A$0.005,0%
+1331,MIO,Macarthur Min,Sydney,Basic Materials,Metals & Mining,A$13.24M,-2x,0.12,A$0.07,8.2%
+1332,MMM,Marley Spoon,Sydney,Consumer Non-Cyclicals,Food & Drug Retailing,A$13.24M,-0.1x,-0.01,A$0.02,12.5%
+1333,DEL,Delorean,Sydney,Utilities,Electrical Utilities & IPPs,A$13.16M,-0.9x,-0.09,A$0.06,0%
+1334,TYX,Tyranna Resources,Sydney,Basic Materials,Metals & Mining,A$13.15M,-2x,-0.13,A$0.004,0%
+1335,ACP,Audalia Resources,Sydney,Basic Materials,Metals & Mining,A$13.15M,-15.5x,0.97,A$0.02,0%
+1336,1AD,Adalta,Sydney,Healthcare,Biotechnology & Medical Research,A$13.10M,-1.7x,-0.12,A$0.02,-4.3%
+1337,KOB,Koba Resources,Sydney,Basic Materials,Metals & Mining,A$13.04M,,,A$0.12,15%
+1338,VN8,Vonex,Sydney,Technology,Telecommunications Services,A$13.03M,-5.1x,-0.06,A$0.04,2.9%
+1339,HTG,Harvest Technology Group Ltd,Sydney,Technology,Electronic Equipment & Parts,A$13M,-1.3x,-0.04,A$0.02,0%
+1340,AQN,Aquirian,Sydney,Basic Materials,Metals & Mining,A$12.91M,28.4x,0.34,A$0.19,15.6%
+1341,AAP,Australian Agri Projects,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$12.90M,35x,0.18,A$0.04,-12.5%
+1342,MPK,Many Peaks Gold,Sydney,Basic Materials,Metals & Mining,A$12.88M,-1.1x,0.04,A$0.18,0%
+1343,MKL,Mighty Kingdom,Sydney,Technology,Software & IT Services,A$12.86M,-0.3x,-0.1,A$0.010,0%
+1344,MXR,Maximus Resources,Sydney,Basic Materials,Metals & Mining,A$12.84M,-10x,-0.45,A$0.03,7.1%
+1345,AFL,AF Legal,Sydney,Consumer Non-Cyclicals,Personal & Household Products & Services,A$12.78M,14x,0.14,A$0.14,7.7%
+1346,ATS,Australis Oil & Gas,Sydney,Energy,Oil & Gas,A$12.75M,-0.6x,0,A$0.010,0%
+1347,CLE,Cyclone Metals,Sydney,Basic Materials,Metals & Mining,A$12.74M,-1x,-0.03,A$0.001,0%
+1348,BTE,Botala Energy,Sydney,Energy,Oil & Gas,A$12.74M,-7.5x,-0.46,A$0.07,3%
+1349,IGN,Ignite,Sydney,Industrials,Professional & Commercial Services,A$12.73M,-13x,-0.67,A$0.08,1.3%
+1350,VMC,Venus Metals Corporation Ltd,Sydney,Basic Materials,Metals & Mining,A$12.71M,0.4x,0,A$0.07,0%
+1351,EQE,Equus Mining Ltd,Sydney,Basic Materials,Metals & Mining,A$12.65M,-0.7x,0.04,A$0.05,0%
+1352,SRJ,Srj Tech,Sydney,Consumer Cyclicals,Homebuilding & Construction Supplies,A$12.62M,-6.1x,-0.09,A$0.07,4.2%
+1353,FNX,Finexia Financial Group,Sydney,Financials,Investment Banking & Investment Services,A$12.58M,8x,-0.14,A$0.25,0%
+1354,LPM,Lithium Plus Minerals,Sydney,Basic Materials,Metals & Mining,A$12.57M,-7.5x,-0.31,A$0.10,3.2%
+1355,GGE,Grand Gulf Energy Ltd,Sydney,Energy,Oil & Gas,A$12.57M,-6x,-0.05,A$0.006,20%
+1356,PGD,Peregrine Gold,Sydney,Basic Materials,Metals & Mining,A$12.56M,-2.8x,1,A$0.21,10.8%
+1357,CF1,Complii Fintech Solutions,Sydney,Technology,Financial Technology (Fintech) & Infrastructure,A$12.50M,-1.8x,0.01,A$0.02,0%
+1358,TNY,Tinybeans Group,Sydney,Technology,Software & IT Services,A$12.48M,-0.5x,0.03,A$0.09,-3.3%
+1359,TEG,Triangle Energy Global,Sydney,Energy,Oil & Gas,A$12.48M,-0.5x,0,A$0.006,0%
+1360,AJL,AJ Lucas Group,Sydney,Energy,Coal,A$12.38M,9x,0.09,A$0.009,0%
+1361,YOJ,Yojee,Sydney,Technology,Software & IT Services,A$12.38M,-0.4x,-0.59,A$0.05,2.3%
+1362,N1H,N1 Holdings,Sydney,Financials,Banking Services,A$12.33M,17.5x,-0.82,A$0.14,0%
+1363,PAB,Patrys Ltd,Sydney,Healthcare,Biotechnology & Medical Research,A$12.33M,-2x,-0.18,A$0.006,-14.3%
+1364,BMH,Baumart Holdings Ltd,Sydney,Industrials,Freight & Logistics Services,A$12.30M,-12.1x,0.03,A$0.09,0%
+1365,KNG,Kingsland Minerals,Sydney,Basic Materials,Metals & Mining,A$12.29M,-4.2x,0.06,A$0.20,0%
+1366,AHF,Australian Dairy Farms Group,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$12.28M,-1.7x,-0.05,A$0.02,5.6%
+1367,KCC,Kincora Copper,Sydney,Basic Materials,Metals & Mining,A$12.25M,-6.4x,-0.15,A$0.05,-2.1%
+1368,ASR,Asra Minerals,Sydney,Basic Materials,Metals & Mining,A$12.22M,-0.4x,0,A$0.007,16.7%
+1369,ADR,Adherium Ltd,Sydney,Healthcare,Healthcare Equipment & Supplies,A$12.14M,-0.6x,-0.02,A$0.02,0%
+1370,RCL,ReadCloud,Sydney,Technology,Software & IT Services,A$12.13M,-6.9x,-0.14,A$0.08,2.5%
+1371,NVU,Nanoveu,Sydney,Basic Materials,Chemicals,A$12.12M,-4x,-0.12,A$0.02,0%
+1372,KAM,K2 Asset Management,Sydney,Financials,Investment Banking & Investment Services,A$12.05M,-10x,-0.17,A$0.05,2%
+1373,KZR,Kalamazoo Resources,Sydney,Basic Materials,Metals & Mining,A$12.03M,3.7x,-0.02,A$0.07,8.2%
+1374,CUF,Fe Ltd,Sydney,Basic Materials,Metals & Mining,A$12.03M,-0.8x,0.02,A$0.009,0%
+1375,ICL,Iceni Gold,Sydney,Basic Materials,Metals & Mining,A$12M,-4.5x,-0.95,A$0.05,25%
+1376,ABX,ABx,Sydney,Basic Materials,Metals & Mining,A$12M,-6.4x,-0.14,A$0.05,-6.3%
+1377,BEO,Beonic,Sydney,Technology,Software & IT Services,A$11.95M,-1.3x,-0.06,A$0.02,0%
+1378,GRV,Greenvale Energy,Sydney,Energy,Oil & Gas,A$11.93M,-3.7x,-0.14,A$0.03,0%
+1379,SRN,Surefire Resources,Sydney,Basic Materials,Metals & Mining,A$11.92M,-3x,-0.5,A$0.006,0%
+1380,FBM,Future Battery Minerals,Sydney,Basic Materials,Metals & Mining,A$11.92M,-2.2x,-0.07,A$0.02,-10%
+1381,SPA,Spacetalk,Sydney,Technology,Telecommunications Services,A$11.86M,-0.9x,-0.03,A$0.03,-3.8%
+1382,AR3,Australian Rare Earths,Sydney,Basic Materials,Metals & Mining,A$11.85M,-3.5x,-2.94,A$0.08,0%
+1383,PGM,Platina Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$11.84M,9.5x,0.01,A$0.02,-9.5%
+1384,AKO,Akora,Sydney,Basic Materials,Metals & Mining,A$11.81M,-9.2x,-0.62,A$0.10,2%
+1385,RCR,Rincon Resources,Sydney,Basic Materials,Metals & Mining,A$11.70M,-3x,-0.17,A$0.04,-2.4%
+1386,OEC,Orbital Corporation,Sydney,Industrials,Aerospace & Defense,A$11.68M,7.3x,0.08,A$0.08,0%
+1387,VFX,Visionflex,Sydney,Technology,Software & IT Services,A$11.67M,-4x,-0.13,A$0.004,0%
+1388,BTC,BTC Health,Sydney,Healthcare,Biotechnology & Medical Research,A$11.67M,-1.3x,0,A$0.04,0%
+1389,ASO,Aston Minerals,Sydney,Basic Materials,Metals & Mining,A$11.66M,-0.6x,-0.02,A$0.009,-10%
+1390,REY,Rey Resources,Sydney,Energy,Coal,A$11.64M,-5x,0.28,A$0.05,0%
+1391,NET,Netlinkz,Sydney,Technology,Software & IT Services,A$11.64M,-0.8x,0.03,A$0.003,0%
+1392,BCM,Brazilian Critical Minerals,Sydney,Basic Materials,Metals & Mining,A$11.63M,-1.4x,0.05,A$0.01,0%
+1393,SNG,Siren Gold,Sydney,Basic Materials,Metals & Mining,A$11.57M,,-0.39,A$0.06,5.4%
+1394,ALM,Alma Metals DRC,Sydney,Basic Materials,Metals & Mining,A$11.54M,-3x,0.08,A$0.008,0%
+1395,RNX,Renegade Exploration,Sydney,Basic Materials,Metals & Mining,A$11.52M,-9x,-0.24,A$0.009,0%
+1396,NC1,NICO Resources,Sydney,Basic Materials,Metals & Mining,A$11.49M,-3.5x,0.02,A$0.11,4.8%
+1397,DXN,Dxn,Sydney,Technology,Software & IT Services,A$11.40M,-0.9x,0.05,A$0.06,8.9%
+1398,GLA,Gladiator Resources,Sydney,Basic Materials,Metals & Mining,A$11.37M,-4.7x,0.22,A$0.01,7.1%
+1399,SER,Strategic Energy Resources,Sydney,Basic Materials,Metals & Mining,A$11.36M,-9x,-0.27,A$0.02,11.8%
+1400,CMG,Critical Minerals,Sydney,Energy,Uranium,A$11.36M,,,A$0.21,-4.8%
+1401,MGU,Magnum Mining and Exploration Ltd,Sydney,Basic Materials,Metals & Mining,A$11.33M,-3.5x,-0.09,A$0.01,0%
+1402,PV1,Provaris Energy,Sydney,Basic Materials,Chemicals,A$11.32M,-0.8x,0.02,A$0.02,-10%
+1403,NWM,Norwest Minerals,Sydney,Basic Materials,Metals & Mining,A$11.31M,-5.5x,-0.24,A$0.02,-4.3%
+1404,MTH,Mithril Resources,Sydney,Basic Materials,Metals & Mining,A$11.28M,-1.3x,0.01,A$0.11,-8.3%
+1405,ORD,Ordell Minerals,Sydney,,,A$11.26M,-18.2x,-0.98,A$0.23,0%
+1406,BM8,Battery Age Minerals,Sydney,Basic Materials,Metals & Mining,A$11.18M,-2.3x,0.1,A$0.11,-8.3%
+1407,C29,C29 Metals,Sydney,Basic Materials,Metals & Mining,A$11.17M,-1x,0.03,A$0.08,0%
+1408,GTE,Great Western Exploration,Sydney,Basic Materials,Metals & Mining,A$11.14M,-1.9x,0,A$0.03,-6.3%
+1409,LNU,Linius Technologies,Sydney,Technology,Software & IT Services,A$11.09M,-2x,-0.04,A$0.002,0%
+1410,DTR,Dateline Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$11.09M,-0.4x,-0.02,A$0.005,0%
+1411,SVY,Stavely Minerals Ltd,Sydney,Basic Materials,Metals & Mining,A$11.08M,-0.8x,-0.06,A$0.03,4.2%
+1412,BGT,Bio-Gene Tech,Sydney,Basic Materials,Chemicals,A$11.07M,-3.7x,-0.15,A$0.05,0%
+1413,RFT,Rectifier Technologies Ltd,Sydney,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",A$11.06M,14.1x,-0.28,A$0.008,0%
+1414,TRM,Truscott Mining,Sydney,Basic Materials,Metals & Mining,A$10.98M,-15.3x,-0.24,A$0.06,0%
+1415,ITM,Itech Minerals,Sydney,Basic Materials,Metals & Mining,A$10.94M,-10.7x,-0.47,A$0.07,0%
+1416,PSL,Paterson Resources,Sydney,Basic Materials,Metals & Mining,A$10.94M,-1.6x,-0.04,A$0.02,0%
+1417,VTX,Vertex Minerals,Sydney,Basic Materials,Metals & Mining,A$10.93M,-4.8x,-2.85,A$0.08,1.2%
+1418,PUR,Pursuit Minerals,Sydney,Basic Materials,Metals & Mining,A$10.91M,-1.5x,-0.06,A$0.003,0%
+1419,MRQ,MRG Metals Ltd,Sydney,Basic Materials,Metals & Mining,A$10.85M,-4.7x,1.96,A$0.004,16.7%
+1420,FOS,FOS Capital,Sydney,Consumer Cyclicals,Homebuilding & Construction Supplies,A$10.76M,38.2x,-0.9,A$0.20,0%
+1421,FRE,Firebrick Pharma,Sydney,Healthcare,Pharmaceuticals,A$10.74M,-2x,-0.07,A$0.06,5.4%
+1422,1AE,Aurora Energy Metals,Sydney,Energy,Uranium,A$10.74M,-8.2x,-0.07,A$0.06,0%
+1423,VPR,Volt Power,Sydney,Basic Materials,Metals & Mining,A$10.72M,20x,0.07,A$0.001,0%
+1424,AU1,Agency Group Australia,Sydney,Real Estate,Real Estate Operations,A$10.71M,-1.9x,0.01,A$0.03,0%
+1425,CRR,Critical Resources,Sydney,Basic Materials,Metals & Mining,A$10.68M,-2x,0.04,A$0.006,-14.3%
+1426,BDT,Birddog Australia Pty,Sydney,Technology,Integrated Hardware & Software,A$10.66M,-1.3x,0,A$0.07,0%
+1427,DES,Desoto Resources,Sydney,Basic Materials,Metals & Mining,A$10.65M,-3.2x,,A$0.11,-4.3%
+1428,PRS,Prospech,Sydney,Basic Materials,Metals & Mining,A$10.59M,-4.6x,-0.12,A$0.03,-5.7%
+1429,ESR,Estrella Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$10.56M,-6x,-0.15,A$0.006,20%
+1430,ALV,Alvo Minerals,Sydney,Basic Materials,Metals & Mining,A$10.54M,-2x,-0.11,A$0.08,-11.1%
+1431,GTI,Gratifii,Sydney,Technology,Software & IT Services,A$10.54M,-2x,-0.43,A$0.006,0%
+1432,SBW,Shekel Brainweigh,Sydney,Technology,Electronic Equipment & Parts,A$10.54M,-1.1x,0.02,A$0.05,0%
+1433,EAX,Energy Action,Sydney,Industrials,Professional & Commercial Services,A$10.52M,14.2x,0.15,A$0.27,8%
+1434,AQI,Alicanto Minerals Ltd,Sydney,Basic Materials,Metals & Mining,A$10.48M,-1.3x,-0.04,A$0.01,0%
+1435,LLI,Loyal Lithium,Sydney,Basic Materials,Metals & Mining,A$10.45M,-5.8x,-0.05,A$0.11,17%
+1436,HGL,Hudson Invest,Sydney,Real Estate,Real Estate Operations,A$10.39M,58.3x,0.53,A$0.17,0%
+1437,AJQ,Armour Energy Ltd,Sydney,Energy,Oil & Gas,A$10.31M,-0.2x,,A$0.10,0%
+1438,TOY,ToysRUs Anz,Sydney,Consumer Cyclicals,Leisure Products,A$10.30M,-0.2x,0.06,A$0.09,-1.1%
+1439,REE,Rarex Ltd,Sydney,Basic Materials,Metals & Mining,A$10.27M,-1.6x,-0.03,A$0.01,0%
+1440,BKG,Booktopia,Sydney,Consumer Cyclicals,Diversified Retail,A$10.25M,-0.2x,0,A$0.05,0%
+1441,BXN,Bioxyne Ltd,Sydney,Healthcare,Biotechnology & Medical Research,A$10.23M,-0.7x,0,A$0.005,0%
+1442,RIL,Redivium,Sydney,Basic Materials,Metals & Mining,A$10.14M,-3x,-0.08,A$0.003,50%
+1443,ARN,Aldoro Resources,Sydney,Basic Materials,Metals & Mining,A$10.10M,-2.1x,0.03,A$0.08,0%
+1444,PNM,Pacific Nickel Mines,Sydney,Basic Materials,Metals & Mining,A$10.10M,-2.2x,0.01,A$0.02,0%
+1445,RLF,RLF AgTech,Sydney,Basic Materials,Chemicals,A$10.05M,,,A$0.05,0%
+1446,GW1,Greenwing Resources,Sydney,Basic Materials,Metals & Mining,A$10.04M,-2.8x,-0.05,A$0.05,13.3%
+1447,RAG,Ragnar Metals,Sydney,Basic Materials,Metals & Mining,A$9.95M,1.9x,-0.01,A$0.02,0%
+1448,PNN,Power Minerals,Sydney,Basic Materials,Metals & Mining,A$9.91M,-1.5x,0.01,A$0.09,0%
+1449,ZNO,Zoono,Sydney,Consumer Non-Cyclicals,Personal & Household Products & Services,A$9.89M,-0.7x,-0.11,A$0.03,3.7%
+1450,ORP,Orpheus Uranium,Sydney,,,A$9.87M,,,A$0.05,-11.5%
+1451,T88,Taiton Resources,Sydney,Basic Materials,Metals & Mining,A$9.86M,-4.6x,0.08,A$0.14,0%
+1452,AUZ,Australian Mines Ltd,Sydney,Basic Materials,Metals & Mining,A$9.79M,-0.8x,-0.12,A$0.007,-6.7%
+1453,RMI,Resource Mining Corporation,Sydney,Basic Materials,Metals & Mining,A$9.79M,-1.9x,-0.04,A$0.01,0%
+1454,HLX,Helix Resources,Sydney,Basic Materials,Metals & Mining,A$9.79M,-1x,0.01,A$0.002,-33.3%
+1455,FME,Future Metals NL,Sydney,Basic Materials,Metals & Mining,A$9.78M,-1.5x,-0.05,A$0.02,0%
+1456,FL1,First Lithium,Sydney,Basic Materials,Metals & Mining,A$9.78M,-1.7x,,A$0.09,-8.2%
+1457,MRR,Minrex Resources,Sydney,Basic Materials,Metals & Mining,A$9.76M,-0.8x,0.04,A$0.009,12.5%
+1458,MKG,Mako Gold,Sydney,Basic Materials,Metals & Mining,A$9.76M,-5x,-0.23,A$0.009,0%
+1459,EE1,Earths Energy,Sydney,Utilities,Electrical Utilities & IPPs,A$9.75M,-13x,-0.2,A$0.01,-7.1%
+1460,SW1,Swift Networks,Sydney,Consumer Cyclicals,Media & Publishing,A$9.74M,-2.5x,0.04,A$0.01,0%
+1461,AGH,Althea,Sydney,Healthcare,Pharmaceuticals,A$9.72M,-0.3x,0.01,A$0.02,-5.3%
+1462,SLM,Solis Minerals DRC,Sydney,Basic Materials,Metals & Mining,A$9.71M,-2.1x,-1.26,A$0.10,10.5%
+1463,AS1,Asara Resources,Sydney,Basic Materials,Metals & Mining,A$9.70M,-1.4x,-0.03,A$0.01,0%
+1464,CI1,Credit Intelligence,Sydney,Financials,Banking Services,A$9.68M,-0.6x,0,A$0.11,0%
+1465,RR1,Reach Resources,Sydney,Basic Materials,Metals & Mining,A$9.62M,-1.8x,0.01,A$0.01,10%
+1466,LDR,Lode Resources,Sydney,Basic Materials,Metals & Mining,A$9.61M,-9x,-0.25,A$0.09,-1.7%
+1467,TGH,Terragen,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$9.60M,-1.3x,-0.06,A$0.03,0%
+1468,NME,Nex Metals Explorations,Sydney,Basic Materials,Metals & Mining,A$9.53M,-17.5x,-0.14,A$0.04,46.2%
+1469,AVE,Avecho Bio,Sydney,Healthcare,Biotechnology & Medical Research,A$9.51M,-1.5x,0.11,A$0.003,0%
+1470,TRI,TrivarX,Sydney,Healthcare,Pharmaceuticals,A$9.51M,-1.4x,-0.03,A$0.02,-4.5%
+1471,HMD,HeraMED,Sydney,Healthcare,Healthcare Equipment & Supplies,A$9.50M,-0.6x,-0.05,A$0.01,0%
+1472,HGV,Hygrovest,Sydney,Financials,Investment Banking & Investment Services,A$9.46M,-1.9x,-0.04,A$0.05,2.3%
+1473,GDM,Great Divide Mining,Sydney,Basic Materials,Metals & Mining,A$9.44M,-11.9x,,A$0.25,2.1%
+1474,CBH,Coolabah Metals,Sydney,Basic Materials,Metals & Mining,A$9.39M,-1.1x,-0.1,A$0.07,0%
+1475,MCT,Metalicity,Sydney,Basic Materials,Metals & Mining,A$9.39M,-2x,-0.07,A$0.002,0%
+1476,MTL,Mantle Minerals,Sydney,Basic Materials,Metals & Mining,A$9.30M,-5.5x,0,A$0,0%
+1477,KNO,Knosys Ltd,Sydney,Technology,Software & IT Services,A$9.29M,-10.8x,-0.15,A$0.04,2.4%
+1478,GBZ,GBM Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$9.25M,-1x,0,A$0.009,28.6%
+1479,CR1,Constellation Resources,Sydney,Basic Materials,Metals & Mining,A$9.23M,-5.2x,2.9,A$0.15,0%
+1480,SP8,Streamplay Studio,Sydney,Technology,Software & IT Services,A$9.20M,-1.8x,0.01,A$0.008,14.3%
+1481,AGD,Austral Gold Ltd,Sydney,Basic Materials,Metals & Mining,A$9.18M,-0.8x,-0.07,A$0.01,0%
+1482,AHK,Ark Mines Ltd,Sydney,Basic Materials,Metals & Mining,A$9.15M,-41.3x,0.01,A$0.17,0%
+1483,PVT,Pivotal Metals,Sydney,Basic Materials,Metals & Mining,A$9.15M,-2.6x,-0.04,A$0.01,0%
+1484,RWD,Reward Minerals Ltd,Sydney,Basic Materials,Chemicals,A$9.11M,-0.4x,0,A$0.04,8.1%
+1485,AQD,Ausquest Ltd,Sydney,Basic Materials,Metals & Mining,A$9.08M,-33.4x,-0.32,A$0.01,0%
+1486,ZLD,Zelira Therapeutics,Sydney,Healthcare,Biotechnology & Medical Research,A$9.08M,-0.2x,0,A$0.80,0%
+1487,MHK,Metal Hawk,Sydney,Basic Materials,Metals & Mining,A$9.06M,-1.8x,0.04,A$0.09,1.1%
+1488,ENL,Enlitic DRC,Sydney,Technology,Software & IT Services,A$9.06M,-0x,-0,A$0.10,-4.8%
+1489,NYR,Nyrada,Sydney,Healthcare,Pharmaceuticals,A$8.93M,-1.6x,0.13,A$0.05,4.1%
+1490,SHP,South Harz Potash,Sydney,Basic Materials,Chemicals,A$8.90M,-0.3x,0.01,A$0.009,-10%
+1491,TG6,TG Metals,Sydney,Basic Materials,Metals & Mining,A$8.89M,-6.3x,-0.1,A$0.14,12%
+1492,ZAG,Zuleika Gold,Sydney,Basic Materials,Metals & Mining,A$8.89M,-127.8x,-2.44,A$0.01,0%
+1493,ANR,Anatara Lifesciences Ltd,Sydney,Healthcare,Biotechnology & Medical Research,A$8.87M,-3.3x,-0.1,A$0.04,-12.5%
+1494,TSL,Titanium Sands,Sydney,Basic Materials,Construction Materials,A$8.85M,-4x,0.22,A$0.004,0%
+1495,PGO,Pacgold,Sydney,Basic Materials,Metals & Mining,A$8.84M,-9.1x,-0.82,A$0.10,-4.8%
+1496,W2V,Way 2 Vat,Sydney,Technology,Financial Technology (Fintech) & Infrastructure,A$8.74M,-1.2x,-0.02,A$0.010,0%
+1497,THB,Thunderbird Resources,Sydney,Energy,Uranium,A$8.70M,-13.5x,-0.23,A$0.03,0%
+1498,TEE,Top End Energy,Sydney,Energy,Oil & Gas,A$8.70M,,,A$0.10,0%
+1499,EG1,Evergreen Lithium,Sydney,Energy,Uranium,A$8.69M,-2.8x,,A$0.05,0%
+1500,NRZ,Neurizer,Sydney,Basic Materials,Chemicals,A$8.68M,-0.6x,-0.01,A$0.004,-12.5%
+1501,ROC,RocketBoots,Sydney,Technology,Software & IT Services,A$8.52M,-2x,-0.83,A$0.08,-11.8%
+1502,SRK,Strike Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$8.51M,-3.3x,-0.06,A$0.03,0%
+1503,MTM,Mt Monger Resources,Sydney,Basic Materials,Metals & Mining,A$8.43M,-1.4x,-0.2,A$0.03,10%
+1504,EVG,Evion NL,Sydney,Basic Materials,Metals & Mining,A$8.43M,-3.6x,-0.08,A$0.02,-4%
+1505,NIM,Nimy Resources,Sydney,Basic Materials,Metals & Mining,A$8.43M,-1x,0.2,A$0.06,3.4%
+1506,PLN,Pioneer Lithium,Sydney,,,A$8.42M,,,A$0.18,-2.8%
+1507,CUS,Copper Search,Sydney,Basic Materials,Metals & Mining,A$8.41M,-1.5x,0.02,A$0.08,5.4%
+1508,GRE,Greentech Metals,Sydney,Basic Materials,Metals & Mining,A$8.41M,-8.1x,0.04,A$0.10,-3%
+1509,AUH,Austchina Holdings,Sydney,Energy,Oil & Gas,A$8.40M,-8x,-0.24,A$0.004,0%
+1510,PHO,PhosCo,Sydney,Basic Materials,Metals & Mining,A$8.39M,-7.4x,-0.06,A$0.03,0%
+1511,CGR,CGN Resources,Sydney,Basic Materials,Metals & Mining,A$8.37M,,,A$0.08,0%
+1512,CPO,Culpeo Minerals,Sydney,Basic Materials,Metals & Mining,A$8.35M,-1.3x,-1.12,A$0.04,0%
+1513,PFE,Pantera Minerals,Sydney,Basic Materials,Metals & Mining,A$8.34M,-1.8x,-0.18,A$0.03,50%
+1514,NNL,Nordic Nickel,Sydney,Basic Materials,Metals & Mining,A$8.31M,,,A$0.07,16.7%
+1515,CAZ,Cazaly Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$8.30M,-9x,-0.13,A$0.02,0%
+1516,GML,Gateway Mining Ltd,Sydney,Basic Materials,Metals & Mining,A$8.30M,-3.5x,1.32,A$0.02,0%
+1517,LIO,Lion Energy,Sydney,Energy,Oil & Gas,A$8.30M,-4.4x,-0.08,A$0.02,0%
+1518,GIB,GIBB River Diamonds,Sydney,Basic Materials,Metals & Mining,A$8.25M,-4.3x,0.01,A$0.04,0%
+1519,ILA,Island Pharmaceuticals,Sydney,Healthcare,Biotechnology & Medical Research,A$8.24M,-2.3x,-0.13,A$0.07,0%
+1520,EV1,Evolution Energy Minerals,Sydney,Basic Materials,Metals & Mining,A$8.22M,-2x,-0.03,A$0.03,3.7%
+1521,EDE,Eden Energy Ltd,Sydney,Basic Materials,Construction Materials,A$8.22M,-0.7x,-0.01,A$0.002,0%
+1522,HXG,Hexagon Resources,Sydney,Basic Materials,Metals & Mining,A$8.21M,-16x,-0.31,A$0.02,0%
+1523,VKA,Viking Mines Ltd,Sydney,Basic Materials,Metals & Mining,A$8.20M,90x,1.31,A$0.008,0%
+1524,APL,Associate Global Partners,Sydney,Financials,Investment Banking & Investment Services,A$8.19M,-4.7x,-0.2,A$0.14,0%
+1525,FXG,Felix Gold,Sydney,Basic Materials,Metals & Mining,A$8.18M,-5.1x,-3.08,A$0.03,3.1%
+1526,ASQ,Australian Silica Quartz,Sydney,Basic Materials,Metals & Mining,A$8.17M,-4.8x,-0.16,A$0.03,0%
+1527,SVG,Savannah Goldfields,Sydney,Basic Materials,Metals & Mining,A$8.15M,-0.3x,0,A$0.03,-3.3%
+1528,8CO,8Common,Sydney,Technology,Software & IT Services,A$8.07M,-2x,0.04,A$0.04,0%
+1529,AQX,Alice Queen Ltd,Sydney,Basic Materials,Metals & Mining,A$8.03M,-0.2x,-0.01,A$0.007,0%
+1530,RGT,Argent BioPharma,Sydney,Healthcare,Pharmaceuticals,A$7.99M,-0.1x,-0.01,A$0.17,-42.1%
+1531,1MC,Morella,Sydney,Basic Materials,Metals & Mining,A$7.91M,-2.1x,0.04,A$0.03,0%
+1532,ENV,Enova Mining,Sydney,Basic Materials,Metals & Mining,A$7.88M,-27.9x,0.5,A$0.008,0%
+1533,HVY,Heavy Minerals,Sydney,Basic Materials,Metals & Mining,A$7.87M,-3.4x,0.16,A$0.12,-8%
+1534,M2M,Mt Malcolm Mines NL,Sydney,Basic Materials,Metals & Mining,A$7.87M,-1.4x,-1.41,A$0.04,0%
+1535,IPC,Imperial Pacific Ltd,Sydney,Financials,Investment Banking & Investment Services,A$7.87M,42.3x,0.28,A$1.48,0%
+1536,CLU,Cluey,Sydney,Technology,Software & IT Services,A$7.85M,-0.3x,-0.01,A$0.04,0%
+1537,MOZG,Mosaic Brands Prf,Sydney,Consumer Cyclicals,Specialty Retailers,A$7.85M,7.2x,0.66,A$0.30,0%
+1538,MOZ,Mosaic Brands,Sydney,Consumer Cyclicals,Specialty Retailers,A$7.85M,1.9x,0.03,A$0.04,-11.4%
+1539,SIT,Site Group International Ltd,Sydney,Consumer Non-Cyclicals,Personal & Household Products & Services,A$7.81M,-3x,0.06,A$0.003,0%
+1540,BNL,Blue Star Helium Ltd,Sydney,Basic Materials,Chemicals,A$7.78M,-2x,-0.06,A$0.004,-11.1%
+1541,MRD,Mount Ridley Mines Ltd,Sydney,Basic Materials,Metals & Mining,A$7.78M,-4.5x,-0.04,A$0.001,0%
+1542,QXR,Qx Resources,Sydney,Basic Materials,Metals & Mining,A$7.77M,-3.5x,-0.07,A$0.007,0%
+1543,MVL,Marvel Gold,Sydney,Basic Materials,Metals & Mining,A$7.77M,-1.1x,-0.08,A$0.010,25%
+1544,HAL,HALO Technologies Holdings,Sydney,Technology,Financial Technology (Fintech) & Infrastructure,A$7.72M,-1.1x,0.01,A$0.06,-1.7%
+1545,FDR,Finder Energy Holdings,Sydney,Energy,Oil & Gas,A$7.72M,,,A$0.05,-4.1%
+1546,GTR,GTI Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$7.65M,-3x,-0.14,A$0.003,0%
+1547,SIV,Siv Capital,Sydney,Industrials,Professional & Commercial Services,A$7.58M,-160x,2.01,A$0.16,0%
+1548,ILT,Iltani Resources,Sydney,Basic Materials,Metals & Mining,A$7.52M,-3.1x,0.02,A$0.17,-5.6%
+1549,ADV,Ardiden,Sydney,Basic Materials,Metals & Mining,A$7.50M,-1.2x,0.01,A$0.12,-4%
+1550,BUY,Bounty Oil and Gas NL,Sydney,Energy,Oil & Gas,A$7.49M,-1.7x,0.01,A$0.005,0%
+1551,VSR,Voltaic Strategic Resources,Sydney,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",A$7.38M,-4.3x,-0.04,A$0.010,0%
+1552,LHM,Land Homes,Sydney,Real Estate,Real Estate Operations,A$7.35M,-1.4x,0.01,A$0.007,0%
+1553,MM1,Midas Minerals,Sydney,Basic Materials,Metals & Mining,A$7.34M,-1.1x,0.01,A$0.07,0%
+1554,LNR,Lanthanein Resources,Sydney,Basic Materials,Metals & Mining,A$7.33M,3x,0.08,A$0.003,-14.3%
+1555,CBY,Canterbury Resources,Sydney,Basic Materials,Metals & Mining,A$7.31M,-5.7x,-0.17,A$0.04,-2.7%
+1556,JBY,James Bay Minerals,Sydney,,,A$7.26M,,,A$0.11,0%
+1557,GLH,Global Health Ltd,Sydney,Healthcare,Healthcare Equipment & Supplies,A$7.26M,-1.1x,0.01,A$0.13,0%
+1558,DLM,Dominion Minerals,Sydney,Basic Materials,Construction Materials,A$7.23M,-2.9x,0.02,A$0.03,0%
+1559,JCS,JCurve Solutions Ltd,Sydney,Technology,Software & IT Services,A$7.22M,-4.4x,0.02,A$0.02,0%
+1560,EPN,Epsilon Healthcare,Sydney,Healthcare,Pharmaceuticals,A$7.21M,-1x,,A$0.02,0%
+1561,VTI,Visioneering Tech,Sydney,Healthcare,Healthcare Equipment & Supplies,A$7.19M,-1.4x,-0.02,A$0.13,-3.8%
+1562,NAE,New Age Exploration Ltd,Sydney,Energy,Coal,A$7.18M,-4x,0.06,A$0.004,-11.1%
+1563,CAQ,CAQ Holdings Ltd,Sydney,Consumer Cyclicals,Textiles & Apparel,A$7.18M,-2.5x,0,A$0.010,0%
+1564,NAG,Nagambie Mining Ltd,Sydney,Basic Materials,Metals & Mining,A$7.17M,-1.8x,-0.08,A$0.009,-10%
+1565,FG1,Flynn Gold,Sydney,Basic Materials,Metals & Mining,A$7.14M,-1.1x,-0.06,A$0.03,-7.1%
+1566,DYM,Dynamic Metals,Sydney,Basic Materials,Metals & Mining,A$7.10M,-9.9x,,A$0.14,0%
+1567,PO3,Purifloh,Sydney,Industrials,Professional & Commercial Services,A$7.08M,-12.2x,-0.83,A$0.22,0%
+1568,COY,Coppermoly Ltd,Sydney,Basic Materials,Metals & Mining,A$7.08M,-10x,0.27,A$0.010,-9.1%
+1569,ALY,Alchemy Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$7.07M,-17.1x,-0.3,A$0.006,0%
+1570,PEC,Perpetual Resources Ltd,Sydney,Basic Materials,Construction Materials,A$7.04M,-1.1x,0,A$0.01,20%
+1571,FTZ,Fertoz Ltd,Sydney,Basic Materials,Chemicals,A$7.01M,-1.6x,1.39,A$0.03,0%
+1572,OZM,Ozaurum Resources,Sydney,Basic Materials,Metals & Mining,A$6.99M,-2.6x,-0.08,A$0.05,11.4%
+1573,DVL,dorsaVi Ltd,Sydney,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",A$6.97M,-3.7x,-0.11,A$0.01,0%
+1574,ECT,Environmental Clean,Sydney,Industrials,Professional & Commercial Services,A$6.94M,-1.5x,-0.04,A$0.003,0%
+1575,VMG,Vdm Group,Sydney,Basic Materials,Metals & Mining,A$6.93M,-4.9x,,A$0.001,0%
+1576,NRX,Noronex,Sydney,Basic Materials,Metals & Mining,A$6.89M,-1.4x,-0.04,A$0.01,0%
+1577,TEM,Tempest Minerals,Sydney,Basic Materials,Chemicals,A$6.85M,-5.5x,0.26,A$0.01,10%
+1578,AUG,Augustus Minerals,Sydney,Basic Materials,Metals & Mining,A$6.81M,,,A$0.05,2%
+1579,OPN,Openn Negotiation,Sydney,Technology,Software & IT Services,A$6.78M,-0.4x,-0.02,A$0.010,0%
+1580,LCL,LCL Resources,Sydney,Basic Materials,Metals & Mining,A$6.75M,-0.2x,0,A$0.007,0%
+1581,AI1,Adisyn,Sydney,Technology,Software & IT Services,A$6.70M,-1.9x,-0.06,A$0.03,0%
+1582,AER,Aeeris Ltd,Sydney,Technology,Software & IT Services,A$6.64M,-15.2x,-1.91,A$0.09,0%
+1583,AYT,Austin Metals,Sydney,Basic Materials,Metals & Mining,A$6.62M,-10x,-0.69,A$0.005,0%
+1584,TFL,TasFoods,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$6.56M,-7.5x,-0.02,A$0.01,-11.8%
+1585,A1G,African Gold Ltd,Sydney,Basic Materials,Metals & Mining,A$6.52M,-3.3x,-0.1,A$0.02,0%
+1586,OAR,OAR Resources,Sydney,Basic Materials,Metals & Mining,A$6.44M,-2x,-0.05,A$0.002,0%
+1587,NSX,Nsx Ltd,Sydney,Financials,Investment Banking & Investment Services,A$6.43M,-1.4x,-0.03,A$0.01,0%
+1588,AHN,Athena Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$6.42M,-6x,-0.73,A$0.006,0%
+1589,TZL,TZ,Sydney,Technology,Software & IT Services,A$6.41M,-3.6x,-0.07,A$0.03,0%
+1590,WOA,Wide Open Agriculture,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$6.40M,-0.2x,-0.05,A$0.01,-14.3%
+1591,GR8YY,Great Dirt Resources,Sydney,,,A$6.36M,,,A$0,
+1592,GR8,Great Dirt Resources,Sydney,,,A$6.36M,,,A$0.17,0%
+1593,OLL,Openlearning,Sydney,Technology,Software & IT Services,A$6.35M,-1x,-0.04,A$0.01,0%
+1594,WHK,WhiteHawk,Sydney,Technology,Software & IT Services,A$6.35M,-0.9x,0.03,A$0.01,0%
+1595,HMI,Hiremii,Sydney,Technology,Software & IT Services,A$6.33M,-3.2x,0.12,A$0.05,0%
+1596,JAV,Javelin Minerals,Sydney,Basic Materials,Metals & Mining,A$6.27M,-2.3x,0,A$0,0%
+1597,WIN,Win Metals,Sydney,Basic Materials,Metals & Mining,A$6.27M,-3.1x,,A$0.02,15.8%
+1598,GTG,Genetic Technologies Ltd,Sydney,Healthcare,Healthcare Providers & Services,A$6.25M,-0.4x,0.02,A$0.04,4.9%
+1599,MBK,Metal Bank Ltd,Sydney,Basic Materials,Metals & Mining,A$6.25M,-2.3x,-0.05,A$0.02,-5.9%
+1600,THR,Thor Mining DRC,Sydney,Basic Materials,Metals & Mining,A$6.24M,-0.8x,0,A$0.02,0%
+1601,1CG,One Click,Sydney,Technology,Financial Technology (Fintech) & Infrastructure,A$6.20M,-4.6x,-0.04,A$0.010,0%
+1602,PAT,Patriot Lithium,Sydney,Basic Materials,Metals & Mining,A$6.19M,-0.6x,,A$0.05,0%
+1603,SHE,Stonehorse Energy,Sydney,Energy,Oil & Gas,A$6.16M,-9x,0.08,A$0.009,0%
+1604,OVT,Ovanti,Sydney,Industrials,Professional & Commercial Services,A$6.16M,-0.1x,0,A$0.004,0%
+1605,SCN,Scorpion Minerals,Sydney,Basic Materials,Metals & Mining,A$6.14M,-1.9x,0.04,A$0.01,0%
+1606,DM1,Desert Metals,Sydney,Basic Materials,Metals & Mining,A$6.10M,-2.3x,0.52,A$0.02,0%
+1607,ICE,Icetana,Sydney,Technology,Software & IT Services,A$6.09M,-2.5x,-0.07,A$0.02,0%
+1608,JNO,Juno Minerals,Sydney,Basic Materials,Metals & Mining,A$6M,-0.8x,0,A$0.03,0%
+1609,BFC,Beston Global Food Company Ltd,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$5.99M,-0.1x,0,A$0.003,0%
+1610,HIQ,HitiQ,Sydney,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",A$5.98M,-0.9x,-0.04,A$0.02,5.9%
+1611,AX8,Accelerate Resources,Sydney,Basic Materials,Metals & Mining,A$5.95M,-1.8x,-0.09,A$0.009,-10%
+1612,NSB,Neuroscientific Biopharma,Sydney,Healthcare,Biotechnology & Medical Research,A$5.93M,8.2x,0.07,A$0.04,7.9%
+1613,RKT,Rocketdna,Sydney,Industrials,Aerospace & Defense,A$5.91M,-3x,-0.31,A$0.009,0%
+1614,BCA,Black Canyon,Sydney,Basic Materials,Metals & Mining,A$5.89M,0x,-0.12,A$0.07,-8.3%
+1615,AAU,Antilles Gold,Sydney,Basic Materials,Metals & Mining,A$5.85M,-0.4x,-0.01,A$0.004,-12.5%
+1616,LVT,Livetiles,Sydney,Technology,Software & IT Services,A$5.83M,-0.1x,,A$0.005,0%
+1617,AXP,AXP Energy,Sydney,Energy,Oil & Gas,A$5.82M,-0.7x,0.06,A$0.001,0%
+1618,HAR,Haranga Resources,Sydney,Basic Materials,Metals & Mining,A$5.82M,-2.2x,-0.03,A$0.07,0%
+1619,MEL,Metgasco,Sydney,Energy,Oil & Gas,A$5.79M,-4x,-0.08,A$0.004,0%
+1620,KGD,Kula Gold,Sydney,Basic Materials,Metals & Mining,A$5.79M,-1.4x,0.31,A$0.009,-10%
+1621,GLL,Galilee Energy Ltd,Sydney,Energy,Oil & Gas,A$5.78M,-3.4x,-0.04,A$0.02,-10.5%
+1622,YOW,Yowie Group Ltd,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$5.73M,-8.3x,-0.7,A$0.03,0%
+1623,CIO,Connected IO,Sydney,Technology,Communications & Networking,A$5.72M,-0.7x,0,A$0.02,0%
+1624,CE1,Calima Energy,Sydney,Energy,Oil & Gas,A$5.70M,-0.1x,0.01,A$0.009,0%
+1625,ION,Iondrive,Sydney,Basic Materials,Metals & Mining,A$5.67M,-0.3x,-0.01,A$0.008,-20%
+1626,OD6,OD6 Metals,Sydney,Basic Materials,Metals & Mining,A$5.66M,-6.6x,-0.1,A$0.04,-2.3%
+1627,RAN,Range International,Sydney,Basic Materials,Chemicals,A$5.64M,-2x,,A$0.006,0%
+1628,EVR,EV Resources,Sydney,Basic Materials,Metals & Mining,A$5.59M,-2.1x,0.21,A$0.010,25%
+1629,WEC,White Energy Company,Sydney,Energy,Coal,A$5.57M,-0.4x,-0.01,A$0.03,0%
+1630,BHD,Benjamin Hornigold,Sydney,Financials,Investment Banking & Investment Services,A$5.56M,-25.6x,-0.3,A$0.23,0%
+1631,PVL,Powerhouse Ventures,Sydney,Financials,Investment Banking & Investment Services,A$5.55M,-23x,0.18,A$0.05,0%
+1632,AYM,Australia United Mining Ltd,Sydney,Basic Materials,Metals & Mining,A$5.53M,-7.9x,-0.38,A$0.003,0%
+1633,ENX,Enegex NL,Sydney,Basic Materials,Metals & Mining,A$5.53M,-2.5x,0.07,A$0.01,0%
+1634,SP3,Spectur,Sydney,Technology,Communications & Networking,A$5.52M,-1.6x,-0.12,A$0.02,0%
+1635,AD1,AD1 Holdings,Sydney,Technology,Software & IT Services,A$5.49M,-0.8x,-0.02,A$0.005,-16.7%
+1636,MGA,Metalsgrove Mining,Sydney,Basic Materials,Metals & Mining,A$5.48M,-0.3x,,A$0.05,0%
+1637,AML,Aeon Metals Ltd,Sydney,Basic Materials,Metals & Mining,A$5.48M,-0.7x,0.01,A$0.005,0%
+1638,BMG,BMG Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$5.47M,-1.6x,0.15,A$0.008,0%
+1639,LYK,Lykos Metals,Sydney,Basic Materials,Metals & Mining,A$5.46M,-0.8x,0.1,A$0.03,0%
+1640,8VI,8VIC,Sydney,Academic & Educational Services,Professional & Business Education,A$5.45M,5.2x,0.03,A$0.09,-30%
+1641,ID8,Identitii,Sydney,Technology,Software & IT Services,A$5.41M,-0.6x,-0.02,A$0.009,0%
+1642,SLB,Stelar Metals,Sydney,Basic Materials,Metals & Mining,A$5.34M,-2.7x,0.15,A$0.08,0%
+1643,CPM,Cooper Metals,Sydney,Basic Materials,Metals & Mining,A$5.33M,-4.8x,0.11,A$0.07,4.4%
+1644,CDT,Castle Minerals Ltd,Sydney,Basic Materials,Metals & Mining,A$5.31M,-1x,0.16,A$0.004,14.3%
+1645,TMX,Terrain Minerals Ltd,Sydney,Basic Materials,Metals & Mining,A$5.30M,-3x,0.08,A$0.003,0%
+1646,EXL,Elixinol Global,Sydney,Consumer Cyclicals,Specialty Retailers,A$5.28M,-0.3x,-0.01,A$0.003,-25%
+1647,LVE,Love Group Global,Sydney,Technology,Software & IT Services,A$5.27M,13x,0.26,A$0.13,0%
+1648,EVE,Eve Investments,Sydney,Consumer Cyclicals,Specialty Retailers,A$5.27M,-1x,-0.17,A$0.001,0%
+1649,IXC,Invex Therapeutics,Sydney,Healthcare,Biotechnology & Medical Research,A$5.26M,-0.9x,-3.21,A$0.07,0%
+1650,L1M,Lightning Minerals,Sydney,Basic Materials,Metals & Mining,A$5.26M,-1.5x,,A$0.07,30.2%
+1651,HTM,HighTech Metals,Sydney,Basic Materials,Metals & Mining,A$5.25M,-2.7x,,A$0.16,0%
+1652,CCZ,Castillo Copper Ltd,Sydney,Basic Materials,Metals & Mining,A$5.20M,-0.7x,0,A$0.004,0%
+1653,POW,Protean Energy,Sydney,Energy,Uranium,A$5.20M,-8x,-2.21,A$0.008,0%
+1654,UVA,UVRE,Sydney,Energy,Uranium,A$5.19M,-2.3x,-0.06,A$0.09,0%
+1655,RFA,Rare Foods Australia,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$5.17M,-1.1x,0.01,A$0.02,0%
+1656,MPR,Mpower,Sydney,Utilities,Electrical Utilities & IPPs,A$5.16M,0.9x,0.01,A$0.01,0%
+1657,IEQ,International Equities,Sydney,Real Estate,Real Estate Operations,A$5.13M,10.5x,-0.04,A$0.04,0%
+1658,NMR,Native Mineral,Sydney,Basic Materials,Metals & Mining,A$5.12M,-0.9x,-0.03,A$0.02,5.3%
+1659,HFY,Hubify,Sydney,Technology,Telecommunications Services,A$5.11M,-10x,-0.12,A$0.010,0%
+1660,SBR,Sabre Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$5.11M,-3.3x,-0.1,A$0.01,0%
+1661,OZZ,Ozz Resources,Sydney,Basic Materials,Metals & Mining,A$5.09M,-7.3x,-0.08,A$0.06,0%
+1662,OSX,Osteopore,Sydney,Healthcare,Healthcare Equipment & Supplies,A$5.08M,-0.7x,9.15,A$0.04,0%
+1663,ERW,Errawarra,Sydney,Basic Materials,Metals & Mining,A$5.08M,-1.3x,-0.04,A$0.05,-3.8%
+1664,R8R,Regener8 Resources NL,Sydney,Basic Materials,Metals & Mining,A$5.08M,-12.9x,,A$0.11,0%
+1665,IBG,Ironbark Zinc Ltd,Sydney,Basic Materials,Metals & Mining,A$5.08M,-0.3x,-0.01,A$0.003,-33.3%
+1666,LM1,Leeuwin Metals,Sydney,Basic Materials,Metals & Mining,A$5.07M,-4x,,A$0.08,1.3%
+1667,SRR,Sarama Resources DRC,Sydney,Basic Materials,Metals & Mining,A$5.06M,-0.8x,-0.03,A$0.02,9.1%
+1668,TAT,Tartana Minerals,Sydney,Basic Materials,Metals & Mining,A$5.02M,-4.7x,-0.08,A$0.03,0%
+1669,INP,Incentiapay,Sydney,Technology,Financial Technology (Fintech) & Infrastructure,A$4.98M,-0.7x,-0.01,A$0.004,0%
+1670,MRI,My Rewards International,Sydney,Consumer Cyclicals,Media & Publishing,A$4.98M,-0.4x,,A$0.010,0%
+1671,EFE,Eastern Iron Ltd,Sydney,Basic Materials,Metals & Mining,A$4.97M,-4x,-0.32,A$0.004,0%
+1672,TAR,Taruga Gold Ltd,Sydney,Basic Materials,Metals & Mining,A$4.94M,-7x,-0.12,A$0.007,0%
+1673,M8S,M8 Sustainable,Sydney,Industrials,Professional & Commercial Services,A$4.94M,,,A$0.009,0%
+1674,PPY,Papyrus Australia Ltd,Sydney,Basic Materials,Paper & Forest Products,A$4.93M,-5x,-0.08,A$0.010,11.1%
+1675,RC1,Redcastle Resources,Sydney,Basic Materials,Metals & Mining,A$4.92M,-7.5x,-0.38,A$0.01,7.1%
+1676,CPN,Caspin Resources,Sydney,Basic Materials,Metals & Mining,A$4.90M,-0.8x,0.02,A$0.05,0%
+1677,TMZ,Thomson Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$4.88M,-0.2x,,A$0.005,0%
+1678,TTI,Traffic Technologies Ltd,Sydney,Technology,Communications & Networking,A$4.86M,-0.3x,0,A$0.005,25%
+1679,OLI,Oliver’s Real Food,Sydney,Consumer Cyclicals,Specialty Retailers,A$4.85M,-8.5x,0.11,A$0.01,0%
+1680,RGL,Riversgold,Sydney,Basic Materials,Metals & Mining,A$4.84M,-0.6x,-0.01,A$0.004,0%
+1681,RML,Resolution Minerals Ltd,Sydney,Basic Materials,Metals & Mining,A$4.83M,-0.4x,0,A$0.003,0%
+1682,CDR,Codrus Minerals,Sydney,Basic Materials,Metals & Mining,A$4.80M,-1.3x,-0.08,A$0.03,0%
+1683,DCL,Domacom Australia,Sydney,Financials,Investment Banking & Investment Services,A$4.79M,-1.1x,,A$0.01,0%
+1684,HPP,Health and Plant Protein Group,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$4.77M,-0.4x,0,A$0.04,0%
+1685,KAL,Kalgoorlie Gold Mining,Sydney,Basic Materials,Metals & Mining,A$4.75M,-0.4x,0,A$0.02,0%
+1686,SI6,Si6 Metals,Sydney,Basic Materials,Metals & Mining,A$4.74M,-0.7x,0,A$0.002,0%
+1687,GTH,Gathid,Sydney,Technology,Software & IT Services,A$4.74M,1.2x,-0.02,A$0.02,0%
+1688,WC1,West Cobar Metals,Sydney,Basic Materials,Metals & Mining,A$4.73M,-4.2x,-0.1,A$0.03,0%
+1689,ADS,Adslot,Sydney,Technology,Software & IT Services,A$4.70M,-0.3x,-0.01,A$0.001,0%
+1690,CRS,Caprice Resources,Sydney,Basic Materials,Metals & Mining,A$4.69M,-2.6x,-0.1,A$0.02,-4.5%
+1691,MRZ,Mont Royal Resources,Sydney,Basic Materials,Metals & Mining,A$4.68M,-5.9x,-0.4,A$0.06,5.7%
+1692,SNX,Sierra Nevada Gold DRC,Sydney,Basic Materials,Metals & Mining,A$4.67M,-1.6x,-0.03,A$0.04,2.6%
+1693,T92,Terra Uranium,Sydney,Energy,Uranium,A$4.65M,,,A$0.07,1.4%
+1694,CHR,Charger Metals NL,Sydney,Basic Materials,Metals & Mining,A$4.65M,-3.3x,0.53,A$0.06,1.7%
+1695,HOR,Horseshoe Metals Ltd,Sydney,Basic Materials,Metals & Mining,A$4.64M,-3.5x,-0.08,A$0.007,-12.5%
+1696,SSH,SSH,Sydney,Industrials,Professional & Commercial Services,A$4.61M,-3.5x,3.72,A$0.07,-7.1%
+1697,ICN,Icon Energy,Sydney,Energy,Oil & Gas,A$4.61M,-3x,-0.04,A$0.006,0%
+1698,AM7,Arcadia Minerals,Sydney,Basic Materials,Metals & Mining,A$4.56M,-4.3x,-0.1,A$0.04,0%
+1699,FTC,TTG Fintech,Sydney,Technology,Software & IT Services,A$4.56M,-4x,3.62,A$0.007,0%
+1700,MXO,Motio,Sydney,Consumer Cyclicals,Media & Publishing,A$4.56M,-1.9x,0.06,A$0.02,0%
+1701,MXO,Motio,Sydney,Consumer Cyclicals,Media & Publishing,A$4.56M,-1.9x,0.06,A$0.02,0%
+1702,OM1,Omnia Metals,Sydney,Basic Materials,Metals & Mining,A$4.55M,,0.05,A$0.08,0%
+1703,A8G,Australasian Gold,Sydney,Basic Materials,Metals & Mining,A$4.53M,-46.6x,-0.7,A$0.11,26.4%
+1704,G88,Golden Mile,Sydney,Basic Materials,Metals & Mining,A$4.52M,-2x,1.23,A$0.01,5%
+1705,SGC,ASX:SGC,Sydney,Energy,Oil & Gas,A$4.48M,,0.1,A$0.005,
+1706,VBS,Vectus Biosystems,Sydney,Healthcare,Biotechnology & Medical Research,A$4.47M,-1.8x,-0.04,A$0.08,0%
+1707,ADG,Adelong Gold,Sydney,Basic Materials,Metals & Mining,A$4.47M,-4x,-0.18,A$0.004,0%
+1708,ERL,Empire Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$4.45M,-3x,-0.09,A$0.003,0%
+1709,RIE,Riedel Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$4.45M,-2x,-0.2,A$0.002,0%
+1710,OSM,Osmond Resources,Sydney,Basic Materials,Metals & Mining,A$4.44M,-3.1x,0.09,A$0.07,0%
+1711,ABE,Australian Bond Exchange Holdings,Sydney,Financials,Investment Banking & Investment Services,A$4.39M,-0.4x,0.01,A$0.04,10.3%
+1712,AUA,Audeara,Sydney,Technology,"Computers, Phones & Household Electronics",A$4.36M,-1.5x,-0.04,A$0.03,0%
+1713,BUS,Bubalus Resources,Sydney,Basic Materials,Metals & Mining,A$4.36M,-11.8x,,A$0.12,0%
+1714,REC,Recharge Metals,Sydney,Basic Materials,Metals & Mining,A$4.31M,-1.6x,0.07,A$0.03,0%
+1715,RB6,Rubix Resources,Sydney,Basic Materials,Metals & Mining,A$4.30M,-0.7x,0,A$0.07,0%
+1716,PTR,Petratherm,Sydney,Basic Materials,Metals & Mining,A$4.30M,-4.8x,0.58,A$0.02,-9.5%
+1717,CVR,Cavalier Resources,Sydney,Basic Materials,Metals & Mining,A$4.29M,-12.3x,-0.17,A$0.10,-3%
+1718,NPM,Newpeak Metals,Sydney,Basic Materials,Metals & Mining,A$4.28M,-0.3x,0,A$0.01,0%
+1719,BOD,BOD Australia,Sydney,Healthcare,Pharmaceuticals,A$4.26M,-0.4x,0.02,A$0.02,0%
+1720,KTA,Krakatoa Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$4.25M,-1.1x,-0.04,A$0.009,-18.2%
+1721,CMB,Cambium Bio,Sydney,Healthcare,Biotechnology & Medical Research,A$4.24M,-355x,,A$0.35,1.4%
+1722,IPB,IPB Petroleum,Sydney,Energy,Oil & Gas,A$4.24M,-6x,-0.31,A$0.006,0%
+1723,PRX,Prodigy Gold,Sydney,Basic Materials,Metals & Mining,A$4.24M,-0.3x,-0.05,A$0.002,0%
+1724,RON,Ronin Resources,Sydney,Energy,Coal,A$4.23M,-2.6x,0.03,A$0.12,0%
+1725,TMG,Trigg Mining,Sydney,Basic Materials,Metals & Mining,A$4.21M,-0.8x,-0.03,A$0.010,0%
+1726,FMR,FMR Resources,Sydney,Industrials,Professional & Commercial Services,A$4.21M,-0.4x,-0.1,A$0.18,0%
+1727,BSN,Basin Energy,Sydney,Energy,Uranium,A$4.17M,-11.1x,,A$0.04,2.6%
+1728,WEL,Winchester Energy Ltd,Sydney,Energy,Oil & Gas,A$4.16M,-0.7x,0,A$0.003,-16.7%
+1729,CMO,Cosmo Metals,Sydney,Basic Materials,Metals & Mining,A$4.14M,-4.2x,-0.19,A$0.03,3.1%
+1730,ZEU,Zeus Resources Ltd,Sydney,Energy,Uranium,A$4.13M,-4.5x,-0.13,A$0.009,0%
+1731,REM,Remsense Technologies,Sydney,Technology,Software & IT Services,A$4.12M,-1.1x,-0.07,A$0.03,0%
+1732,GGX,Gas2grid Ltd,Sydney,Energy,Oil & Gas,A$4.09M,,0.07,A$0.001,0%
+1733,LMS,Litchfield Minerals,Sydney,Basic Materials,Metals & Mining,A$4.07M,-259.6x,,A$0.14,16.7%
+1734,NTM,NT Minerals,Sydney,Basic Materials,Metals & Mining,A$4.07M,-3.1x,0.48,A$0.010,0%
+1735,NNG,NEXION Group,Sydney,Technology,Software & IT Services,A$4.05M,-2.8x,-0.04,A$0.02,0%
+1736,APC,Australian Potash,Sydney,Basic Materials,Chemicals,A$4.02M,-0x,0,A$0.001,0%
+1737,DTI,DTI Group,Sydney,Technology,Communications & Networking,A$4.02M,-4.5x,0.38,A$0.009,0%
+1738,BDG,Black Dragon Gold,Sydney,Basic Materials,Metals & Mining,A$4.01M,-2.8x,0.19,A$0.01,-6.3%
+1739,RLG,Roolife Group Ltd,Sydney,Technology,Software & IT Services,A$3.97M,-1.7x,-0.06,A$0.005,0%
+1740,FRS,Forrestania Resources,Sydney,Basic Materials,Metals & Mining,A$3.96M,-0.4x,0.02,A$0.02,-6.1%
+1741,GES,Genesis Resources,Sydney,Basic Materials,Metals & Mining,A$3.91M,-1.8x,0.28,A$0.010,0%
+1742,FIN,Fin Resources,Sydney,Basic Materials,Metals & Mining,A$3.90M,-0.7x,0,A$0.006,0%
+1743,TKL,Traka Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$3.89M,-1x,0.11,A$0.002,0%
+1744,DTM,Dart Mining NL,Sydney,Basic Materials,Metals & Mining,A$3.88M,-5x,-0.11,A$0.01,0%
+1745,RMX,Red Mountain Mining,Sydney,Basic Materials,Metals & Mining,A$3.87M,-0.5x,0,A$0.001,0%
+1746,TG1,Techgen Metals,Sydney,Basic Materials,Metals & Mining,A$3.84M,-1x,0.02,A$0.03,0%
+1747,NCR,Nucoal Resources,Sydney,Energy,Coal,A$3.84M,-5x,0.18,A$0.005,0%
+1748,KDY,Kaddy,Sydney,Technology,Software & IT Services,A$3.83M,-0.1x,,A$0.03,0%
+1749,AKN,Auking Mining,Sydney,Basic Materials,Metals & Mining,A$3.82M,-0.2x,0,A$0.01,9.1%
+1750,ICR,Intelicare Holdings,Sydney,Technology,Semiconductors & Semiconductor Equipment,A$3.81M,-2.4x,-0.05,A$0.010,0%
+1751,IRX,Inhalerx,Sydney,Healthcare,Healthcare Equipment & Supplies,A$3.80M,-2.5x,-0.08,A$0.02,0%
+1752,DY6,DY6 Metals,Sydney,Basic Materials,Metals & Mining,A$3.74M,-0.3x,,A$0.06,-6.3%
+1753,TMB,Tambourah Metals,Sydney,Basic Materials,Metals & Mining,A$3.73M,-11x,2.37,A$0.05,0%
+1754,CGO,CPT Global Ltd,Sydney,Technology,Software & IT Services,A$3.73M,-1.6x,0,A$0.09,-4.3%
+1755,MQR,Marquee Resources,Sydney,Basic Materials,Metals & Mining,A$3.72M,-1.8x,-0.09,A$0.009,0%
+1756,CTN,Catalina Resources,Sydney,Basic Materials,Metals & Mining,A$3.72M,-3.5x,0.09,A$0.010,0%
+1757,NFL,Norfolk Metals,Sydney,Basic Materials,Metals & Mining,A$3.72M,-6.3x,0.26,A$0.09,1.1%
+1758,RDS,Redstone Resources,Sydney,Basic Materials,Metals & Mining,A$3.70M,-4x,-0.19,A$0.004,0%
+1759,BMM,Balkan Mining and Minerals,Sydney,Basic Materials,Metals & Mining,A$3.70M,-0.8x,0.01,A$0.05,7%
+1760,ADC,ACDC Metals,Sydney,Basic Materials,Metals & Mining,A$3.69M,-3.2x,,A$0.05,-2%
+1761,TX3,Trinex Minerals,Sydney,Basic Materials,Metals & Mining,A$3.66M,,-0.04,A$0.002,0%
+1762,WML,Woomera Mining,Sydney,Basic Materials,Metals & Mining,A$3.65M,-0.8x,0.01,A$0.003,0%
+1763,ARC,Arc Funds,Sydney,Financials,Investment Banking & Investment Services,A$3.64M,-5x,-0.16,A$0.09,0%
+1764,DDT,DataDot Technology Ltd,Sydney,Technology,Software & IT Services,A$3.63M,-52x,0.35,A$0.003,0%
+1765,NIS,Nickelsearch,Sydney,Basic Materials,Metals & Mining,A$3.63M,-0.5x,0,A$0.02,0%
+1766,BPM,Bpm Minerals,Sydney,Basic Materials,Metals & Mining,A$3.62M,-2.9x,-0.06,A$0.05,-3.7%
+1767,FAU,First Au,Sydney,Basic Materials,Metals & Mining,A$3.62M,,-0.13,A$0.010,0%
+1768,XPN,XPON Technologies Pty,Sydney,Technology,Software & IT Services,A$3.62M,-0.7x,0.01,A$0.010,0%
+1769,HCT,Holista CollTech Ltd,Sydney,Healthcare,Biotechnology & Medical Research,A$3.62M,-0.8x,0,A$0.01,0%
+1770,NC6,Nanollose,Sydney,Consumer Cyclicals,Textiles & Apparel,A$3.61M,-3.5x,-0.1,A$0.02,0%
+1771,H2G,GreenHy2,Sydney,Utilities,Electrical Utilities & IPPs,A$3.59M,-1.5x,-0.04,A$0.006,0%
+1772,PUA,Peak Minerals,Sydney,Basic Materials,Metals & Mining,A$3.59M,-3x,-0.06,A$0.003,0%
+1773,PL3,Patagonia Lithium,Sydney,Basic Materials,Metals & Mining,A$3.57M,-5.1x,-0.04,A$0.07,16.7%
+1774,HYD,Hydrix,Sydney,Industrials,Professional & Commercial Services,A$3.56M,-1.8x,-0.02,A$0.01,0%
+1775,BCT,Bluechiip Ltd,Sydney,Healthcare,Healthcare Equipment & Supplies,A$3.55M,-0.4x,0.02,A$0.003,0%
+1776,KNM,Kneomedia,Sydney,Technology,Software & IT Services,A$3.53M,-2x,-0.05,A$0.002,0%
+1777,GED,Golden Deeps Ltd,Sydney,Basic Materials,Metals & Mining,A$3.52M,-5x,-0.11,A$0.03,-3.3%
+1778,AMT,Allegra Orthopaedics,Sydney,Healthcare,Healthcare Equipment & Supplies,A$3.47M,-0.7x,0.01,A$0.03,0%
+1779,E79,E79 Gold Mines,Sydney,Basic Materials,Metals & Mining,A$3.47M,-0.7x,0.03,A$0.03,-5.9%
+1780,KNB,Koonenberry Gold,Sydney,Basic Materials,Metals & Mining,A$3.45M,-2.9x,-0.17,A$0.010,0%
+1781,EMP,Emperor Energy,Sydney,Energy,Oil & Gas,A$3.45M,-3x,-0.11,A$0.009,0%
+1782,AOA,Ausmon Resources,Sydney,Basic Materials,Metals & Mining,A$3.45M,-4.5x,-0.23,A$0.003,20%
+1783,CMX,ChemX Materials,Sydney,Basic Materials,Metals & Mining,A$3.43M,,,A$0.03,-11.1%
+1784,SRI,Sipa Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$3.42M,15x,0.26,A$0.01,0%
+1785,WGR,Western Gold Resources,Sydney,Basic Materials,Metals & Mining,A$3.41M,-1.5x,-0.03,A$0.02,0%
+1786,FFF,Forbidden Foods,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$3.41M,-0.4x,-0.02,A$0.010,-50%
+1787,EMT,Emetals,Sydney,Basic Materials,Metals & Mining,A$3.40M,4x,0.04,A$0.004,0%
+1788,PR1,Pure Resources,Sydney,Basic Materials,Metals & Mining,A$3.40M,-11.9x,-0.15,A$0.08,0%
+1789,M3M,M3 Mining,Sydney,Basic Materials,Metals & Mining,A$3.35M,-1.3x,-0.37,A$0.04,0%
+1790,AAJ,Aruma Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$3.35M,-1.4x,-0.04,A$0.01,0%
+1791,PHL,Propell Holdings,Sydney,Technology,Software & IT Services,A$3.34M,-0.3x,-0.04,A$0.010,0%
+1792,AUR,Auris Minerals,Sydney,Basic Materials,Metals & Mining,A$3.34M,-0.5x,0,A$0.007,0%
+1793,CZN,Corazon Mining Ltd,Sydney,Basic Materials,Metals & Mining,A$3.34M,-5x,-0.99,A$0.005,0%
+1794,NVQ,Noviqtech,Sydney,Technology,Software & IT Services,A$3.33M,-0.9x,-0.03,A$0.02,-14.3%
+1795,NZS,New Zealand Coastal Seafoods,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$3.33M,-2x,-0.03,A$0.002,0%
+1796,OXT,Orexplore Technologies,Sydney,Basic Materials,Metals & Mining,A$3.32M,-0.3x,-0.01,A$0.02,0%
+1797,AL8,Alderan Resources,Sydney,Basic Materials,Metals & Mining,A$3.32M,-0.4x,-0.01,A$0.003,0%
+1798,ENT,Enterprise Metals Ltd,Sydney,Basic Materials,Metals & Mining,A$3.31M,-1x,0.04,A$0.004,33.3%
+1799,RBX,Resource Base,Sydney,Basic Materials,Metals & Mining,A$3.31M,-0.9x,-0.02,A$0.04,0%
+1800,TD1,Tali Digital Ltd,Sydney,Healthcare,Healthcare Equipment & Supplies,A$3.30M,-1x,-0.01,A$0.001,0%
+1801,HT8,Harris Technology,Sydney,Technology,Software & IT Services,A$3.29M,-1.6x,-0.03,A$0.01,0%
+1802,KFM,Kingfisher Mining,Sydney,Basic Materials,Metals & Mining,A$3.28M,-2.5x,-0.1,A$0.06,-1.6%
+1803,TML,Timah Resources,Sydney,Utilities,Electrical Utilities & IPPs,A$3.28M,18.8x,0.2,A$0.04,0%
+1804,RBR,RBR,Sydney,Academic & Educational Services,Professional & Business Education,A$3.27M,10x,0.45,A$0.002,0%
+1805,CMD,Cassius Mining,Sydney,Basic Materials,Metals & Mining,A$3.25M,-2x,0.01,A$0.006,0%
+1806,DOU,Douugh,Sydney,Technology,Financial Technology (Fintech) & Infrastructure,A$3.25M,-1x,-0.01,A$0.003,0%
+1807,UCM,Uscom Ltd,Sydney,Healthcare,Healthcare Equipment & Supplies,A$3.24M,-1.1x,-0.15,A$0.01,0%
+1808,MOM,Moab Minerals,Sydney,Basic Materials,Metals & Mining,A$3.24M,-2x,-0.02,A$0.004,0%
+1809,ICG,Inca Minerals Ltd,Sydney,Basic Materials,Metals & Mining,A$3.24M,-1.3x,-0.03,A$0.004,0%
+1810,OPL,Opyl,Sydney,Healthcare,Healthcare Equipment & Supplies,A$3.24M,-0.9x,-0.23,A$0.02,-9.5%
+1811,AN1,Anagenics,Sydney,Consumer Non-Cyclicals,Personal & Household Products & Services,A$3.23M,-0.8x,-0.03,A$0.007,0%
+1812,PKD,Parkd,Sydney,Industrials,Construction & Engineering,A$3.22M,-10.3x,-0.17,A$0.03,0%
+1813,NYM,Narryer Metals,Sydney,Basic Materials,Metals & Mining,A$3.20M,-1.1x,-0.02,A$0.03,0%
+1814,PVW,PVW Resources,Sydney,Basic Materials,Metals & Mining,A$3.18M,-0.8x,-0.01,A$0.03,0%
+1815,FGL,Frugl,Sydney,Technology,Software & IT Services,A$3.15M,-0.5x,-0.02,A$0.03,0%
+1816,PNT,Panther Metals,Sydney,Basic Materials,Metals & Mining,A$3.14M,-2.3x,-0.15,A$0.04,0%
+1817,SMS,Star Minerals,Sydney,Basic Materials,Metals & Mining,A$3.13M,-1.7x,0.13,A$0.03,0%
+1818,8IH,8I Holdings Ltd,Sydney,Financials,Investment Holding Companies,A$3.13M,-1.3x,0.04,A$0.009,0%
+1819,SMM,Somerset Minerals,Sydney,Basic Materials,Metals & Mining,A$3.09M,-0.1x,0.18,A$0.003,0%
+1820,SQX,Sqx Resources,Sydney,Basic Materials,Metals & Mining,A$3.09M,,,A$0.10,0%
+1821,ECG,eCargo Holdings Ltd,Sydney,Consumer Cyclicals,Media & Publishing,A$3.08M,4.3x,-0.04,A$0.006,0%
+1822,LKY,Locksley Resources,Sydney,Basic Materials,Metals & Mining,A$3.08M,-1.2x,-0.06,A$0.02,-4.8%
+1823,GSM,Golden State Mining,Sydney,Basic Materials,Metals & Mining,A$3.07M,-0.6x,-0.03,A$0.01,-8.3%
+1824,VAR,Variscan Mines Ltd,Sydney,Basic Materials,Metals & Mining,A$3.03M,-4x,-0.11,A$0.008,0%
+1825,BMO,Bastion Minerals,Sydney,Basic Materials,Metals & Mining,A$3.01M,-0.2x,-0.05,A$0.010,0%
+1826,HXL,Hexima,Sydney,Healthcare,Biotechnology & Medical Research,A$3.01M,-4.2x,-0.05,A$0.02,0%
+1827,WYX,Western Yilgarn NL,Sydney,Basic Materials,Metals & Mining,A$3M,-2.5x,-0.04,A$0.03,0%
+1828,OLY,Olympio Metals,Sydney,Basic Materials,Metals & Mining,A$2.99M,-0.7x,-0.02,A$0.04,5.7%
+1829,WSR,Westar,Sydney,Basic Materials,Metals & Mining,A$2.99M,-0.4x,0.62,A$0.010,-6.7%
+1830,CT1,Constellation Technologies,Sydney,Technology,Software & IT Services,A$2.95M,-250x,-1.37,A$0.002,0%
+1831,KOR,Korab Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$2.94M,-2x,0.02,A$0.008,0%
+1832,MHC,Manhattan,Sydney,Basic Materials,Metals & Mining,A$2.94M,-1x,0.02,A$0.001,0%
+1833,AVW,Avira Energy,Sydney,Basic Materials,Metals & Mining,A$2.94M,-1x,0.39,A$0.001,0%
+1834,EQS,Equity Story,Sydney,Financials,Investment Banking & Investment Services,A$2.94M,,,A$0.03,0%
+1835,ALB,Albion Resources,Sydney,Basic Materials,Metals & Mining,A$2.94M,-7.7x,-0.08,A$0.04,-2.2%
+1836,PFT,Pure Foods Tasmania Ltd,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$2.93M,-1.3x,-0.03,A$0.02,9.1%
+1837,NGS,Nutritional Growth,Sydney,Healthcare,Pharmaceuticals,A$2.93M,-0.1x,-0.01,A$0.03,-7.4%
+1838,SIS,Simble Solutions,Sydney,Technology,Software & IT Services,A$2.93M,-2x,-0.04,A$0.004,0%
+1839,XST,Xstate Resources Ltd,Sydney,Energy,Oil & Gas,A$2.89M,2.3x,0.02,A$0.009,-10%
+1840,ACM,Australian Critical Minerals,Sydney,Basic Materials,Metals & Mining,A$2.87M,-1.1x,,A$0.07,0%
+1841,APS,Allup Silica,Sydney,Basic Materials,Metals & Mining,A$2.87M,,,A$0.03,0%
+1842,TAS,Tasman Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$2.85M,-1x,-0.02,A$0.004,0%
+1843,CTQ,CareTeQ LLC,Sydney,Healthcare,Healthcare Providers & Services,A$2.85M,-0.6x,-0.02,A$0.010,0%
+1844,ACS,Accent Resources,Sydney,Basic Materials,Metals & Mining,A$2.84M,-0.9x,0.04,A$0.006,0%
+1845,MDI,Middle Island Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$2.83M,-0.6x,0,A$0.01,-7.1%
+1846,HLF,Halo Food,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$2.81M,-0.1x,,A$0.007,0%
+1847,MEG,Megado Gold,Sydney,Basic Materials,Metals & Mining,A$2.80M,-1.8x,-0.02,A$0.010,0%
+1848,GRL,Godolphin Res,Sydney,Basic Materials,Metals & Mining,A$2.78M,-1.5x,-0.02,A$0.01,-15.4%
+1849,GCM,Green Critical Minerals,Sydney,Basic Materials,Metals & Mining,A$2.77M,-3.9x,-0.13,A$0.010,0%
+1850,CRB,Carbine Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$2.76M,-2.5x,-0.09,A$0.005,0%
+1851,HPC,Hydration Pharmaceuticals,Sydney,Healthcare,Pharmaceuticals,A$2.74M,-0.1x,-0.01,A$0.010,0%
+1852,PKO,Peako,Sydney,Basic Materials,Metals & Mining,A$2.74M,-2x,-0.07,A$0.004,0%
+1853,AVM,Advance Metals,Sydney,Energy,Coal,A$2.71M,-1.6x,-0.06,A$0.02,0%
+1854,MOH,Moho Resources,Sydney,Basic Materials,Metals & Mining,A$2.70M,-0.8x,-0.04,A$0.005,0%
+1855,AMM,Armada Metals,Sydney,Basic Materials,Metals & Mining,A$2.70M,-0.6x,-0.02,A$0.010,0%
+1856,DMM,DMC Mining,Sydney,Basic Materials,Metals & Mining,A$2.69M,-1.3x,0.01,A$0.06,0%
+1857,CL8,Carly Holdings,Sydney,Industrials,Passenger Transportation Services,A$2.68M,-0.6x,-0.02,A$0.010,0%
+1858,PLG,Pearl Gull Iron,Sydney,Basic Materials,Metals & Mining,A$2.66M,-4.8x,-0.07,A$0.01,7.7%
+1859,CDE,Codeifai,Sydney,Technology,Software & IT Services,A$2.64M,-0.1x,-0.02,A$0.001,0%
+1860,OCN,Oceana Lithium,Sydney,Basic Materials,Metals & Mining,A$2.64M,-0.8x,,A$0.03,-6.3%
+1861,SFM,Santa Fe Minerals,Sydney,Basic Materials,Metals & Mining,A$2.62M,-2.8x,-0.06,A$0.04,0%
+1862,EMUCA,Emu NL,Sydney,Basic Materials,Metals & Mining,A$2.61M,-0.3x,-0,A$0.010,0%
+1863,MTB,Mount Burgess Mining NL,Sydney,Basic Materials,Metals & Mining,A$2.60M,-2x,-0.25,A$0.002,0%
+1864,LSR,Lodestar Minerals Ltd,Sydney,Basic Materials,Metals & Mining,A$2.60M,-1x,0.17,A$0.001,0%
+1865,C1X,Cosmos Exploration,Sydney,Basic Materials,Metals & Mining,A$2.58M,-0.8x,0.03,A$0.04,0%
+1866,BYH,Bryah Resources,Sydney,Basic Materials,Metals & Mining,A$2.52M,-1.3x,-0.05,A$0.010,0%
+1867,BLZ,Blaze International Ltd,Sydney,Basic Materials,Metals & Mining,A$2.51M,-0.8x,0.04,A$0.004,0%
+1868,EMS,Eastern Metals,Sydney,Basic Materials,Metals & Mining,A$2.47M,-1.1x,-0.02,A$0.03,0%
+1869,ERG,Eneco Refresh,Sydney,Consumer Non-Cyclicals,Beverages,A$2.45M,-9x,-0.2,A$0.009,0%
+1870,HCD,Hydrocarbon Dynamics,Sydney,Energy,Oil & Gas,A$2.43M,-0.5x,0.01,A$0.003,0%
+1871,EMU,Emu NL,Sydney,Basic Materials,Metals & Mining,A$2.43M,-0.4x,-0.02,A$0.02,0%
+1872,BIM,Bindi Metals,Sydney,Basic Materials,Metals & Mining,A$2.42M,-2.2x,-0.09,A$0.08,0%
+1873,RAS,Ragusa Minerals,Sydney,Basic Materials,Metals & Mining,A$2.42M,-0.7x,0,A$0.02,0%
+1874,ZMM,Zimi,Sydney,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",A$2.41M,-0.4x,-0.01,A$0.02,0%
+1875,DAL,Dalaroo Metals,Sydney,Basic Materials,Metals & Mining,A$2.38M,-0.7x,-0.02,A$0.03,0%
+1876,PBL,Parabellum Resources,Sydney,Basic Materials,Metals & Mining,A$2.37M,-0.5x,0.01,A$0.04,0%
+1877,M2R,Miramar,Sydney,Basic Materials,Metals & Mining,A$2.37M,-0.4x,-0.14,A$0.010,0%
+1878,VIP,VIP Gloves,Sydney,Healthcare,Healthcare Equipment & Supplies,A$2.36M,,,A$0.003,0%
+1879,NKL,Nickelx,Sydney,Basic Materials,Metals & Mining,A$2.35M,-0.8x,-0.11,A$0.02,0%
+1880,OEQ,Orion Equities,Sydney,Financials,Investment Banking & Investment Services,A$2.35M,-4.6x,,A$0.15,0%
+1881,BOA,Boadicea Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$2.34M,-2.1x,-0.11,A$0.02,-10.5%
+1882,DAF,Discovery Africa Ltd,Sydney,Basic Materials,Metals & Mining,A$2.34M,-1.3x,0,A$0.010,0%
+1883,CR9,Corella Resources,Sydney,Basic Materials,Construction Materials,A$2.33M,-2.5x,0.13,A$0.005,-23.1%
+1884,KEY,Key Petroleum Ltd,Sydney,Energy,Oil & Gas,A$2.26M,-2.3x,0,A$0.001,0%
+1885,SKN,Skin Elements,Sydney,Consumer Non-Cyclicals,Personal & Household Products & Services,A$2.26M,-0.2x,0,A$0.004,0%
+1886,OCT,Octava Minerals,Sydney,Basic Materials,Metals & Mining,A$2.23M,-2.6x,-0.09,A$0.05,0%
+1887,OMX,Orange Minerals NL,Sydney,Basic Materials,Metals & Mining,A$2.23M,-1.5x,-0.45,A$0.02,-7.7%
+1888,DUN,Dundas Minerals,Sydney,Basic Materials,Metals & Mining,A$2.21M,,,A$0.03,0%
+1889,CNJ,Conico Ltd,Sydney,Basic Materials,Metals & Mining,A$2.20M,-1x,-0.16,A$0.001,0%
+1890,GCR,Golden Cross Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$2.19M,-2x,-0.22,A$0.002,0%
+1891,RNE,Renu Energy,Sydney,Utilities,Electrical Utilities & IPPs,A$2.18M,-1x,-0.02,A$0.003,0%
+1892,ZMI,Zinc Ireland,Sydney,Basic Materials,Metals & Mining,A$2.13M,-1.3x,0.01,A$0.010,0%
+1893,IS3,I Synergy Group,Sydney,Consumer Cyclicals,Media & Publishing,A$2.12M,-2x,-0.03,A$0.006,-14.3%
+1894,HRE,Heavy Rare Earths,Sydney,Basic Materials,Metals & Mining,A$2.12M,-3x,-0.03,A$0.03,0%
+1895,JAY,Jayride Group,Sydney,Consumer Cyclicals,Hotels & Entertainment Services,A$2.12M,-0.2x,0,A$0.009,0%
+1896,NSM,North Stawell,Sydney,Basic Materials,Metals & Mining,A$2.10M,-2.3x,0.22,A$0.02,0%
+1897,PLC,Premier1 Lithium,Sydney,Basic Materials,Metals & Mining,A$2.09M,-0.1x,0.01,A$0.010,-8.3%
+1898,ODE,Odessa Minerals,Sydney,Basic Materials,Metals & Mining,A$2.09M,-1.5x,-0.07,A$0.010,0%
+1899,BGE,Bridge Saas,Sydney,Technology,Software & IT Services,A$2.08M,-0.3x,-0.05,A$0.010,0%
+1900,IVT,Inventis,Sydney,Industrials,Professional & Commercial Services,A$2.06M,-0.8x,0,A$0.03,0%
+1901,AS2,Askari Metals,Sydney,Basic Materials,Metals & Mining,A$2.05M,-0.8x,-0.03,A$0.02,-9.5%
+1902,EEL,ENRG Elements,Sydney,Basic Materials,Metals & Mining,A$2.02M,-2x,-0.01,A$0.002,0%
+1903,WBE,Whitebark Energy,Sydney,Energy,Oil & Gas,A$1.98M,-0.3x,0,A$0.008,0%
+1904,AO1,Assetowl,Sydney,Technology,Software & IT Services,A$1.95M,-1x,-0.02,A$0.001,0%
+1905,YAR,Yari Minerals,Sydney,Basic Materials,Metals & Mining,A$1.93M,-1.3x,-0.01,A$0.004,0%
+1906,OAK,Oakridge International,Sydney,Healthcare,Healthcare Equipment & Supplies,A$1.89M,-2.8x,0.15,A$0.07,1.4%
+1907,M24,Mamba Exploration,Sydney,Basic Materials,Metals & Mining,A$1.88M,-0.5x,0.01,A$0.010,-10%
+1908,RLC,Reedy Lagoon,Sydney,Basic Materials,Metals & Mining,A$1.86M,-3x,-0.11,A$0.003,0%
+1909,SHO,SportsHero,Sydney,Technology,Software & IT Services,A$1.85M,-1x,-0.03,A$0.003,0%
+1910,MCL,Mighty Craft,Sydney,Consumer Non-Cyclicals,Beverages,A$1.84M,0.6x,-0,A$0.005,0%
+1911,NES,Nelson Resources,Sydney,Basic Materials,Metals & Mining,A$1.84M,-0.8x,-0.03,A$0.003,0%
+1912,SCT,Scout Security,Sydney,Industrials,Professional & Commercial Services,A$1.84M,-0x,0.1,A$0.007,0%
+1913,LRD,Lord Resources,Sydney,Basic Materials,Metals & Mining,A$1.83M,-0.8x,0.25,A$0.03,0%
+1914,SRH,Saferoads Holdings Ltd,Sydney,Industrials,Professional & Commercial Services,A$1.79M,-0.7x,0,A$0.04,0%
+1915,DBO,Diablo Resources,Sydney,Basic Materials,Metals & Mining,A$1.75M,-3.1x,-0.05,A$0.02,0%
+1916,AIV,ActivEX,Sydney,Basic Materials,Metals & Mining,A$1.72M,-2x,-0.07,A$0.008,0%
+1917,GNM,Great Northern Minerals,Sydney,Basic Materials,Metals & Mining,A$1.70M,0.7x,0.01,A$0.01,0%
+1918,IEC,Intra Energy Corporation,Sydney,Energy,Coal,A$1.69M,-1x,0,A$0.001,0%
+1919,SLZ,Sultan Resources,Sydney,Basic Materials,Metals & Mining,A$1.58M,-1.1x,-0.02,A$0.008,0%
+1920,LAW,Lawfinance,Sydney,Financials,Banking Services,A$1.58M,-0x,,A$0.005,0%
+1921,DMG,Dragon Mountain Gold,Sydney,Basic Materials,Metals & Mining,A$1.58M,-8.2x,-0.21,A$0.004,0%
+1922,C7A,Aus Tin Mining Ltd,Sydney,Basic Materials,Metals & Mining,A$1.56M,,0,A$0.01,0%
+1923,IMI,Infinity Mining,Sydney,Basic Materials,Metals & Mining,A$1.54M,-0.3x,0,A$0.010,0%
+1924,ADD,Adavale Resources Ltd,Sydney,Basic Materials,Metals & Mining,A$1.53M,-0.3x,-0.07,A$0.003,0%
+1925,SRY,Story-I,Sydney,Consumer Cyclicals,Specialty Retailers,A$1.51M,-0.7x,,A$0.004,0%
+1926,WFL,Wellfully,Sydney,Healthcare,Biotechnology & Medical Research,A$1.48M,-1x,-0.01,A$0.003,0%
+1927,CFO,Cfoam,Sydney,Basic Materials,Chemicals,A$1.47M,,,A$0.002,0%
+1928,WNR,Wingara,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$1.40M,-0.4x,-0.03,A$0.008,0%
+1929,PIM,Pinnacle Minerals,Sydney,Basic Materials,Metals & Mining,A$1.38M,-3.6x,,A$0.04,0%
+1930,AJY,Asaplus Resources DRC,Sydney,Basic Materials,Metals & Mining,A$1.36M,-1.3x,,A$0.010,0%
+1931,QUE,Queste Communications,Sydney,Financials,Investment Banking & Investment Services,A$1.35M,-4.6x,-0.1,A$0.05,0%
+1932,IBX,Imagion Biosystems,Sydney,Healthcare,Healthcare Equipment & Supplies,A$1.29M,-0.1x,0.01,A$0.04,17.6%
+1933,ICU,Investor Centre,Sydney,Financials,Investment Banking & Investment Services,A$1.22M,-0.4x,0.01,A$0.004,0%
+1934,RPG,Raptis Group,Sydney,Real Estate,Real Estate Operations,A$1.22M,4x,0.01,A$0.008,0%
+1935,BP8,BPH Global,Sydney,Healthcare,Biotechnology & Medical Research,A$1.19M,-0.2x,-0.01,A$0.003,20%
+1936,KLR,Kaili Resources,Sydney,Energy,Coal,A$1.18M,,0.01,A$0.010,0%
+1937,BEL,Bentley Capital Ltd,Sydney,Financials,Investment Banking & Investment Services,A$1.14M,-0.3x,,A$0.01,0%
+1938,ROO,Roots Sustainable Agricultural DRC,Sydney,Industrials,Professional & Commercial Services,A$1.12M,-0.3x,,A$0.007,0%
+1939,OKJ,Oakajee Corporation Ltd,Sydney,Basic Materials,Metals & Mining,A$1.10M,-1.7x,0.12,A$0.01,0%
+1940,CYQ,Cycliq,Sydney,Technology,"Computers, Phones & Household Electronics",A$1.07M,-1.1x,-0.07,A$0.003,0%
+1941,SAN,Sagalio Energy Ltd,Sydney,Basic Materials,Metals & Mining,A$1.02M,-1.6x,0.01,A$0.005,0%
+1942,CLZ,Classic Minerals Ltd,Sydney,Basic Materials,Metals & Mining,A$962.93K,-0x,-0,A$0.001,0%
+1943,T3D,333D,Sydney,Technology,"Computers, Phones & Household Electronics",A$836.11K,-1.4x,-0.02,A$0.007,0%
+1944,ME1,Melodiol Global Health,Sydney,Healthcare,Pharmaceuticals,A$816.05K,0x,-0,A$0.001,0%
+1945,MSG,MCS Services Ltd,Sydney,Industrials,Professional & Commercial Services,A$792.40K,-0.2x,0,A$0.004,0%
+1946,AZ9,Asian Battery Metals DRC,Sydney,Energy,Oil & Gas,A$780.50K,-3.6x,-0.09,A$0.02,0%
+1947,PRM,Prominence Energy NL,Sydney,Energy,Oil & Gas,A$727.38K,,-0,A$0.006,0%
+1948,MBX,My Foodie Box,Sydney,Consumer Non-Cyclicals,Food & Tobacco,A$556.65K,-0.1x,,A$0.010,0%
+1949,MSI,Multistack Intl,Sydney,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",A$545.22K,-0.6x,-0.01,A$0.004,0%
+1950,1TT,Thrive Tribe Technologies,Sydney,Technology,Software & IT Services,A$459.91K,,0.1,A$0.002,0%
+1951,TTA,TTA Holdings Ltd,Sydney,Technology,"Computers, Phones & Household Electronics",A$412.27K,-0.3x,0.02,A$0.003,0%
+1952,LPD,Lepidico,Sydney,Basic Materials,Metals & Mining,A$153.32K,-0x,0.03,A$0.002,0%
+1953,HGEN,ETFS Hydrogen,Sydney,Financials,Investment Banking & Investment Services,,,,A$4.48,-1.5%
+1954,CD1,CD Equity Fund I Pvt Unt,Sydney,Financials,Investment Banking & Investment Services,,19.1x,,A$0.63,0%
+1955,GEAR,BetaShares Geared Australian Equity Hedge,Sydney,Financials,Investment Banking & Investment Services,,17.5x,,A$28.68,0.5%

@@ -1,0 +1,479 @@
+1,OGDC,Oil and Gas Development Co,Karachi,Energy,Oil & Gas,PKR 567.85B,2.4x,0.08,PKR 132,-0.2%
+2,MGAS,Mari Petroleum Company,Karachi,Energy,Oil & Gas,PKR 456.24B,5.9x,0.13,"PKR 3,419.01",0.3%
+3,AMZN,Meezan Bank,Karachi,Financials,Banking Services,PKR 439.75B,4.2x,0.06,PKR 245.85,1.8%
+4,MLKP,Nestle Pakistan,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 306.20B,19.7x,-1.35,"PKR 6,752",-0.7%
+5,UBL,United Bank,Karachi,Financials,Banking Services,PKR 305.62B,5.2x,0.19,PKR 249.30,-0%
+6,PPL,Pakistan Petroleum,Karachi,Energy,Oil & Gas,PKR 304.75B,2.7x,0.08,PKR 112.39,-0%
+7,COLG,Colgate-Palmolive Pakistan,Karachi,Consumer Non-Cyclicals,Personal & Household Products & Services,PKR 273.12B,15.8x,0.24,"PKR 1,128",0.7%
+8,MCB,MCB Bank,Karachi,Financials,Banking Services,PKR 259.23B,3.7x,-0.47,PKR 219,-1.5%
+9,LUKC,Lucky Cement,Karachi,Basic Materials,Construction Materials,PKR 249.64B,4.1x,0.11,PKR 851.20,0.4%
+10,PAKT,Pakistan Tobacco Company,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 241.95B,8.8x,0.51,PKR 947,0.4%
+11,SCBP,Standard Chartered Bank Pakistan,Karachi,Financials,Banking Services,PKR 225.52B,5.1x,0.05,PKR 60,1.3%
+12,ENGR,Engro Fertilizers,Karachi,Basic Materials,Chemicals,PKR 217.65B,10.2x,0.29,PKR 163,-0.5%
+13,FAUF,Fauji Fertilizer Company,Karachi,Basic Materials,Chemicals,PKR 216.15B,3.4x,0.05,PKR 169.61,-0%
+14,HBL,Habib Bank,Karachi,Financials,Banking Services,PKR 201.69B,3.4x,0.06,PKR 137.80,-0.1%
+15,HPWR,Hub Power Company,Karachi,Utilities,Electrical Utilities & IPPs,PKR 191.98B,2.6x,0.03,PKR 147.70,0.7%
+16,EGCH,Engro Corporation,Karachi,Basic Materials,Chemicals,PKR 177.90B,8.1x,0.58,PKR 332,-0.3%
+17,PKOL,Pakistan Oilfields,Karachi,Energy,Oil & Gas,PKR 169.63B,4.6x,-0.8,PKR 598,0.4%
+18,BEST,Bestway Cement,Karachi,Basic Materials,Construction Materials,PKR 142.62B,10.4x,0.66,PKR 239,0.4%
+19,INDM,Indus Motor Company,Karachi,Consumer Cyclicals,Automobiles & Auto Parts,PKR 134.02B,10.1x,0.09,"PKR 1,705.11",-0.3%
+20,ABL,Allied Bank,Karachi,Financials,Banking Services,PKR 129.62B,2.9x,0.03,PKR 113.20,0.6%
+21,SYSE,Systems Ltd,Karachi,Technology,Software & IT Services,PKR 125.02B,19.5x,-0.6,PKR 428,-0.1%
+22,KELE,K-Electric,Karachi,Utilities,Electrical Utilities & IPPs,PKR 114.88B,-4.3x,,PKR 4.16,3%
+23,MILM,Millat Tractors,Karachi,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",PKR 111.05B,12.4x,0.06,PKR 579,-1.4%
+24,BKEQ,Bank Al-Habib,Karachi,Financials,Banking Services,PKR 109.75B,3.1x,0.05,PKR 99.43,0.4%
+25,FATF,Fatima Fertilizer Company,Karachi,Basic Materials,Chemicals,PKR 109.16B,4x,0.04,PKR 51.51,-0.9%
+26,IBFL,Ibrahim Fibres,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 108.68B,-89.1x,0.67,PKR 350,0%
+27,UPFL,Unilever Pakistan Foods,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 106.39B,10x,0.16,"PKR 16,701.10",-5.1%
+28,ISML,Ismail Industries,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 102.15B,14.6x,0.29,"PKR 1,539.47",0%
+29,INTR,Interloop,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 99.20B,4.9x,2.15,PKR 71.07,0.4%
+30,PIAHb,PIA Holding b,Karachi,Industrials,Passenger Transportation Services,PKR 97.90B,-0.8x,,PKR 883.73,-8.8%
+31,PIAHa,PIA Holding a,Karachi,Industrials,Passenger Transportation Services,PKR 97.90B,-0.8x,,PKR 18.89,-1.7%
+32,NBPK,National Bank of Pakistan,Karachi,Financials,Banking Services,PKR 94.99B,1.8x,0.03,PKR 44.65,-0.5%
+33,BAFL,Bank Alfalah,Karachi,Financials,Banking Services,PKR 91.79B,2.3x,0.05,PKR 58.39,-0.1%
+34,LUCK,Lucky Core Industries,Karachi,Basic Materials,Chemicals,PKR 83.72B,7.5x,-0.21,PKR 906.50,-0.4%
+35,ATHO,Atlas Honda,Karachi,Consumer Cyclicals,Automobiles & Auto Parts,PKR 78.67B,10.6x,0.28,PKR 634,-0.2%
+36,PSO,Pakistan State Oil Company,Karachi,Energy,Oil & Gas,PKR 75.12B,5.3x,-0.09,PKR 159.84,0.9%
+37,ABBT,Abbott Laboratories Pakistan,Karachi,Healthcare,Pharmaceuticals,PKR 72.45B,36.4x,0.74,PKR 740,-0.7%
+38,FYBL,Faysal Bank,Karachi,Financials,Banking Services,PKR 71.94B,3.1x,0.04,PKR 47.40,-0.4%
+39,HMB,Habib Metropolitan Bank,Karachi,Financials,Banking Services,PKR 71.56B,2.9x,0.06,PKR 68.96,1%
+40,DAWH,Dawood Hercules Corporation,Karachi,Basic Materials,Chemicals,PKR 69.55B,7.7x,0.09,PKR 144.50,0.1%
+41,RAMZ,Rafhan Maize Products Co,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 68.37B,11.2x,-0.92,"PKR 7,550",2%
+42,PTCA,Pakistan Telecommunication Company,Karachi,Technology,Telecommunications Services,PKR 67.68B,-4.4x,,PKR 13.22,5.2%
+43,SAZG,Sazgar Engineering,Karachi,Consumer Cyclicals,Automobiles & Auto Parts,PKR 65.58B,13.3x,0.02,"PKR 1,084.99",-0%
+44,JORD,Fauji Fertilizer Bin Qasim,Karachi,Basic Materials,Chemicals,PKR 57.85B,2.7x,0,PKR 44.60,-0.5%
+45,APL,Attock Petroleum,Karachi,Energy,Oil & Gas,PKR 54.74B,4.1x,-0.19,PKR 440.05,-0.4%
+46,FAUC,Fauji Cement Company,Karachi,Basic Materials,Construction Materials,PKR 49.67B,6.4x,-0.66,PKR 20.44,1.6%
+47,KOHC,Kohat Cement Company,Karachi,Basic Materials,Construction Materials,PKR 48.59B,7x,0.3,PKR 248.15,3.1%
+48,FRIE,FrieslandCampina,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 47.76B,40.5x,-0.71,PKR 62.85,-2.5%
+49,NATF,National Foods,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 45.92B,20.3x,-0.87,PKR 200,2.6%
+50,SVCI,Service Industries,Karachi,Consumer Cyclicals,Automobiles & Auto Parts,PKR 45.67B,12.8x,0.01,PKR 972,0.7%
+51,PACK,Packages,Karachi,Basic Materials,Containers & Packaging,PKR 44.69B,5.4x,0.07,PKR 494,-1.4%
+52,GLAX,GlaxoSmithKline Pakistan,Karachi,Healthcare,Pharmaceuticals,PKR 44.24B,66.2x,-0.99,PKR 138.93,1.2%
+53,SUIN,Sui Northern Gas Pipelines,Karachi,Utilities,Natural Gas Utilities,PKR 41.22B,3.5x,0.21,PKR 64.91,-0.6%
+54,PNSC,Pakistan National Shipping,Karachi,Industrials,Freight & Logistics Services,PKR 40.28B,1.9x,-0.08,PKR 305,0.1%
+55,HATC,Honda Atlas Cars,Karachi,Consumer Cyclicals,Automobiles & Auto Parts,PKR 40.28B,16.9x,0.02,PKR 282.10,0.2%
+56,HALE,Haleon Pakistan,Karachi,Healthcare,Pharmaceuticals,PKR 40.27B,39.5x,0.27,PKR 344,0.5%
+57,ASBK,Askari Bank,Karachi,Financials,Banking Services,PKR 38.04B,1.8x,0.03,PKR 25.85,-0.1%
+58,ATOR,Attock Refinery,Karachi,Energy,Oil & Gas,PKR 37.10B,1.3x,-0.1,PKR 348.45,0.3%
+59,HINL,Highnoon Labs,Karachi,Healthcare,Pharmaceuticals,PKR 37.07B,14x,3.59,PKR 690.01,2.8%
+60,DOLM,Dolmen City REIT,Karachi,Real Estate,Residential & Commercial REITs,PKR 36.69B,3x,,PKR 16.50,0.3%
+61,EPCL_p,Engro Polymer Chemicals,Karachi,Basic Materials,Chemicals,PKR 35.81B,5.5x,-0.85,PKR 11.84,2.9%
+62,EPCL,Engro Polymer & Chemicals,Karachi,Basic Materials,Chemicals,PKR 35.81B,5.5x,-0.85,PKR 39.50,-5%
+63,INTE,International Steels,Karachi,Basic Materials,Metals & Mining,PKR 35.45B,7.1x,0.03,PKR 81.49,0.6%
+64,MPLF,Maple Leaf Cement Factory,Karachi,Basic Materials,Construction Materials,PKR 35.12B,7.1x,-0.33,PKR 32.85,1.5%
+65,PION,Pioneer Cement,Karachi,Basic Materials,Construction Materials,PKR 34.98B,9.4x,0.13,PKR 154,1.6%
+66,UNIT,Unity Foods,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 34.59B,"5,800x",53.52,PKR 28.99,-0.1%
+67,DGKH,D G Khan Cement Company,Karachi,Basic Materials,Construction Materials,PKR 34.05B,-9.8x,0.03,PKR 78,0.8%
+68,PKPL,Pakgen Power,Karachi,Utilities,Electrical Utilities & IPPs,PKR 33.30B,5.6x,0.1,PKR 89.50,1.7%
+69,SAFB,Sapphire Fibres,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 32.44B,8.9x,-0.17,"PKR 1,569.43",0%
+70,CHRC,Cherat Cement Company,Karachi,Basic Materials,Construction Materials,PKR 32.06B,6.7x,-0.62,PKR 165,0.6%
+71,FERZ,Feroze1888 Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 31.55B,18x,-0.23,PKR 79,0%
+72,SHEL,Shell Pakistan,Karachi,Energy,Oil & Gas,PKR 30.61B,2.8x,0.01,PKR 144.10,1.3%
+73,THAL,Thal,Karachi,Consumer Cyclicals,Automobiles & Auto Parts,PKR 30.41B,9.9x,,PKR 380.11,-2.7%
+74,JDWS,JDW Sugar Mills,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 29.46B,3x,0.01,PKR 509.93,0%
+75,TRGP,TRG Pakistan,Karachi,Industrials,Professional & Commercial Services,PKR 29.28B,-1.2x,0,PKR 53.64,-0%
+76,SEAR,The Searle Company,Karachi,Healthcare,Pharmaceuticals,PKR 29.10B,-25.2x,0.16,PKR 56.85,0%
+77,PHIM,Philip Morris Pakistan,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 28.33B,69.5x,-0.9,PKR 460,-7.1%
+78,SAPT,Sapphire Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 28.20B,2.1x,0.03,"PKR 1,300",0%
+79,PAKI,Pakistan Aluminium Beverage Cans,Karachi,Basic Materials,Containers & Packaging,PKR 27.93B,6.1x,0.18,PKR 77.95,0.8%
+80,GHGL,Ghani Glass Ltd,Karachi,Basic Materials,Containers & Packaging,PKR 26.99B,3.6x,0.46,PKR 27.05,2.1%
+81,AGPL,AGP,Karachi,Healthcare,Pharmaceuticals,PKR 26.88B,16.7x,0.95,PKR 96,-0%
+82,MUGH,Mughal Iron & Steel Industries,Karachi,Basic Materials,Metals & Mining,PKR 26.72B,12.1x,-0.3,PKR 81,2.7%
+83,AVAN,Avanceon,Karachi,Technology,Software & IT Services,PKR 26.72B,11.9x,0.07,PKR 64.70,-0.9%
+84,LOTT,Lotte Chemical Pakistan,Karachi,Basic Materials,Chemicals,PKR 26.23B,7.7x,-0.12,PKR 17.32,-0.1%
+85,KOTA,KOT Addu Power Company,Karachi,Utilities,Electrical Utilities & IPPs,PKR 25.18B,6.9x,-0.22,PKR 28.59,-1.9%
+86,IGI,IGI Insurance,Karachi,Financials,Insurance,PKR 24.82B,6.3x,0.1,PKR 174.10,-1.1%
+87,PKSV,Pakistan Services,Karachi,Consumer Cyclicals,Hotels & Entertainment Services,PKR 24.23B,-36.6x,-1.36,PKR 745.03,-3.2%
+88,BIPL,Bank Islami Pakistan,Karachi,Financials,Banking Services,PKR 24.10B,2x,0.02,PKR 21.58,-0.2%
+89,INTI,International Industries,Karachi,Basic Materials,Metals & Mining,PKR 23.92B,6.9x,0.03,PKR 181.50,0.3%
+90,NISM,Nishat Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 23.03B,3.8x,-0.08,PKR 65.75,0.5%
+91,PKEL,Pak Elektron Ltd,Karachi,Consumer Cyclicals,Household Goods,PKR 22.77B,12.8x,0.11,PKR 25.20,-0.6%
+92,GTRO,Gatron Industries,Karachi,Basic Materials,Chemicals,PKR 21.42B,-18.3x,0,PKR 197,0%
+93,FAUJ,Fauji Foods,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 21.34B,20x,0.11,PKR 8.54,1.7%
+94,KOHT,Kohinoor Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 20.71B,2.6x,0.04,PKR 76.89,0%
+95,JSBL,JS Bank Ltd,Karachi,Financials,Banking Services,PKR 20.71B,1.5x,0,PKR 10.10,0.4%
+96,ARIF,Arif Habib Corporation,Karachi,Financials,Investment Banking & Investment Services,PKR 20.42B,2.6x,0.01,PKR 50.01,-1.9%
+97,MAHM,Mahmood Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 19.86B,15.9x,0.22,PKR 662.13,0%
+98,TAGS,Tariq Glass Industries,Karachi,Basic Materials,Containers & Packaging,PKR 19.63B,5.1x,0.1,PKR 112.20,-0.5%
+99,ALGH,Al-Ghazi Tractors,Karachi,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",PKR 19.58B,6.1x,0.04,PKR 337.80,0.2%
+100,CHSL,Chakwal Spinning Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 19.30B,-191.5x,0.69,PKR 158.77,10%
+101,NATR,National Refinery,Karachi,Energy,Oil & Gas,PKR 18.91B,-32.8x,,PKR 236.50,-0.4%
+102,STYL,Stylers International,Karachi,,,PKR 18.50B,,,PKR 43,1.2%
+103,OCTO,Octopus Digital,Karachi,Technology,Software & IT Services,PKR 18.41B,67.7x,-1.29,PKR 116.05,-0.9%
+104,GHAD,Ghandhara Automobiles,Karachi,Consumer Cyclicals,Automobiles & Auto Parts,PKR 17.94B,413.2x,-6.5,PKR 316.01,-0.9%
+105,JAVA,Javedan Corp,Karachi,Real Estate,Real Estate Operations,PKR 17.65B,2.2x,0,PKR 45,-4.7%
+106,EFUA,EFU Life Assurance,Karachi,Financials,Insurance,PKR 17.10B,7.3x,0.2,PKR 171,0%
+107,EFUI,EFU General Insurance,Karachi,Financials,Insurance,PKR 17.07B,4.5x,0.01,PKR 85.01,-0.4%
+108,SONA,Soneri Bank,Karachi,Financials,Banking Services,PKR 16.76B,2.7x,0.02,PKR 15.10,-0.1%
+109,BOPU,Bank of Punjab,Karachi,Financials,Banking Services,PKR 16.75B,1.5x,0.07,PKR 5.13,0.4%
+110,GHIN,Ghandhara Industries,Karachi,Consumer Cyclicals,Automobiles & Auto Parts,PKR 16.69B,75.4x,0.39,PKR 393,-0.6%
+111,TREE,Treet Battery,Karachi,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",PKR 16.36B,,,PKR 18.67,0.7%
+112,HOEC,Hoechst Pakistan,Karachi,Healthcare,Pharmaceuticals,PKR 15.87B,15x,0.04,"PKR 1,645",2.8%
+113,INTA,International Packaging Films,Karachi,,,PKR 15.52B,,,PKR 22.44,1.3%
+114,MUBR,Murree Brewery Company,Karachi,Consumer Non-Cyclicals,Beverages,PKR 15.49B,7.4x,0.07,PKR 555,0.9%
+115,JSCO,Jahangir Siddiqui & Company,Karachi,Financials,Investment Banking & Investment Services,PKR 15.02B,1.5x,0.01,PKR 16.26,-1.5%
+116,GULA,Gul Ahmed Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 14.84B,3.8x,-0.08,PKR 20.04,1%
+117,BOK,Bank of Khyber,Karachi,Financials,Banking Services,PKR 14.69B,4.4x,0.02,PKR 12.69,0%
+118,ATLA,Atlas Battery Ltd,Karachi,Consumer Cyclicals,Automobiles & Auto Parts,PKR 14.53B,10.9x,-0.31,PKR 413,-3.4%
+119,PKRF,Pakistan Refinery,Karachi,Energy,Oil & Gas,PKR 14.46B,3.2x,-0.06,PKR 23,0.7%
+120,FAST,Fast Cables,Karachi,,,PKR 14.43B,4.4x,,PKR 23.39,1.9%
+121,SERV,Service Global Footwear,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 14.25B,11.2x,0.05,PKR 69.52,0.5%
+122,JAVA_p,Javedan Corporation Prf,Karachi,,,PKR 13.90B,5x,0,PKR 20,0%
+123,FERO,Ferozsons Labs,Karachi,Healthcare,Pharmaceuticals,PKR 13.61B,27.6x,0.11,PKR 309.10,0%
+124,BANK,Summit Bank Ltd,Karachi,Financials,Banking Services,PKR 13.24B,-2.3x,-0.11,PKR 2,2.6%
+125,BATA,Bata Pakistan,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 13.07B,13.3x,1.39,"PKR 1,729",-0%
+126,JLIC,Jubilee Life Insurance Company,Karachi,Financials,Insurance,PKR 12.95B,5.5x,0.47,PKR 128.10,0%
+127,SBL,Samba Bank,Karachi,Financials,Banking Services,PKR 12.80B,9.8x,0.02,PKR 12.70,0%
+128,NISH,Nishat Power,Karachi,Utilities,Electrical Utilities & IPPs,PKR 12.75B,2.5x,0.05,PKR 35.85,0.4%
+129,NIIN,Nimir Industrial Chemical,Karachi,Basic Materials,Chemicals,PKR 12.72B,7.8x,1.35,PKR 115,0%
+130,ATOC,Attock Cement Pakistan,Karachi,Basic Materials,Construction Materials,PKR 12.64B,4.4x,0.06,PKR 92,-0.5%
+131,ADIN,Adamjee Insurance Company,Karachi,Financials,Insurance,PKR 12.43B,3.9x,0.1,PKR 35.50,0%
+132,DWLP,Dawood Lawrencepur,Karachi,Utilities,Electrical Utilities & IPPs,PKR 12.23B,-24.7x,-0.27,PKR 206.22,0%
+133,CENP,Century Paper & Board Mills,Karachi,Basic Materials,Paper & Forest Products,PKR 12.07B,14.5x,-0.52,PKR 29.90,0.3%
+134,NTSL,NetSol Technologies,Karachi,Technology,Software & IT Services,PKR 11.82B,24.5x,-0.4,PKR 134.83,0.7%
+135,GHAR,Gharibwal Cement,Karachi,Basic Materials,Construction Materials,PKR 11.31B,14.1x,-0.36,PKR 28.40,2.4%
+136,PAKS,Pakistan Stock Exchange,Karachi,Financials,Investment Banking & Investment Services,PKR 11.22B,14.2x,0.06,PKR 14,-3.1%
+137,HUMN,Hum Network,Karachi,Consumer Cyclicals,Media & Publishing,PKR 10.89B,4.6x,0.15,PKR 9.60,0.6%
+138,TNDW,Tandlianwala Sugar Mills,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 10.83B,8.5x,0.29,PKR 92.05,0%
+139,PRIC,Pakistan Reinsurance Company,Karachi,Financials,Insurance,PKR 10.57B,3.2x,0.14,PKR 11.70,1%
+140,SYNT,Synthetic Products Enterprises,Karachi,Basic Materials,Chemicals,PKR 10.39B,22x,-3.26,PKR 51.90,-2.8%
+141,ARCH,Archroma Pakistan,Karachi,Basic Materials,Chemicals,PKR 10.37B,312x,-3.27,PKR 300.05,-0.6%
+142,NCPL,Nishat Chunian Power,Karachi,Utilities,Electrical Utilities & IPPs,PKR 10.30B,2x,0.04,PKR 27.95,-0.3%
+143,PIBT,Pakistan Intl Bulk Terminal Private,Karachi,Industrials,Freight & Logistics Services,PKR 9.50B,5.3x,0.03,PKR 5.37,0.6%
+144,ALBS,AL-Abbas Sugar Mills,Karachi,Energy,Renewable Energy,PKR 9.38B,3.5x,-0.15,PKR 540,0%
+145,HABS,Habib Sugar Mills,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 9.18B,3.4x,0.03,PKR 68,0%
+146,AGLI,Agritech Ltd,Karachi,Basic Materials,Chemicals,PKR 9.07B,3.2x,0.02,PKR 23.20,1%
+147,AIRL,Air Link Communication,Karachi,Technology,"Computers, Phones & Household Electronics",PKR 8.89B,17.5x,0.08,PKR 139.40,1.3%
+148,ADAM,Adamjee Life Assurance,Karachi,Financials,Insurance,PKR 8.68B,8x,0.12,PKR 34.98,0.7%
+149,SILK,Silkbank Ltd,Karachi,Financials,Banking Services,PKR 8.63B,-9.7x,,PKR 0.94,0%
+150,SIHL,Shifa International Hospitals,Karachi,Healthcare,Healthcare Providers & Services,PKR 8.47B,8x,-0.48,PKR 133.98,0%
+151,JGIC,Jubilee General Insurance Company,Karachi,Financials,Insurance,PKR 8.41B,2.7x,0.05,PKR 42.37,0%
+152,ENGP,Engro Powergen Qadirpur,Karachi,Utilities,Electrical Utilities & IPPs,PKR 8.39B,2.9x,0.13,PKR 25.80,1.1%
+153,SCPR,Security Papers,Karachi,Basic Materials,Paper & Forest Products,PKR 8.21B,5.1x,0.02,PKR 137,-1.2%
+154,AKDS,AKD Securities,Karachi,Financials,Investment Banking & Investment Services,PKR 8.17B,12x,0.03,PKR 14.69,2%
+155,SHMS,Shahmurad Sugar Mills,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 8.16B,4.8x,-0.12,PKR 386.33,0%
+156,LPLP,Lalpir Power Ltd,Karachi,Utilities,Electrical Utilities & IPPs,PKR 8.10B,1.6x,0.02,PKR 21.38,0.6%
+157,PKIS,Linde Pakistan,Karachi,Basic Materials,Chemicals,PKR 7.93B,28.5x,-0.88,PKR 89.50,1.2%
+158,ALTN,Altern Energy Ltd,Karachi,Utilities,Electrical Utilities & IPPs,PKR 7.79B,2.3x,0.55,PKR 21.40,1.2%
+159,EAWE,East West Insurance,Karachi,Financials,Insurance,PKR 7.72B,12.4x,0.26,PKR 43.87,0%
+160,EXID,Exide Pakistan,Karachi,Consumer Cyclicals,Automobiles & Auto Parts,PKR 7.47B,6x,0.09,PKR 960.60,-5.2%
+161,SUIS,Sui Southern Gas Co,Karachi,Utilities,Natural Gas Utilities,PKR 7.44B,-0.8x,,PKR 8.46,-0.6%
+162,CITI,Citi Pharma,Karachi,Healthcare,Pharmaceuticals,PKR 7.24B,9x,0.31,PKR 31.30,-1.3%
+163,SAIP,Saif Power,Karachi,Industrials,Construction & Engineering,PKR 7.20B,9.6x,-0.28,PKR 18.63,-0.9%
+164,FYCC,Flying Cement Co,Karachi,Basic Materials,Construction Materials,PKR 6.95B,24x,-44.89,PKR 10,-0.1%
+165,PANT,Panther Tyres,Karachi,Consumer Cyclicals,Automobiles & Auto Parts,PKR 6.85B,7.8x,0,PKR 40.50,-0.6%
+166,CRST,Crescent Steel & Allied Products,Karachi,Basic Materials,Metals & Mining,PKR 6.82B,5.4x,0.04,PKR 87.21,6.3%
+167,PKCB,Pakistan Cables,Karachi,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",PKR 6.78B,15.5x,-0.57,PKR 137,-3.4%
+168,HASC,Hascol Petroleum Ltd,Karachi,Energy,Oil & Gas,PKR 6.76B,-0.5x,-0.01,PKR 6.76,1.4%
+169,AMST,Amreli Steels Ltd,Karachi,Basic Materials,Metals & Mining,PKR 6.71B,-3x,0,PKR 22.75,0.3%
+170,HINO,Hinopak Motors,Karachi,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",PKR 6.70B,-46.2x,16.64,PKR 270,1.1%
+171,AISH_p,Aisha Steel Mills Pref,Karachi,Basic Materials,Metals & Mining,PKR 6.44B,-10.2x,-0.11,PKR 9.55,0%
+172,AISH,Aisha Steel Mills,Karachi,Basic Materials,Metals & Mining,PKR 6.44B,-10.2x,-0.11,PKR 6.85,-1.4%
+173,ORGA,The Organic Meat,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 6.36B,15.9x,-0.37,PKR 43.40,1.3%
+174,SURC,Suraj Cotton Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 6.27B,7.9x,0.01,PKR 128.50,8.3%
+175,AISH_pa,Aisha Steel Mills Pref Conv,Karachi,Basic Materials,Metals & Mining,PKR 6.27B,-10x,,PKR 30.65,0%
+176,GVGL,Ghani Value Glass,Karachi,Consumer Cyclicals,Household Goods,PKR 6.22B,8.8x,0.42,PKR 41.49,0%
+177,ATIL,Atlas Insurance,Karachi,Financials,Insurance,PKR 6.20B,5.6x,0.12,PKR 41.50,0%
+178,INDY,Indus Dyeing & Manufacturing,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 6.18B,2.8x,-0.06,PKR 112,0.7%
+179,WCTL,WorldCall Telecom,Karachi,Technology,Telecommunications Services,PKR 6.08B,-3x,-0.91,PKR 1.21,-1.6%
+180,SICH,Sitara Chemical Industries,Karachi,Basic Materials,Chemicals,PKR 6.05B,6x,0.18,PKR 282.32,0%
+181,NCHU,Nishat Chunian,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 5.89B,12.5x,0.06,PKR 24.50,-1%
+182,CHPR,Cherat Packaging,Karachi,Basic Materials,Containers & Packaging,PKR 5.74B,5.3x,0.18,PKR 116.95,2.4%
+183,ZJEE,ZAHIDJEE Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 5.69B,-25x,0.21,PKR 29.70,0%
+184,DEFM,Dewan Farooque Motors,Karachi,Consumer Cyclicals,Automobiles & Auto Parts,PKR 5.62B,-22.7x,-0.75,PKR 40.75,1.8%
+185,POWE_p,Power Cement,Karachi,Basic Materials,Construction Materials,PKR 5.45B,-2.6x,,PKR 10.85,0%
+186,POWE,Power Cement Ltd,Karachi,Basic Materials,Construction Materials,PKR 5.45B,-2.6x,0,PKR 4.86,-0.6%
+187,GNTY,Ghandhara Tyre Rubber,Karachi,Consumer Cyclicals,Automobiles & Auto Parts,PKR 5.29B,19.6x,0.09,PKR 43.16,-0.1%
+188,ZEET,J.K. Spinning Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 5.26B,12.5x,-0.15,PKR 51.45,0%
+189,AGHA,Agha Steel Industries,Karachi,Basic Materials,Metals & Mining,PKR 5.24B,-3.3x,0.01,PKR 8.71,0.6%
+190,HITE,Hi Tech Lubricants,Karachi,Energy,Oil & Gas,PKR 5.20B,-13.5x,0.11,PKR 37.16,-0.1%
+191,KOHN,Kohinoor Energy,Karachi,Utilities,Electrical Utilities & IPPs,PKR 5.20B,3.3x,-9.04,PKR 30.31,1.3%
+192,AMBL,Apna Microfinance Bank,Karachi,Financials,Banking Services,PKR 5.14B,-1.8x,-0.07,PKR 11.99,0%
+193,THTA,Thatta Cement,Karachi,Basic Materials,Construction Materials,PKR 5.12B,5.8x,0.01,PKR 57.49,-1.6%
+194,SHKS,Shakarganj Ltd,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 5B,-1.7x,0,PKR 40,0%
+195,MACT,Macter International,Karachi,Healthcare,Pharmaceuticals,PKR 4.99B,14x,,PKR 109.10,0.2%
+196,OLPF,OLP Financial Services Pakistan,Karachi,Financials,Banking Services,PKR 4.91B,3.6x,0.13,PKR 28,0%
+197,BFIN,Biafo Industries,Karachi,Basic Materials,Chemicals,PKR 4.87B,8.4x,0.21,PKR 105,0.7%
+198,RELI,Reliance Cotton Spinning Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 4.81B,5.7x,-0.12,PKR 467.48,0%
+199,GATX,Gadoon Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 4.78B,6x,-0.09,PKR 170.51,-0.2%
+200,GILT,Gillette Pakistan,Karachi,Consumer Cyclicals,Household Goods,PKR 4.77B,140.1x,-2.65,PKR 149.88,0%
+201,PSYN,Pakistan Synthetics,Karachi,Basic Materials,Chemicals,PKR 4.74B,9.8x,-0.21,PKR 34.20,-0.7%
+202,DYNE,Dynea Pakistan,Karachi,Basic Materials,Chemicals,PKR 4.64B,3.6x,0.01,PKR 247,1.9%
+203,GHAI,Ghani Chemical Industries,Karachi,Basic Materials,Chemicals,PKR 4.62B,,,PKR 9.80,1.4%
+204,TPLR,TPL Properties,Karachi,Real Estate,Real Estate Operations,PKR 4.52B,-1.8x,0.01,PKR 8.06,-0.9%
+205,UNTD,United Insurance Company Pakistan,Karachi,Financials,Insurance,PKR 4.51B,4.2x,36.34,PKR 13,2.1%
+206,ITHD,Ittehad Chemicals,Karachi,Basic Materials,Chemicals,PKR 4.45B,3x,0.34,PKR 44.50,-0.6%
+207,PICT,Pakistan International Container Terminal,Karachi,Industrials,Transport Infrastructure,PKR 4.28B,2.4x,-0.07,PKR 39.20,-0.3%
+208,TPFL,Tri Pack Films,Karachi,Basic Materials,Containers & Packaging,PKR 4.16B,6.2x,-0.25,PKR 107.25,-1.6%
+209,FTMM,First Treet Manufacturing,Karachi,Basic Materials,Containers & Packaging,PKR 4.15B,18.1x,0.12,PKR 4.70,0%
+210,KOHP,Kohinoor Spinning Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 4.11B,-6.2x,-0.47,PKR 9.97,7%
+211,FZCL,Fazal Cloth Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 4.11B,36.2x,-0.54,PKR 136.92,0%
+212,MITF,Mitchell’s Fruit Farms,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 3.98B,37.6x,0.28,PKR 173.55,-0.4%
+213,PKEG,Pakistan Engineering,Karachi,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",PKR 3.98B,-28.1x,,PKR 699.11,0%
+214,KHPR,Khairpur Sugar Mills,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 3.96B,31.4x,0.17,PKR 247.01,0%
+215,AZNL,Azgard Nine Ltd,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 3.94B,2.8x,0.01,PKR 8.03,0.7%
+216,AHL,Arif Habib,Karachi,Financials,Investment Banking & Investment Services,PKR 3.92B,2.2x,0,PKR 59.01,-1.5%
+217,JSGC,JS Global Capital,Karachi,Financials,Investment Banking & Investment Services,PKR 3.91B,18.3x,0.13,PKR 142.27,0%
+218,THLI,Thal Industries,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 3.83B,3.7x,-0.08,PKR 254.99,0%
+219,MUGA,Mughal Energy,Karachi,Utilities,Electrical Utilities & IPPs,PKR 3.79B,-33x,,PKR 19.50,0%
+220,SIEG,Siemens Pakistan Engineering,Karachi,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",PKR 3.69B,-1.3x,0.01,PKR 450,-2.1%
+221,DECE,Dewan Cement Ltd,Karachi,Basic Materials,Construction Materials,PKR 3.63B,-8.4x,-0.13,PKR 7.48,4.2%
+222,MASO,Masood Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 3.51B,1.3x,0.23,PKR 52,0%
+223,DOL,Descon Oxychem,Karachi,Basic Materials,Chemicals,PKR 3.47B,6.8x,-0.1,PKR 19.60,1.1%
+224,ADML,Artistic Denim Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 3.45B,6.3x,-0.12,PKR 41.11,-0.4%
+225,MATC,Matco Foods,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 3.42B,52.9x,-0.54,PKR 27.78,0.7%
+226,MEHS,Mehran Sugar Mills,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 3.37B,4.8x,-0.14,PKR 45,0%
+227,TATX,Tata Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 3.28B,-5.9x,0.02,PKR 58.49,0%
+228,NIMI,Nimir Resins,Karachi,Basic Materials,Chemicals,PKR 3.25B,9.1x,0.38,PKR 22.31,-2%
+229,SHAB,Shabbir Tiles & Ceramics,Karachi,Consumer Cyclicals,Homebuilding & Construction Supplies,PKR 3.24B,7.9x,0,PKR 13.54,0.4%
+230,ALIS,Ali Asghar Textile Mills,Karachi,Industrials,Freight & Logistics Services,PKR 3.24B,34.8x,0.01,PKR 72.84,10%
+231,GHAN,Ghani Gases Ltd,Karachi,Basic Materials,Chemicals,PKR 3.23B,6.4x,0.13,PKR 9.03,0.3%
+232,BGLS,Balochistan Glass,Karachi,Basic Materials,Containers & Packaging,PKR 3.23B,-17.4x,-0.28,PKR 12.35,0.2%
+233,BHAN,Bhanero Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 3.19B,5.1x,-0.08,"PKR 1,050",0%
+234,AGRT,Agriauto Industries,Karachi,Consumer Cyclicals,Automobiles & Auto Parts,PKR 3.17B,-14.7x,-0.9,PKR 87.95,2.2%
+235,DANC,Dandot Cement,Karachi,Basic Materials,Construction Materials,PKR 3.14B,-9.7x,,PKR 12.65,0%
+236,DNTX,Din Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 3.08B,-1x,0,PKR 58.79,0%
+237,LOAD,Loads,Karachi,Consumer Cyclicals,Automobiles & Auto Parts,PKR 3.05B,-4.7x,-11.16,PKR 12.09,7.9%
+238,ROSH,Roshan Packages,Karachi,Basic Materials,Containers & Packaging,PKR 2.95B,41x,0.07,PKR 20.79,10%
+239,ATTA,At-Tahur,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 2.88B,8.7x,-0.11,PKR 13,-1.5%
+240,MCBI,MCB-Arif Habib Savings & Invest,Karachi,Financials,Investment Banking & Investment Services,PKR 2.81B,3.5x,0.01,PKR 39,0%
+241,TCLD,Telecard Ltd,Karachi,Technology,Telecommunications Services,PKR 2.80B,10.6x,-0.28,PKR 8.24,-1.8%
+242,TRET,Treet Corporation,Karachi,Consumer Cyclicals,Household Goods,PKR 2.75B,-9.6x,3.65,PKR 15.39,1%
+243,FASP,Faisal Spinning Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 2.75B,-5.8x,0.05,PKR 274.53,0%
+244,IGIL,IGI Life Insurance,Karachi,Financials,Insurance,PKR 2.73B,16.8x,0.1,PKR 16.03,0%
+245,IBLH,IBL HealthCare,Karachi,Consumer Non-Cyclicals,Food & Drug Retailing,PKR 2.63B,11.9x,-0.4,PKR 30.70,-0.6%
+246,MERI,Merit Packaging,Karachi,Basic Materials,Containers & Packaging,PKR 2.51B,-21.6x,-1.11,PKR 12.50,5%
+247,ALSH,Al Shaheer Corporation Ltd,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 2.49B,-0.8x,0,PKR 6.64,0.6%
+248,LEGL,Leiner Pak Gelatine,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 2.45B,21.2x,0.06,PKR 326.39,-10%
+249,DOST,Dost Steels Ltd,Karachi,Basic Materials,Metals & Mining,PKR 2.43B,-9.6x,-2.21,PKR 5.30,0.2%
+250,SECU,Secure Logistics,Karachi,,,PKR 2.42B,6.8x,,PKR 9.10,2.7%
+251,RELW,Reliance Weaving Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 2.31B,11.1x,0.3,PKR 74.83,0%
+252,TOWL,Towellers Ltd,Karachi,Consumer Cyclicals,Household Goods,PKR 2.28B,1.5x,-0.11,PKR 134,1.6%
+253,IMAG,Image Pakistan,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 2.20B,4.8x,-1.23,PKR 16.65,3.7%
+254,WAHN,Wah Nobel Chemicals,Karachi,Basic Materials,Chemicals,PKR 2.16B,3.5x,0.03,PKR 240,3.5%
+255,KHYT,Khyber Tobacco,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 2.15B,5.5x,-0.07,PKR 310,-1%
+256,CRES,Crescent Cotton Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 2.14B,14.2x,0.05,PKR 94.64,0%
+257,TPLI,TPL Insurance,Karachi,Financials,Insurance,PKR 2.11B,1.4x,,PKR 10.65,0%
+258,CTML,Colony Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 2.09B,3x,0.01,PKR 4.20,-1.2%
+259,WAVS,Waves Home Appliances,Karachi,Consumer Cyclicals,Specialty Retailers,PKR 2.06B,14.6x,0.05,PKR 7.70,1.6%
+260,BERG,Berger Paints Pakistan,Karachi,Basic Materials,Chemicals,PKR 1.98B,6.9x,0.11,PKR 80.55,0.5%
+261,NTML,Nadeem Textile Mills,Karachi,,,PKR 1.91B,,,PKR 89,0%
+262,PRES,Premier Sugar Mills & Distillery,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 1.90B,-2.9x,0.01,PKR 506,0%
+263,MPKS,Mirpurkhas Sugar Mills,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 1.90B,-1.5x,0.01,PKR 28.55,0%
+264,GLOB,Globe Residency REIT,Karachi,,,PKR 1.88B,24.5x,,PKR 13.44,0%
+265,IMPE,Imperial Sugar,Karachi,Financials,Investment Banking & Investment Services,PKR 1.87B,19.7x,-0.66,PKR 19.40,-1.5%
+266,BLUE,Blue Ex,Karachi,Industrials,Freight & Logistics Services,PKR 1.86B,9.9x,0.02,PKR 67.88,0%
+267,HABM,First Habib Modaraba,Karachi,Financials,Banking Services,PKR 1.84B,2.7x,0.08,PKR 16.60,0%
+268,PRET,Premium Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 1.82B,-5.4x,0.04,PKR 295,0%
+269,WAVE,Waves Singer,Karachi,Consumer Cyclicals,Household Goods,PKR 1.78B,6.5x,0.1,PKR 6.32,0%
+270,ALNS,Al Noor Sugar Mills,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 1.74B,4x,0,PKR 77.20,-9%
+271,CRTX,Crescent Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 1.67B,-2.3x,0.01,PKR 16.74,6.3%
+272,SUNT,Sunrays Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 1.66B,4.6x,-0.09,PKR 80.30,0%
+273,KML,Kohinoor Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 1.66B,2.1x,-0.04,PKR 32.52,0%
+274,ZILL,ZIL Ltd,Karachi,Consumer Non-Cyclicals,Personal & Household Products & Services,PKR 1.64B,8x,0.14,PKR 268.32,0%
+275,SUPR,Supernet,Karachi,Technology,Telecommunications Services,PKR 1.63B,4.9x,0.25,PKR 12,0%
+276,FCEM,Fecto Cement Ltd,Karachi,Basic Materials,Construction Materials,PKR 1.58B,8.3x,0,PKR 31.55,-2.6%
+277,CHSU,Chashma Sugar Mills,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 1.56B,-3x,0.01,PKR 54.50,7.8%
+278,KSBP,KSB Pumps Company,Karachi,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",PKR 1.54B,-18.3x,0.04,PKR 116.50,0.1%
+279,BLET,Blessed Textiles,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 1.54B,-1.2x,0.01,PKR 240.05,0%
+280,OTSU,Otsuka Pakistan,Karachi,Healthcare,Pharmaceuticals,PKR 1.51B,18.1x,0.06,PKR 125,-1%
+281,CYAN,Cyan Ltd,Karachi,Financials,Investment Banking & Investment Services,PKR 1.51B,5.2x,0.03,PKR 24.50,0%
+282,UDLI,United Brands,Karachi,Consumer Non-Cyclicals,Food & Drug Retailing,PKR 1.45B,-16.4x,0.24,PKR 15.80,0.8%
+283,CLVF,Clover Pakistan,Karachi,Consumer Non-Cyclicals,Food & Drug Retailing,PKR 1.45B,49.3x,0.3,PKR 46.50,0.6%
+284,ASKI,Askari General Insurance,Karachi,Financials,Insurance,PKR 1.44B,3x,0.07,PKR 19.97,4.1%
+285,BAWH,Baluchistan Wheels,Karachi,Consumer Cyclicals,Automobiles & Auto Parts,PKR 1.44B,7.4x,0.28,PKR 107.90,4.1%
+286,BOLC,Bolan Casting Ltd,Karachi,Consumer Cyclicals,Automobiles & Auto Parts,PKR 1.42B,6.3x,0.01,PKR 123.40,0.6%
+287,GGGL,Ghani Global Glass,Karachi,Basic Materials,Containers & Packaging,PKR 1.42B,11.6x,2.22,PKR 5.90,0.7%
+288,UTDS,United Distributors Pakistan,Karachi,Basic Materials,Chemicals,PKR 1.41B,-9.9x,-0.43,PKR 40.05,0%
+289,EMCO,Emco Industries,Karachi,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",PKR 1.40B,5.3x,-0.36,PKR 39.99,2.7%
+290,TPLT,TPL Trakker,Karachi,Technology,"Computers, Phones & Household Electronics",PKR 1.40B,51.2x,-0.7,PKR 7.50,0%
+291,SYMM,Symmetry,Karachi,Technology,Software & IT Services,PKR 1.39B,7.8x,0.42,PKR 5,2.3%
+292,BRRG,BRR Guardian Modaraba,Karachi,Real Estate,Real Estate Operations,PKR 1.35B,18.8x,,PKR 14.19,0%
+293,HABA,Habib Adm Ltd,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 1.34B,12x,-1.34,PKR 33.57,0%
+294,CRIN,Century Insurance,Karachi,Financials,Insurance,PKR 1.30B,2.6x,0.05,PKR 23.51,-5.9%
+295,STPL,Siddiqsons Tin Plate,Karachi,Basic Materials,Containers & Packaging,PKR 1.30B,-4.6x,0.01,PKR 5.68,0.4%
+296,MACP,Macpac Films Ltd,Karachi,Basic Materials,Containers & Packaging,PKR 1.27B,4x,2.01,PKR 21.45,3.4%
+297,JATX,J A Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 1.25B,-51.5x,-1.08,PKR 98.86,0%
+298,DWAE,Dewan Automotive Engineering,Karachi,Consumer Cyclicals,Automobiles & Auto Parts,PKR 1.18B,-12.1x,0.25,PKR 58,-2.4%
+299,NOON,Noon Sugar Mills,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 1.16B,2.3x,0.1,PKR 70.03,0%
+300,FARS,Faran Sugar Mills,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 1.12B,-2x,0.01,PKR 44.97,0%
+301,TPLC,TPL,Karachi,Technology,Communications & Networking,PKR 1.11B,-0.4x,0,PKR 4.14,0.2%
+302,SHAS,Shahtaj Sugar Mills,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 1.08B,4.3x,0.02,PKR 90.10,0%
+303,PDCL,Pak Datacom Ltd,Karachi,Technology,Telecommunications Services,PKR 1.07B,5.6x,-0.11,PKR 90,1.2%
+304,CORD,Cordoba Logistics Ventures,Karachi,Industrials,Freight & Logistics Services,PKR 1.03B,11.5x,0.04,PKR 14.22,0%
+305,ALLA,Allawasaya Textile and Finishing Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 1B,-28.6x,-0.35,"PKR 1,255",0%
+306,JSIL,JS Investments,Karachi,Financials,Investment Banking & Investment Services,PKR 970.47M,2.5x,0.01,PKR 15.71,0%
+307,LSEV,LSE Ventures,Karachi,Financials,Investment Banking & Investment Services,PKR 969.83M,4.6x,,PKR 5.40,0%
+308,ASIN,Asia Insurance,Karachi,Financials,Insurance,PKR 967.36M,7.7x,,PKR 12,0%
+309,ELSP,Ellcot Spinning Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 963.05M,2.5x,,PKR 87.95,0%
+310,FCEL,First Capital Equities,Karachi,Financials,Investment Banking & Investment Services,PKR 961.08M,"-1,130x",57.26,PKR 6.80,0%
+311,SCL,Shield Corp Ltd,Karachi,Consumer Non-Cyclicals,Personal & Household Products & Services,PKR 947.62M,-7.7x,0.03,PKR 242.98,0%
+312,PACP,Pace Pakistan,Karachi,Real Estate,Real Estate Operations,PKR 934.24M,44.7x,0.44,PKR 3.35,1.2%
+313,GAMN,Gammon Pakistan,Karachi,Industrials,Construction & Engineering,PKR 924.87M,40.6x,0.21,PKR 32.72,4.4%
+314,NAGI,Nagina Cotton Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 900.97M,0.7x,,PKR 48.18,0%
+315,DAET,Dadex Eternit Ltd,Karachi,Consumer Cyclicals,Homebuilding & Construction Supplies,PKR 898.25M,-2.7x,-0.3,PKR 83.44,10%
+316,FNEL,First National Equities,Karachi,Financials,Investment Banking & Investment Services,PKR 895.41M,-11.6x,0.04,PKR 3.36,0.3%
+317,HABI,Habib Insurance,Karachi,Financials,Insurance,PKR 883.23M,6.1x,0.18,PKR 7.13,0%
+318,AMTX,Amtex,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 882.06M,-17x,0.12,PKR 3.41,-4.2%
+319,ADSU,Adam Sugar Mills,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 880.11M,3x,0.02,PKR 50.90,1.8%
+320,BUNN,Bunny's,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 875.15M,-13x,0.08,PKR 13.10,0%
+321,SHEZ,Shezan International,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 840.69M,-1.8x,0,PKR 87,0%
+322,TARI,Tariq Corporation,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 820.96M,-1.7x,0,PKR 12.40,0%
+323,CRFB,Crescent Fibres,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 811.38M,7x,0.02,PKR 65.34,0%
+324,ITTE,ITTEFAQ Iron,Karachi,Basic Materials,Metals & Mining,PKR 801.11M,-2.5x,0.07,PKR 5.55,0%
+325,BLPL,Burshane LPG (Pakistan),Karachi,Energy,Oil & Gas,PKR 799.03M,-7.8x,0.02,PKR 35.53,10%
+326,PJBO,Punjab Oil Mills,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 784.79M,-14.7x,0.09,PKR 101.10,-7.2%
+327,ZTL,Zephyr Textiles,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 772.57M,1.9x,0,PKR 13,0%
+328,QCFD,Quice Food Industries,Karachi,Consumer Non-Cyclicals,Beverages,PKR 745.36M,-40.9x,-1.11,PKR 7.75,10.2%
+329,ASKA,Askari Life Assurance,Karachi,Financials,Insurance,PKR 728.33M,-4.5x,-0.1,PKR 4.85,0%
+330,SHJT,Shahtaj Textile,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 724.50M,9.9x,-0.24,PKR 75,0%
+331,ECOP,Ecopack Ltd,Karachi,Basic Materials,Containers & Packaging,PKR 718.57M,21.7x,4.83,PKR 14.89,4.8%
+332,KARA,Karam Ceramics Ltd,Karachi,Consumer Cyclicals,Homebuilding & Construction Supplies,PKR 712.90M,-1.3x,-0.1,PKR 49,0%
+333,DAGL,Data Agro,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 711.56M,27.9x,0.02,PKR 177.89,-3.3%
+334,FRCE,Frontier Ceramics,Karachi,Consumer Cyclicals,Homebuilding & Construction Supplies,PKR 707.48M,-2.1x,0.03,PKR 18.68,9.9%
+335,HBLI,HBL Invest,Karachi,Financials,Collective Investments,PKR 707.47M,2.4x,,PKR 2.49,-0.8%
+336,DADC,Dadabhoy Cement Industries,Karachi,Basic Materials,Construction Materials,PKR 703.37M,260.7x,-10.55,PKR 7.20,1.4%
+337,KHYB,Khyber Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 698.68M,7.3x,,PKR 569.19,0%
+338,SHAC,Shadman Cotton Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 682.90M,26.9x,,PKR 38.72,0%
+339,SIPE,Sitara Peroxide,Karachi,Basic Materials,Chemicals,PKR 682.69M,-1.5x,,PKR 12.39,0%
+340,BECO,Beco Steel,Karachi,Basic Materials,Metals & Mining,PKR 674.80M,11.1x,,PKR 5.40,0%
+341,OLPM,OLP Modaraba,Karachi,Financials,Banking Services,PKR 671.68M,5.6x,,PKR 14.80,0%
+342,RUPA,Rupali Polyester,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 671.15M,-2x,-0.05,PKR 19.70,0%
+343,HUFF,Huffaz Seamless Pipe,Karachi,Basic Materials,Metals & Mining,PKR 660.26M,-95.6x,,PKR 11.90,3.5%
+344,PKPP,Pakistan Paper Products,Karachi,Basic Materials,Paper & Forest Products,PKR 656.96M,3.9x,0.02,PKR 82.12,-1.4%
+345,JAND,Janana De Malucho Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 655.71M,-4.3x,-0.16,PKR 99.73,10%
+346,SHZT,Shahzad Textile Mills Ltd,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 637.98M,-2.8x,0.04,PKR 35.50,0%
+347,ASFQ,Ashfaq Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 621.18M,-11.3x,-0.38,PKR 13.34,0%
+348,PHTD,Pakistan Hotel Developers Ltd,Karachi,Consumer Cyclicals,Hotels & Entertainment Services,PKR 607.68M,3.5x,0,PKR 33.76,10%
+349,JAUH,Jauharabad Sugar,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 604.41M,2.5x,0.05,PKR 17.71,0%
+350,YOUS,Yousaf Weaving Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 594M,319x,,PKR 6.63,2.2%
+351,MQBT,Maqbool Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 589.82M,-2.5x,-0.32,PKR 32,1%
+352,RELN,Reliance Insurance,Karachi,Financials,Insurance,PKR 585.53M,2.3x,0,PKR 8.80,0%
+353,SANI,Sana Industries,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 567.01M,-4.6x,0.24,PKR 28.40,5.5%
+354,BABA,Baba Farid Sugar Mills,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 559.53M,-1.9x,0,PKR 59.21,0%
+355,LSEC,LSE Capital,Karachi,Financials,Investment Banking & Investment Services,PKR 543.46M,,,PKR 3.10,3.3%
+356,EIBL,Escorts Investment Bank,Karachi,Financials,Investment Banking & Investment Services,PKR 539.69M,-32.4x,-0.36,PKR 3.98,0%
+357,SAFE,Safe Mix Concrete Ltd,Karachi,Basic Materials,Construction Materials,PKR 522.50M,5.7x,-0.13,PKR 20.90,-0.8%
+358,1IMD,First Imrooz Modaraba,Karachi,Industrials,Diversified Industrial Goods Wholesale,PKR 519M,2.7x,0.01,PKR 173,0%
+359,OREN,Orient Rental Modaraba,Karachi,Financials,Banking Services,PKR 513.75M,2.6x,0.2,PKR 6.85,0%
+360,1PRM,First Prudential Modaraba,Karachi,Financials,Banking Services,PKR 491.69M,4.6x,0.04,PKR 3.80,-0.8%
+361,SMOD,Sindh Modaraba Management Ltd,Karachi,Financials,Banking Services,PKR 490.50M,2.4x,0.03,PKR 10.90,0%
+362,PWML,Prosperity Weaving Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 489.72M,7.6x,0.14,PKR 26.50,0%
+363,FCIB,First Credit & Investment Bank,Karachi,Financials,Investment Banking & Investment Services,PKR 486.85M,19.3x,0.24,PKR 7.49,14.4%
+364,UNVI,Universal Insurance,Karachi,Financials,Insurance,PKR 484M,-3x,0.03,PKR 9.68,6.8%
+365,EFGH,EFG Hermes Pakistan,Karachi,Financials,Investment Banking & Investment Services,PKR 479.78M,-6x,-0.18,PKR 23.97,2%
+366,DFSM,Dewan Farooque Spinning Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 469.20M,-1.3x,0.03,PKR 4.80,-0.8%
+367,AHTM,Ahmad Hassan Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 465.93M,13.8x,-0.19,PKR 55,0%
+368,ABDU,Abdullah Shah Ghazi Sugar Mills,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 460.51M,-1.8x,-0.04,PKR 5.81,0%
+369,GOCL,GOC Pakistan,Karachi,Consumer Cyclicals,Leisure Products,PKR 455.66M,3.3x,-1.32,PKR 62,-7.6%
+370,DWSU,Dewan Sugar Mills,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 453.90M,-0.9x,-0.02,PKR 4.96,0%
+371,CHBL,Chenab,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 448.50M,-1.1x,,PKR 4.05,5.7%
+372,CLCP_p,Chenab Pref,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 448.50M,-1.1x,,PKR 1.82,-2.2%
+373,JUBL,Jubilee Spinning & Weaving Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 432.46M,5.7x,0.12,PKR 13.31,10%
+374,NASK,National Silk & Rayon Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 427.71M,-20.4x,0.12,PKR 27.50,0%
+375,RUBY,Ruby Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 426.07M,-5.8x,0,PKR 8.16,0%
+376,GULF,Pak Gulf Leasing,Karachi,Financials,Banking Services,PKR 411.60M,5.4x,-0.17,PKR 8.32,0%
+377,INVS,Invest Capital Investment Bank,Karachi,Financials,Banking Services,PKR 410.21M,4x,0.13,PKR 1.44,9.1%
+378,SSOM,S S Oil Mills Ltd,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 401.18M,8.4x,,PKR 70.90,0%
+379,KOTX,Kohat Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 395.20M,2.1x,0.05,PKR 19,0%
+380,REDT,Redco Textiles,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 394.34M,1.8x,0,PKR 8,0%
+381,GHAZ,Ghazi Fabrics Int,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 391.63M,-0.6x,0.01,PKR 12,0%
+382,METS,Metropolitan Steel,Karachi,Basic Materials,Metals & Mining,PKR 389.08M,-37x,-0.38,PKR 12.56,0%
+383,SNAB,Sindh Abadgar’s Sugar Mills,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 380.72M,1.9x,,PKR 36.52,0%
+384,1CSC,First Capital Securities,Karachi,Financials,Investment Banking & Investment Services,PKR 379.93M,-1.3x,0,PKR 1.20,0%
+385,LDMK,Landmark Spinning Industries,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 372.80M,-32.8x,-1.7,PKR 30.75,10%
+386,SAKS,Sakrand Sugar Mills,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 364.51M,-2.7x,-0.37,PKR 8.39,2.7%
+387,SANS,Sanghar Sugar Mills,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 364.35M,7.5x,0.06,PKR 30.50,0%
+388,AKDH,AKD Hospitality,Karachi,Consumer Cyclicals,Hotels & Entertainment Services,PKR 359.79M,-124.8x,2.13,PKR 143.50,2.3%
+389,TRIS,First Tri-Star Modaraba,Karachi,Financials,Banking Services,PKR 359.77M,1x,0,PKR 17,0%
+390,AKGL,Al-Khair Gadoon,Karachi,Consumer Cyclicals,Household Goods,PKR 350M,19.1x,0.06,PKR 35,0%
+391,DWTX,Dewan Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 340.88M,-1.4x,-0.03,PKR 7.40,0%
+392,KOHI,Kohinoor Industries,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 337.87M,8.5x,-0.22,PKR 11.15,10%
+393,FIRS,First Dawood Investment Bank,Karachi,Financials,Investment Banking & Investment Services,PKR 332.39M,24.6x,0.16,PKR 2.24,1.8%
+394,BANU,Bannu Woollen Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 329.77M,-6.9x,-0.07,PKR 34.89,2.5%
+395,DSIL,D. S Industries,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 326.37M,-15.9x,0.13,PKR 3.90,2.4%
+396,PREI,Premier Insurance,Karachi,Financials,Insurance,PKR 325.13M,17.4x,0.16,PKR 6.43,0%
+397,PGIL,Pakistan General Insurance,Karachi,Financials,Insurance,PKR 324.35M,4.8x,0.01,PKR 6.99,0%
+398,OYMP,Olympia Spinning,Karachi,Industrials,Professional & Commercial Services,PKR 324M,14.5x,0.98,PKR 27,0%
+399,TRBK,Trust Securities & Brokerage Ltd,Karachi,Financials,Investment Banking & Investment Services,PKR 319.20M,6.2x,0.03,PKR 10.64,0%
+400,ATML,Arctic Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 316.20M,2.5x,,PKR 25.99,8.3%
+401,CSTR,Crescent Star Insurance,Karachi,Financials,Insurance,PKR 312.32M,4.5x,0.05,PKR 2.86,0.4%
+402,SAIF,Saif Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 307.71M,-1.3x,-0.02,PKR 11.65,0.7%
+403,MDTL,Media Times Ltd,Karachi,Consumer Cyclicals,Media & Publishing,PKR 307.62M,-8.4x,-0.19,PKR 1.72,6.2%
+404,NEXT,Next Capital,Karachi,Financials,Investment Banking & Investment Services,PKR 307.40M,5.2x,,PKR 5.40,0%
+405,HRTX,Hira Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 303.89M,-0.2x,,PKR 3.59,2%
+406,UDLN,UDL International,Karachi,,,PKR 297.47M,,,PKR 8.50,0.4%
+407,HAWA,Haseeb Waqas Sugar Mills,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 294.84M,-0.7x,0.14,PKR 9.10,0%
+408,SHAH,Shaheen Insurance,Karachi,Financials,Insurance,PKR 286.38M,2.1x,0.02,PKR 4.44,0%
+409,BUXL,Buxly Paints Ltd,Karachi,Basic Materials,Chemicals,PKR 279.36M,33x,0.14,PKR 194,0.6%
+410,HLLM,Hallmark Company,Karachi,Consumer Cyclicals,Specialty Retailers,PKR 269.33M,14.3x,0,PKR 592.52,10%
+411,HUSI,Husein Industries,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 268.73M,6.2x,-0.32,PKR 27.82,10%
+412,CALC,Calcorp,Karachi,Financials,Banking Services,PKR 268.61M,13.1x,0.03,PKR 25,0%
+413,IDTX,Idrees Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 268.01M,-3.1x,0.02,PKR 14.85,10%
+414,GULS,Gulistan Spinning Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 265M,-1.1x,,PKR 18.10,1.2%
+415,DARS,Dar Es Salaam Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 264.08M,-21.2x,,PKR 33.01,0%
+416,SHAT,Shadab Textile Mills Ltd,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 262.94M,5.7x,0.03,PKR 15.84,10%
+417,HAFZ,Hafiz,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 253.97M,8x,0.2,PKR 211.64,0%
+418,SECI,Security Investment Bank,Karachi,Financials,Banking Services,PKR 253.16M,2.3x,0.01,PKR 4.28,0%
+419,BAWA,Bawany Air Products,Karachi,Basic Materials,Chemicals,PKR 247.58M,-24.8x,0.19,PKR 33,-5.9%
+420,ICCI,ICC Industries,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 231.01M,-11.5x,-0.34,PKR 7.70,5.9%
+421,FTSP,Fateh Sports Wear,Karachi,,,PKR 226.10M,-9.2x,0.13,PKR 113.05,0%
+422,DMID,Diamond Industries,Karachi,Basic Materials,Containers & Packaging,PKR 222.66M,,0.21,PKR 24.74,0%
+423,STRA,Sitara Energy Ltd,Karachi,Utilities,Electrical Utilities & IPPs,PKR 221.47M,-3x,-0.07,PKR 11.60,0%
+424,PASL,Pervez Ahmed Securities,Karachi,Industrials,Professional & Commercial Services,PKR 216.42M,-105.4x,-6.46,PKR 1.17,0%
+425,SGPL,S. G. Power Ltd,Karachi,Utilities,Electrical Utilities & IPPs,PKR 213.82M,206.7x,1.38,PKR 11.99,4.3%
+426,SHMT,Shams Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 211.68M,211.2x,2.08,PKR 24.50,0%
+427,SARW,Saritow Spinning Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 206.80M,-0.3x,0,PKR 6.93,0%
+428,SCHI,Sardar Chemical Industries,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 204M,4.2x,0.02,PKR 34,0%
+429,ARUJ,Aruj Industries Ltd,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 198.80M,-2x,,PKR 19.01,0%
+430,PAKG,Pak Agro Packaging,Karachi,Consumer Non-Cyclicals,Food & Tobacco,PKR 194M,6x,0.28,PKR 8.70,-10.3%
+431,SERT,Service Textile,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 176.21M,-1.2x,0.04,PKR 12.78,5.2%
+432,DMTE,D.M. Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 171.88M,6.2x,-0.12,PKR 56.31,0%
+433,ASMT,Asim Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 170.74M,-5x,-0.12,PKR 11.25,-4.7%
+434,ARPK,Arpak Int Investment,Karachi,Real Estate,Real Estate Operations,PKR 169.40M,-0.8x,0,PKR 42.35,0%
+435,POPL,Popular Islamic Modaraba,Karachi,Financials,Banking Services,PKR 167.72M,12.2x,,PKR 11.98,9.4%
+436,NZCM,Nazir Cotton Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 161M,12.9x,,PKR 7,-7%
+437,EQMD,First Equity Modaraba,Karachi,Financials,Investment Banking & Investment Services,PKR 152.08M,-0.6x,0,PKR 2.90,0%
+438,INTK,International Knitwear,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 149.96M,12.5x,-0.17,PKR 15.50,0%
+439,LSEF,LSE Financial Services,Karachi,Financials,Banking Services,PKR 143.07M,,,PKR 4.24,5.7%
+440,PPVC,Pakistan PVC Ltd,Karachi,Basic Materials,Chemicals,PKR 141.95M,-9.5x,0.08,PKR 9.49,5.6%
+441,DEL,Dawood Equities,Karachi,Financials,Investment Banking & Investment Services,PKR 137.76M,10x,0.06,PKR 5.01,0%
+442,HALA,Hala Enterprises,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 136.46M,-7.1x,0.03,PKR 10.50,3.4%
+443,IDES,Ideal Spinning Mills Ltd,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 131.44M,-0.4x,-0.02,PKR 13.25,0%
+444,GRAL,Grays Leasing Ltd,Karachi,Financials,Banking Services,PKR 128.35M,26.5x,0.24,PKR 5.97,0%
+445,TRSP,Tri-Star Power,Karachi,Utilities,Electrical Utilities & IPPs,PKR 121.50M,-17.8x,0.06,PKR 8.10,7.3%
+446,ANTM,AN Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 120.46M,-0.6x,0.01,PKR 12.47,0%
+447,PARA,Paramount Spinning Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 119.73M,-0.4x,,PKR 6.90,10.8%
+448,ELCT,Elahi Cotton Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 118.30M,-13.8x,0.01,PKR 91,-4.2%
+449,MNDW,Mandviwalla Mauser Plastic Industries,Karachi,Basic Materials,Chemicals,PKR 115.99M,2.7x,,PKR 15.77,0%
+450,DEWM,Dewan Mushtaq Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 115.49M,-1x,,PKR 9.99,0.4%
+451,KHPW,Kohinoor Power,Karachi,Utilities,Electrical Utilities & IPPs,PKR 112.77M,42.2x,0.14,PKR 8.95,12.6%
+452,GUSP,Gulshan Spinning Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 111.13M,-3.6x,,PKR 5.14,0.6%
+453,FPMM,First Paramount Modaraba,Karachi,Basic Materials,Chemicals,PKR 105.76M,4.2x,0.01,PKR 7.67,0%
+454,LETA,Leather Up Ltd,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 102M,110.3x,1.11,PKR 17,9.9%
+455,SUHA,Suhail Jute Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 97.78M,-2x,,PKR 26.11,0%
+456,INL,786 Investment,Karachi,Financials,Investment Banking & Investment Services,PKR 96.28M,6.2x,0.03,PKR 6.43,0%
+457,QUTX,Quetta Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 92.82M,-0.1x,0,PKR 7.14,0%
+458,ELCM,Elite Capital Modaraba 1st,Karachi,Financials,Investment Banking & Investment Services,PKR 90.49M,-15.5x,-0.89,PKR 7.98,-0.2%
+459,BFMD,B F Modaraba,Karachi,Financials,Investment Banking & Investment Services,PKR 90.18M,-40.7x,-0.47,PKR 12,0%
+460,SALN,Salman Noman Enterprises,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 81.21M,-3.2x,-0.4,PKR 18.18,10%
+461,1ALN,First Al-Noor Modaraba,Karachi,Financials,Banking Services,PKR 80.85M,437.5x,-4.07,PKR 3.50,0%
+462,SLL,Sme Leasing,Karachi,Financials,Banking Services,PKR 80.64M,-2x,0,PKR 2.52,0%
+463,TRUM,Trust Modaraba,Karachi,Financials,Banking Services,PKR 80.46M,4x,0.01,PKR 2.65,-1.9%
+464,PKLT,Pak Leather Crafts,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 76.09M,186.5x,1.75,PKR 23.20,3.7%
+465,1PUJ,First Punjab Modaraba,Karachi,Financials,Investment Banking & Investment Services,PKR 74.84M,-0.7x,0.06,PKR 2.20,6.3%
+466,CREJ,Crescent Jute Products,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 73.90M,-12.1x,-0.22,PKR 3.11,3.7%
+467,SALY,Sally Textile Mills,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 69.41M,-0.7x,0,PKR 7.91,14.5%
+468,UNIA,Unicap Modaraba,Karachi,Financials,Banking Services,PKR 63.36M,-42.5x,0.06,PKR 2.68,5.1%
+469,IBLM,First IBL Modaraba,Karachi,Financials,Banking Services,PKR 62.89M,3.7x,0.01,PKR 2.89,-0.3%
+470,OILB,Oilboy Energy,Karachi,Industrials,Professional & Commercial Services,PKR 61.70M,-0.7x,,PKR 6.17,-6%
+471,FFLM,First Fidelity Leasing Modaraba,Karachi,Financials,Banking Services,PKR 58.11M,-13.3x,-0.25,PKR 2.20,0%
+472,KHAS,Khalid Siraj Textile Mills Ltd,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 54.57M,"1,270x",15.75,PKR 5.10,-7.8%
+473,PIL,PICIC Insurance,Karachi,Financials,Insurance,PKR 54.25M,96.9x,0.89,PKR 1.55,3.3%
+474,SAUD,Saudi Pak Leasing,Karachi,Industrials,Passenger Transportation Services,PKR 40.64M,0.3x,0,PKR 0.95,0%
+475,BIFB,Bilal Fibres Ltd,Karachi,Consumer Cyclicals,Textiles & Apparel,PKR 39.06M,-1.7x,-0.04,PKR 2.80,0.7%
+476,BELT,Bela Automotives,Karachi,Consumer Cyclicals,Automobiles & Auto Parts,,143.8x,,PKR 108,2.9%
+477,FAIN,Fateh Industries,Karachi,Consumer Cyclicals,Textiles & Apparel,,-75.1x,,PKR 102,5.9%
+478,HBLG,HBL Growth Fund,Karachi,Financials,Collective Investments,,,,,
+479,TPLE,TPL REIT Fund I Unt,Karachi,,,,,,PKR 14.20,0%

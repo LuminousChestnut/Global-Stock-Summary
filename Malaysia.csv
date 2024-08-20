@@ -1,0 +1,1025 @@
+1,MBBM,Malayan Banking,Kuala Lumpur,Financials,Banking Services,MYR 122.84B,12.9x,0.77,MYR 10.18,0%
+2,PUBM,Public Bank,Kuala Lumpur,Financials,Banking Services,MYR 82.88B,12.6x,5.23,MYR 4.27,0%
+3,CIMB,CIMB Group,Kuala Lumpur,Financials,Banking Services,MYR 81.32B,11.2x,0.4,MYR 7.60,0.9%
+4,TENA,Tenaga Nasional,Kuala Lumpur,Utilities,Electrical Utilities & IPPs,MYR 80.57B,32.2x,-1.06,MYR 13.86,0.1%
+5,IHHH,IHH Healthcare,Kuala Lumpur,Healthcare,Healthcare Providers & Services,MYR 55.49B,23.9x,-6.56,MYR 6.30,0%
+6,CELC,CelcomDigi Bhd,Kuala Lumpur,Technology,Telecommunications Services,MYR 44.23B,27.5x,0.77,MYR 3.77,-0.8%
+7,PCGB,Petronas Chemicals,Kuala Lumpur,Basic Materials,Chemicals,MYR 43.20B,23.6x,-0.39,MYR 5.40,1.9%
+8,PMET,Press Metal Bhd,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 41.61B,31x,5.58,MYR 5.05,2%
+9,HLBB,Hong Leong Bank,Kuala Lumpur,Financials,Banking Services,MYR 39.97B,9.9x,2.27,MYR 19.50,-0.3%
+10,YTLS,YTL Corp,Kuala Lumpur,Utilities,Multiline Utilities,MYR 38.72B,17.8x,0.09,MYR 3.50,1.2%
+11,MISC,MISC,Kuala Lumpur,Industrials,Transport Infrastructure,MYR 38.43B,16.9x,1.62,MYR 8.61,-0.7%
+12,PGAS,Petronas Gas,Kuala Lumpur,Utilities,Natural Gas Utilities,MYR 35.78B,19.3x,1.64,MYR 18.08,0.4%
+13,YTLP,YTL Power Int,Kuala Lumpur,Utilities,Multiline Utilities,MYR 35.41B,10.1x,0.06,MYR 4.37,-0.7%
+14,SDGU,SD Guthrie Bhd,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 31.60B,15.8x,1.75,MYR 4.57,0.7%
+15,MXSC,Maxis,Kuala Lumpur,Technology,Telecommunications Services,MYR 27.65B,27x,-1.97,MYR 3.53,0.6%
+16,TLMM,Telekom Malaysia Bhd,Kuala Lumpur,Technology,Telecommunications Services,MYR 26.40B,13.4x,0.19,MYR 6.88,-0.2%
+17,RHBC,RHB Bank,Kuala Lumpur,Financials,Banking Services,MYR 24.85B,8.8x,-1.96,MYR 5.70,0%
+18,NESM,Nestle,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 24.79B,43.6x,-5.33,MYR 105.70,-0.4%
+19,IOIB,IOI Corp,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 23.76B,29.7x,-0.57,MYR 3.83,0%
+20,SWAY_ta,Sunway,Kuala Lumpur,Industrials,Construction & Engineering,MYR 23.69B,36.6x,2.03,MYR 2.81,1.1%
+21,SWAYq,Sunway Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 23.69B,36.6x,3.08,MYR 3.80,1.3%
+22,SWAY,Sunway,Kuala Lumpur,Industrials,Construction & Engineering,MYR 23.69B,35.1x,3.08,MYR 4.19,0.5%
+23,KLKK,Kuala Lumpur Kepong,Kuala Lumpur,Basic Materials,Chemicals,MYR 23.13B,41.9x,-0.63,MYR 21.10,0.6%
+24,AXIA,Axiata,Kuala Lumpur,Technology,Telecommunications Services,MYR 21.76B,-10.8x,1.28,MYR 2.37,1.3%
+25,GAMU,Gamuda,Kuala Lumpur,Industrials,Construction & Engineering,MYR 20.92B,22.8x,-0.44,MYR 7.50,0.1%
+26,PEPT,PPB,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 20.80B,15.4x,-0.39,MYR 14.62,1.3%
+27,MRDI,Mr D I Y,Kuala Lumpur,Consumer Cyclicals,Specialty Retailers,MYR 19.76B,34.1x,2.21,MYR 2.11,1%
+28,HLCB,Hong Leong Financial,Kuala Lumpur,Financials,Banking Services,MYR 19.46B,6.6x,2.55,MYR 17.16,-0.5%
+29,PETR,Petronas Dagangan,Kuala Lumpur,Energy,Oil & Gas,MYR 18.74B,21.6x,-2.1,MYR 18.86,-0.6%
+30,SIME,Sime Darby,Kuala Lumpur,Consumer Non-Cyclicals,Consumer Goods Conglomerates,MYR 17.93B,4.7x,0.04,MYR 2.63,0%
+31,GENT,Genting,Kuala Lumpur,Consumer Cyclicals,Hotels & Entertainment Services,MYR 17.14B,12.1x,0,MYR 4.45,0.4%
+32,MAHB,Malaysia Airport,Kuala Lumpur,Industrials,Transport Infrastructure,MYR 16.89B,27.4x,0.25,MYR 10.12,0.2%
+33,QRES,QL Resources,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 16.28B,37.2x,1.4,MYR 6.69,0.2%
+34,AMMB,AMMB,Kuala Lumpur,Financials,Banking Services,MYR 15.37B,8.2x,0.85,MYR 4.65,-0.2%
+35,WPHB,Westports,Kuala Lumpur,Industrials,Transport Infrastructure,MYR 14.90B,18.2x,3.07,MYR 4.37,1.4%
+36,GENM,Genting Malaysia,Kuala Lumpur,Consumer Cyclicals,Hotels & Entertainment Services,MYR 14.34B,27.5x,0.12,MYR 2.53,-0.4%
+37,DIAL,Dialog,Kuala Lumpur,Energy,Oil & Gas Related Equipment and Services,MYR 13.99B,0.2x,1.97,MYR 2.48,-0.4%
+38,KLCC,KLCC Property,Kuala Lumpur,Real Estate,Residential & Commercial REITs,MYR 13.74B,14.6x,0.86,MYR 7.61,0%
+39,INAR,Inari Amertron,Kuala Lumpur,Technology,Semiconductors & Semiconductor Equipment,MYR 13.36B,42.7x,-4.47,MYR 3.54,1.7%
+40,IOIP,IOI Properties,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 11.62B,15.5x,-0.3,MYR 2.11,1.9%
+41,IJMS,IJM Corp,Kuala Lumpur,Industrials,Construction & Engineering,MYR 11.18B,18.6x,0.07,MYR 3.19,0.3%
+42,CHIU,Chin Hin Bhd,Kuala Lumpur,Consumer Cyclicals,Homebuilding & Construction Supplies,MYR 10.97B,80.8x,1.7,MYR 3.10,1%
+43,FRAS,Fraser Neave,Kuala Lumpur,Consumer Non-Cyclicals,Beverages,MYR 10.71B,17.9x,0.93,MYR 29.20,0.1%
+44,UTPS,United Plantations,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 10.64B,14.1x,0.69,MYR 25.64,0.2%
+45,HAPS,Hap Seng Consolidated,Kuala Lumpur,Consumer Non-Cyclicals,Consumer Goods Conglomerates,MYR 10.21B,11.5x,2.33,MYR 4.10,0%
+46,SIPR,Sime Darby Property,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 9.45B,20.1x,0.47,MYR 1.39,6.1%
+47,HTHB,Hartalega,Kuala Lumpur,Healthcare,Healthcare Equipment & Supplies,MYR 9.28B,96.4x,0.76,MYR 2.72,3%
+48,TCOM,TIME Dotcom,Kuala Lumpur,Technology,Telecommunications Services,MYR 9.06B,3.5x,0.07,MYR 4.90,0.2%
+49,KPJH,KPJ Healthcare,Kuala Lumpur,Healthcare,Healthcare Providers & Services,MYR 8.29B,29.2x,0.58,MYR 1.90,0.5%
+50,YINS,Yinson,Kuala Lumpur,Energy,Oil & Gas Related Equipment and Services,MYR 7.85B,9.6x,0.18,MYR 2.64,5.6%
+51,TPGC,Top Glove Corp,Kuala Lumpur,Healthcare,Healthcare Equipment & Supplies,MYR 7.69B,-14.8x,-11.92,MYR 0.96,3.8%
+52,BMYS,Bursa Malaysia,Kuala Lumpur,Financials,Investment Banking & Investment Services,MYR 7.68B,27.9x,1.47,MYR 9.49,0.4%
+53,BTKW,Batu Kawan,Kuala Lumpur,Basic Materials,Chemicals,MYR 7.68B,23.2x,-0.37,MYR 19.56,0.3%
+54,AFIN,AFFIN,Kuala Lumpur,Financials,Banking Services,MYR 7.56B,20.2x,-0.3,MYR 3.15,1.3%
+55,VTRX,ViTrox Corp,Kuala Lumpur,Technology,Semiconductors & Semiconductor Equipment,MYR 7.49B,73.3x,-2.19,MYR 3.96,1.8%
+56,MALY,Lafarge Malayan Cement,Kuala Lumpur,Basic Materials,Construction Materials,MYR 7.41B,18.3x,0.08,MYR 5.55,0%
+57,MPIM,Malaysian Pacific Ind,Kuala Lumpur,Technology,Semiconductors & Semiconductor Equipment,MYR 7.32B,81.6x,-2.5,MYR 36.70,0.5%
+58,IGRE,IGB REIT,Kuala Lumpur,Real Estate,Residential & Commercial REITs,MYR 7.15B,13.7x,0.47,MYR 1.98,-0.5%
+59,HEIN,Heineken,Kuala Lumpur,Consumer Non-Cyclicals,Beverages,MYR 7.06B,17.7x,-5.17,MYR 23.36,-1.1%
+60,MYEG,MY EG Services,Kuala Lumpur,Technology,Software & IT Services,MYR 6.83B,12.7x,0.46,MYR 0.92,1.1%
+61,MBSB,MBSB Bhd,Kuala Lumpur,Financials,Banking Services,MYR 6.70B,12.7x,-4.4,MYR 0.81,0.6%
+62,GREA,Greatech Technology,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 6.53B,43.5x,1.86,MYR 5.21,0.2%
+63,ALLI,Alliance Bank Malaysia,Kuala Lumpur,Financials,Banking Services,MYR 6.46B,9.4x,4.93,MYR 4.17,0.2%
+64,STIK,Scientex Bhd,Kuala Lumpur,Basic Materials,Containers & Packaging,MYR 6.45B,12.3x,0.71,MYR 4.16,0.7%
+65,SETIq,SP Setia Pref,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 6.27B,9x,,MYR 0.95,0%
+66,SETI,SP Setia,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 6.27B,9x,1.43,MYR 1.29,0%
+67,FRKN,Frontken Corp,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 6.22B,51.7x,-35.08,MYR 3.93,-0.5%
+68,BIMB,Bank Islam Malaysia Bhd,Kuala Lumpur,Financials,Banking Services,MYR 5.98B,10.6x,1.41,MYR 2.64,-0.4%
+69,CBMS,Carlsberg Brewery,Kuala Lumpur,Consumer Non-Cyclicals,Beverages,MYR 5.77B,17.5x,2.68,MYR 18.86,0%
+70,SUNW,Sunway Real Estate Invest Trust,Kuala Lumpur,Real Estate,Residential & Commercial REITs,MYR 5.72B,18.6x,3.51,MYR 1.67,1.2%
+71,SCOG,Sunway Construction Group Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 5.66B,37.8x,2.4,MYR 4.39,3.1%
+72,UNSM,Unisem M,Kuala Lumpur,Technology,Semiconductors & Semiconductor Equipment,MYR 5.57B,78.4x,-1.36,MYR 3.45,0%
+73,DOVT,D O Green Tech,Kuala Lumpur,Technology,Semiconductors & Semiconductor Equipment,MYR 5.37B,77.2x,4.93,MYR 3.32,0.3%
+74,UMSB,UEM Sunrise,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 5.21B,74.3x,-7.42,MYR 1.03,2%
+75,GENP,Genting Plantations,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 5.16B,20x,-0.57,MYR 5.75,-1.4%
+76,PREI,Pavilion REIT,Kuala Lumpur,Real Estate,Residential & Commercial REITs,MYR 5.05B,11.2x,-1.62,MYR 1.38,0%
+77,KRIB,Kossan Rubber Ind,Kuala Lumpur,Healthcare,Healthcare Equipment & Supplies,MYR 5.03B,73x,1.17,MYR 1.97,3.1%
+78,LOND,LPI Capital,Kuala Lumpur,Financials,Insurance,MYR 4.97B,14.6x,0.48,MYR 12.48,0.5%
+79,UOAD,UOA Development,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 4.91B,16.3x,1.24,MYR 1.87,-1.6%
+80,ECOW,Eco World Develop,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 4.78B,23.1x,1.01,MYR 1.62,0.6%
+81,MALA,Malakoff Corporation Bhd,Kuala Lumpur,Utilities,Electrical Utilities & IPPs,MYR 4.72B,-6.3x,0.01,MYR 0.96,0%
+82,GASM,Gas Malaysia,Kuala Lumpur,Utilities,Natural Gas Utilities,MYR 4.66B,11.9x,24.2,MYR 3.63,0.3%
+83,VSID,VS Industry Bhd,Kuala Lumpur,Technology,Electronic Equipment & Parts,MYR 4.64B,25.5x,1.28,MYR 1.20,-0.8%
+84,NATI,Nationgate Holdings Bhd,Kuala Lumpur,Technology,Electronic Equipment & Parts,MYR 4.35B,70.5x,-5.06,MYR 1.97,3.1%
+85,FGVH,FGV Holdings Bhd,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 4.34B,56.7x,-0.61,MYR 1.19,0%
+86,GNCH,Guan Chong,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 4.33B,25.7x,0.68,MYR 3.69,4.2%
+87,MAHS,Mah Sing,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 4.30B,18.1x,0.55,MYR 1.68,0.6%
+88,MEGA,Mega First Corp,Kuala Lumpur,Energy,Renewable Energy,MYR 4.29B,10.5x,1.75,MYR 4.55,0.2%
+89,OTLS,Oriental,Kuala Lumpur,Consumer Cyclicals,Specialty Retailers,MYR 4.22B,6.2x,0.06,MYR 6.81,-0.2%
+90,SAEG,Sam Engineering Equip,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 3.70B,28x,1.8,MYR 5.47,0.4%
+91,AINM,Allianz Malaysia,Kuala Lumpur,Financials,Insurance,MYR 3.61B,6.6x,0.38,MYR 20.30,0.9%
+92,ANCR,Aeon Credit Service,Kuala Lumpur,Financials,Banking Services,MYR 3.58B,8.5x,0.38,MYR 7.02,0.3%
+93,HLIB,Hong Leong Ind,Kuala Lumpur,Consumer Non-Cyclicals,Consumer Goods Conglomerates,MYR 3.58B,10x,0.44,MYR 11.36,0%
+94,ITMA,Itmax System Bhd,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 3.45B,49.4x,-1.22,MYR 3.51,4.8%
+95,IGBB,IGB,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 3.40B,7.8x,0.05,MYR 2.55,1.6%
+96,HEXT,Hextar Global,Kuala Lumpur,Basic Materials,Chemicals,MYR 3.33B,57.3x,1.85,MYR 0.86,-0.6%
+97,DEHB,Dayang Enterprise,Kuala Lumpur,Energy,Oil & Gas Related Equipment and Services,MYR 3.28B,12.5x,0.06,MYR 2.83,2.9%
+98,CAPI,Capital A Berhad,Kuala Lumpur,Industrials,Passenger Transportation Services,MYR 3.27B,17.5x,0.16,MYR 0.76,0.7%
+99,PMAS,Pentamaster Corp,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 3.25B,39.2x,-7.8,MYR 4.57,0.4%
+100,PMBT,PMB Technology Bhd,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 3.23B,84.2x,-1.62,MYR 2.02,-1%
+101,TAKA,Syarikat Takaful,Kuala Lumpur,Financials,Insurance,MYR 3.17B,8.9x,0.46,MYR 3.79,-1%
+102,TROP,Tropicana Corp,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 3.13B,-17.3x,-0.29,MYR 1.38,-1.4%
+103,AXSR,Axis Real Estate Investment Trust,Kuala Lumpur,Real Estate,Residential & Commercial REITs,MYR 3.13B,13.5x,0.39,MYR 1.80,0.6%
+104,OSKH,OSK,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 3.11B,6.6x,1.5,MYR 1.51,-0.7%
+105,UWCB,Uwc,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 3.05B,230.4x,-2.51,MYR 2.76,-0.4%
+106,CTOS,CTOS Digital Bhd,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 3.03B,24.2x,0.34,MYR 1.31,0%
+107,DXNO,DXN Holdings Bhd,Kuala Lumpur,Consumer Cyclicals,Specialty Retailers,MYR 3.03B,10.2x,0.8,MYR 0.61,0%
+108,BUAB,Bumi Armada,Kuala Lumpur,Energy,Oil & Gas Related Equipment and Services,MYR 3.02B,8.1x,-0.16,MYR 0.51,2%
+109,FARM,Farm Fresh Bhd,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 2.88B,43.8x,1.7,MYR 1.55,0.7%
+110,BPOT,Bintulu Port,Kuala Lumpur,Industrials,Transport Infrastructure,MYR 2.88B,19.6x,0.57,MYR 6.26,0%
+111,BERA,Bermaz Auto,Kuala Lumpur,Consumer Cyclicals,Specialty Retailers,MYR 2.81B,8x,0.58,MYR 2.40,0%
+112,MYRS,Malaysian Resources,Kuala Lumpur,Industrials,Construction & Engineering,MYR 2.55B,27.1x,0.43,MYR 0.57,0%
+113,DRBM,DRB Hicom,Kuala Lumpur,Consumer Cyclicals,Automobiles & Auto Parts,MYR 2.49B,11.2x,-0.35,MYR 1.29,1.6%
+114,SOPS,Sarawak Oil Palms,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 2.45B,7.3x,4.65,MYR 2.75,0.4%
+115,KREJ,Kerjaya Prospek,Kuala Lumpur,Industrials,Construction & Engineering,MYR 2.43B,17.9x,1.03,MYR 1.93,0.5%
+116,REDI,RCE Capital Berhad,Kuala Lumpur,Financials,Banking Services,MYR 2.37B,18x,,MYR 3.23,-1.2%
+117,HUMC,Hume Industries,Kuala Lumpur,Basic Materials,Construction Materials,MYR 2.37B,8.6x,0.01,MYR 3.27,0%
+118,MATR,Matrix Concepts,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 2.34B,9.6x,-9.97,MYR 1.87,0.5%
+119,KELG,Kelington Group,Kuala Lumpur,Industrials,Construction & Engineering,MYR 2.34B,19.7x,0.3,MYR 3.45,1.8%
+120,LOTT,Lotte Chemical,Kuala Lumpur,Basic Materials,Chemicals,MYR 2.32B,-3.5x,-0.07,MYR 1.02,1%
+121,JOHO,Johor Plantations Bhd,Kuala Lumpur,,,MYR 2.29B,10.2x,,MYR 0.93,1.1%
+122,TANC,Tanco,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 2.26B,520x,-7.37,MYR 1.05,4%
+123,BATO,BAT Malaysia,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 2.24B,13x,-0.57,MYR 7.86,-0.9%
+124,SUPM,Supermax Corp,Kuala Lumpur,Healthcare,Healthcare Equipment & Supplies,MYR 2.22B,-48.3x,-0.78,MYR 0.87,2.3%
+125,PDNI,Padini,Kuala Lumpur,Consumer Cyclicals,Specialty Retailers,MYR 2.22B,12.5x,-0.45,MYR 3.38,2.4%
+126,WCEH,WCE Holdings,Kuala Lumpur,Industrials,Transport Infrastructure,MYR 2.21B,-16.4x,0.07,MYR 0.74,1.4%
+127,SEVE,7 Eleven,Kuala Lumpur,Consumer Non-Cyclicals,Food & Drug Retailing,MYR 2.20B,8.5x,-0.6,MYR 1.98,0%
+128,PIEN,PIE Industrial Bhd,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 2.19B,29.2x,,MYR 5.70,1.2%
+129,LEOG,Leong Hup International Berhad,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 2.19B,7.3x,0.13,MYR 0.61,0.8%
+130,BGRO,Berjaya Corp,Kuala Lumpur,Consumer Non-Cyclicals,Consumer Goods Conglomerates,MYR 2.18B,4.1x,0,MYR 0.39,4%
+131,KEYF,Keyfield International Bhd,Kuala Lumpur,Industrials,Freight & Logistics Services,MYR 2.17B,9x,,MYR 2.83,4.8%
+132,KIML,Kim Loong Resources,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 2.17B,13x,1.9,MYR 2.23,0%
+133,SPOR,Berjaya Sports Toto,Kuala Lumpur,Consumer Cyclicals,Hotels & Entertainment Services,MYR 2.16B,9.8x,1.42,MYR 1.60,0%
+134,HEXE,Hextar Tech Solutions Bhd,Kuala Lumpur,Industrials,Freight & Logistics Services,MYR 2.16B,-150x,0.33,MYR 1.05,0%
+135,MBMR,MBM Resources,Kuala Lumpur,Consumer Cyclicals,Automobiles & Auto Parts,MYR 2.14B,6.4x,0.28,MYR 5.47,0.4%
+136,KSMS,Keck Seng Malaysia,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 2.13B,8.4x,0.31,MYR 5.94,-0.7%
+137,DBMS,Dutch Lady Milk,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 2.04B,22.6x,0.13,MYR 31.84,4.1%
+138,FEHS,Far East,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 2.03B,18.2x,-0.51,MYR 3.42,0%
+139,YTLR,YTL Hospitality REIT,Kuala Lumpur,Real Estate,Residential & Commercial REITs,MYR 2.01B,11.4x,0.44,MYR 1.18,-0.8%
+140,MITE,MI Technovation,Kuala Lumpur,Technology,Semiconductors & Semiconductor Equipment,MYR 1.99B,26.5x,1.16,MYR 2.23,4.7%
+141,AEOM,AEON Co,Kuala Lumpur,Consumer Cyclicals,Diversified Retail,MYR 1.98B,14.7x,1.42,MYR 1.41,0%
+142,APER,Apex Healthcare,Kuala Lumpur,Healthcare,Pharmaceuticals,MYR 1.94B,4.9x,0.02,MYR 2.70,0.4%
+143,IDEA,Ideal United Bintang,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 1.93B,27.5x,0.4,MYR 3.85,0%
+144,ENOB,Eastern & Oriental,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 1.88B,11.7x,0.07,MYR 0.90,2.8%
+145,CAMA,CapitaLand Malaysia Mall,Kuala Lumpur,Real Estate,Residential & Commercial REITs,MYR 1.84B,9.4x,0.04,MYR 0.65,0%
+146,HIBI,Hibiscus Petroleum BHD,Kuala Lumpur,Energy,Oil & Gas,MYR 1.81B,3.8x,-0.4,MYR 2.28,0.9%
+147,RANH,Ranhill Holdings,Kuala Lumpur,Utilities,Water & Related Utilities,MYR 1.80B,38.9x,-0.76,MYR 1.39,-1.4%
+148,KSLH,KSL,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 1.79B,4.2x,0.07,MYR 1.76,2.3%
+149,MNRB,MNRB,Kuala Lumpur,Financials,Insurance,MYR 1.78B,4x,0.01,MYR 2.27,7.1%
+150,SKPR,SKP Resources Bhd,Kuala Lumpur,Technology,Electronic Equipment & Parts,MYR 1.78B,19.7x,-0.55,MYR 1.14,1.8%
+151,MAGM,Magnum,Kuala Lumpur,Consumer Cyclicals,Hotels & Entertainment Services,MYR 1.77B,13.1x,0.36,MYR 1.23,0%
+152,VELE,Velesto Energy,Kuala Lumpur,Energy,Oil & Gas Related Equipment and Services,MYR 1.77B,13.4x,0.03,MYR 0.22,2.4%
+153,BLAD,Berjaya Land,Kuala Lumpur,Consumer Cyclicals,Hotels & Entertainment Services,MYR 1.77B,45x,0.23,MYR 0.36,1.4%
+154,UCHI,Uchi Technologies Bhd,Kuala Lumpur,Technology,Electronic Equipment & Parts,MYR 1.76B,13.4x,-2.46,MYR 3.81,0%
+155,RADU,Radium Dev Bhd,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 1.68B,79.8x,,MYR 0.48,-1%
+156,TAAN,Ta Ann,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 1.66B,10.3x,-0.29,MYR 3.76,0.5%
+157,TWRK,Taliworks Corporation Bhd,Kuala Lumpur,Utilities,Water & Related Utilities,MYR 1.61B,34.8x,-2.46,MYR 0.80,0.6%
+158,SFPT,SFP Tech Holdings Bhd,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 1.57B,40.6x,11.72,MYR 0.66,0.8%
+159,TSHR,TSH Resources,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 1.55B,18.1x,-0.23,MYR 1.12,-1.8%
+160,ALPA,Alpha IVF Bhd,Kuala Lumpur,,,MYR 1.53B,28.6x,-1.37,MYR 0.32,0%
+161,WCTE,WCT,Kuala Lumpur,Industrials,Construction & Engineering,MYR 1.50B,-6.5x,0.02,MYR 1.06,4.9%
+162,AURE,Aurelius Tech Bhd,Kuala Lumpur,Technology,Electronic Equipment & Parts,MYR 1.45B,30.4x,0.86,MYR 3.36,0.3%
+163,JCYI,JCY Int,Kuala Lumpur,Technology,"Computers, Phones & Household Electronics",MYR 1.44B,-48.2x,-0.58,MYR 0.68,3.8%
+164,GTCY,Genetec Tech,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 1.42B,18.3x,2.85,MYR 1.83,-1.1%
+165,CMSM,Cahya Mata Sarawak,Kuala Lumpur,Basic Materials,Construction Materials,MYR 1.41B,12.7x,-0.22,MYR 1.31,1.5%
+166,ASTR,Astro Malaysia,Kuala Lumpur,Consumer Cyclicals,Media & Publishing,MYR 1.41B,33.8x,-0.42,MYR 0.27,-3.6%
+167,DNEX,Dagang Nexchange,Kuala Lumpur,Technology,Software & IT Services,MYR 1.39B,-15.8x,0.16,MYR 0.40,1.3%
+168,KREK,Kretam,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 1.39B,13.8x,0.85,MYR 0.61,2.5%
+169,CHIN,Chin Hin Property,Kuala Lumpur,Consumer Cyclicals,Automobiles & Auto Parts,MYR 1.39B,42x,2.41,MYR 2.10,2.4%
+170,BINS,Binastra Corporation Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 1.38B,19.8x,0.3,MYR 1.27,-2.3%
+171,HAPP,Hap Seng Plantations,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 1.37B,13.1x,-0.64,MYR 1.71,0.6%
+172,DSON,Datasonic,Kuala Lumpur,Technology,Software & IT Services,MYR 1.30B,14.1x,0.64,MYR 0.47,0%
+173,SOUH,Southern Score Builders Berhad,Kuala Lumpur,Industrials,Construction & Engineering,MYR 1.27B,50.9x,,MYR 0.56,1.8%
+174,VSTE,ECS ICT,Kuala Lumpur,Technology,"Computers, Phones & Household Electronics",MYR 1.21B,18.2x,2.66,MYR 3.38,0%
+175,PTMR,Petron Refining,Kuala Lumpur,Energy,Oil & Gas,MYR 1.21B,5.2x,-0.22,MYR 4.47,0%
+176,PMMY,Panasonic Manufacture,Kuala Lumpur,Consumer Cyclicals,Household Goods,MYR 1.21B,13.1x,0.81,MYR 20,1.7%
+177,MSMH,MSM Malaysia,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 1.20B,43.8x,0.36,MYR 1.71,0%
+178,HCKC,HCK Capital,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 1.19B,41.5x,0.51,MYR 2.16,0%
+179,AMWA,Amway,Kuala Lumpur,Healthcare,Pharmaceuticals,MYR 1.17B,9x,0.13,MYR 7.10,0.9%
+180,DUOP,Duopharma Biotech,Kuala Lumpur,Healthcare,Pharmaceuticals,MYR 1.16B,23.9x,-0.66,MYR 1.21,3.4%
+181,SOLA,Solarvest,Kuala Lumpur,Utilities,Electrical Utilities & IPPs,MYR 1.16B,34.7x,0.64,MYR 1.64,0%
+182,IGBC,IGB Commercial Real Estate Investment Trust Unt,Kuala Lumpur,Real Estate,Residential & Commercial REITs,MYR 1.16B,17.1x,1.71,MYR 0.49,0%
+183,EKOV,Ekovest,Kuala Lumpur,Industrials,Construction & Engineering,MYR 1.16B,-7.4x,2.97,MYR 0.39,0%
+184,CREC,Crescendo Corp,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 1.15B,3.5x,0,MYR 4.10,1%
+185,DUFU,Dufu Tech Corp,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 1.15B,50.5x,-1.55,MYR 2.17,1.9%
+186,MPHB,MPHB Capital,Kuala Lumpur,Consumer Cyclicals,Hotels & Entertainment Services,MYR 1.12B,45.4x,-0.51,MYR 1.59,0.6%
+187,SNSN,SNS Network Tech Bhd,Kuala Lumpur,Technology,Software & IT Services,MYR 1.12B,53.2x,-0.66,MYR 0.73,5%
+188,HEXA,Hextar Industries Bhd,Kuala Lumpur,Basic Materials,Chemicals,MYR 1.11B,45x,,MYR 0.41,-1.2%
+189,SHIN,Shin Yang Shipping Corporation Bhd,Kuala Lumpur,Industrials,Freight & Logistics Services,MYR 1.10B,8.6x,-0.21,MYR 0.98,6.6%
+190,ALQA,Al Aqar,Kuala Lumpur,Real Estate,Residential & Commercial REITs,MYR 1.10B,17.2x,-2.02,MYR 1.31,0%
+191,MAST,Master Tec Bhd,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 1.09B,59.4x,2.23,MYR 1.08,0.9%
+192,SCTH,Supercomnet Tech,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 1.09B,33.4x,-4.6,MYR 1.27,0.8%
+193,UMRS,United Malacca,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 1.07B,21.1x,-1.21,MYR 5.10,0.8%
+194,TMCN,TMC Life Sciences Bhd,Kuala Lumpur,Healthcare,Healthcare Providers & Services,MYR 1.07B,20.5x,3.03,MYR 0.62,0%
+195,LAGE,Lagenda Properties Bhd,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 1.07B,7.1x,-0.66,MYR 1.28,1.6%
+196,LBSBq,LBS Bina Pref,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 1.04B,8.5x,,MYR 0.92,0%
+197,LBSB,LBS Bina,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 1.04B,8.6x,0.71,MYR 0.67,0.7%
+198,BLDN,BLD Plantation,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 1.03B,35.7x,-7.45,MYR 11,0%
+199,CCKH,CCK Consolidated Holdings,Kuala Lumpur,Consumer Non-Cyclicals,Food & Drug Retailing,MYR 1.03B,11.7x,0.37,MYR 1.66,0%
+200,MSCB,Malaysia Smelting,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 1.02B,17.9x,-4.45,MYR 2.43,3.4%
+201,WELC,Well Chip Bhd,Kuala Lumpur,,,MYR 1.02B,11.9x,-0.36,MYR 1.68,-1.2%
+202,JTIA,Jaya Tiasa,Kuala Lumpur,Basic Materials,Paper & Forest Products,MYR 1.02B,5.6x,0.15,MYR 1.05,1.9%
+203,HLGC,Hong Leong Capital Bhd,Kuala Lumpur,Financials,Investment Banking & Investment Services,MYR 1.01B,15x,0.37,MYR 4.26,-0.7%
+204,MATE,Magni Tech Ind,Kuala Lumpur,Consumer Cyclicals,Textiles & Apparel,MYR 1.01B,7.8x,0.23,MYR 2.32,1.3%
+205,PROL,Prolintas Infra Business Trust Unt,Kuala Lumpur,Industrials,Construction & Engineering,MYR 995.50M,,,MYR 0.93,2.2%
+206,BMGR,Bm Greentech Bhd,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 985.56M,29.4x,0.22,MYR 1.91,3.2%
+207,AMEE,AME Elite Consortium Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 977.81M,12.1x,-1.34,MYR 1.53,0%
+208,SENT,Sentral REIT,Kuala Lumpur,Real Estate,Residential & Commercial REITs,MYR 974.33M,12.5x,0.29,MYR 0.81,0%
+209,ANCM,Ancom,Kuala Lumpur,Basic Materials,Chemicals,MYR 972.83M,12.1x,2.4,MYR 1.04,0%
+210,SKOU,Sern Kou Resources,Kuala Lumpur,Consumer Cyclicals,Household Goods,MYR 970.29M,300x,1.58,MYR 0.90,0%
+211,PTRD,Perdana Petroleum,Kuala Lumpur,Energy,Oil & Gas Related Equipment and Services,MYR 968.33M,18.9x,0.07,MYR 0.44,2.3%
+212,EGCM,Eg Industries,Kuala Lumpur,Technology,Electronic Equipment & Parts,MYR 965.52M,21.4x,0.31,MYR 2.05,4.6%
+213,CTAL,Coastal Contracts,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 962.26M,6x,-0.12,MYR 1.80,0%
+214,GDEX,GD Express Carrier,Kuala Lumpur,Industrials,Freight & Logistics Services,MYR 941.82M,-34x,0.9,MYR 0.17,0%
+215,MFMS,Malayan Flour Mills,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 941.76M,38x,-0.54,MYR 0.76,-0.7%
+216,PERM,Pertama Digital Berhad,Kuala Lumpur,Technology,Financial Technology (Fintech) & Infrastructure,MYR 937.77M,-178.3x,-2.12,MYR 2.14,-0.5%
+217,SHGM,Shangri La Hotels Malaysia,Kuala Lumpur,Consumer Cyclicals,Hotels & Entertainment Services,MYR 932.80M,49.3x,0.25,MYR 2.12,0.5%
+218,PECC,Pecca Group,Kuala Lumpur,Consumer Cyclicals,Automobiles & Auto Parts,MYR 932.43M,18.7x,0.37,MYR 1.25,1.6%
+219,BJFO,Berjaya Food,Kuala Lumpur,Consumer Cyclicals,Hotels & Entertainment Services,MYR 921.34M,-26x,0.2,MYR 0.52,1%
+220,WASC,Wasco Bhd,Kuala Lumpur,Energy,Oil & Gas Related Equipment and Services,MYR 905.94M,6.3x,0,MYR 1.17,0%
+221,NVTE,Notion Vtec,Kuala Lumpur,Technology,"Computers, Phones & Household Electronics",MYR 897.05M,132.3x,6.53,MYR 1.71,0%
+222,PNTE,Pantech Group Holdings Bhd,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 882.29M,8.4x,-0.79,MYR 1.06,2.9%
+223,HSIB,Hup Seng Industries,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 880M,17.7x,0.38,MYR 1.10,2.8%
+224,AJIN,Ajinomoto Malaysia,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 876.71M,2.2x,0,MYR 14.42,0.1%
+225,KARE,Karex,Kuala Lumpur,Consumer Non-Cyclicals,Personal & Household Products & Services,MYR 874.37M,39.5x,0.06,MYR 0.83,1.8%
+226,NEXT,Nextgreen Global,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 873.10M,66.2x,-4.49,MYR 0.86,0%
+227,NCTA,NCT Alliance Bhd,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 862.72M,17x,-3.39,MYR 0.51,0%
+228,CPET,CPE Tech Bhd,Kuala Lumpur,,,MYR 825.72M,54.7x,,MYR 1.25,1.6%
+229,FEYT,Feytech Holdings Bhd,Kuala Lumpur,,,MYR 822.12M,19.8x,0.31,MYR 0.99,1.5%
+230,RTON,Redtone International,Kuala Lumpur,Technology,Telecommunications Services,MYR 819.33M,22.1x,-0.6,MYR 1.06,0%
+231,KNNK,K N Kenanga,Kuala Lumpur,Financials,Investment Banking & Investment Services,MYR 810.25M,9.4x,0.12,MYR 1.11,0.9%
+232,SENG,Seng Fong Holdings Bhd,Kuala Lumpur,Consumer Cyclicals,Automobiles & Auto Parts,MYR 808.25M,15x,0.52,MYR 1.12,0%
+233,SPTZ,Spritzer,Kuala Lumpur,Consumer Non-Cyclicals,Beverages,MYR 807.06M,13.9x,0.26,MYR 2.53,0.8%
+234,SGNA,Signature Int,Kuala Lumpur,Consumer Cyclicals,Homebuilding & Construction Supplies,MYR 806.06M,15.1x,0.2,MYR 1.27,0%
+235,BERJ,Berjaya Assets,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 793.07M,-44.3x,-0.78,MYR 0.31,0%
+236,GNIC,Globetronics Tech,Kuala Lumpur,Technology,Semiconductors & Semiconductor Equipment,MYR 790.20M,27.2x,-1.05,MYR 1.17,1.7%
+237,TELA,Teladan Setia Bhd,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 788.68M,33.2x,-1.05,MYR 0.96,-1.5%
+238,DELM,DKSH Malaysia Berhad,Kuala Lumpur,Industrials,Diversified Industrial Goods Wholesale,MYR 788.29M,6.9x,7.7,MYR 5,0%
+239,INFM,Infomina Bhd,Kuala Lumpur,Technology,Software & IT Services,MYR 781.63M,26x,-1.12,MYR 1.31,0.8%
+240,MITC,Mulpha Int,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 775.83M,6.4x,0.03,MYR 2.50,0%
+241,FPIB,Formosa Prosonic,Kuala Lumpur,Technology,"Computers, Phones & Household Electronics",MYR 768.73M,5.6x,0.13,MYR 3,0.3%
+242,SEDU,SEG International Bhd,Kuala Lumpur,Academic & Educational Services,Miscellaneous Educational Service Providers,MYR 763.67M,69.4x,-1.02,MYR 0.63,0%
+243,AMER,AME REIT Unt,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 763.23M,14.7x,-0.52,MYR 1.45,0%
+244,PERT,Perak Transit,Kuala Lumpur,Industrials,Passenger Transportation Services,MYR 760.04M,11.1x,1.51,MYR 0.69,0.7%
+245,SOUT,Southern Cable Group Bhd,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 758.19M,17.8x,0.2,MYR 0.90,2.3%
+246,PAPP,Pappajack Bhd,Kuala Lumpur,Financials,Banking Services,MYR 756.68M,35.9x,0.84,MYR 0.99,0.5%
+247,METR,MKH,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 750.61M,8.8x,2.3,MYR 1.30,0.8%
+248,ECOD,Eco World Intl,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 744M,-11.5x,-0.18,MYR 0.31,1.6%
+249,OPPS,Oppstar Bhd,Kuala Lumpur,Technology,Integrated Hardware & Software,MYR 736.70M,56.7x,-1.21,MYR 1.14,-0.9%
+250,SAEN,Sapura Energy,Kuala Lumpur,Energy,Oil & Gas Related Equipment and Services,MYR 735.04M,-1.2x,-0.01,MYR 0.04,14.3%
+251,WCAL,Wellcall Holdings Bhd,Kuala Lumpur,Consumer Cyclicals,Automobiles & Auto Parts,MYR 731.98M,12.3x,0.23,MYR 1.47,0.7%
+252,KOBA,Kobay Tech,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 723.61M,80x,-0.95,MYR 2.26,2.3%
+253,HENY,Hengyuan Refining,Kuala Lumpur,Energy,Oil & Gas,MYR 717M,-2x,0.16,MYR 2.39,0%
+254,JFTB,JF Tech,Kuala Lumpur,Technology,Electronic Equipment & Parts,MYR 704.56M,95x,-2.2,MYR 0.76,2%
+255,UOAR,UOA REIT,Kuala Lumpur,Real Estate,Residential & Commercial REITs,MYR 702.62M,15.5x,-0.7,MYR 1.04,1%
+256,BAHV,Bahvest Resources Bhd,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 702.41M,485x,-10.02,MYR 0.49,1%
+257,SCIE,Scientex Packaging,Kuala Lumpur,Basic Materials,Containers & Packaging,MYR 694.23M,26.8x,-0.57,MYR 1.98,0%
+258,CTPB,Chin Teck Plantations,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 690.71M,8.8x,0.39,MYR 7.56,-0.9%
+259,MHEB,Malaysia Marine and Heavy Eng,Kuala Lumpur,Energy,Oil & Gas Related Equipment and Services,MYR 688M,-1.4x,0,MYR 0.43,0%
+260,POWE,Power Root,Kuala Lumpur,Consumer Non-Cyclicals,Beverages,MYR 686.91M,16.6x,-0.5,MYR 1.51,0%
+261,INSS,Insas,Kuala Lumpur,Financials,Investment Banking & Investment Services,MYR 683.02M,7.9x,-0.13,MYR 1.03,1%
+262,TGIB,Thong Guan Industries Bhd,Kuala Lumpur,Basic Materials,Containers & Packaging,MYR 682.79M,8.8x,-0.44,MYR 1.70,0.6%
+263,MIEC,Mieco Chipboard Bhd,Kuala Lumpur,Basic Materials,Paper & Forest Products,MYR 680M,-8.8x,0.05,MYR 0.68,0%
+264,INNO,Innoprise Plantations,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 679.98M,12.4x,-1.07,MYR 1.42,0.7%
+265,SHLC,SHL Consolidated,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 677.95M,8.3x,0.16,MYR 2.80,0%
+266,ATLA,Atlan,Kuala Lumpur,Industrials,Transport Infrastructure,MYR 677.25M,33x,-4.01,MYR 2.67,0%
+267,TASC,Tasco Bhd,Kuala Lumpur,Industrials,Freight & Logistics Services,MYR 664M,12.3x,-0.39,MYR 0.83,1.2%
+268,SURI,Suria Capital Holdings Bhd,Kuala Lumpur,Industrials,Transport Infrastructure,MYR 657.06M,17.1x,-0.93,MYR 1.90,0%
+269,RGBI,RGB International Bhd,Kuala Lumpur,Consumer Cyclicals,Hotels & Entertainment Services,MYR 654.86M,17.7x,0.17,MYR 0.43,4.9%
+270,NCHB,Naim,Kuala Lumpur,Industrials,Construction & Engineering,MYR 650.97M,14.1x,0.04,MYR 1.30,0.8%
+271,KINE,Kinergy Advancement Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 645.56M,20.3x,0.04,MYR 0.32,0%
+272,PRMS,Paramount Corp,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 641.45M,8.1x,0.42,MYR 1.03,-1%
+273,MUHI,Muhibbah Engineering,Kuala Lumpur,Industrials,Construction & Engineering,MYR 632.26M,145x,1.21,MYR 0.87,1.2%
+274,MAEQ,M A Equity Holdings Bhd,Kuala Lumpur,Consumer Cyclicals,Household Goods,MYR 629.60M,28.6x,,MYR 0.31,0%
+275,LGMS,LGMS Bhd,Kuala Lumpur,Technology,Software & IT Services,MYR 629.28M,65x,3.67,MYR 1.46,5.8%
+276,HSSE,HSS Engineers,Kuala Lumpur,Industrials,Construction & Engineering,MYR 625.43M,30x,1.37,MYR 1.23,0.8%
+277,IBRC,Ibraco,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 622.49M,15.5x,2.58,MYR 1.14,-2.6%
+278,LIMS,Lim Seong Hai Capital Bhd,Kuala Lumpur,Consumer Cyclicals,Specialty Retailers,MYR 621.60M,8.9x,-0.29,MYR 0.88,0%
+279,HTVE,Hiap Teck Venture,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 618.49M,6x,0.01,MYR 0.35,2.9%
+280,ECOH,Econpile,Kuala Lumpur,Industrials,Construction & Engineering,MYR 616.61M,-24.2x,1,MYR 0.44,2.3%
+281,OCKG,OCK Group,Kuala Lumpur,Technology,Telecommunications Services,MYR 614.12M,16x,1.38,MYR 0.57,0.9%
+282,CBIP,CB Industrial Product,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 613.94M,10.1x,0.02,MYR 1.31,0%
+283,ICON,Icon Offshore,Kuala Lumpur,Energy,Oil & Gas Related Equipment and Services,MYR 613.23M,-36.5x,0.4,MYR 0.99,0%
+284,MMAG,MMAG Holdings,Kuala Lumpur,Technology,Software & IT Services,MYR 610.08M,-0.8x,9.53,MYR 0.31,0%
+285,CENT,Central Industrial,Kuala Lumpur,Industrials,Construction & Engineering,MYR 608.55M,-10.4x,0.02,MYR 0.81,0%
+286,FIAM,Fiamma,Kuala Lumpur,Consumer Cyclicals,Household Goods,MYR 604.46M,10.4x,0.22,MYR 1.14,0%
+287,SPLN,Sarawak Plantation,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 599.92M,8.4x,0.91,MYR 2.15,2.9%
+288,PEKA,Pekat Bhd,Kuala Lumpur,Utilities,Electrical Utilities & IPPs,MYR 599.82M,43.5x,0.68,MYR 0.94,1.1%
+289,OINT,Oriental Interest,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 599.30M,6.3x,0.12,MYR 1.29,0%
+290,AIRX,AirAsia X,Kuala Lumpur,Industrials,Passenger Transportation Services,MYR 599.08M,7.3x,0.07,MYR 1.34,1.5%
+291,PHMA,Pharmaniaga Bhd,Kuala Lumpur,Healthcare,Pharmaceuticals,MYR 598.11M,-10.2x,-0.11,MYR 0.41,1.2%
+292,KOIN,Kotra Industries,Kuala Lumpur,Healthcare,Pharmaceuticals,MYR 597.71M,13.2x,-0.38,MYR 4.03,0%
+293,KWNF,Kawan Food,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 593.58M,19.7x,-1.12,MYR 1.71,-0.6%
+294,LCBH,Luxchem Corp,Kuala Lumpur,Basic Materials,Chemicals,MYR 588.37M,13.4x,0.24,MYR 0.55,0%
+295,ABLE,Able Global,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 587.44M,9.8x,0.15,MYR 1.91,0.5%
+296,HSON,Harrisons,Kuala Lumpur,Consumer Non-Cyclicals,Food & Drug Retailing,MYR 586.84M,8.9x,-1.78,MYR 8.57,-0.6%
+297,UEME,UEM Edgenta,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 586.29M,19.7x,-0.56,MYR 0.70,-1.4%
+298,ANNJ,Ann Joo Resources,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 583.84M,148.6x,1.46,MYR 1.04,2%
+299,ANNJq,Ann Joo Resources Pref,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 583.84M,148.6x,,MYR 0.46,0%
+300,PBAH,PBA Holdings Bhd,Kuala Lumpur,Utilities,Water & Related Utilities,MYR 582.55M,16.4x,-0.29,MYR 1.76,1.2%
+301,TSCP,Teo Seng Capital,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 574.44M,3.3x,0.01,MYR 1.93,1.6%
+302,APMA,APM Automotive,Kuala Lumpur,Consumer Cyclicals,Automobiles & Auto Parts,MYR 572.80M,8.1x,0.05,MYR 2.93,0.7%
+303,ZHCO,Zhulian Corp,Kuala Lumpur,Consumer Cyclicals,Textiles & Apparel,MYR 565.80M,22x,1.22,MYR 1.23,0%
+304,PLET,Plenitude,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 564.67M,6.7x,0.05,MYR 1.48,-0.7%
+305,AUTC,Autocount Dotcom Bhd,Kuala Lumpur,Technology,Software & IT Services,MYR 561.51M,48.1x,,MYR 1.05,2.9%
+306,SKYW,SkyWorld Dev Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 560M,5.9x,-0.11,MYR 0.56,0%
+307,CYPR,Cypark Res Berhad,Kuala Lumpur,Utilities,Electrical Utilities & IPPs,MYR 559.52M,-4.9x,-0.1,MYR 0.68,0%
+308,HARR,Harbour Link,Kuala Lumpur,Industrials,Freight & Logistics Services,MYR 558.01M,6.7x,-0.12,MYR 1.40,1.4%
+309,ELKD,ELK-Desa Resources,Kuala Lumpur,Financials,Banking Services,MYR 554.87M,15.3x,-0.65,MYR 1.22,0.8%
+310,QESG,QES,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 554.70M,35.3x,-0.98,MYR 0.67,3.1%
+311,KIPR,KIP REIT,Kuala Lumpur,Real Estate,Residential & Commercial REITs,MYR 553.67M,11.6x,-0.44,MYR 0.89,0.6%
+312,THPB,TH Plantations,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 552.41M,17.4x,-0.55,MYR 0.63,2.5%
+313,KICB,Kimlun Corp,Kuala Lumpur,Industrials,Construction & Engineering,MYR 544.18M,76.5x,0.07,MYR 1.54,0.7%
+314,AFHB,Apollo Food,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 544M,10.1x,0.14,MYR 6.80,-1%
+315,CNON,Can One,Kuala Lumpur,Basic Materials,Containers & Packaging,MYR 543.79M,10.6x,-12.42,MYR 2.83,0%
+316,SMRS,SMRT,Kuala Lumpur,Technology,Software & IT Services,MYR 543.55M,-47.6x,,MYR 1.20,5.3%
+317,SYNE,Synergy House Bhd,Kuala Lumpur,Consumer Cyclicals,Household Goods,MYR 540M,22.3x,,MYR 1.14,5.6%
+318,KFIM,Kumpulan Fima,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 536.80M,7.4x,0.48,MYR 1.95,1.6%
+319,IWCI,Iskandar Waterfront City,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 534.25M,-145x,-1.73,MYR 0.58,1.8%
+320,ETEX,Engtex,Kuala Lumpur,Consumer Cyclicals,Homebuilding & Construction Supplies,MYR 517.97M,31.4x,-2.41,MYR 0.67,0.8%
+321,AYER,AYER,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 512.74M,13x,-5.16,MYR 6.85,0%
+322,ATAI,ATA IMS,Kuala Lumpur,Basic Materials,Containers & Packaging,MYR 505.20M,-4.8x,-0.08,MYR 0.42,5%
+323,MPRM,Media Prima,Kuala Lumpur,Consumer Cyclicals,Media & Publishing,MYR 504.69M,11.7x,,MYR 0.46,-1.1%
+324,MGBB,MGB,Kuala Lumpur,Industrials,Construction & Engineering,MYR 502.90M,10x,0.07,MYR 0.85,-0.6%
+325,CIHB,CI,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 502.20M,6.5x,-0.25,MYR 3.10,0%
+326,LHEN,Lii Hen Industries,Kuala Lumpur,Consumer Cyclicals,Household Goods,MYR 502.20M,8.5x,-0.56,MYR 0.93,1.1%
+327,GOHU,Go Hub Capital Bhd,Kuala Lumpur,,,MYR 500M,2x,,MYR 1.25,0%
+328,VEST,Vestland Bhd,Kuala Lumpur,Consumer Cyclicals,Homebuilding & Construction Supplies,MYR 495.76M,16.7x,,MYR 0.55,3.8%
+329,GUOL,GuocoLand,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 495.71M,17.2x,-0.53,MYR 0.74,0%
+330,PARB,P.A. Resources Bhd,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 495.64M,13.2x,4.18,MYR 0.33,0%
+331,TNCS,Tan Chong Motor,Kuala Lumpur,Consumer Cyclicals,Automobiles & Auto Parts,MYR 495.27M,-3.5x,0.01,MYR 0.76,0%
+332,WELL,Wellspire Holdings Bhd,Kuala Lumpur,Consumer Non-Cyclicals,Food & Drug Retailing,MYR 494.93M,217.2x,5.23,MYR 0.70,0.7%
+333,DLEU,Deleum,Kuala Lumpur,Energy,Oil & Gas Related Equipment and Services,MYR 493.91M,10.8x,1.65,MYR 1.23,0%
+334,IBHD,I Bhd,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 492.18M,26.5x,-0.63,MYR 0.26,0%
+335,SAMA,Samaiden Group Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 489.67M,36.3x,3.44,MYR 1.19,1.7%
+336,GESH,Ge Shen Corp,Kuala Lumpur,Basic Materials,Chemicals,MYR 484.62M,28.7x,0.36,MYR 3.85,4.3%
+337,PTTY,PTT Synergy Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 479.70M,"2,220x",-88.09,MYR 2.22,-0.4%
+338,MNLF,Manulife,Kuala Lumpur,Financials,Insurance,MYR 476.35M,5x,0.04,MYR 2.12,-0.5%
+339,PTRE,Petra Energy Bhd,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 474.99M,8.5x,0.08,MYR 1.48,-1.3%
+340,CABC,CAB Cakaran Corp,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 473.41M,5.2x,-0.39,MYR 0.68,-0.7%
+341,UULI,United U Li Corporation,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 470.45M,10.2x,0.22,MYR 2.16,2.4%
+342,CSTH,CSC Steel,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 469.01M,11x,0.08,MYR 1.27,-0.8%
+343,KJTS,KJTS Berhad,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 467.84M,56.8x,3.04,MYR 0.68,0%
+344,POHK,Poh Kong,Kuala Lumpur,Consumer Cyclicals,Textiles & Apparel,MYR 467.80M,4.7x,-2.33,MYR 1.14,0%
+345,KKBE,KKB Engineering Berhad,Kuala Lumpur,Industrials,Construction & Engineering,MYR 467.74M,17.4x,0.15,MYR 1.62,1.3%
+346,TAMB,Tambun Indah Land,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 465.67M,10.3x,-0.5,MYR 1.06,0%
+347,FVCO,Favelle Favco,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 463.34M,8.9x,0.45,MYR 1.97,0.5%
+348,RIMB,Rimbunan Sawit,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 459.39M,14.1x,0.06,MYR 0.22,0%
+349,SDSG,SDS Group Bhd,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 454.69M,12.5x,0.43,MYR 1.11,0%
+350,KERA,Kerjaya Prospek Property Bhd,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 454.54M,3.5x,0.24,MYR 0.83,2.5%
+351,OFIH,Oriental Food Ind,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 453.60M,10.5x,0.08,MYR 1.89,0%
+352,MYNE,myNEWS,Kuala Lumpur,Consumer Non-Cyclicals,Food & Drug Retailing,MYR 450.21M,300x,2.24,MYR 0.60,0%
+353,ECOF,EcoFirst Cons,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 449.32M,34.5x,-2.64,MYR 0.38,0%
+354,MNHL,MN Holdings Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 449.12M,28.4x,0.42,MYR 0.97,2.1%
+355,AVAL,Avaland Bhd,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 444.38M,5.2x,0.01,MYR 0.31,0%
+356,MNCS,Menang Corp,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 443.91M,13.6x,0.69,MYR 0.64,0%
+357,THEA,Three A Resources Bhd,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 442.54M,8.3x,0.08,MYR 0.90,0.6%
+358,VARI,Varia Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 442M,86.7x,0.74,MYR 1.04,0%
+359,UZMA,Uzma Bhd,Kuala Lumpur,Energy,Oil & Gas Related Equipment and Services,MYR 439.68M,9.6x,0.53,MYR 1.01,1.5%
+360,AJIY,Ajiya,Kuala Lumpur,Consumer Cyclicals,Homebuilding & Construction Supplies,MYR 438.72M,740x,-9.26,MYR 1.48,2.1%
+361,UUEH,UUE Holdings Bhd,Kuala Lumpur,,,MYR 437.97M,30x,-0.31,MYR 0.74,2.8%
+362,SWIF,Swift Haulage Bhd,Kuala Lumpur,Industrials,Freight & Logistics Services,MYR 437.07M,6.2x,0.08,MYR 0.50,1%
+363,SOUS,Southern Acids M Bhd,Kuala Lumpur,Basic Materials,Chemicals,MYR 435.45M,31.8x,-0.55,MYR 3.18,0%
+364,TTVS,Tt Vision Holdings Bhd,Kuala Lumpur,Technology,Semiconductors & Semiconductor Equipment,MYR 435.24M,42x,-2.44,MYR 0.93,-1.1%
+365,SENH,Senheng New Retail Bhd,Kuala Lumpur,Consumer Cyclicals,Specialty Retailers,MYR 435M,18.9x,-0.31,MYR 0.29,0%
+366,CAPE,Cape EMS Bhd,Kuala Lumpur,Technology,Electronic Equipment & Parts,MYR 426.56M,18.5x,,MYR 0.42,-3.5%
+367,EVEG,Evergreen Max Cash Capital Bhd,Kuala Lumpur,Financials,Banking Services,MYR 423.66M,27.9x,-0.4,MYR 0.38,-1.3%
+368,CLOD,Cloudpoint Tech Bhd,Kuala Lumpur,Technology,Software & IT Services,MYR 422.62M,20.2x,14.08,MYR 0.81,2.5%
+369,IFCA,IFCA MSC,Kuala Lumpur,Technology,Software & IT Services,MYR 420.62M,115.8x,0.34,MYR 0.69,5.3%
+370,KUBM,KUB Malaysia,Kuala Lumpur,Energy,Oil & Gas,MYR 417.69M,11.4x,0.28,MYR 0.75,2%
+371,PGFC,PGF Capital Bhd,Kuala Lumpur,Basic Materials,Construction Materials,MYR 416.93M,26.2x,-1.6,MYR 2.15,1.4%
+372,FIMA,Fima Corp,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 412.52M,20.7x,-0.46,MYR 1.74,0%
+373,AFCB,Asia File Corp,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 407.72M,7.8x,0.12,MYR 2.09,0%
+374,EATE,EA Technique M,Kuala Lumpur,Industrials,Freight & Logistics Services,MYR 404.51M,6.9x,-0.94,MYR 0.31,-1.6%
+375,TNTT,Tiong Nam Logistics Holdings Bhd,Kuala Lumpur,Industrials,Freight & Logistics Services,MYR 403.52M,7.1x,0.07,MYR 0.79,0%
+376,SUNS,Sunsuria Bhd,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 398.68M,29.7x,3.49,MYR 0.44,-1.1%
+377,ESCB,Eversendai Corp,Kuala Lumpur,Industrials,Construction & Engineering,MYR 398.31M,15.6x,0.15,MYR 0.51,0%
+378,MUDA,Muda Holdings Bhd,Kuala Lumpur,Basic Materials,Containers & Packaging,MYR 396.57M,-83.1x,-0.48,MYR 1.30,-2.3%
+379,SBRK,Sungei Bagan Rubber,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 395.77M,15.6x,0.03,MYR 5.98,0.2%
+380,KAWA,Kawan Renergy Bhd,Kuala Lumpur,,,MYR 393.25M,0.6x,,MYR 0.73,1.4%
+381,SLCN,Salcon Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 392.13M,-18.1x,0.61,MYR 0.38,4.1%
+382,METO,Metro Healthcare,Kuala Lumpur,Healthcare,Healthcare Providers & Services,MYR 388.53M,63x,2.52,MYR 0.63,0%
+383,TDMS,TDM,Kuala Lumpur,Healthcare,Healthcare Providers & Services,MYR 387.65M,17.3x,0.15,MYR 0.22,0%
+384,CITA,Citaglobal Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 387.18M,39.6x,0.37,MYR 0.91,0%
+385,WENT,Wentel Engineering Holdings Berhad,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 385.25M,29.3x,-0.28,MYR 0.34,0%
+386,DSRT,DSR Taiko Bhd,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 385.24M,180.3x,,MYR 1.18,0%
+387,UNIT,Unitrade Industries Bhd,Kuala Lumpur,Consumer Cyclicals,Homebuilding & Construction Supplies,MYR 383.22M,19.6x,0.66,MYR 0.24,0%
+388,AWCF,AWC,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 382.78M,-575x,6.38,MYR 1.15,0%
+389,HEKR,Hektar REIT,Kuala Lumpur,Real Estate,Residential & Commercial REITs,MYR 374.61M,6.2x,-0.2,MYR 0.53,-0.9%
+390,KPSB,Kumpulan Perangsang Selangor,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 373.48M,6.5x,-0.84,MYR 0.69,0%
+391,YSPS,YSP Southeast Asia,Kuala Lumpur,Healthcare,Pharmaceuticals,MYR 373.05M,9.2x,2.53,MYR 2.63,0%
+392,LAND,Land General,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 371.64M,15.6x,-1.26,MYR 0.13,-3.8%
+393,BPPL,BP Plastics,Kuala Lumpur,Basic Materials,Containers & Packaging,MYR 371.55M,10.7x,1.03,MYR 1.32,0%
+394,NTPM,NTPM,Kuala Lumpur,Consumer Non-Cyclicals,Personal & Household Products & Services,MYR 370.60M,-41.3x,0.95,MYR 0.33,0%
+395,KLRK,Kluang Rubber,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 369.27M,13.4x,0.02,MYR 5.94,0%
+396,WMGH,WMG Holdings Bhd,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 368.54M,-32.7x,-1.83,MYR 0.43,2.4%
+397,JAKS,JAKS Resources,Kuala Lumpur,Industrials,Construction & Engineering,MYR 367.33M,38.8x,-0.46,MYR 0.16,0%
+398,FOPT,Focus Point Holdings Bhd,Kuala Lumpur,Consumer Cyclicals,Specialty Retailers,MYR 364.98M,12.4x,-0.89,MYR 0.80,0.6%
+399,PHUA,Poh Huat Resources,Kuala Lumpur,Consumer Cyclicals,Household Goods,MYR 363.01M,11x,-0.27,MYR 1.37,-2.1%
+400,TGLO,T7 Global,Kuala Lumpur,Energy,Oil & Gas Related Equipment and Services,MYR 360.26M,10.2x,0.22,MYR 0.45,1.1%
+401,TITI,Titijaya Land,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 360.21M,54x,-1.43,MYR 0.27,0%
+402,KUMP,Kumpulan Kitacon Bhd,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 360M,9.4x,1.54,MYR 0.72,0%
+403,OPTI,Optimax Holdings Sdn Bhd,Kuala Lumpur,Healthcare,Healthcare Providers & Services,MYR 358.58M,29.2x,-1.59,MYR 0.66,0%
+404,ELSR,Elsoft Research,Kuala Lumpur,Technology,"Computers, Phones & Household Electronics",MYR 356.60M,57.8x,-0.69,MYR 0.51,0%
+405,METB,Meta Bright Bhd,Kuala Lumpur,Consumer Cyclicals,Hotels & Entertainment Services,MYR 353.72M,35x,-1.42,MYR 0.14,0%
+406,INFO,Infoline Tec Bhd,Kuala Lumpur,Technology,Software & IT Services,MYR 352.33M,26.6x,1.44,MYR 0.98,1%
+407,ALPH,Alpha Ocean Resources Bhd,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 350M,,0.4,MYR 3.50,0%
+408,PSTM,Perusahaan Sadur Timah,Kuala Lumpur,Basic Materials,Containers & Packaging,MYR 348.56M,-9.8x,0.05,MYR 2.70,1.1%
+409,PGKN,Pan Malaysia,Kuala Lumpur,Consumer Cyclicals,Hotels & Entertainment Services,MYR 348.33M,-187.5x,-8.93,MYR 0.38,5.6%
+410,MERC,Mercury Securities Bhd,Kuala Lumpur,Financials,Investment Banking & Investment Services,MYR 348.27M,44.2x,-0.77,MYR 0.39,0%
+411,JHMC,JHM Consolidation Bhd,Kuala Lumpur,Technology,Semiconductors & Semiconductor Equipment,MYR 345.42M,43.8x,-0.97,MYR 0.57,0%
+412,SCCM,Scicom MSC Bhd,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 344.79M,12.3x,-0.74,MYR 0.97,1%
+413,HUBE,HUBLine,Kuala Lumpur,Industrials,Freight & Logistics Services,MYR 343.15M,800x,-8.52,MYR 0.08,0%
+414,SEAL,SEAL Incorporated Bhd,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 342.18M,47.9x,0.02,MYR 0.81,-1.2%
+415,FAJA,Fajarbaru Builder,Kuala Lumpur,Industrials,Construction & Engineering,MYR 330.02M,11x,0.06,MYR 0.44,2.3%
+416,BONI,Bonia Corp,Kuala Lumpur,Consumer Cyclicals,Specialty Retailers,MYR 329.63M,8.6x,-0.22,MYR 1.64,0%
+417,FMHB,FM Global Logistics Holdings Bhd,Kuala Lumpur,Industrials,Freight & Logistics Services,MYR 329.48M,10.4x,-0.32,MYR 0.59,0%
+418,MIKB,Mikro MSC,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 327.41M,9.2x,0.03,MYR 0.31,8.9%
+419,ATRL,Atrium,Kuala Lumpur,Real Estate,Residential & Commercial REITs,MYR 326.63M,11.6x,0.48,MYR 1.23,0%
+420,THRB,Tong Herr Resources Bhd,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 325.46M,73.1x,-0.78,MYR 2.12,-0.5%
+421,KRON,Kronologi Asia,Kuala Lumpur,Technology,Software & IT Services,MYR 325M,40.6x,-0.63,MYR 0.37,0%
+422,CWHB,Chin Well,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 323.69M,31.4x,-0.36,MYR 1.13,0%
+423,KNMP,KNM Group Bhd,Kuala Lumpur,Energy,Oil & Gas Related Equipment and Services,MYR 323.53M,-1.2x,-0.04,MYR 0.08,6.7%
+424,PTRS,PT Resources Holdings Bhd,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 321.01M,7.3x,0.22,MYR 0.60,0%
+425,NHFH,New Hoong Fatt,Kuala Lumpur,Consumer Cyclicals,Automobiles & Auto Parts,MYR 315.81M,6.7x,0.17,MYR 1.91,4.9%
+426,TXCY,Tex Cycle Technology M Bhd,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 314.27M,18.2x,0.15,MYR 1.24,1.6%
+427,SKYG,Skygate Solutions Bhd,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 310.79M,164.2x,0.13,MYR 0.99,2.6%
+428,ECOM,Ecomate Holdings Bhd,Kuala Lumpur,Consumer Cyclicals,Household Goods,MYR 309.69M,379.2x,-4.48,MYR 0.87,-1.2%
+429,SUNV,Sunview Bhd,Kuala Lumpur,Utilities,Electrical Utilities & IPPs,MYR 309.24M,30.9x,-0.83,MYR 0.60,0%
+430,AWAN,Awanbiru Technology Bhd,Kuala Lumpur,Technology,Software & IT Services,MYR 307.43M,97.5x,0.66,MYR 0.39,1.3%
+431,YGON,Yoong Onn Corp,Kuala Lumpur,Consumer Cyclicals,Household Goods,MYR 306.20M,9.3x,-0.48,MYR 1.93,0%
+432,MJYA,Mudajaya,Kuala Lumpur,Industrials,Construction & Engineering,MYR 305.60M,-4x,0.01,MYR 0.12,0%
+433,MEST,Mestron Holdings,Kuala Lumpur,Consumer Cyclicals,Homebuilding & Construction Supplies,MYR 305.23M,21.1x,-3.5,MYR 0.31,3.3%
+434,MAXI,Maxim Global Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 305.04M,24.4x,-0.38,MYR 0.41,0%
+435,NEST,Nestcon Bhd,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 304.53M,68.5x,0.51,MYR 0.43,0%
+436,STEE,Southern Steel Bhd,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 304.07M,-4.1x,-0.06,MYR 0.51,0%
+437,PLSB,PLS Plantations,Kuala Lumpur,Industrials,Construction & Engineering,MYR 303.34M,-8.4x,0,MYR 0.69,-0.7%
+438,MAGH,MAG Holdings Berhad,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 301.84M,9x,0.26,MYR 0.18,0%
+439,CRIT,Critical Holdings Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 301.11M,36x,,MYR 0.81,0%
+440,MAYB,Maybulk Bhd,Kuala Lumpur,Industrials,Freight & Logistics Services,MYR 300M,7.1x,-0.13,MYR 0.30,3.4%
+441,MMSI,MMIS Bhd,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 300M,80.7x,-1.9,MYR 0.50,0%
+442,GDBH,GDB,Kuala Lumpur,Industrials,Construction & Engineering,MYR 300M,32x,-5.13,MYR 0.32,1.6%
+443,EVGN,Evergreen Fibreboard,Kuala Lumpur,Basic Materials,Paper & Forest Products,MYR 299.86M,-25.4x,-0.32,MYR 0.35,1.4%
+444,GLOM,Glomac,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 299.32M,12.6x,-0.51,MYR 0.39,0%
+445,ATNO,Astino,Kuala Lumpur,Consumer Cyclicals,Homebuilding & Construction Supplies,MYR 299.04M,9x,0.97,MYR 0.62,-0.8%
+446,SAHB,Samchem Holdings Bhd,Kuala Lumpur,Basic Materials,Chemicals,MYR 296.48M,9.9x,2.47,MYR 0.55,-0.9%
+447,PGON,Paragon Union,Kuala Lumpur,Consumer Cyclicals,Household Goods,MYR 294.24M,29x,0.1,MYR 3.51,3.2%
+448,STAR,Star Media Group Bhd,Kuala Lumpur,Consumer Cyclicals,Media & Publishing,MYR 293.53M,51.3x,4.99,MYR 0.41,1.3%
+449,MUIB,Malayan United Industries Bhd,Kuala Lumpur,Consumer Cyclicals,Hotels & Entertainment Services,MYR 290.32M,-5.3x,0.02,MYR 0.09,-5.3%
+450,TUNE,Tune Protect Group Bhd,Kuala Lumpur,Financials,Insurance,MYR 290.15M,-42.8x,-0.56,MYR 0.38,1.3%
+451,TECB,Techbond,Kuala Lumpur,Basic Materials,Chemicals,MYR 289.76M,15.2x,0.29,MYR 0.47,1.1%
+452,IRIB,IRIS Corporation,Kuala Lumpur,Technology,Software & IT Services,MYR 289.58M,8.8x,0.18,MYR 0.35,2.9%
+453,PWFC,PW Consolidated,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 289.25M,5.9x,0.06,MYR 0.91,0.5%
+454,SSFH,SSF Home Bhd,Kuala Lumpur,,,MYR 288M,50.6x,-0.79,MYR 0.36,-1.4%
+455,THET,Theta Edge,Kuala Lumpur,Technology,Software & IT Services,MYR 285.48M,45.7x,2.05,MYR 2.42,0.4%
+456,HILI,Hil Industries,Kuala Lumpur,Basic Materials,Chemicals,MYR 285.47M,6.8x,0.09,MYR 0.86,1.2%
+457,NOVS,Nova MSC,Kuala Lumpur,Technology,Software & IT Services,MYR 285.28M,-43x,-0.83,MYR 0.22,2.4%
+458,SLPB,SLP Resources Bhd,Kuala Lumpur,Basic Materials,Containers & Packaging,MYR 285.26M,23.1x,,MYR 0.90,0%
+459,NNCB,N2N Connect,Kuala Lumpur,Technology,Software & IT Services,MYR 284.68M,17.6x,-7.71,MYR 0.51,-1%
+460,AIMF,Aimflex Bhd,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 279.85M,27x,-1.45,MYR 0.19,0%
+461,LAYH,Lay Hong,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 279.56M,3x,0.02,MYR 0.37,1.4%
+462,PSHL,POS Malaysia & Srvcs,Kuala Lumpur,Industrials,Freight & Logistics Services,MYR 277.89M,-1.9x,-0.2,MYR 0.35,0%
+463,FARP,Farm Price Holdings Bhd,Kuala Lumpur,,,MYR 276.75M,0.3x,0.4,MYR 0.61,-0.8%
+464,PANS,Pansar Bhd,Kuala Lumpur,Industrials,Diversified Industrial Goods Wholesale,MYR 276.55M,11.6x,0.06,MYR 0.55,0.9%
+465,BHIB,Boustead Heavy Ind,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 276.50M,-0.6x,0,MYR 0.49,2.1%
+466,MARI,Marine General,Kuala Lumpur,Industrials,Transport Infrastructure,MYR 275.90M,16.6x,8.4,MYR 0.37,2.8%
+467,SDGS,Selangor Dredging,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 274.85M,11.1x,0.04,MYR 0.64,0%
+468,MCRK,Microlink Solutions,Kuala Lumpur,Technology,Software & IT Services,MYR 273.46M,-10.2x,0.05,MYR 0.25,-1.9%
+469,BESH,Beshom Holdings Bhd,Kuala Lumpur,Consumer Cyclicals,Specialty Retailers,MYR 272.97M,25.3x,-0.75,MYR 0.91,1.1%
+470,PARA,Paragon Globe Bhd,Kuala Lumpur,Consumer Cyclicals,Homebuilding & Construction Supplies,MYR 272.52M,-182.5x,1.37,MYR 0.37,1.4%
+471,PRKN,Parkson,Kuala Lumpur,Consumer Cyclicals,Diversified Retail,MYR 269.99M,-19.2x,7.5,MYR 0.23,0%
+472,CARL,Carlo Rino Bhd,Kuala Lumpur,Consumer Cyclicals,Specialty Retailers,MYR 269.89M,12.9x,-0.46,MYR 0.34,0%
+473,GADA,Gadang,Kuala Lumpur,Industrials,Construction & Engineering,MYR 269.38M,61.7x,0.51,MYR 0.37,1.4%
+474,JENT,Jentayu Sustainables Bhd,Kuala Lumpur,Utilities,Electrical Utilities & IPPs,MYR 269.19M,-9.8x,-1.2,MYR 0.61,3.4%
+475,HOME,Homeritz Corp,Kuala Lumpur,Consumer Cyclicals,Household Goods,MYR 268.68M,7.6x,0.36,MYR 0.58,-0.9%
+476,MUIP,MUI Properties,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 266.73M,8.6x,0.04,MYR 0.36,10.8%
+477,TMEI,Tomei Consolidated,Kuala Lumpur,Consumer Cyclicals,Specialty Retailers,MYR 266.11M,4.8x,-0.44,MYR 1.92,1.6%
+478,LFEC,LFE Corp,Kuala Lumpur,Industrials,Construction & Engineering,MYR 266.07M,13.3x,0.01,MYR 0.24,-2%
+479,ADVA,Advance Synergy,Kuala Lumpur,Consumer Cyclicals,Hotels & Entertainment Services,MYR 265.57M,-5x,0.73,MYR 0.10,0%
+480,YENH,Yenher Holdings Bhd,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 265.50M,14x,-4.97,MYR 0.89,0%
+481,HEGR,He Bhd,Kuala Lumpur,Utilities,Electrical Utilities & IPPs,MYR 264M,21.9x,0.31,MYR 0.61,1.7%
+482,BPUR,Bina Puri,Kuala Lumpur,Industrials,Construction & Engineering,MYR 263.19M,-3.4x,-0.06,MYR 0.39,0%
+483,MTAG,Mtag Group Berhad,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 262.42M,12.3x,-0.45,MYR 0.39,1.3%
+484,PINT,Pintaras Jaya,Kuala Lumpur,Industrials,Construction & Engineering,MYR 262.07M,-63.2x,0.52,MYR 1.58,1.9%
+485,SBHM,SBH Marine Holdings Bhd,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 261.96M,14.5x,-0.86,MYR 0.30,0%
+486,BWYS,BWYS Bhd,Kuala Lumpur,,,MYR 261.43M,,-0.65,MYR 0.26,2%
+487,NSOS,Negri Sembilan Oil Palms,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 259.75M,12.1x,1.66,MYR 3.70,0%
+488,MNTH,Minetech Resources Bhd,Kuala Lumpur,Basic Materials,Construction Materials,MYR 258.78M,-36.3x,-0.79,MYR 0.14,0%
+489,POWR,Powerwell,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 258.35M,12.1x,0.07,MYR 0.46,2.3%
+490,KESM,KESM Industries,Kuala Lumpur,Technology,Semiconductors & Semiconductor Equipment,MYR 255.08M,174.4x,1.4,MYR 5.93,0.2%
+491,FCWH,FCW,Kuala Lumpur,Consumer Non-Cyclicals,Personal & Household Products & Services,MYR 254.99M,10.5x,6.47,MYR 1.02,-2.9%
+492,HEXI,Hextar Retail Bhd,Kuala Lumpur,Basic Materials,Paper & Forest Products,MYR 251.53M,"-2,037.7x",24.99,MYR 0.51,6.3%
+493,MITR,Mitrajaya,Kuala Lumpur,Industrials,Construction & Engineering,MYR 250.15M,-33x,0.27,MYR 0.33,0%
+494,ECOR,Econframe Bhd,Kuala Lumpur,Consumer Cyclicals,Homebuilding & Construction Supplies,MYR 248.91M,17.1x,2.36,MYR 0.69,0%
+495,DUTA,Dutaland,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 248.30M,27.7x,0.18,MYR 0.31,0%
+496,HEXR,Hextar,Kuala Lumpur,Healthcare,Healthcare Equipment & Supplies,MYR 247.30M,-3.9x,-0.52,MYR 0.24,0%
+497,XLHO,XL Holdings Bhd,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 247.28M,27.4x,0.82,MYR 0.80,0.6%
+498,KCDS,Kuchai Develop,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 246.26M,-18.4x,-0.23,MYR 1.99,-0.5%
+499,TSAG,TSA Bhd,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 245.89M,11.7x,-0.16,MYR 0.80,0%
+500,PPHB,Public Packages Holdings,Kuala Lumpur,Basic Materials,Containers & Packaging,MYR 245.36M,4.9x,0.21,MYR 0.92,0.5%
+501,INTA,Inta Bina Group,Kuala Lumpur,Consumer Cyclicals,Homebuilding & Construction Supplies,MYR 244.98M,9.3x,0.07,MYR 0.44,1.1%
+502,RHOG,Rhong Khen International Bhd,Kuala Lumpur,Consumer Cyclicals,Household Goods,MYR 243.70M,10.2x,-0.46,MYR 1.25,-0.8%
+503,MLTO,Malton,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 242.94M,-4.2x,0.02,MYR 0.46,1.1%
+504,PAND,Panda Eco System Bhd,Kuala Lumpur,Technology,Software & IT Services,MYR 241.63M,67.3x,-3.99,MYR 0.38,4.2%
+505,CENG,Cengild Medical Bhd,Kuala Lumpur,Healthcare,Healthcare Providers & Services,MYR 241.54M,22.2x,-0.95,MYR 0.29,0%
+506,MKLH,M K Land,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 240.92M,19.5x,-1.37,MYR 0.20,2.6%
+507,AGXG,AGX Bhd,Kuala Lumpur,Industrials,Freight & Logistics Services,MYR 240.24M,18.1x,-0.91,MYR 0.55,-1.8%
+508,MAGN,Magna Prima,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 239.49M,-2.2x,0.01,MYR 0.60,1.7%
+509,SANC,Sancy Bhd,Kuala Lumpur,Healthcare,Healthcare Equipment & Supplies,MYR 237.71M,125x,0.34,MYR 0.35,0%
+510,CUSC,Cuscapi Berhad,Kuala Lumpur,Technology,Software & IT Services,MYR 236.22M,250x,1.46,MYR 0.25,4.2%
+511,MSTG,MST Golf Bhd,Kuala Lumpur,Consumer Cyclicals,Hotels & Entertainment Services,MYR 233.95M,26x,-0.29,MYR 0.29,1.8%
+512,SUNM,Sunmow Holding Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 232.77M,29x,0.55,MYR 1,0%
+513,GKMS,George Kent,Kuala Lumpur,Industrials,Construction & Engineering,MYR 232.18M,-9.1x,0,MYR 0.44,-1.1%
+514,UMED,UMediC Bhd,Kuala Lumpur,Healthcare,Healthcare Equipment & Supplies,MYR 231.82M,26.9x,-1.11,MYR 0.63,1.6%
+515,COMF,Comfort Gloves,Kuala Lumpur,Healthcare,Healthcare Equipment & Supplies,MYR 231.60M,-12.5x,-0.18,MYR 0.40,1.3%
+516,LEFO,Leform Bhd,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 229.56M,-51.9x,-0.74,MYR 0.16,0%
+517,EITA,EITA Resources,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 229.38M,12.3x,0.25,MYR 0.76,0%
+518,ALSA,Al-Salam Real Estate,Kuala Lumpur,Real Estate,Residential & Commercial REITs,MYR 229.10M,11x,-0.16,MYR 0.40,-1.3%
+519,SZBB,Sunzen Biotech,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 228.93M,32x,0.38,MYR 0.32,3.2%
+520,JKGL,JKG Land,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 227.49M,8.3x,2.82,MYR 0.10,0%
+521,YEWL,Yew Lee Pacific Bhd,Kuala Lumpur,Consumer Non-Cyclicals,Personal & Household Products & Services,MYR 227.29M,-110.1x,-4.89,MYR 0.43,0%
+522,MSWK,Malaysia Steel Works KL Bhd,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 226.89M,47.9x,-3.22,MYR 0.34,-1.5%
+523,LTER,Luster Industries Bhd,Kuala Lumpur,Basic Materials,Chemicals,MYR 226.70M,75x,0.47,MYR 0.08,7.1%
+524,KTIL,KTI Landmark Berhad,Kuala Lumpur,,,MYR 224M,,0.51,MYR 0.28,0%
+525,TAFI,TAFI Industries,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 223.86M,45.8x,-1.23,MYR 0.59,-0.8%
+526,HEIT,HeiTech Padu,Kuala Lumpur,Technology,Software & IT Services,MYR 223.81M,19.2x,0.12,MYR 2.01,2.5%
+527,YNHB,YNH Property,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 221.96M,-7.5x,,MYR 0.42,1.2%
+528,UMEC,Unimech Group Bhd,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 221.66M,8.2x,-0.54,MYR 1.51,0%
+529,GFMS,GFM Services,Kuala Lumpur,Consumer Non-Cyclicals,Consumer Goods Conglomerates,MYR 220.26M,6.9x,0.23,MYR 0.29,3.6%
+530,WTKH,WTK,Kuala Lumpur,Basic Materials,Paper & Forest Products,MYR 219.87M,-47x,-0.74,MYR 0.47,1.1%
+531,LBAL,LB Aluminium Bhd,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 219.60M,7.5x,-0.31,MYR 0.50,0%
+532,CNER,Cnergenz Bhd,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 219.12M,31x,-0.39,MYR 0.45,2.3%
+533,MSTP,Master Pack,Kuala Lumpur,Basic Materials,Containers & Packaging,MYR 218.48M,8.1x,0.38,MYR 4,0%
+534,LPGL,L P Global Bhd,Kuala Lumpur,Basic Materials,Containers & Packaging,MYR 218.40M,9.9x,,MYR 0.40,2.6%
+535,GAGA,Gagasan Nadi Cergas,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 218.37M,48.3x,0.31,MYR 0.29,0%
+536,SIAB,Siab Holdings Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 217.86M,-3.7x,-0.71,MYR 0.14,3.6%
+537,AMFL,AmFIRST,Kuala Lumpur,Real Estate,Residential & Commercial REITs,MYR 216.22M,8.5x,0.1,MYR 0.31,0%
+538,MDCH,Media Chinese Int,Kuala Lumpur,Consumer Cyclicals,Media & Publishing,MYR 215.11M,-3.7x,0,MYR 0.13,4%
+539,AEML,Aemulus Holdings Bhd,Kuala Lumpur,Technology,Semiconductors & Semiconductor Equipment,MYR 214.83M,-4.2x,0.01,MYR 0.32,3.2%
+540,SCCE,Success Transformer Corp,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 214.71M,9.8x,0.55,MYR 0.91,-1.1%
+541,JCBN,JCBNext Berhad,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 214.28M,5.3x,0.07,MYR 1.63,-0.6%
+542,HLEN,Harn Len Corp,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 214.08M,-63.3x,0.37,MYR 0.38,-1.3%
+543,RGTB,RGT Bhd,Kuala Lumpur,Basic Materials,Chemicals,MYR 213.92M,206.7x,-2.43,MYR 0.62,-0.8%
+544,NPCR,NPC Resources Bhd,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 212.38M,15.4x,0.06,MYR 1.82,0%
+545,CORA,Coraza Integrated Tech Bhd,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 212.26M,-46.5x,0.27,MYR 0.44,2.3%
+546,SALU,Salutica Bhd,Kuala Lumpur,Technology,Communications & Networking,MYR 211.75M,-5.6x,0.02,MYR 0.50,0%
+547,CPWA,Cepatwawasan,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 211.64M,10.9x,5.29,MYR 0.69,2.2%
+548,ONLY,Only World,Kuala Lumpur,Consumer Cyclicals,Hotels & Entertainment Services,MYR 211.09M,15.3x,0.01,MYR 0.46,-1.1%
+549,APES,Apex Equity,Kuala Lumpur,Financials,Investment Banking & Investment Services,MYR 208.72M,30.3x,3.02,MYR 1.03,-1.9%
+550,PACO,Pacific Orient,Kuala Lumpur,Financials,Insurance,MYR 208.42M,-22.4x,-0.4,MYR 0.74,-2.6%
+551,HXZS,Hexza Corp,Kuala Lumpur,Basic Materials,Chemicals,MYR 208.40M,33.2x,-6.97,MYR 1.04,2%
+552,CARM,Carimin Petroleum,Kuala Lumpur,Energy,Oil & Gas Related Equipment and Services,MYR 208.15M,6.2x,0.1,MYR 0.89,0.6%
+553,AGMO,Agmo Holdings Bhd,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 208M,25.7x,2.26,MYR 0.67,4.7%
+554,TRCG,TRC Synergy,Kuala Lumpur,Industrials,Construction & Engineering,MYR 207.37M,9x,-0.17,MYR 0.44,-1.1%
+555,BCBB,BCB,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 205.84M,10.7x,-0.62,MYR 0.51,4.1%
+556,ECES,Efficient E Solutions,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 203.82M,73.3x,0.02,MYR 0.22,2.3%
+557,MAGA,Magma Bhd,Kuala Lumpur,Consumer Cyclicals,Hotels & Entertainment Services,MYR 203.80M,-11.3x,-0.15,MYR 0.22,2.4%
+558,MATA,Matang,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 203.08M,85x,-1.79,MYR 0.09,0%
+559,CARE,Careplus Group,Kuala Lumpur,Healthcare,Healthcare Equipment & Supplies,MYR 203.05M,-1.1x,,MYR 0.29,3.6%
+560,SYST,Systech,Kuala Lumpur,Technology,Software & IT Services,MYR 202.43M,-20x,-5.31,MYR 0.31,1.6%
+561,YBSI,YBS Intl,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 202.25M,-29.8x,0.12,MYR 0.77,0.7%
+562,RADI,Radiant Globaltech,Kuala Lumpur,Consumer Cyclicals,Specialty Retailers,MYR 202.20M,32.1x,-1.38,MYR 0.38,1.3%
+563,JATI,Jati Tinggi Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 201.78M,17x,0.1,MYR 0.54,4.9%
+564,FOUN,FoundPac,Kuala Lumpur,Technology,Electronic Equipment & Parts,MYR 201.52M,33.6x,-0.71,MYR 0.37,1.4%
+565,ECAI,ECA Integrated Solution Bhd,Kuala Lumpur,Technology,Semiconductors & Semiconductor Equipment,MYR 199.77M,74.6x,,MYR 0.35,2.9%
+566,RAMS,Ramssol Bhd,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 197.76M,30.6x,4.72,MYR 0.66,5.6%
+567,MCEI,MCE Holdings,Kuala Lumpur,Consumer Cyclicals,Automobiles & Auto Parts,MYR 197.69M,10.6x,2.01,MYR 1.60,-1.8%
+568,DNCO,Dancomech,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 196.93M,9.1x,0.8,MYR 0.44,2.3%
+569,HEXC,Hextar Capital Bhd,Kuala Lumpur,Technology,Communications & Networking,MYR 196.66M,88x,-1.64,MYR 0.44,1.2%
+570,RVWL,Riverview Rubber Estates,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 196.50M,33.7x,-0.7,MYR 3.03,-0.3%
+571,GAQR,Gabungan,Kuala Lumpur,Industrials,Construction & Engineering,MYR 195.40M,14.4x,-0.82,MYR 0.36,1.4%
+572,LTKM,LTKM,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 194.64M,3.3x,0.02,MYR 1.36,0%
+573,PLYT,PLYTEC Holding Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 193.94M,24.6x,-0.57,MYR 0.32,0%
+574,BETA,Betamek Bhd,Kuala Lumpur,Consumer Cyclicals,Specialty Retailers,MYR 193.50M,9.4x,,MYR 0.45,3.5%
+575,JAYC,Jaycorp,Kuala Lumpur,Consumer Cyclicals,Household Goods,MYR 193.49M,12.6x,-0.43,MYR 0.72,0%
+576,ANRE,Analabs Resources,Kuala Lumpur,Basic Materials,Chemicals,MYR 192.81M,7x,0.35,MYR 1.77,0%
+577,LOTU,Lotus KFM Bhd,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 190.88M,185x,-6.01,MYR 0.19,-7.5%
+578,SLKI,Sealink International Bhd,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 190M,20x,0.14,MYR 0.38,2.7%
+579,LEON,Leon Fuat,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 187.55M,5.6x,0.05,MYR 0.55,0%
+580,AZRB,Ahmad Zaki Res,Kuala Lumpur,Industrials,Construction & Engineering,MYR 186.98M,3x,0.02,MYR 0.28,3.6%
+581,EDEL,Edelteq Holdings Bhd,Kuala Lumpur,Technology,Semiconductors & Semiconductor Equipment,MYR 186.39M,90.6x,,MYR 0.40,12.9%
+582,EXFM,Excel Force MSC,Kuala Lumpur,Technology,Software & IT Services,MYR 186.01M,22.1x,,MYR 0.31,0%
+583,SYML,Symphony Life,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 185.05M,-23.3x,-0.27,MYR 0.28,0%
+584,DCHE,DC Healthcare Holdings Bhd,Kuala Lumpur,Consumer Non-Cyclicals,Personal & Household Products & Services,MYR 184.32M,-26.6x,,MYR 0.19,2.7%
+585,AMRY,AmanahRaya Real Estate,Kuala Lumpur,Real Estate,Residential & Commercial REITs,MYR 183.43M,53.3x,-0.71,MYR 0.32,0%
+586,JAGB,JAG,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 182.70M,61.3x,-0.98,MYR 0.25,2%
+587,EPIO,Epicon Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 181.41M,2.4x,0.06,MYR 0.31,3.4%
+588,HEVE,HeveaBoard,Kuala Lumpur,Basic Materials,Paper & Forest Products,MYR 181.08M,45.7x,0.18,MYR 0.32,1.6%
+589,MHCP,MHC Plantations,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 180.82M,8x,-0.63,MYR 0.92,0%
+590,LLBM,Lion Industries Corp,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 180.41M,-0.4x,0.01,MYR 0.26,0%
+591,DKLS,DKLS Industries,Kuala Lumpur,Industrials,Construction & Engineering,MYR 179.84M,5.2x,0.05,MYR 1.94,0%
+592,HHRG,HHRG Bhd,Kuala Lumpur,Consumer Cyclicals,Textiles & Apparel,MYR 176.85M,23.1x,-0.29,MYR 0.19,-5.1%
+593,CNSH,Censof,Kuala Lumpur,Technology,Financial Technology (Fintech) & Infrastructure,MYR 176.73M,40x,-1.58,MYR 0.32,4.9%
+594,APPA,Appasia,Kuala Lumpur,Technology,Software & IT Services,MYR 175.38M,72.5x,0.64,MYR 0.14,0%
+595,VSTL,Versatile Creative Bhd,Kuala Lumpur,Basic Materials,Containers & Packaging,MYR 175.06M,69.4x,0.14,MYR 0.63,0%
+596,KONE,K-One Tech,Kuala Lumpur,Technology,Electronic Equipment & Parts,MYR 174.72M,68.3x,0.23,MYR 0.21,5%
+597,EUPE,Eupe Corp,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 173.70M,4.1x,0.07,MYR 1.18,0%
+598,DSSI,DS Sigma Holdings Bhd,Kuala Lumpur,Basic Materials,Containers & Packaging,MYR 172.80M,16.8x,,MYR 0.37,2.8%
+599,OPYS,OpenSys M,Kuala Lumpur,Technology,Software & IT Services,MYR 172.03M,13.3x,2.07,MYR 0.38,0%
+600,CJCE,CJ Century Logistics,Kuala Lumpur,Industrials,Freight & Logistics Services,MYR 171.66M,17.4x,-0.31,MYR 0.29,0%
+601,CHOO,Choo Bee Metal Ind,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 171.58M,-291.7x,-2.93,MYR 0.88,-1.7%
+602,UNIQ,Unique Fire Holdings Bhd,Kuala Lumpur,Government Activity,Government Activity,MYR 168M,17.2x,0.09,MYR 0.45,6%
+603,DAYT,Daythree Digital Bhd,Kuala Lumpur,Technology,Software & IT Services,MYR 168M,26.6x,,MYR 0.35,-1.4%
+604,SCIB,Sarawak Consolidated Industries,Kuala Lumpur,Basic Materials,Construction Materials,MYR 167.98M,-9.6x,-0.16,MYR 0.25,0%
+605,CCIN,CC International Bhd,Kuala Lumpur,Consumer Non-Cyclicals,Personal & Household Products & Services,MYR 167.89M,23.3x,0.51,MYR 0.35,0%
+606,NICH,Niche Capital Emas,Kuala Lumpur,Consumer Cyclicals,Textiles & Apparel,MYR 167.12M,-9.2x,0.11,MYR 0.12,0%
+607,OKAC,Oka Corporation Bhd,Kuala Lumpur,Basic Materials,Construction Materials,MYR 166.87M,17.9x,-1.13,MYR 0.68,0%
+608,CLOU,Cloudaron Bhd,Kuala Lumpur,Technology,Software & IT Services,MYR 166.24M,-9.6x,0.01,MYR 0.20,0%
+609,CVIE,Country View,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 165M,12x,0.08,MYR 1.65,0%
+610,PTAR,Prestar Resources Bhd,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 163.38M,6.4x,0.01,MYR 0.46,1.1%
+611,AYSV,AYS Ventures,Kuala Lumpur,Industrials,Diversified Industrial Goods Wholesale,MYR 163.20M,8.7x,-0.16,MYR 0.39,0%
+612,WHSE,White Horse Bhd,Kuala Lumpur,Consumer Cyclicals,Homebuilding & Construction Supplies,MYR 163.19M,-123.3x,-1.27,MYR 0.74,0%
+613,PEIN,PESTECH Intl,Kuala Lumpur,Industrials,Construction & Engineering,MYR 162.45M,-0.6x,0,MYR 0.17,-2.9%
+614,WLOW,Willowglen MSC,Kuala Lumpur,Technology,Software & IT Services,MYR 162.40M,17.6x,-0.51,MYR 0.34,0%
+615,UPAB,UPA Corp,Kuala Lumpur,Basic Materials,Paper & Forest Products,MYR 162.14M,36.8x,-0.5,MYR 0.70,-1.4%
+616,GOPK,Gopeng,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 161.40M,-200x,-2.25,MYR 0.40,0%
+617,NOVW,Nova Wellness,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 160.95M,14.9x,-0.82,MYR 0.50,0%
+618,APBS,APB Resources,Kuala Lumpur,Industrials,Construction & Engineering,MYR 160.27M,-7.6x,0.02,MYR 1.42,-1.4%
+619,KEHG,Kein Hing International Bhd,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 158.99M,10.6x,-0.33,MYR 1.46,0%
+620,INNA,Innature Bhd,Kuala Lumpur,Consumer Cyclicals,Specialty Retailers,MYR 158.82M,18.3x,-0.33,MYR 0.23,0%
+621,KSSC,K Seng Seng Corp,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 156.87M,-9.7x,0,MYR 0.89,-1.6%
+622,PRTO,Protasco,Kuala Lumpur,Industrials,Construction & Engineering,MYR 156.56M,65x,0.63,MYR 0.32,3.2%
+623,PESO,Pesona Metro Holdings Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 156.37M,14.1x,0.05,MYR 0.22,0%
+624,APHB,Asian Pac,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 156.33M,6.2x,0.02,MYR 0.10,0%
+625,MROD,Metrod Bhd,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 156M,10.7x,0.94,MYR 1.30,0%
+626,REXT,Rexit,Kuala Lumpur,Technology,Software & IT Services,MYR 155.89M,11.3x,0.24,MYR 0.90,0%
+627,SCPE,Scope Industries Bhd,Kuala Lumpur,Technology,Electronic Equipment & Parts,MYR 155.84M,-67.5x,0.59,MYR 0.14,0%
+628,DATA,Dataprep,Kuala Lumpur,Technology,Software & IT Services,MYR 154.87M,-5.7x,0.22,MYR 0.20,-2.4%
+629,WIDA,Widad Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 154.82M,-7.1x,0.09,MYR 0.05,0%
+630,ROHA,Rohas Tecnic,Kuala Lumpur,Industrials,Construction & Engineering,MYR 153.61M,54.2x,-0.67,MYR 0.32,1.6%
+631,MRHB,Marco,Kuala Lumpur,Consumer Cyclicals,Textiles & Apparel,MYR 152.87M,10.4x,-0.37,MYR 0.14,3.6%
+632,MAXL,Maxland Berhad,Kuala Lumpur,Basic Materials,Paper & Forest Products,MYR 152.34M,-47.5x,0.52,MYR 0.09,0%
+633,TWRE,Tower Real Estate,Kuala Lumpur,Real Estate,Residential & Commercial REITs,MYR 152.17M,16.3x,0.21,MYR 0.31,0%
+634,PMCS,Pan Malaysia Corp,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 150.05M,4.6x,0.11,MYR 0.17,0%
+635,KIMT,Kim Teck Cheong Consolidated Bhd,Kuala Lumpur,Consumer Non-Cyclicals,Food & Drug Retailing,MYR 150.01M,7.1x,-3.51,MYR 0.22,0%
+636,YGCB,Y&G Corp,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 149.66M,19x,1.08,MYR 0.69,0%
+637,ADVN,Advancecon Holdings,Kuala Lumpur,Industrials,Construction & Engineering,MYR 149.59M,-3.1x,0.03,MYR 0.26,0%
+638,IKEN,Inch Kenneth Kajang Rubber,Kuala Lumpur,Consumer Cyclicals,Hotels & Entertainment Services,MYR 149.58M,-24.7x,-0.73,MYR 0.40,-1.3%
+639,HPPH,HPP Holdings Bhd,Kuala Lumpur,Basic Materials,Containers & Packaging,MYR 147.60M,37.7x,-0.64,MYR 0.38,-1.3%
+640,HAIL,Haily Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 147.11M,19.4x,8.09,MYR 0.86,4.2%
+641,EDUS,Eduspec,Kuala Lumpur,Academic & Educational Services,Miscellaneous Educational Service Providers,MYR 146.84M,-12.5x,0.06,MYR 0.13,0%
+642,TOMY,Tomypak Holdings Bhd,Kuala Lumpur,Basic Materials,Containers & Packaging,MYR 146.58M,-10x,,MYR 0.34,3%
+643,RHON,Rhone Ma,Kuala Lumpur,Healthcare,Pharmaceuticals,MYR 146.01M,11.8x,-6.45,MYR 0.66,0%
+644,DPSS,DPS Resources,Kuala Lumpur,Industrials,Construction & Engineering,MYR 145.66M,30.8x,-1.57,MYR 0.58,0.9%
+645,SECU,Securemetric,Kuala Lumpur,Technology,Software & IT Services,MYR 144.27M,250x,1.49,MYR 0.25,4.2%
+646,TWLH,TWL Holdings Bhd,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 144.15M,12.5x,0.16,MYR 0.03,-16.7%
+647,ICOI,Iconic Worldwide,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 143.40M,-2.1x,-0.68,MYR 0.09,0%
+648,EPMB,EP Manufacturing,Kuala Lumpur,Consumer Cyclicals,Automobiles & Auto Parts,MYR 143.18M,6.8x,0.02,MYR 0.65,0%
+649,SPLH,Superlon Holdings Bhd,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 142.73M,11.8x,0.03,MYR 0.90,-0.5%
+650,BENL,Benalec,Kuala Lumpur,Industrials,Construction & Engineering,MYR 142.64M,-2.6x,0.09,MYR 0.14,3.7%
+651,JISH,Jishan Bhd,Kuala Lumpur,Basic Materials,Containers & Packaging,MYR 141.09M,22.5x,-1.01,MYR 0.60,0%
+652,GRYB,Greenyield,Kuala Lumpur,Basic Materials,Paper & Forest Products,MYR 141M,-14.4x,0.11,MYR 0.26,0%
+653,LHTM,Lee Swee Kiat,Kuala Lumpur,Consumer Cyclicals,Household Goods,MYR 140.93M,9.7x,0.31,MYR 0.56,1.8%
+654,CATH,Catcha Digital Bhd,Kuala Lumpur,Consumer Cyclicals,Media & Publishing,MYR 140.83M,44.4x,0.17,MYR 0.40,-1.2%
+655,HUAY,Hua Yang,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 140.80M,21.3x,1.03,MYR 0.32,0%
+656,MYCS,Mycron Steel Bhd,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 140.63M,15.9x,0.04,MYR 0.43,0%
+657,MAYU,Mayu Global Bhd,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 139.92M,11.6x,0.01,MYR 0.29,-4.9%
+658,SUBU,Subur Tiasa Holdings Bhd,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 139.42M,-8.9x,0.06,MYR 0.74,0%
+659,PNHB,Puncak Niaga,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 138.65M,155x,1.56,MYR 0.31,1.6%
+660,HLTG,HLT Global,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 138.40M,-3.1x,-0.11,MYR 0.17,6.4%
+661,DOMN,Dominant Enterprise,Kuala Lumpur,Basic Materials,Paper & Forest Products,MYR 137.98M,8.4x,0.16,MYR 0.83,0%
+662,FUJI,FSBM,Kuala Lumpur,Technology,Software & IT Services,MYR 137.12M,39.3x,-0.82,MYR 0.27,0%
+663,SKBC,SKB Shutters Corporation Bhd,Kuala Lumpur,Consumer Cyclicals,Homebuilding & Construction Supplies,MYR 135.94M,8.9x,-4.61,MYR 1,5.3%
+664,DPIH,Dpi,Kuala Lumpur,Basic Materials,Chemicals,MYR 135.07M,30.8x,0.49,MYR 0.19,0%
+665,BKCB,Bintai Kinden Corp,Kuala Lumpur,Industrials,Construction & Engineering,MYR 134.20M,27.5x,0.34,MYR 0.11,0%
+666,SHHR,SHH Resources,Kuala Lumpur,Consumer Cyclicals,Household Goods,MYR 133.99M,28.5x,-0.95,MYR 1.34,4.7%
+667,GLOT,Globaltec Formation,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 131.87M,18.1x,-0.44,MYR 0.49,-2%
+668,ARKA,Arka Bhd,Kuala Lumpur,Industrials,Freight & Logistics Services,MYR 131M,-60.6x,0.26,MYR 2,0%
+669,LMHS,Landmarks,Kuala Lumpur,Consumer Cyclicals,Hotels & Entertainment Services,MYR 130.95M,195x,1.98,MYR 0.19,-2.5%
+670,OCRG,OCR,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 130.29M,-5x,,MYR 0.06,8.3%
+671,SCGB,SCGM Bhd,Kuala Lumpur,Basic Materials,Chemicals,MYR 129.98M,4x,-0.2,MYR 0.68,0%
+672,ICTZ,ICT Zone Asia Bhd,Kuala Lumpur,Consumer Non-Cyclicals,Personal & Household Products & Services,MYR 129.17M,17.8x,2.61,MYR 0.22,0%
+673,CYBE,Cyberjaya Education Bhd,Kuala Lumpur,Academic & Educational Services,Miscellaneous Educational Service Providers,MYR 127.61M,18.5x,,MYR 0.76,0%
+674,FCDY,Focus Dynamics,Kuala Lumpur,Consumer Cyclicals,Hotels & Entertainment Services,MYR 127.44M,-6.7x,-0.09,MYR 0.02,0%
+675,AGRI,Agricore CS Holdings Bhd,Kuala Lumpur,,,MYR 126.75M,,-0.4,MYR 0.63,0.8%
+676,PBSB,PBS Bhd,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 126.67M,-2.3x,0.06,MYR 0.21,0%
+677,BIOA,Bioalpha,Kuala Lumpur,Healthcare,Pharmaceuticals,MYR 126.58M,-3.6x,-0.08,MYR 0.09,5.9%
+678,MOBI,Mobilia Holdings Bhd,Kuala Lumpur,Consumer Cyclicals,Household Goods,MYR 126M,13.4x,1.13,MYR 0.19,5.6%
+679,TWPH,Tien Wah Press Holdings,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 125.93M,14.5x,0.1,MYR 0.87,0%
+680,MILU,Milux Corp,Kuala Lumpur,Consumer Cyclicals,Household Goods,MYR 125.76M,-31.5x,0.09,MYR 0.54,1.9%
+681,TASH,Tashin Holdings Bhd,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 125.64M,24.2x,0.31,MYR 0.36,0%
+682,DEST,Destini,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 124.76M,-2.6x,-0.16,MYR 0.25,-2%
+683,OVER,Oversea Enterprise Bhd,Kuala Lumpur,Consumer Cyclicals,Hotels & Entertainment Services,MYR 124.74M,27.5x,0.14,MYR 0.05,10%
+684,VOLC,Volcano Bhd,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 124.42M,26.5x,,MYR 0.69,0%
+685,SCER,Seacera Group Bhd,Kuala Lumpur,Consumer Cyclicals,Homebuilding & Construction Supplies,MYR 124.37M,22.2x,-0.8,MYR 0.20,2.6%
+686,PLBE,PLB Engineering,Kuala Lumpur,Industrials,Construction & Engineering,MYR 123.63M,-13.4x,1.31,MYR 1.10,0%
+687,OSKV,OSK Ventures Intl,Kuala Lumpur,Financials,Investment Banking & Investment Services,MYR 121.80M,4.9x,0.07,MYR 0.62,0%
+688,EDSB,Edaran Bhd,Kuala Lumpur,Technology,Software & IT Services,MYR 121.60M,43.3x,0.39,MYR 2.10,1.4%
+689,ESCM,ES Ceramics Technology Bhd,Kuala Lumpur,Consumer Cyclicals,Textiles & Apparel,MYR 120.85M,175x,-1.97,MYR 0.18,5.9%
+690,STRA,Straits Inter Logistics,Kuala Lumpur,Energy,Oil & Gas,MYR 119.34M,17.1x,0.57,MYR 0.12,0%
+691,ASIA,Asia Brands,Kuala Lumpur,Consumer Cyclicals,Textiles & Apparel,MYR 118.65M,13.6x,-0.47,MYR 0.51,-1%
+692,MANS,Managepay Systems,Kuala Lumpur,Technology,Software & IT Services,MYR 116.43M,-8x,0.37,MYR 0.12,0%
+693,ECMI,ECM Libra Financial,Kuala Lumpur,Consumer Cyclicals,Hotels & Entertainment Services,MYR 116.39M,4.5x,0,MYR 0.23,-2.1%
+694,TSOF,TAS Offshore Bhd,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 116.26M,11.9x,-0.33,MYR 0.65,2.4%
+695,PDEC,Pasdec,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 116.11M,17.1x,0.12,MYR 0.29,3.6%
+696,ANEK,Aneka Jaringan Holdings Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 114.50M,105.3x,0.74,MYR 0.18,2.9%
+697,ZANT,Zantat Holdings Bhd,Kuala Lumpur,Basic Materials,Chemicals,MYR 113.40M,11.8x,0.34,MYR 0.41,0%
+698,GLOA,G3 Global,Kuala Lumpur,Consumer Cyclicals,Textiles & Apparel,MYR 113.21M,-750x,0.6,MYR 0.03,-14.3%
+699,GMUT,Gromutual,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 112.68M,8.8x,6.97,MYR 0.30,0%
+700,KHIN,Khind,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 112.66M,14.6x,-0.29,MYR 2.68,0%
+701,ECOS,Ecoscience International Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 112.20M,-9.7x,1.87,MYR 0.30,0%
+702,DIVF,Divfex Bhd,Kuala Lumpur,Technology,Software & IT Services,MYR 111.86M,21.4x,0.36,MYR 0.15,3.4%
+703,ONEG,One Glove Bhd,Kuala Lumpur,Healthcare,Healthcare Equipment & Supplies,MYR 111.03M,-1.9x,-0.04,MYR 0.21,0%
+704,TOYO,Toyo Ventures Holdings Bhd,Kuala Lumpur,Basic Materials,Chemicals,MYR 110.97M,-9.7x,0.01,MYR 0.83,1.2%
+705,TPCP,TPC Plus,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 110.96M,2.7x,0.01,MYR 0.36,0%
+706,ILBG,ILB Bhd,Kuala Lumpur,Utilities,Electrical Utilities & IPPs,MYR 110.51M,-36.6x,0.22,MYR 0.58,0%
+707,ASTA,Astramina Group Berhad,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 110.23M,14.6x,0.31,MYR 0.42,3.7%
+708,MYTE,MyTech Bhd,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 109.65M,44.5x,0.33,MYR 0.49,0%
+709,TEXC,Texchem Resources Bhd,Kuala Lumpur,Consumer Non-Cyclicals,Consumer Goods Conglomerates,MYR 109.48M,-23.4x,2.96,MYR 0.94,-1.1%
+710,CREH,Crest Builder,Kuala Lumpur,Industrials,Construction & Engineering,MYR 108.61M,-2.9x,0.02,MYR 0.67,-1.5%
+711,TSHB,Tek Seng,Kuala Lumpur,Basic Materials,Chemicals,MYR 108.20M,21.4x,-0.44,MYR 0.30,1.7%
+712,EKSN,Eksons Corp,Kuala Lumpur,Basic Materials,Paper & Forest Products,MYR 108.19M,7.1x,0.04,MYR 0.67,0%
+713,LYSA,Lysaght Galvanized Steel,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 108.11M,8.6x,0.21,MYR 2.60,0%
+714,DYNF,Dynafront Holdings Bhd,Kuala Lumpur,Technology,Software & IT Services,MYR 108M,49.3x,2.08,MYR 1,0%
+715,RESN,Resintech Bhd,Kuala Lumpur,Consumer Cyclicals,Homebuilding & Construction Supplies,MYR 107.90M,17.9x,0.04,MYR 0.56,0%
+716,AXTE,Axteria Group Bhd,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 107.51M,-75x,-0.68,MYR 0.15,7.1%
+717,ALCO,Alcom Bhd,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 107.46M,10.5x,-0.12,MYR 0.80,1.3%
+718,AMLE,Amlex Holdings Bhd,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 107.25M,220.1x,-2.62,MYR 0.40,0%
+719,CABN,Cabnet Holdings,Kuala Lumpur,Industrials,Construction & Engineering,MYR 106.36M,29.8x,0.01,MYR 0.60,3.5%
+720,KGWG,KGW Bhd,Kuala Lumpur,Industrials,Freight & Logistics Services,MYR 106.22M,"1,350x",-13.35,MYR 0.22,0%
+721,KENH,Ken,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 105.81M,9.8x,0.07,MYR 0.59,0%
+722,ENRA,Enra Group,Kuala Lumpur,Energy,Oil & Gas,MYR 105.37M,-6.4x,-0.15,MYR 0.71,0%
+723,EONM,Eonmetall,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 105.26M,13.6x,-0.32,MYR 0.38,0%
+724,MNHO,Minho M Bhd,Kuala Lumpur,Basic Materials,Paper & Forest Products,MYR 105.23M,11.8x,0.43,MYR 0.29,-6.4%
+725,HARE,Harvest Miracle Capital Bhd,Kuala Lumpur,Technology,Software & IT Services,MYR 104.59M,42.5x,0.35,MYR 0.09,6.3%
+726,WEGM,Wegmans,Kuala Lumpur,Consumer Cyclicals,Household Goods,MYR 104.40M,9.5x,-0.33,MYR 0.19,0%
+727,HPMT,HPMT Holdings,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 103.47M,21x,-0.82,MYR 0.31,-1.6%
+728,SIAH,SBC Corp,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 103.23M,400x,-3.77,MYR 0.40,0%
+729,PUCB,PUC,Kuala Lumpur,Technology,Software & IT Services,MYR 103.16M,-5x,-0.09,MYR 0.04,-11.1%
+730,OCEF,Ocean Fresh Bhd,Kuala Lumpur,,,MYR 102.97M,,-0.17,MYR 0.50,1%
+731,GUHB,GUH,Kuala Lumpur,Technology,Semiconductors & Semiconductor Equipment,MYR 102.95M,-7.2x,0.06,MYR 0.37,-1.4%
+732,ERHB,Euro,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 102.71M,-11.4x,,MYR 0.08,0%
+733,VIZI,Vizione Holdings,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 102.30M,50x,0.43,MYR 0.05,11.1%
+734,YONGq,Yong Tai Pref,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 101.93M,-3x,-0.05,MYR 0.05,0%
+735,YONG,Yong Tai,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 101.93M,-3x,-0.05,MYR 0.24,0%
+736,MMST,MMS Ventures Bhd,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 101.29M,-34x,0.24,MYR 0.51,2%
+737,SOIL,Solid Automotive,Kuala Lumpur,Consumer Cyclicals,Automobiles & Auto Parts,MYR 101.28M,2.7x,0.01,MYR 0.19,0%
+738,YXPR,YX Precious Metals Bhd,Kuala Lumpur,Consumer Cyclicals,Textiles & Apparel,MYR 100.48M,11.3x,1.42,MYR 0.28,1.9%
+739,BDBS,Bina Darulaman,Kuala Lumpur,Industrials,Construction & Engineering,MYR 100.27M,4.9x,0.01,MYR 0.33,0%
+740,REVE,Revenue Group,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 99.88M,-1.3x,0,MYR 0.18,0%
+741,LEBT,Lebtech,Kuala Lumpur,Industrials,Construction & Engineering,MYR 99.63M,"1,350x",32.75,MYR 0.73,0%
+742,WGZH,Wang-Zheng Bhd,Kuala Lumpur,Basic Materials,Paper & Forest Products,MYR 99.60M,20.2x,-0.71,MYR 0.63,0%
+743,SMAR,Smart Asia Chemical Bhd,Kuala Lumpur,,,MYR 99.49M,17.3x,,MYR 0.37,1.4%
+744,SCWF,Scanwolf Corporation Bhd,Kuala Lumpur,Basic Materials,Chemicals,MYR 99.10M,-10.6x,-0.34,MYR 0.49,0%
+745,BABA,Baba Eco Bhd,Kuala Lumpur,Consumer Cyclicals,Household Goods,MYR 98.88M,55.7x,-1.1,MYR 0.44,0%
+746,NETX,NetX,Kuala Lumpur,Technology,Software & IT Services,MYR 98.49M,-5.8x,-0.54,MYR 0.10,0%
+747,HHCS,Ho Hup Construction,Kuala Lumpur,Industrials,Construction & Engineering,MYR 98.47M,-1x,0,MYR 0.19,2.7%
+748,MUBL,Muar Ban Lee Group Bhd,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 97.84M,4.2x,-0.07,MYR 0.43,0%
+749,TGLB,Teo Guan Lee Corp,Kuala Lumpur,Consumer Cyclicals,Textiles & Apparel,MYR 97.60M,8.2x,-0.26,MYR 1.15,0%
+750,UMSH,UMS Holdings Bhd,Kuala Lumpur,Industrials,Diversified Industrial Goods Wholesale,MYR 96.84M,11.3x,0.06,MYR 2.38,2.2%
+751,ORGA,Orgabio Holdings Bhd,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 96.67M,32.5x,0.01,MYR 0.39,0%
+752,BINC,Binasat Communications,Kuala Lumpur,Technology,Telecommunications Services,MYR 96.65M,-10.2x,0.04,MYR 0.23,2.2%
+753,MNGA,Mesiniaga,Kuala Lumpur,Technology,Software & IT Services,MYR 96.64M,14.4x,0.87,MYR 1.60,-4.2%
+754,BPAK,Box Pak,Kuala Lumpur,Basic Materials,Containers & Packaging,MYR 96.64M,-80.5x,-0.84,MYR 0.81,0%
+755,KHLH,Kumpulan H L High Tech,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 95.55M,11.3x,1.38,MYR 0.81,0%
+756,CEKD,CEKD Bhd,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 95.34M,15.8x,0.65,MYR 0.49,0%
+757,SHCS,Sin Heng Chan,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 95.32M,11x,-0.53,MYR 0.32,0%
+758,RESR,Reservoir Link Energy Bhd,Kuala Lumpur,Energy,Oil & Gas Related Equipment and Services,MYR 95.04M,93.4x,,MYR 0.29,1.8%
+759,COSO,Cosmos Tech International Bhd,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 94.91M,48.9x,-0.98,MYR 0.38,2.7%
+760,SLEG,Solution Engineering,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 94.39M,97.5x,0.91,MYR 0.19,0%
+761,GCAP,G Capital Bhd,Kuala Lumpur,Industrials,Passenger Transportation Services,MYR 93.45M,-6.8x,-0.39,MYR 0.28,3.6%
+762,GLOL,Global Oriental,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 93.21M,16.7x,-0.33,MYR 0.20,2.5%
+763,AURH,Auro Holdings Bhd,Kuala Lumpur,Basic Materials,Paper & Forest Products,MYR 93.18M,-31x,-22.56,MYR 0.16,0%
+764,FACN,FACB Industries,Kuala Lumpur,Consumer Cyclicals,Household Goods,MYR 93.11M,12.1x,0.51,MYR 1.11,-5.1%
+765,UCRE,UCrest,Kuala Lumpur,Technology,Software & IT Services,MYR 92.98M,17.9x,0,MYR 0.13,0%
+766,IDBT,IDB Technologies Bhd,Kuala Lumpur,Technology,Software & IT Services,MYR 92.50M,68.5x,-4.71,MYR 0.19,-7.5%
+767,LIOP,Lion Forest Ind,Kuala Lumpur,Consumer Cyclicals,Homebuilding & Construction Supplies,MYR 92.27M,6.2x,0.01,MYR 0.41,0%
+768,VSDY,VisDynamics,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 91.98M,116.7x,-1.72,MYR 0.35,0%
+769,FOLU,Focus Lumber,Kuala Lumpur,Basic Materials,Paper & Forest Products,MYR 91.74M,-12x,0.09,MYR 0.42,0%
+770,ADVE,Adventa,Kuala Lumpur,Healthcare,Healthcare Equipment & Supplies,MYR 91.67M,-7.9x,-0.92,MYR 0.30,1.7%
+771,MSTM,Melewar Industrial Group,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 91.66M,-255x,-2.29,MYR 0.25,-1.9%
+772,SYCA,Sycal Ventures,Kuala Lumpur,Industrials,Construction & Engineering,MYR 91.59M,36.7x,1.71,MYR 0.22,0%
+773,SPRN,Spring Art Holdings Bhd,Kuala Lumpur,Consumer Cyclicals,Household Goods,MYR 91.45M,12.2x,0.02,MYR 0.23,4.5%
+774,OCEA,Oceancash Pacific,Kuala Lumpur,Consumer Cyclicals,Textiles & Apparel,MYR 91.28M,35x,-0.63,MYR 0.35,1.4%
+775,ARNK,A Rank,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 91.16M,5.9x,2.34,MYR 0.51,0%
+776,GRAN,Grand Central Enterprises,Kuala Lumpur,Consumer Cyclicals,Hotels & Entertainment Services,MYR 90.62M,-11.5x,0.1,MYR 0.46,0%
+777,PCCS,PCCS,Kuala Lumpur,Consumer Cyclicals,Textiles & Apparel,MYR 90.44M,14.1x,-0.24,MYR 0.41,-2.4%
+778,KARY,Karyon Industries,Kuala Lumpur,Basic Materials,Chemicals,MYR 90.39M,14.6x,2.11,MYR 0.19,0%
+779,RENE,Reneuco Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 89.76M,-0.5x,0,MYR 0.08,0%
+780,XINS,Xin Synergy Bhd,Kuala Lumpur,Basic Materials,Construction Materials,MYR 88.97M,-9.3x,1.12,MYR 0.19,0%
+781,OCBB,OCB Bhd,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 87.42M,7.4x,0.01,MYR 0.85,0%
+782,SLIN,SL Innovation Capital Bhd,Kuala Lumpur,Technology,Software & IT Services,MYR 87M,20.1x,1.66,MYR 0.69,0%
+783,TURY,Turiya Bhd,Kuala Lumpur,Technology,Semiconductors & Semiconductor Equipment,MYR 86.92M,27.1x,-1.34,MYR 0.38,0%
+784,MINO,Minox International Bhd,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 86.40M,185.7x,-0.65,MYR 0.25,2.1%
+785,TWHB,Ta Win Holdings Bhd,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 86.12M,-4.3x,-0.2,MYR 0.03,-16.7%
+786,HBGL,HB Global,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 86.02M,-3.3x,-0.05,MYR 0.11,0%
+787,TALA,Talam Transform,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 85.85M,-3.3x,0.05,MYR 0.02,-20%
+788,CONC,Concrete Engineering,Kuala Lumpur,Basic Materials,Construction Materials,MYR 85.82M,-272.5x,2.66,MYR 1.15,5.5%
+789,GLOS,Glostrext Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 85.48M,53.8x,-0.85,MYR 0.21,0%
+790,PENS,Pensonic Holdings Bhd,Kuala Lumpur,Consumer Cyclicals,Household Goods,MYR 85.32M,-5.4x,0.02,MYR 0.56,0%
+791,KPSC,KPS Consortium,Kuala Lumpur,Basic Materials,Construction Materials,MYR 84.01M,4.9x,-35.32,MYR 0.52,0%
+792,SMIS,South Malaysia Ind,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 83.98M,-13.3x,,MYR 0.40,0%
+793,WAJA,Waja Konsortium Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 83.64M,-2.5x,,MYR 0.08,0%
+794,LHCK,Lien Hoe Corp,Kuala Lumpur,Industrials,Construction & Engineering,MYR 83.11M,-6.3x,-0.14,MYR 0.25,-5.7%
+795,MAAS,MAA,Kuala Lumpur,Financials,Insurance,MYR 83.08M,-1.7x,0.05,MYR 0.31,0%
+796,AASB,Astral Asia,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 83.08M,-8.6x,0.09,MYR 0.12,0%
+797,VELO,Velocity Capital Partner Bhd,Kuala Lumpur,Consumer Cyclicals,Household Goods,MYR 82.88M,-15x,-0.37,MYR 0.06,0%
+798,CPGT,Compugates,Kuala Lumpur,Technology,"Computers, Phones & Household Electronics",MYR 82.51M,-15x,-0.34,MYR 0.01,0%
+799,FITT,Fitters Diversified,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 81.95M,-5x,-0.08,MYR 0.04,-12.5%
+800,LEAD,Leader Steel Bhd,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 81.92M,3.1x,0.01,MYR 0.53,1.9%
+801,ACOG,Aco Group Bhd,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 81.63M,22.5x,1.98,MYR 0.24,0%
+802,IMSP,Imaspro Corp,Kuala Lumpur,Basic Materials,Chemicals,MYR 81.60M,16.7x,0.12,MYR 1.02,0%
+803,MESB,MESB Bhd,Kuala Lumpur,Consumer Cyclicals,Specialty Retailers,MYR 81.53M,6.6x,0.04,MYR 0.56,0%
+804,OMES,Omesti,Kuala Lumpur,Technology,Software & IT Services,MYR 81.10M,-0.3x,0,MYR 0.15,0%
+805,SUPR,Supreme Consolidated Resources,Kuala Lumpur,Consumer Non-Cyclicals,Food & Drug Retailing,MYR 80.40M,8.4x,1.06,MYR 0.67,0%
+806,UMSN,UMS Neiken,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 79.52M,14x,-0.43,MYR 1.01,0%
+807,PMJU,Permaju Industries Bhd,Kuala Lumpur,Consumer Cyclicals,Automobiles & Auto Parts,MYR 78.12M,-10x,-0.17,MYR 0.04,-11.1%
+808,BECH,Brite Tech,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 78.12M,11.5x,-1.6,MYR 0.31,0%
+809,FIBR,Fibromat,Kuala Lumpur,,,MYR 77.76M,8.9x,0.07,MYR 0.36,0%
+810,OCEN,Ocean Vantage Holdings Bhd,Kuala Lumpur,Energy,Oil & Gas Related Equipment and Services,MYR 77.69M,300x,1.11,MYR 0.19,0%
+811,ENCR,Encorp,Kuala Lumpur,Industrials,Construction & Engineering,MYR 77.49M,18.9x,0.17,MYR 0.25,0%
+812,RAPD,Rapid Synergy Bhd,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 76.97M,65.4x,,MYR 0.72,0%
+813,ASPY,Asia Poly,Kuala Lumpur,Basic Materials,Chemicals,MYR 76.68M,-8.9x,-0.31,MYR 0.08,0%
+814,THRI,Thriven Global,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 76.57M,-2.4x,0.06,MYR 0.14,0%
+815,CHHB,Country Heights,Kuala Lumpur,Healthcare,Healthcare Providers & Services,MYR 76.45M,-0.7x,0.03,MYR 0.25,-3.8%
+816,PROE,Propel Global Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 76.20M,-120x,1.33,MYR 0.12,0%
+817,TUJU,Tuju Setia Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 76.04M,-8.7x,-0.11,MYR 0.24,0%
+818,MHBS,Malpac,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 75M,31.3x,-2.85,MYR 1,0%
+819,ORPA,Ornapaper Bhd,Kuala Lumpur,Basic Materials,Containers & Packaging,MYR 74.15M,9.2x,0.01,MYR 1,0%
+820,MEHB,Melati Ehsan,Kuala Lumpur,Industrials,Construction & Engineering,MYR 74.08M,40x,-0.44,MYR 0.64,3.2%
+821,KIMH,Kim Hin Industry Bhd,Kuala Lumpur,Consumer Cyclicals,Homebuilding & Construction Supplies,MYR 72.92M,-2.7x,-0.09,MYR 0.52,0%
+822,KNUS,Knusford,Kuala Lumpur,Industrials,Construction & Engineering,MYR 72.74M,7.9x,0.02,MYR 0.73,0%
+823,ESTH,Esthetics Int,Kuala Lumpur,Consumer Cyclicals,Specialty Retailers,MYR 72.34M,-43.6x,-0.64,MYR 0.31,0%
+824,OLYM,Olympia Industries Bhd,Kuala Lumpur,Consumer Cyclicals,Hotels & Entertainment Services,MYR 71.64M,-3.7x,0.04,MYR 0.07,-6.7%
+825,LYCH,Lyc Healthcare,Kuala Lumpur,Healthcare,Healthcare Providers & Services,MYR 71.49M,-3.5x,-0.25,MYR 0.10,-4.8%
+826,ESAN,Eurospan,Kuala Lumpur,Consumer Cyclicals,Household Goods,MYR 71.07M,59.3x,0.5,MYR 1.60,0%
+827,ZCON,ZECON,Kuala Lumpur,Industrials,Construction & Engineering,MYR 70.80M,96x,0.86,MYR 0.48,0%
+828,IRKA,Ireka Corp,Kuala Lumpur,Industrials,Construction & Engineering,MYR 70.61M,-0.8x,0,MYR 0.31,0%
+829,SIVR,Silver Ridge,Kuala Lumpur,Technology,Telecommunications Services,MYR 70.21M,177.5x,2.1,MYR 0.35,0%
+830,GRNP,Green Packet,Kuala Lumpur,Technology,Communications & Networking,MYR 69.82M,-8.8x,-0.1,MYR 0.04,0%
+831,TRIV,Trive Property Group,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 69.50M,-3.4x,0.02,MYR 0.05,0%
+832,SUPG,Supergenics Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 69.41M,315.8x,-7.92,MYR 0.60,0%
+833,SCHB,See Hup Consolidated Bhd,Kuala Lumpur,Industrials,Freight & Logistics Services,MYR 69.15M,-17.8x,0.15,MYR 0.87,0%
+834,BTMR,BTM Resources,Kuala Lumpur,Basic Materials,Paper & Forest Products,MYR 69.11M,-11x,-0.14,MYR 0.05,0%
+835,REXI,Rex Industry,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 69.06M,-1.7x,0,MYR 0.10,0%
+836,PIMP,Pimpinan Eshan,Kuala Lumpur,Financials,Investment Holding Companies,MYR 68.78M,142.1x,0.54,MYR 1,0%
+837,TOTA,Total Dynamic Holdings Bhd,Kuala Lumpur,,,MYR 68.75M,,,MYR 0.28,0%
+838,WENG,Wong Engineering Corp,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 68.74M,-6.3x,0.01,MYR 0.28,0%
+839,TGPB,Teck Guan Perdana Bhd,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 68.57M,7.2x,-0.1,MYR 1.71,6.2%
+840,CHRB,Chuan Huat Res,Kuala Lumpur,Financials,Investment Holding Companies,MYR 68.31M,-17.6x,0.02,MYR 0.41,0%
+841,INGE,Ingenieur Gudang Bhd,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 68.25M,3.2x,-0.09,MYR 0.05,0%
+842,CETH,Cheetah,Kuala Lumpur,Consumer Cyclicals,Textiles & Apparel,MYR 68.07M,280x,2.88,MYR 0.14,0%
+843,TURB,Turbo Mech Bhd,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 68.04M,23.3x,1.83,MYR 0.63,0%
+844,SAHO,Sasbadi,Kuala Lumpur,Consumer Cyclicals,Media & Publishing,MYR 67.60M,13.6x,-0.29,MYR 0.16,3.3%
+845,CRSM,CAM Resources,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 66.66M,5.2x,-0.31,MYR 0.37,-4%
+846,EDEN,Eden Inc,Kuala Lumpur,Utilities,Electrical Utilities & IPPs,MYR 66.62M,-3.3x,0.02,MYR 0.14,3.6%
+847,WATC,Warisan TC Holdings Bhd,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 66.40M,-11.1x,-0.56,MYR 1.02,0%
+848,ANCO,Ancom Logistics,Kuala Lumpur,Industrials,Freight & Logistics Services,MYR 66.26M,-17.5x,0.02,MYR 0.14,0%
+849,POLD,Polydamic Bhd,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 66.18M,16.9x,-0.32,MYR 0.75,0%
+850,IQGH,IQ,Kuala Lumpur,Technology,Electronic Equipment & Parts,MYR 66.02M,10.3x,-1.08,MYR 0.75,0%
+851,MJPR,Majuperak,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 65.42M,-3x,0.02,MYR 0.23,0%
+852,PAOS,Paos,Kuala Lumpur,Consumer Non-Cyclicals,Personal & Household Products & Services,MYR 65.22M,360x,2.38,MYR 0.36,0%
+853,JKBM,Jasa Kita,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 65.18M,145x,0,MYR 0.14,0%
+854,ENES,Enest Bhd,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 65.10M,9.7x,0.98,MYR 0.14,0%
+855,MEIS,Mercury Industries Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 64.94M,-33.7x,-0.46,MYR 1.01,0%
+856,EAHL,EA,Kuala Lumpur,Technology,Software & IT Services,MYR 64.52M,-2.5x,0.06,MYR 0.010,100%
+857,PRTB,Privasia Technology Bhd,Kuala Lumpur,Technology,Software & IT Services,MYR 64.47M,105x,-2.06,MYR 0.10,0%
+858,GOLD,Golden Land,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 64.35M,-6.7x,-0.09,MYR 0.30,0%
+859,JHHS,Johan,Kuala Lumpur,Industrials,Diversified Industrial Goods Wholesale,MYR 64.24M,-2.8x,-0.08,MYR 0.05,0%
+860,MCLN,MClean Technologies,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 64.09M,-21.3x,-3.12,MYR 0.32,3.2%
+861,SEDA,Sedania Innovator Bhd,Kuala Lumpur,Technology,Financial Technology (Fintech) & Infrastructure,MYR 63.94M,11.7x,0.02,MYR 0.17,0%
+862,QCHB,Quality Concrete Holdings Bhd,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 63.76M,-7.6x,1.12,MYR 1.10,0%
+863,SWSB,SWS Capital,Kuala Lumpur,Consumer Cyclicals,Household Goods,MYR 63.48M,-8.1x,0.01,MYR 0.21,0%
+864,JETS,Kumpulan Jetson,Kuala Lumpur,Basic Materials,Chemicals,MYR 62.97M,5.9x,0,MYR 0.23,2.2%
+865,KYAC,Key ASIC,Kuala Lumpur,Technology,Semiconductors & Semiconductor Equipment,MYR 62.91M,-5.6x,0.07,MYR 0.05,-10%
+866,TCSG,TCS Group Holdings Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 62.21M,-2x,0,MYR 0.14,0%
+867,SSOL,Sersol Bhd,Kuala Lumpur,Basic Materials,Chemicals,MYR 62.17M,-3.7x,-0.11,MYR 0.09,0%
+868,MYMB,MYMBN Bhd,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 61.76M,-388.5x,,MYR 0.16,0%
+869,FLEX,Flexidynamic Holdings Bhd,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 61.43M,281.3x,2.44,MYR 0.21,0%
+870,SCST,SC Estate Builder,Kuala Lumpur,Consumer Cyclicals,Homebuilding & Construction Supplies,MYR 61.38M,-15x,-0.94,MYR 0.01,0%
+871,KMDA,Kamdar,Kuala Lumpur,Consumer Cyclicals,Textiles & Apparel,MYR 61.38M,-6.9x,0.03,MYR 0.31,-11.4%
+872,ACME,Acme,Kuala Lumpur,Basic Materials,Chemicals,MYR 60.99M,8.9x,0,MYR 0.17,3%
+873,SAPU,Sapura Industrial Bhd,Kuala Lumpur,Consumer Cyclicals,Automobiles & Auto Parts,MYR 60.40M,8.4x,-0.41,MYR 0.83,0%
+874,BARA,Barakah Offshore Petroleum,Kuala Lumpur,Energy,Oil & Gas Related Equipment and Services,MYR 60.18M,-3.8x,0.01,MYR 0.06,-7.7%
+875,YLIH,YLI Holdings Bhd,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 60.16M,3.7x,0.01,MYR 0.58,0%
+876,BRNL,Borneo Oil,Kuala Lumpur,Consumer Cyclicals,Hotels & Entertainment Services,MYR 59.96M,-0.6x,0,MYR 0.005,0%
+877,SINA,Sinaran Advance Bhd,Kuala Lumpur,Consumer Cyclicals,Textiles & Apparel,MYR 59.47M,-7.2x,-0.32,MYR 0.06,0%
+878,ARTR,Artroniq Berhad,Kuala Lumpur,Technology,Integrated Hardware & Software,MYR 59.15M,-5.8x,,MYR 0.14,0%
+879,PRGH,Prg,Kuala Lumpur,Consumer Cyclicals,Textiles & Apparel,MYR 58.21M,-4.1x,0.03,MYR 0.14,0%
+880,VINV,Vinvest Capital Holdings Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 58.15M,-0.6x,,MYR 0.06,0%
+881,BSLC,BSL Corp,Kuala Lumpur,Basic Materials,Metals & Mining,MYR 57.90M,-2.5x,-0.09,MYR 0.03,0%
+882,KYMH,KYM Bhd,Kuala Lumpur,Basic Materials,Containers & Packaging,MYR 57.23M,23.4x,-0.29,MYR 0.38,0%
+883,KIMI,Kim Hin Joo,Kuala Lumpur,Consumer Cyclicals,Specialty Retailers,MYR 57M,-27.1x,0.15,MYR 0.15,0%
+884,AVIL,Avillion Bhd,Kuala Lumpur,Consumer Cyclicals,Hotels & Entertainment Services,MYR 56.66M,-10x,0.41,MYR 0.05,0%
+885,GBAY,Greater Bay Holdings Bhd,Kuala Lumpur,Basic Materials,Containers & Packaging,MYR 56.14M,-46x,-1.12,MYR 0.69,0%
+886,LBIP,LBI Capital,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 56.12M,-23.3x,0.05,MYR 0.49,0%
+887,JADI,Jadi Imaging,Kuala Lumpur,Technology,Office Equipment,MYR 55.97M,-1.4x,0.01,MYR 0.04,0%
+888,ABMF,ABM Fujiya,Kuala Lumpur,Consumer Cyclicals,Automobiles & Auto Parts,MYR 55.80M,-2.9x,0.01,MYR 0.31,0%
+889,PJSB,PJBumi Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 55.76M,680x,-6.89,MYR 0.68,0%
+890,HIAP,Hiap Huat,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 55.30M,7.8x,-1.59,MYR 0.14,0%
+891,YBVE,YB Ventures Bhd,Kuala Lumpur,Consumer Cyclicals,Homebuilding & Construction Supplies,MYR 55.22M,-2x,0.38,MYR 0.19,0%
+892,SFCA,S F Capital Bhd,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 55.04M,14.3x,0.01,MYR 0.10,-4.8%
+893,NHSN,Ni Hsin Resources,Kuala Lumpur,Consumer Cyclicals,Household Goods,MYR 54.99M,-7.5x,0.32,MYR 0.10,5%
+894,AMTH,Amtel Holdings Bhd,Kuala Lumpur,Technology,Telecommunications Services,MYR 54.87M,8.7x,0.06,MYR 0.57,0%
+895,INFR,Infraharta Holdings Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 54.42M,-7.2x,-0.11,MYR 0.13,-7.1%
+896,PEGA,Pegasus Heights Bhd,Kuala Lumpur,Consumer Cyclicals,Household Goods,MYR 54.11M,-24.6x,-0.69,MYR 0.005,0%
+897,XINW,Xin Hwa Holdings Bhd,Kuala Lumpur,Industrials,Freight & Logistics Services,MYR 53.69M,-2.5x,0.08,MYR 0.21,0%
+898,PLHB,PeterLabs,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 53.67M,16.3x,2.2,MYR 0.19,0%
+899,GROS,Golden Pharos,Kuala Lumpur,Basic Materials,Paper & Forest Products,MYR 53.49M,2.3x,0.02,MYR 0.38,0%
+900,RESE,Reach Energy,Kuala Lumpur,Energy,Oil & Gas,MYR 53.22M,-0.3x,-0.01,MYR 0.03,0%
+901,CWGH,CWG Holdings Bhd,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 53.20M,21.7x,-0.39,MYR 0.32,6.6%
+902,EQUI,Equitiestracker Holdings Bhd,Kuala Lumpur,Financials,Investment Banking & Investment Services,MYR 53.03M,,0.48,MYR 0.18,0%
+903,XIDE,XiDeLang,Kuala Lumpur,Consumer Cyclicals,Textiles & Apparel,MYR 52.91M,-13.5x,-0.14,MYR 0.03,0%
+904,DNCE,Dnonce Tech,Kuala Lumpur,Basic Materials,Containers & Packaging,MYR 52.10M,-3.4x,0,MYR 0.06,-7.7%
+905,JOEH,Joe Holding Bhd,Kuala Lumpur,Consumer Cyclicals,Automobiles & Auto Parts,MYR 52.01M,-2.7x,-0.05,MYR 0.17,9.7%
+906,FIHB,Federal International,Kuala Lumpur,Consumer Cyclicals,Specialty Retailers,MYR 51.87M,8.1x,0.46,MYR 0.38,0%
+907,MGRC,Malaysian Genomics,Kuala Lumpur,Healthcare,Healthcare Providers & Services,MYR 51.45M,-3.5x,0.01,MYR 0.38,0%
+908,HOWA,Ho Wah Genting,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 51.39M,27.8x,0.14,MYR 0.25,4.2%
+909,HONG,Hong Seng Consolidated Bhd,Kuala Lumpur,Healthcare,Healthcare Providers & Services,MYR 51.08M,-0.8x,,MYR 0.010,0%
+910,TECE,Techbase Industries Bhd,Kuala Lumpur,Consumer Cyclicals,Textiles & Apparel,MYR 50.75M,-7.6x,0.07,MYR 0.17,0%
+911,GIIB,GIIB Holdings Bhd,Kuala Lumpur,Consumer Cyclicals,Automobiles & Auto Parts,MYR 50.26M,316.7x,2.78,MYR 0.09,-5.6%
+912,CYLC,CYL Corp,Kuala Lumpur,Basic Materials,Containers & Packaging,MYR 50M,-45.5x,-4.16,MYR 0.50,0%
+913,ARBB,Arb,Kuala Lumpur,Technology,Software & IT Services,MYR 49.99M,-2x,0.02,MYR 0.04,0%
+914,INNY,Innity Corporation,Kuala Lumpur,Consumer Cyclicals,Media & Publishing,MYR 48.79M,-25x,-2.06,MYR 0.35,0%
+915,SENI,Seni Jaya Corporation Bhd,Kuala Lumpur,Consumer Cyclicals,Media & Publishing,MYR 48.05M,2.8x,0.04,MYR 0.22,-2.2%
+916,TSRP,TSR Capital,Kuala Lumpur,Industrials,Construction & Engineering,MYR 47.97M,2.9x,0.01,MYR 0.28,0%
+917,PIPB,Pinehill Pacific,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 47.94M,-5.3x,-0.36,MYR 0.32,0%
+918,LKLI,LKL International Bhd,Kuala Lumpur,Healthcare,Healthcare Equipment & Supplies,MYR 46.57M,-1.5x,,MYR 0.12,4.3%
+919,YGLC,YGL Convergence,Kuala Lumpur,Technology,Software & IT Services,MYR 46.49M,170x,1.57,MYR 0.17,3%
+920,TRIM,Tri-Mode,Kuala Lumpur,Industrials,Freight & Logistics Services,MYR 46.48M,17.5x,-0.34,MYR 0.28,0%
+921,ZLAN,Zelan,Kuala Lumpur,Industrials,Construction & Engineering,MYR 46.47M,0.7x,0,MYR 0.05,-8.3%
+922,ASTE,Asteel Bhd,Kuala Lumpur,Financials,Investment Holding Companies,MYR 46.06M,-5.6x,0.41,MYR 0.09,-5%
+923,ALMT,Alam Maritim Res,Kuala Lumpur,Energy,Oil & Gas Related Equipment and Services,MYR 45.95M,1.1x,,MYR 0.03,-14.3%
+924,XOXB,XOX Bhd,Kuala Lumpur,Technology,Telecommunications Services,MYR 45.85M,-0.5x,0,MYR 0.26,-1.9%
+925,EVES,Eversafe Rubber,Kuala Lumpur,Consumer Cyclicals,Automobiles & Auto Parts,MYR 45.71M,47.5x,0.41,MYR 0.19,0%
+926,FIBN,Fibon,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 45.44M,10.1x,-1.21,MYR 0.47,0%
+927,SERE,Seremban Engineering Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 45.42M,16.4x,-0.33,MYR 0.57,-3.4%
+928,ATSM,AT Systematization,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 45.24M,-0.5x,-0.06,MYR 0.20,0%
+929,PARL,Parlo Bhd,Kuala Lumpur,Consumer Cyclicals,Hotels & Entertainment Services,MYR 45.09M,-19.6x,-0.25,MYR 0.08,6.7%
+930,STEH,Steel Hawk Bhd,Kuala Lumpur,Energy,Oil & Gas Related Equipment and Services,MYR 44.80M,6.1x,0.64,MYR 0.28,0%
+931,WATA,Watta Holding Bhd,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 44.77M,-22.1x,0.26,MYR 0.53,0%
+932,VSOL,Vsolar Group,Kuala Lumpur,Technology,Software & IT Services,MYR 44.75M,-1.2x,0.02,MYR 0.09,0%
+933,XOXT,XOX Tech Bhd,Kuala Lumpur,Technology,Software & IT Services,MYR 44.68M,5x,0,MYR 0.05,0%
+934,EVDB,Evd Bhd,Kuala Lumpur,Technology,Software & IT Services,MYR 43.64M,-2x,0,MYR 0.10,0%
+935,GPPR,GPP Resources Bhd,Kuala Lumpur,Utilities,Electrical Utilities & IPPs,MYR 43.43M,,,MYR 0.28,0%
+936,NMBS,Nylex Malaysia Bhd,Kuala Lumpur,Financials,Investment Holding Companies,MYR 43.15M,-15x,0.16,MYR 0.24,0%
+937,CLAS,Classita Holdings Bhd,Kuala Lumpur,Consumer Cyclicals,Textiles & Apparel,MYR 43.15M,-3.2x,0.02,MYR 0.04,0%
+938,HWAT,Hwa Tai Industries,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 43.03M,-8.2x,-0.62,MYR 0.57,0%
+939,PGSV,Progressive Impact Corporation Bhd,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 42.60M,-16.3x,-0.24,MYR 0.06,0%
+940,BIGI,BIG Industries,Kuala Lumpur,Basic Materials,Construction Materials,MYR 42.53M,7.2x,0.03,MYR 0.67,0%
+941,FINT,Fintec Global,Kuala Lumpur,Consumer Cyclicals,Hotels & Entertainment Services,MYR 42.48M,9.4x,0.09,MYR 0.22,2.4%
+942,TOEX,TechnoDex,Kuala Lumpur,Technology,Software & IT Services,MYR 42.19M,-5.6x,-0.46,MYR 0.05,0%
+943,MTOU,mTouche Tech,Kuala Lumpur,Technology,Software & IT Services,MYR 41.70M,-0.7x,0,MYR 0.05,12.5%
+944,TWEL,Timberwell Bhd,Kuala Lumpur,Basic Materials,Paper & Forest Products,MYR 41.41M,-17.2x,0.14,MYR 0.47,1.1%
+945,SINM,Sinmah Capital,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 41.24M,-2.7x,-0.15,MYR 0.09,0%
+946,ENGH,Eng Kah Corp,Kuala Lumpur,Consumer Non-Cyclicals,Personal & Household Products & Services,MYR 40.16M,-10x,0.29,MYR 0.34,0%
+947,COWH,China Ouhua Winery,Kuala Lumpur,Consumer Non-Cyclicals,Beverages,MYR 40.08M,-9.7x,-0.14,MYR 0.06,-7.7%
+948,KIAL,Kia Lim Bhd,Kuala Lumpur,Basic Materials,Construction Materials,MYR 39.95M,6.6x,0,MYR 0.64,0%
+949,SRCS,Sapura Resources,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 39.79M,-1x,0.01,MYR 0.28,0%
+950,SMTR,Smtrack,Kuala Lumpur,Technology,Software & IT Services,MYR 39.64M,-3.8x,,MYR 0.03,20%
+951,CITR,Citra Nusa Holdings Bhd,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 39.54M,27.5x,0.26,MYR 0.05,0%
+952,RAYG,Ray Go Solar Holdings Bhd,Kuala Lumpur,Energy,Renewable Energy,MYR 39.53M,105.6x,0.54,MYR 0.16,0%
+953,MCOM,MCOM Holdings Bhd,Kuala Lumpur,Consumer Cyclicals,Media & Publishing,MYR 39.15M,,-0.85,MYR 0.20,0%
+954,SMIL,Smile Link Healthcare,Kuala Lumpur,Healthcare,Healthcare Providers & Services,MYR 39.10M,387.5x,-4.3,MYR 0.16,0%
+955,BPAC,Bright Packaging,Kuala Lumpur,Basic Materials,Containers & Packaging,MYR 39.01M,11.9x,0.04,MYR 0.19,0%
+956,AGES,Ageson Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 38.96M,5.9x,,MYR 0.13,-3.8%
+957,BERM,Bertam Alliance,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 38.70M,40x,-0.5,MYR 0.12,0%
+958,LAMB,Lambo,Kuala Lumpur,Consumer Cyclicals,Textiles & Apparel,MYR 38.51M,-8.3x,,MYR 0.03,0%
+959,EMIC,Emico,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 38.13M,12.6x,0.02,MYR 0.29,0%
+960,KANG,Kanger Intl,Kuala Lumpur,Basic Materials,Paper & Forest Products,MYR 38.08M,5.6x,0.05,MYR 0.05,11.1%
+961,MPIR,Mpire Global Bhd,Kuala Lumpur,Consumer Cyclicals,Household Goods,MYR 37.44M,-8.3x,-0.12,MYR 0.13,8.7%
+962,RALC,Ralco Corporation Bhd,Kuala Lumpur,Basic Materials,Containers & Packaging,MYR 37.34M,-11.3x,0.02,MYR 0.74,0%
+963,KHEE,Khee San,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 37.07M,16.9x,0.1,MYR 0.27,0%
+964,KGRP,Key Alliance,Kuala Lumpur,Consumer Non-Cyclicals,Consumer Goods Conglomerates,MYR 36.78M,-3.3x,-0.04,MYR 0.010,0%
+965,SCCH,SCC,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 36.70M,26x,-1.65,MYR 0.26,-5.4%
+966,TECA,TechnaX Bhd,Kuala Lumpur,Consumer Cyclicals,Hotels & Entertainment Services,MYR 36.44M,6.2x,-0.14,MYR 0.16,-3.1%
+967,CFMS,Computer Forms,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 36.12M,-3.5x,0.02,MYR 0.14,0%
+968,REDP,RedPlanet Bhd,Kuala Lumpur,Technology,Software & IT Services,MYR 35.77M,13.1x,-0.34,MYR 0.21,-25%
+969,PERA,Perak Corporation Bhd,Kuala Lumpur,Industrials,Transport Infrastructure,MYR 34.50M,11.5x,-0.15,MYR 0.34,0%
+970,PARW,Parkwood Holdings Bhd,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 34.40M,-5.7x,0.02,MYR 0.13,0%
+971,IVRY,Ivory Properties,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 34.31M,-0.5x,-0.01,MYR 0.07,0%
+972,DFCI,Dfcity Group Bhd,Kuala Lumpur,Basic Materials,Construction Materials,MYR 34.30M,-14.8x,0.02,MYR 0.32,0%
+973,PNEB,PNE PCB Bhd,Kuala Lumpur,Technology,Semiconductors & Semiconductor Equipment,MYR 33.63M,-2.1x,0.07,MYR 0.06,0%
+974,ARTW,AHB,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 33.48M,-1.4x,-0.15,MYR 0.05,0%
+975,ALDR,Aldrich Resources Bhd,Kuala Lumpur,Technology,Software & IT Services,MYR 33.40M,-30x,0.34,MYR 0.03,-14.3%
+976,SMBH,SMISoration Bhd,Kuala Lumpur,Consumer Cyclicals,Automobiles & Auto Parts,MYR 33.10M,46.2x,-0.46,MYR 0.79,0%
+977,PINE,Pineapple Resources Bhd,Kuala Lumpur,Technology,Integrated Hardware & Software,MYR 32.98M,-15.3x,,MYR 0.68,0%
+978,FLIM,Farlim,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 32.90M,-4.3x,-0.16,MYR 0.22,0%
+979,MMMG,MMM Bhd,Kuala Lumpur,Consumer Cyclicals,Media & Publishing,MYR 32.69M,105x,-1.73,MYR 0.10,0%
+980,PDZH,PDZ Holdings Bhd,Kuala Lumpur,Industrials,Freight & Logistics Services,MYR 32.36M,11x,0.08,MYR 0.05,10%
+981,MENT,Mentiga Corporation Bhd,Kuala Lumpur,Basic Materials,Paper & Forest Products,MYR 32.20M,-2.4x,-0.06,MYR 0.46,0%
+982,GOCE,Green Ocean,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 31.67M,-4.4x,-0.16,MYR 0.15,-3.2%
+983,SAUD,Saudee,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 31.23M,-2.5x,0.02,MYR 0.02,0%
+984,ARKS,ARK Resources,Kuala Lumpur,Industrials,Construction & Engineering,MYR 31.22M,11.1x,0.04,MYR 0.34,0%
+985,ZENT,Zen Tech International Bhd,Kuala Lumpur,Technology,Software & IT Services,MYR 31.11M,-15x,-0.14,MYR 0.010,0%
+986,MTNC,Metronic Global Bhd,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 30.62M,-3.3x,0.23,MYR 0.02,0%
+987,JIAN,Jiankun Int,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 29.81M,-1.6x,-0.05,MYR 0.06,0%
+988,WLAN,Woodlandor Holdings Bhd,Kuala Lumpur,Consumer Cyclicals,Homebuilding & Construction Supplies,MYR 29.80M,-18.2x,0.11,MYR 0.75,0%
+989,AIMD,Advance Info Marketing,Kuala Lumpur,Consumer Cyclicals,Media & Publishing,MYR 29.27M,-1.4x,-3.61,MYR 0.08,0%
+990,KOMK,Komarkcorp Bhd,Kuala Lumpur,Industrials,Professional & Commercial Services,MYR 28.86M,-3.3x,-0.17,MYR 0.13,0%
+991,CARZ,Carzo Holdings Bhd,Kuala Lumpur,Consumer Non-Cyclicals,Food & Tobacco,MYR 28.62M,-2.4x,,MYR 0.30,0%
+992,PASU,Pasukhas Group,Kuala Lumpur,Industrials,Construction & Engineering,MYR 28.58M,-1.8x,,MYR 0.15,0%
+993,BVLA,BV Land Holdings Bhd,Kuala Lumpur,,,MYR 28.48M,,0.28,MYR 0.21,0%
+994,XOXN,Xox Networks Bhd,Kuala Lumpur,Consumer Cyclicals,Specialty Retailers,MYR 28.39M,-3.6x,-0.35,MYR 0.03,0%
+995,SAIH,Sanichi Techn,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 28.06M,-1.7x,0.07,MYR 0.02,0%
+996,SACB,Sarawak Cable Bhd,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 27.93M,-0.1x,0,MYR 0.07,-6.7%
+997,ABEL,Able,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 27.71M,52.5x,0.16,MYR 0.10,5%
+998,MNCW,M N C Wireless,Kuala Lumpur,Technology,Software & IT Services,MYR 27.29M,-3.1x,0.12,MYR 0.12,0%
+999,GOIN,Go Innovate Asia Bhd,Kuala Lumpur,Consumer Cyclicals,Textiles & Apparel,MYR 27M,28.9x,0.02,MYR 0.09,0%
+1000,REKA,Rekatech Capital Bhd,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 26.64M,-3.8x,-0.08,MYR 0.05,0%
+1001,CMEG,CME,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 26.20M,-25x,-0.29,MYR 0.03,0%
+1002,DOLP,Dolphin International Bhd,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 26.09M,-1.9x,0.03,MYR 0.19,0%
+1003,DIGS,Digistar,Kuala Lumpur,Technology,Telecommunications Services,MYR 26.07M,-6.9x,-0.22,MYR 0.05,-8.3%
+1004,FAST,Techfast,Kuala Lumpur,Energy,Oil & Gas,MYR 25.83M,-0.9x,0.04,MYR 0.06,0%
+1005,CNAC,CN Asia Corp,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 25.69M,-2.5x,-0.04,MYR 0.10,0%
+1006,AEMU,AE Multi,Kuala Lumpur,Technology,Semiconductors & Semiconductor Equipment,MYR 24.88M,-1.3x,-0.13,MYR 0.12,0%
+1007,INDU,Industronics,Kuala Lumpur,Technology,Electronic Equipment & Parts,MYR 24.77M,-3.9x,,MYR 0.04,0%
+1008,SNTO,Sentoria,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 24.54M,-0.5x,-0.01,MYR 0.04,0%
+1009,HDEB,Handal Resources,Kuala Lumpur,Energy,Oil & Gas Related Equipment and Services,MYR 22.38M,4.6x,0.06,MYR 0.06,0%
+1010,MATI,Matrix Parking Solution Holdings Bhd,Kuala Lumpur,Industrials,Transport Infrastructure,MYR 22.29M,31.3x,0.13,MYR 0.10,-9.1%
+1011,MUHB,Multi Usage Holdings Bhd,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 22M,"-1,050x",9.88,MYR 0.39,0%
+1012,TFPS,TFP Solutions,Kuala Lumpur,Technology,Software & IT Services,MYR 21.62M,-7x,,MYR 0.04,-12.5%
+1013,DGBA,DGB Asia,Kuala Lumpur,Technology,Software & IT Services,MYR 21.61M,-1.4x,-0.04,MYR 0.09,-5.6%
+1014,ASDN,Asdion,Kuala Lumpur,Industrials,Freight & Logistics Services,MYR 20.43M,-3.1x,0.07,MYR 0.04,0%
+1015,BCMA,BCM Alliance,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 20.34M,-0.4x,0,MYR 0.010,-33.3%
+1016,ANNU,Annum Bhd,Kuala Lumpur,Basic Materials,Paper & Forest Products,MYR 18.20M,-0.3x,,MYR 0.08,0%
+1017,NEXG,Nexgram,Kuala Lumpur,Technology,Software & IT Services,MYR 16.91M,-0.6x,-0.03,MYR 0.02,0%
+1018,MQTE,MQ Tech,Kuala Lumpur,Industrials,"Machinery, Tools, Heavy Vehicles, Trains & Ships",MYR 16.36M,-1.7x,0,MYR 0.010,0%
+1019,ONET,Onetech Solutions Holdings Bhd,Kuala Lumpur,Technology,Software & IT Services,MYR 15.39M,,0.05,MYR 0.20,0%
+1020,ECOB,Ecobuilt Holdings Bhd,Kuala Lumpur,Industrials,Construction & Engineering,MYR 14.73M,-3.5x,-0.04,MYR 0.04,0%
+1021,MERI,Meridian,Kuala Lumpur,Real Estate,Real Estate Operations,MYR 12.43M,-1.1x,-0.86,MYR 0.05,-8.3%
+1022,MLBS,Mlabs Systems,Kuala Lumpur,Technology,Software & IT Services,MYR 8.33M,-0.6x,0.01,MYR 0.12,0%
+1023,REDH,Red Ideas Holdings Bhd,Kuala Lumpur,Technology,Software & IT Services,MYR 4.20M,,0.01,MYR 0.04,0%
+1024,SCES,Scomi Energy Services Bhd,Kuala Lumpur,Industrials,Freight & Logistics Services,MYR 2.34M,-0x,-0,MYR 0.005,0%
+1025,TRAD,TradePlus Shariah Gold,Kuala Lumpur,Financials,Investment Banking & Investment Services,,,,MYR 3.39,-1.2%
